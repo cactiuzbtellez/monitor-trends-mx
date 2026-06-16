@@ -3,7 +3,7 @@ name: Fetch Tendencias MX
 on:
   schedule:
     - cron: "0 * * * *"   # Cada hora
-  workflow_dispatch:        # Ejecución manual
+  workflow_dispatch:
 
 jobs:
   fetch:
@@ -12,16 +12,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Python 3.11
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Instalar dependencias
-        run: pip install feedparser requests pytrends
+        run: pip install feedparser
 
       - name: Ejecutar fetch
         run: python scripts/fetch_trends.py
