@@ -1,110 +1,97 @@
 {
-  "actualizado": "16/06/2026 16:06 UTC",
+  "actualizado": "16/06/2026 16:32 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
-  "stats_categorias": {
-    "Economía": 10
-  },
   "trends": [
     {
+      "titulo": "taylor swift",
+      "descripcion": "NYC Mayor Mamdani drops major hint about Taylor Swift and Travis Kelce’s highly anticipated wedding",
+      "trafico": "100+",
+      "fecha": "16/06/2026 16:20",
+      "fecha_dt": "2026-06-16T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJr67Wmv0oNExMekHzTT4iLSGSxkClJmWwGwVw63-gjmfr_kPaFPnzgpLarPk",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=taylor+swift"
+    },
+    {
+      "titulo": "shrek 5",
+      "descripcion": "First Real Teaser for DreamWorks' 'Shrek 5' Sequel That No One Needs",
+      "trafico": "200+",
+      "fecha": "16/06/2026 16:10",
+      "fecha_dt": "2026-06-16T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmkn9G-Zs6P2vXSPGzCm1nWpI6laALSpVim7IEqLGhrgaq1Y-YvxKmrf3G0xA",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=shrek+5"
+    },
+    {
+      "titulo": "josé antonio noriega",
+      "descripcion": "Tato Noriega se lanza contra Monterrey: ‘Quieren ser algo que no son’",
+      "trafico": "100+",
+      "fecha": "16/06/2026 16:10",
+      "fecha_dt": "2026-06-16T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyYZi6RqZg33IFOWFlMrzGzHpAj9xbr4ku7eenzD4dvPnoL9Ej_JvvogyW4U",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=josé+antonio+noriega"
+    },
+    {
       "titulo": "colombia",
+      "descripcion": "Colombia presidential candidates have rival visions, but fiscal reality looms for both",
       "trafico": "500+",
       "fecha": "16/06/2026 15:50",
       "fecha_dt": "2026-06-16T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PG5Nebv4jKI4fqu44OysxCRKZXO4_XLrNzffW-3_Vu7gipBV3sR89C2IA_E",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=colombia",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XW3biM-gySEyKzZeUZGdvHwoEjR8JKfceMOtxDrgJgQXqcZnDU39W37YK_A",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=colombia"
     },
     {
-      "titulo": "muerte",
-      "trafico": "100+",
-      "fecha": "16/06/2026 15:40",
-      "fecha_dt": "2026-06-16T15:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsBvB8XTY9eF68r-AHu9OwO5I_6JyNB-kv0glW--YtV763n8M5b7aCo46cb98",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=muerte",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "titulo": "tribunal de justicia",
+      "descripcion": "Tribunal Electoral ordena analizar denuncia de Grecia Quiroz contra Noroña por violencia política",
+      "trafico": "200+",
+      "fecha": "16/06/2026 15:30",
+      "fecha_dt": "2026-06-16T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_ID0ZJk472d68S8Hl2Me3zJ1No4qljYC5eG_aE_dRHI1ZVn7bFjWn7cNJB_Y",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=tribunal+de+justicia"
     },
     {
       "titulo": "maru campos",
+      "descripcion": "Maru Campos reaparece en palacio de gobierno tras 12 días de ausencia",
       "trafico": "200+",
       "fecha": "16/06/2026 15:30",
       "fecha_dt": "2026-06-16T15:30:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu7hXHLEdKKRGnncVtNIJzx5O7eQ6o3GkJ0891Y0NDgUrHyoKvpEnkhT-YvBQ",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=maru+campos",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
-    },
-    {
-      "titulo": "tribunal de justicia",
-      "trafico": "100+",
-      "fecha": "16/06/2026 15:30",
-      "fecha_dt": "2026-06-16T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4udVtvt_meMCRncQAkm65m5PTV57ofwcy2rhSsVz6JgeZZqM9b_zP5U_8bY",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=tribunal+de+justicia",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=maru+campos"
     },
     {
       "titulo": "mario kempes",
+      "descripcion": "Kempes sobre el rol de Messi en Argentina: \"Es muy inteligente\"",
       "trafico": "200+",
       "fecha": "16/06/2026 15:20",
       "fecha_dt": "2026-06-16T15:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTke4uG1rJO8VAid9T7pn__yiJynfSTCyKg33sLWXnUs7tjyN0k2aw9z_SU8nc",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=mario+kempes",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=mario+kempes"
     },
     {
       "titulo": "portugal vs congo",
+      "descripcion": "Felix Tshisekedi avait assisté à la finale PSG-Arsenal",
       "trafico": "200+",
       "fecha": "16/06/2026 15:10",
       "fecha_dt": "2026-06-16T15:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR7JBkYitQxr0aADsXeUx_JHRz99Tv-fAPuAz4cYq8edm6Fszvp17XcAdYL6A",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=portugal+vs+congo",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
-    },
-    {
-      "titulo": "martes de frescura 16 de junio 2026",
-      "trafico": "100+",
-      "fecha": "16/06/2026 15:00",
-      "fecha_dt": "2026-06-16T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsT0F5iAXipiQnkK41i6z93bZ13SqooUKa3OXsHNwEOKp6qePEC-Oscx0q3Q",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=martes+de+frescura+16+de+junio+2026",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=portugal+vs+congo"
     },
     {
       "titulo": "iphone 17",
+      "descripcion": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
       "trafico": "200+",
       "fecha": "16/06/2026 14:40",
       "fecha_dt": "2026-06-16T14:40:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIn7IqcKhwBjG2N3OptiA_eaV4uj8x3c5c77SEwYNtvkn4zIskeVrUJQgX63A",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=iphone+17",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=iphone+17"
     },
     {
-      "titulo": "juegos de hoy del mundial 2026",
+      "titulo": "a que hora juega argentina",
+      "descripcion": "Scaloni define el once de Argentina para el debut ante Argelia",
       "trafico": "2000+",
       "fecha": "16/06/2026 14:30",
       "fecha_dt": "2026-06-16T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt7mS-MNnbbUyueciRokMjqlP17OHehhPZiTgSn6jSwtcvNCbXhdF7LXu3I_E",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=juegos+de+hoy+del+mundial+2026",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
-    },
-    {
-      "titulo": "gta 6",
-      "trafico": "200+",
-      "fecha": "16/06/2026 14:20",
-      "fecha_dt": "2026-06-16T14:20:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trends/explore?geo=MX&q=gta+6",
-      "categoria": "Economía",
-      "feed": "Negocios y Finanzas"
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1lVIHRefQ5Y65EVC0Y3JBNZ41i2zVvdyNBwmnRdABtqLfVU-HopBj86sLodU",
+      "link": "https://trends.google.com/trends/explore?geo=MX&q=a+que+hora+juega+argentina"
     }
   ]
 }
