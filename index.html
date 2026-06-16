@@ -3,162 +3,138 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tendencias MX — Monitor de Temas Relevantes</title>
+  <title>Tendencias MX — Google Trends</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
-
   <style>
     :root {
-      --bg:        #F5F4F0;
-      --surface:   #FFFFFF;
-      --border:    #E0DCDA;
-      --text:      #1A1714;
-      --muted:     #7A7471;
-      --accent:    #C0392B;
-      --accent2:   #006847;
-      --salud:     #006847;
-      --politica:  #C0392B;
-      --economia:  #1A5276;
-      --seguridad: #784212;
-      --ambiente:  #117A65;
-      --general:   #5D6D7E;
-      --font-d: 'Syne', sans-serif;
-      --font-b: 'Inter', sans-serif;
-      --radius: 10px;
-      --shadow: 0 2px 12px rgba(0,0,0,0.07);
+      --bg:      #F5F4F0;
+      --surface: #FFFFFF;
+      --border:  #E0DCDA;
+      --text:    #1A1714;
+      --muted:   #7A7471;
+      --rojo:    #C0392B;
+      --verde:   #006847;
+      --font-d:  'Syne', sans-serif;
+      --font-b:  'Inter', sans-serif;
+      --radius:  10px;
+      --shadow:  0 2px 12px rgba(0,0,0,0.07);
     }
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: var(--font-b); background: var(--bg); color: var(--text); min-height: 100vh; font-size: 16px; line-height: 1.5; }
+    body { font-family: var(--font-b); background: var(--bg); color: var(--text); min-height: 100vh; }
     a { color: inherit; text-decoration: none; }
 
-    /* ── HEADER ── */
+    /* HEADER */
     header { background: var(--text); color: #fff; padding: 0 1.5rem; }
     .header-inner {
-      max-width: 1280px; margin: 0 auto; padding: 1.25rem 0;
+      max-width: 1280px; margin: 0 auto; padding: 1.2rem 0;
       display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
     }
     .brand { display: flex; align-items: center; gap: 0.75rem; }
-    .brand-flag { display: flex; flex-direction: column; width: 6px; height: 40px; border-radius: 2px; overflow: hidden; flex-shrink: 0; }
-    .brand-flag span { flex: 1; }
-    .brand-flag span:nth-child(1) { background: #006847; }
-    .brand-flag span:nth-child(2) { background: #FFFFFF; }
-    .brand-flag span:nth-child(3) { background: #C0392B; }
-    .brand-text h1 { font-family: var(--font-d); font-size: 1.5rem; font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; }
-    .brand-text p { font-size: 0.78rem; color: rgba(255,255,255,0.5); margin-top: 2px; letter-spacing: 0.05em; text-transform: uppercase; }
-    .header-meta { text-align: right; font-size: 0.8rem; color: rgba(255,255,255,0.5); line-height: 1.7; }
+    .flag { display: flex; flex-direction: column; width: 6px; height: 38px; border-radius: 2px; overflow: hidden; flex-shrink: 0; }
+    .flag span { flex: 1; }
+    .flag span:nth-child(1) { background: var(--verde); }
+    .flag span:nth-child(2) { background: #fff; }
+    .flag span:nth-child(3) { background: var(--rojo); }
+    .brand-text h1 { font-family: var(--font-d); font-size: 1.45rem; font-weight: 800; letter-spacing: -0.02em; line-height: 1.1; }
+    .brand-text p  { font-size: 0.76rem; color: rgba(255,255,255,0.45); margin-top: 3px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .header-meta   { text-align: right; font-size: 0.78rem; color: rgba(255,255,255,0.45); line-height: 1.7; }
     #ts-actualizado { color: rgba(255,255,255,0.9); font-weight: 600; }
 
-    /* ── TICKER ── */
-    .ticker-wrap { background: var(--accent); overflow: hidden; white-space: nowrap; padding: 0.45rem 0; }
-    .ticker-inner { display: inline-block; animation: scroll-left 55s linear infinite; }
+    /* TICKER */
+    .ticker-wrap { background: var(--rojo); overflow: hidden; white-space: nowrap; padding: 0.45rem 0; }
+    .ticker-inner { display: inline-block; animation: ticker 60s linear infinite; }
     .ticker-inner:hover { animation-play-state: paused; }
-    @keyframes scroll-left { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
-    .ticker-item { display: inline-block; padding: 0 2.5rem; font-size: 0.8rem; font-weight: 600; color: #fff; letter-spacing: 0.03em; }
+    @keyframes ticker { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
+    .ticker-item { display: inline-block; padding: 0 2.5rem; font-size: 0.79rem; font-weight: 600; color: #fff; }
     .ticker-item::before { content: "▸ "; opacity: 0.7; }
 
-    /* ── STATS BAR ── */
-    .stats-bar { background: var(--surface); border-bottom: 1px solid var(--border); }
-    .stats-inner { max-width: 1280px; margin: 0 auto; padding: 0.75rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; align-items: center; }
-    .stat-chip { display: flex; align-items: center; gap: 0.4rem; font-size: 0.82rem; color: var(--muted); }
-    .stat-chip strong { font-size: 1.05rem; font-weight: 700; color: var(--text); font-family: var(--font-d); }
-    .stat-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
-    .periodo-tag { margin-left: auto; font-size: 0.75rem; background: var(--bg); border: 1px solid var(--border); padding: 0.2rem 0.65rem; border-radius: 4px; color: var(--muted); font-weight: 600; }
-
-    /* ── CONTROLES (filtros + período) ── */
-    .controles { max-width: 1280px; margin: 0 auto; padding: 1.1rem 1.5rem 0; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap; }
-    .sep { color: var(--border); font-size: 1.2rem; margin: 0 0.1rem; }
-
-    .filtro-btn, .periodo-btn {
-      border: 2px solid var(--border); border-radius: 99px; padding: 0.4rem 1rem;
-      font-family: var(--font-b); font-size: 0.83rem; font-weight: 600;
-      cursor: pointer; transition: all 0.14s; background: var(--surface); color: var(--muted);
+    /* BARRA SUPERIOR */
+    .top-bar { background: var(--surface); border-bottom: 1px solid var(--border); }
+    .top-bar-inner {
+      max-width: 1280px; margin: 0 auto; padding: 0.75rem 1.5rem;
+      display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;
     }
-    .filtro-btn:hover, .periodo-btn:hover { border-color: var(--text); color: var(--text); }
-    .filtro-btn.activo { background: var(--text); color: #fff; border-color: var(--text); }
-    .filtro-btn[data-cat="Salud"].activo     { background: var(--salud);     border-color: var(--salud); }
-    .filtro-btn[data-cat="Política"].activo  { background: var(--politica);  border-color: var(--politica); }
-    .filtro-btn[data-cat="Economía"].activo  { background: var(--economia);  border-color: var(--economia); }
-    .filtro-btn[data-cat="Seguridad"].activo { background: var(--seguridad); border-color: var(--seguridad); }
-    .filtro-btn[data-cat="Ambiente"].activo  { background: var(--ambiente);  border-color: var(--ambiente); }
+    .stat { font-size: 0.82rem; color: var(--muted); display: flex; align-items: center; gap: 0.4rem; }
+    .stat strong { font-family: var(--font-d); font-size: 1.1rem; color: var(--text); }
 
-    .periodo-btn.activo { background: #2C3E50; color: #fff; border-color: #2C3E50; }
-
-    /* ── CONTADOR visible ── */
-    .resultado-info {
-      max-width: 1280px; margin: 0 auto; padding: 0.65rem 1.5rem 0;
-      font-size: 0.82rem; color: var(--muted);
+    /* PERÍODO */
+    .periodo-bar {
+      max-width: 1280px; margin: 0 auto; padding: 1rem 1.5rem 0;
+      display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
     }
-    .resultado-info span { font-weight: 600; color: var(--text); }
+    .periodo-label { font-size: 0.82rem; color: var(--muted); font-weight: 600; margin-right: 0.25rem; }
+    .periodo-btn {
+      border: 2px solid var(--border); border-radius: 99px; padding: 0.38rem 1rem;
+      font-family: var(--font-b); font-size: 0.82rem; font-weight: 600;
+      cursor: pointer; background: var(--surface); color: var(--muted); transition: all 0.13s;
+    }
+    .periodo-btn:hover { border-color: var(--text); color: var(--text); }
+    .periodo-btn.activo { background: var(--text); color: #fff; border-color: var(--text); }
 
-    /* ── GRID ── */
+    /* CONTADOR */
+    .contador { max-width: 1280px; margin: 0 auto; padding: 0.6rem 1.5rem 0; font-size: 0.8rem; color: var(--muted); }
+    .contador span { font-weight: 600; color: var(--text); }
+
+    /* GRID */
     .grid-wrap { max-width: 1280px; margin: 0 auto; padding: 1rem 1.5rem 3rem; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.1rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.1rem; }
 
-    /* ── CARD ── */
+    /* CARD */
     .card {
       background: var(--surface); border: 1px solid var(--border);
       border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow);
       display: flex; flex-direction: column;
-      transition: transform 0.15s, box-shadow 0.15s;
+      transition: transform 0.14s, box-shadow 0.14s;
       animation: fadeUp 0.25s ease both;
     }
-    .card:hover { transform: translateY(-3px); box-shadow: 0 8px 22px rgba(0,0,0,0.1); }
+    .card:hover { transform: translateY(-3px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
     @keyframes fadeUp { from { opacity:0; transform:translateY(8px); } to { opacity:1; transform:translateY(0); } }
 
-    .card-stripe { height: 4px; background: var(--general); }
-    .card[data-cat="Salud"]     .card-stripe { background: var(--salud); }
-    .card[data-cat="Política"]  .card-stripe { background: var(--politica); }
-    .card[data-cat="Economía"]  .card-stripe { background: var(--economia); }
-    .card[data-cat="Seguridad"] .card-stripe { background: var(--seguridad); }
-    .card[data-cat="Ambiente"]  .card-stripe { background: var(--ambiente); }
+    .card-stripe { height: 3px; background: var(--rojo); }
 
-    .card-img { width:100%; height:150px; object-fit:cover; display:block; background:var(--bg); }
+    .card-img { width: 100%; height: 148px; object-fit: cover; display: block; background: var(--bg); }
     .card-img-ph {
-      width:100%; height:150px; background: linear-gradient(135deg,#eee 0%,#ddd 100%);
-      display:flex; align-items:center; justify-content:center; font-size:2.5rem; color:var(--border);
+      width: 100%; height: 148px;
+      background: linear-gradient(135deg, #ece9e6 0%, #dedad7 100%);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 2rem; color: var(--border);
     }
 
-    .card-body { padding: 0.9rem 1rem; flex:1; display:flex; flex-direction:column; gap:0.55rem; }
-    .card-meta { display:flex; align-items:center; justify-content:space-between; gap:0.4rem; }
-    .cat-badge {
-      font-size: 0.68rem; font-weight: 700; letter-spacing: 0.07em; text-transform: uppercase;
-      padding: 0.18rem 0.5rem; border-radius: 4px; color: #fff; background: var(--general); white-space: nowrap;
-    }
-    .cat-badge[data-cat="Salud"]     { background: var(--salud); }
-    .cat-badge[data-cat="Política"]  { background: var(--politica); }
-    .cat-badge[data-cat="Economía"]  { background: var(--economia); }
-    .cat-badge[data-cat="Seguridad"] { background: var(--seguridad); }
-    .cat-badge[data-cat="Ambiente"]  { background: var(--ambiente); }
+    .card-body { padding: 0.9rem 1rem; flex: 1; display: flex; flex-direction: column; gap: 0.5rem; }
 
     .trafico-badge {
-      font-size: 0.7rem; font-weight: 700; color: var(--muted);
+      align-self: flex-start;
+      font-size: 0.68rem; font-weight: 700; color: var(--muted);
       background: var(--bg); border: 1px solid var(--border);
-      padding: 0.18rem 0.45rem; border-radius: 4px; white-space: nowrap;
+      padding: 0.15rem 0.45rem; border-radius: 4px;
     }
+    .trafico-badge::before { content: "🔍 "; }
 
-    .card-titulo { font-family: var(--font-d); font-size: 1rem; font-weight: 700; line-height: 1.25; }
-    .card-desc   { font-size: 0.8rem; color: var(--muted); line-height: 1.5; }
-    .card-footer { margin-top: auto; padding-top: 0.7rem; border-top: 1px solid var(--border); display:flex; align-items:center; justify-content:space-between; gap:0.5rem; }
-    .card-fecha  { font-size: 0.72rem; color: var(--muted); }
-    .card-fuente { font-size: 0.68rem; color: var(--muted); font-style: italic; }
-    .card-link   { font-size: 0.78rem; font-weight: 600; color: var(--accent); display:inline-flex; align-items:center; gap:0.25rem; transition: gap 0.12s; white-space: nowrap; }
-    .card-link:hover { gap: 0.5rem; }
+    .card-titulo { font-family: var(--font-d); font-size: 1.02rem; font-weight: 700; line-height: 1.25; }
+    .card-desc   { font-size: 0.79rem; color: var(--muted); line-height: 1.5; }
 
-    /* ── VACÍO / ERROR ── */
-    .estado { grid-column: 1/-1; text-align:center; padding:4rem 1rem; color:var(--muted); font-size:1rem; line-height:1.9; }
-    .estado-icon { font-size:3rem; margin-bottom:0.75rem; }
+    .card-footer {
+      margin-top: auto; padding-top: 0.7rem; border-top: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: space-between; gap: 0.5rem;
+    }
+    .card-fecha { font-size: 0.72rem; color: var(--muted); }
+    .card-link  { font-size: 0.78rem; font-weight: 600; color: var(--rojo); white-space: nowrap; transition: gap 0.12s; }
+    .card-link:hover { text-decoration: underline; }
 
-    /* ── FOOTER ── */
-    footer { background: var(--text); color: rgba(255,255,255,0.4); text-align:center; padding:1.1rem; font-size:0.76rem; }
-    footer a { color:rgba(255,255,255,0.6); text-decoration:underline; }
+    /* VACÍO / ERROR */
+    .estado { grid-column: 1/-1; text-align: center; padding: 4rem 1rem; color: var(--muted); line-height: 2; }
+    .estado-icon { font-size: 3rem; margin-bottom: 0.75rem; }
 
-    /* ── RESPONSIVE ── */
+    /* FOOTER */
+    footer { background: var(--text); color: rgba(255,255,255,0.4); text-align: center; padding: 1rem; font-size: 0.75rem; }
+    footer a { color: rgba(255,255,255,0.6); text-decoration: underline; }
+
     @media (max-width: 640px) {
       .brand-text h1 { font-size: 1.1rem; }
       .grid { grid-template-columns: 1fr; }
       .header-meta { display: none; }
-      .sep { display: none; }
     }
   </style>
 </head>
@@ -167,212 +143,151 @@
 <header>
   <div class="header-inner">
     <div class="brand">
-      <div class="brand-flag"><span></span><span></span><span></span></div>
+      <div class="flag"><span></span><span></span><span></span></div>
       <div class="brand-text">
         <h1>Tendencias MX</h1>
-        <p>Monitor · Salud · Política · Economía · Seguridad</p>
+        <p>Google Trends México · Lo más buscado</p>
       </div>
     </div>
     <div class="header-meta">
       <div>Última actualización</div>
       <div id="ts-actualizado">—</div>
-      <div id="ts-periodo" style="font-size:0.72rem;opacity:0.6"></div>
     </div>
   </div>
 </header>
 
-<div class="ticker-wrap"><div class="ticker-inner" id="ticker"><span class="ticker-item">Cargando tendencias…</span></div></div>
-
-<div class="stats-bar">
-  <div class="stats-inner" id="stats-bar">
-    <span class="stat-chip"><strong id="stat-total">—</strong>&nbsp;tendencias</span>
+<div class="ticker-wrap">
+  <div class="ticker-inner" id="ticker">
+    <span class="ticker-item">Cargando tendencias…</span>
   </div>
 </div>
 
-<div class="controles">
-  <!-- Filtros por categoría -->
-  <button class="filtro-btn activo" data-cat="Todos">🗂 Todos</button>
-  <button class="filtro-btn" data-cat="Salud">🏥 Salud</button>
-  <button class="filtro-btn" data-cat="Política">🏛 Política</button>
-  <button class="filtro-btn" data-cat="Economía">📈 Economía</button>
-  <button class="filtro-btn" data-cat="Seguridad">🚨 Seguridad</button>
-  <button class="filtro-btn" data-cat="Ambiente">🌿 Ambiente</button>
-
-  <span class="sep">|</span>
-
-  <!-- Filtros de período -->
-  <button class="periodo-btn" data-dias="1">Hoy</button>
-  <button class="periodo-btn" data-dias="7">7 días</button>
-  <button class="periodo-btn activo" data-dias="30">30 días</button>
+<div class="top-bar">
+  <div class="top-bar-inner">
+    <div class="stat"><strong id="stat-total">—</strong> tendencias</div>
+    <div class="stat" id="stat-rango"></div>
+  </div>
 </div>
 
-<div class="resultado-info" id="resultado-info"></div>
+<div class="periodo-bar">
+  <span class="periodo-label">Período:</span>
+  <button class="periodo-btn" data-dias="1">Hoy</button>
+  <button class="periodo-btn activo" data-dias="7">7 días</button>
+  <button class="periodo-btn" data-dias="30">30 días</button>
+</div>
+
+<div class="contador" id="contador"></div>
 
 <div class="grid-wrap">
   <div class="grid" id="grid">
-    <div class="estado"><div class="estado-icon">⏳</div>Cargando tendencias…</div>
+    <div class="estado"><div class="estado-icon">⏳</div>Cargando…</div>
   </div>
 </div>
 
 <footer>
   Datos: <a href="https://trends.google.com/trending?geo=MX" target="_blank" rel="noopener">Google Trends México</a>
-  &nbsp;·&nbsp; Actualización automática cada hora · GitHub Actions
-  &nbsp;·&nbsp; Temas: Salud · Política · Economía · Seguridad · Ambiente
+  &nbsp;·&nbsp; Actualización automática cada hora via GitHub Actions
 </footer>
 
 <script>
-const ICONOS = { Salud:"🏥", Política:"🏛", Economía:"📈", Seguridad:"🚨", Ambiente:"🌿", General:"🔎" };
-const COLORES = { Salud:"#006847", Política:"#C0392B", Economía:"#1A5276", Seguridad:"#784212", Ambiente:"#117A65", General:"#5D6D7E" };
+let todos = [];
+let filtroDias = 7;
 
-let todosLosTrends = [];
-let filtroCategoria = "Todos";
-let filtroDias = 30;
-
-/* ── Filtrar por período ─────────────────────────────────────────────── */
 function filtrarPorDias(trends, dias) {
-  const corte = new Date(Date.now() - dias * 24 * 60 * 60 * 1000);
-  return trends.filter(t => {
-    if (!t.fecha_dt) return true;               // sin fecha → incluir
-    return new Date(t.fecha_dt) >= corte;
-  });
+  const corte = new Date(Date.now() - dias * 86400000);
+  return trends.filter(t => !t.fecha_dt || new Date(t.fecha_dt) >= corte);
 }
 
-/* ── Ticker ──────────────────────────────────────────────────────────── */
 function renderTicker(trends) {
   const el = document.getElementById("ticker");
   if (!trends.length) { el.innerHTML = '<span class="ticker-item">Sin tendencias disponibles</span>'; return; }
-  el.innerHTML = trends.slice(0, 30).map(t =>
-    `<span class="ticker-item">${t.titulo}${t.trafico && t.trafico!=="—" ? " ("+t.trafico+")" : ""}</span>`
+  el.innerHTML = trends.map(t =>
+    `<span class="ticker-item">${t.titulo}${t.trafico && t.trafico !== "—" ? " · " + t.trafico : ""}</span>`
   ).join("");
 }
 
-/* ── Stats ───────────────────────────────────────────────────────────── */
-function renderStats(trends, meta) {
-  document.getElementById("ts-actualizado").textContent = meta.actualizado || "—";
-  document.getElementById("ts-periodo").textContent = meta.periodo || "";
-
-  const stats = {};
-  trends.forEach(t => { stats[t.categoria] = (stats[t.categoria]||0)+1; });
-
-  const chips = Object.entries(stats).sort((a,b)=>b[1]-a[1]).map(([cat,n]) =>
-    `<span class="stat-chip">
-       <span class="stat-dot" style="background:${COLORES[cat]||"#999"}"></span>
-       <strong>${n}</strong>&nbsp;${cat}
-     </span>`
-  ).join("");
-
-  document.getElementById("stats-bar").innerHTML =
-    `<span class="stat-chip"><strong>${trends.length}</strong>&nbsp;tendencias</span>${chips}
-     <span class="periodo-tag">📅 ${filtroDias === 1 ? "Hoy" : "Últimos "+filtroDias+" días"}</span>`;
-}
-
-/* ── Grid ────────────────────────────────────────────────────────────── */
 function renderGrid(trends) {
-  const grid = document.getElementById("grid");
-  const info = document.getElementById("resultado-info");
+  const grid    = document.getElementById("grid");
+  const counter = document.getElementById("contador");
+  const statTotal = document.getElementById("stat-total");
+  const statRango = document.getElementById("stat-rango");
+
+  statTotal.textContent = trends.length;
+  const diasLabel = filtroDias === 1 ? "hoy" : `últimos ${filtroDias} días`;
+  statRango.textContent = diasLabel;
+  counter.innerHTML = `Mostrando <span>${trends.length}</span> tendencias · ${diasLabel}`;
 
   if (!trends.length) {
-    grid.innerHTML = `<div class="estado"><div class="estado-icon">📭</div>
-      Sin tendencias para este filtro.<br>Prueba con <strong>Todos</strong> o amplía el período.</div>`;
-    info.innerHTML = "";
+    grid.innerHTML = `<div class="estado"><div class="estado-icon">📭</div>Sin tendencias para este período.<br>Prueba con <strong>30 días</strong>.</div>`;
     return;
   }
 
-  const catTexto = filtroCategoria === "Todos" ? "todas las categorías" : filtroCategoria;
-  const diasTexto = filtroDias === 1 ? "hoy" : `últimos ${filtroDias} días`;
-  info.innerHTML = `Mostrando <span>${trends.length}</span> tendencias · ${catTexto} · ${diasTexto}`;
-
   grid.innerHTML = trends.map((t, i) => {
-    const icono = ICONOS[t.categoria] || "🔎";
     const imgHtml = t.imagen
       ? `<img class="card-img" src="${t.imagen}" alt="" loading="lazy"
              onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-         <div class="card-img-ph" style="display:none">${icono}</div>`
-      : `<div class="card-img-ph">${icono}</div>`;
+         <div class="card-img-ph" style="display:none">📈</div>`
+      : `<div class="card-img-ph">📈</div>`;
 
     const traficoBadge = (t.trafico && t.trafico !== "—")
-      ? `<span class="trafico-badge">🔍 ${t.trafico}</span>` : "";
+      ? `<span class="trafico-badge">${t.trafico} búsquedas</span>` : "";
 
     const descHtml = t.descripcion
       ? `<div class="card-desc">${t.descripcion}</div>` : "";
 
-    const enlaceHref = t.link && t.link.startsWith("http")
-      ? t.link
-      : `https://trends.google.com/trends/explore?geo=MX&q=${encodeURIComponent(t.titulo)}`;
-
-    return `<div class="card" data-cat="${t.categoria}" style="animation-delay:${Math.min(i,12)*0.04}s">
-      <div class="card-stripe"></div>
-      ${imgHtml}
-      <div class="card-body">
-        <div class="card-meta">
-          <span class="cat-badge" data-cat="${t.categoria}">${icono} ${t.categoria}</span>
+    return `
+      <div class="card" style="animation-delay:${Math.min(i, 15) * 0.03}s">
+        <div class="card-stripe"></div>
+        ${imgHtml}
+        <div class="card-body">
           ${traficoBadge}
-        </div>
-        <div class="card-titulo">${t.titulo}</div>
-        ${descHtml}
-        <div class="card-footer">
-          <div>
-            <div class="card-fecha">📅 ${t.fecha}</div>
-            <div class="card-fuente">${t.fuente || ""}</div>
+          <div class="card-titulo">${t.titulo}</div>
+          ${descHtml}
+          <div class="card-footer">
+            <span class="card-fecha">📅 ${t.fecha}</span>
+            <a class="card-link" href="${t.link}" target="_blank" rel="noopener">Ver en Trends →</a>
           </div>
-          <a class="card-link" href="${enlaceHref}" target="_blank" rel="noopener">Ver →</a>
         </div>
-      </div>
-    </div>`;
+      </div>`;
   }).join("");
 }
 
-/* ── Aplicar filtros ─────────────────────────────────────────────────── */
-function aplicarFiltros() {
-  let resultado = filtrarPorDias(todosLosTrends, filtroDias);
-  if (filtroCategoria !== "Todos") resultado = resultado.filter(t => t.categoria === filtroCategoria);
-  renderStats(resultado, window._meta || {});
-  renderTicker(resultado);
-  renderGrid(resultado);
+function aplicar() {
+  const filtrados = filtrarPorDias(todos, filtroDias);
+  renderTicker(filtrados);
+  renderGrid(filtrados);
 }
 
-/* ── Botones de categoría ─────────────────────────────────────────────── */
-document.querySelectorAll(".filtro-btn").forEach(btn => {
-  btn.addEventListener("click", () => {
-    document.querySelectorAll(".filtro-btn").forEach(b => b.classList.remove("activo"));
-    btn.classList.add("activo");
-    filtroCategoria = btn.dataset.cat;
-    aplicarFiltros();
-  });
-});
-
-/* ── Botones de período ───────────────────────────────────────────────── */
 document.querySelectorAll(".periodo-btn").forEach(btn => {
   btn.addEventListener("click", () => {
     document.querySelectorAll(".periodo-btn").forEach(b => b.classList.remove("activo"));
     btn.classList.add("activo");
     filtroDias = parseInt(btn.dataset.dias);
-    aplicarFiltros();
+    aplicar();
   });
 });
 
-/* ── Fetch ─────────────────────────────────────────────────────────────── */
-async function cargarTendencias() {
+async function cargar() {
   try {
     const r = await fetch("data/trends.json?t=" + Date.now());
     if (!r.ok) throw new Error("HTTP " + r.status);
     const datos = await r.json();
-    todosLosTrends = datos.trends || [];
-    window._meta = datos;
-    aplicarFiltros();
+    todos = datos.trends || [];
+    document.getElementById("ts-actualizado").textContent = datos.actualizado || "—";
+    aplicar();
   } catch (e) {
-    document.getElementById("grid").innerHTML = `<div class="estado">
-      <div class="estado-icon">⚠️</div>
-      No se pudo cargar <code>data/trends.json</code><br>
-      <small>${e.message}</small><br><br>
-      <strong>Tip:</strong> Ejecuta el GitHub Action manualmente para generar el archivo.
-    </div>`;
-    console.error(e);
+    document.getElementById("grid").innerHTML = `
+      <div class="estado">
+        <div class="estado-icon">⚠️</div>
+        No se pudo cargar <code>data/trends.json</code><br>
+        <small>${e.message}</small><br><br>
+        Ejecuta el GitHub Action manualmente para generar el archivo.
+      </div>`;
   }
 }
 
-cargarTendencias();
-setInterval(cargarTendencias, 15 * 60 * 1000);
+cargar();
+setInterval(cargar, 15 * 60 * 1000);
 </script>
 </body>
 </html>
