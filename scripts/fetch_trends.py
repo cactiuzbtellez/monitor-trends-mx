@@ -95,7 +95,17 @@ def main():
             print(f"  ✓ {item['titulo']}  ({item['trafico']})")
         print(f"  [{url.split('cat=')[-1] if 'cat=' in url else 'general'}] → {n} trends\n")
 
-    todos.sort(key=lambda x: x.get("fecha_dt", ""), reverse=True)
+    def trafico_a_numero(t):
+        """Convierte '200+', '2000+', '20K+', '200K+' a entero para ordenar."""
+        s = t.get("trafico", "0").replace("+", "").replace(",", "").strip().upper()
+        try:
+            if s.endswith("K"):
+                return int(float(s[:-1]) * 1_000)
+            return int(s)
+        except Exception:
+            return 0
+
+    todos.sort(key=trafico_a_numero, reverse=True)
 
     salida = {
         "actualizado": now.strftime("%d/%m/%Y %H:%M UTC"),
