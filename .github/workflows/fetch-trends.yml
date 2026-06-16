@@ -1,36 +1,35 @@
-name: Fetch Google Trends MX
+name: Fetch Tendencias MX
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Cada hora en punto
-  workflow_dispatch:        # Permite correrlo manualmente desde Actions
+    - cron: "0 * * * *"   # Cada hora
+  workflow_dispatch:        # Ejecución manual
 
 jobs:
-  fetch-trends:
+  fetch:
     runs-on: ubuntu-latest
-
     permissions:
-      contents: write       # Necesario para hacer git push
+      contents: write
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install feedparser requests
+      - name: Instalar dependencias
+        run: pip install feedparser requests pytrends
 
-      - name: Run fetch script
+      - name: Ejecutar fetch
         run: python scripts/fetch_trends.py
 
-      - name: Commit & push trends.json
+      - name: Commit trends.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/trends.json
-          git diff --cached --quiet || git commit -m "chore: actualizar trends $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git diff --cached --quiet || git commit -m "chore: tendencias $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
