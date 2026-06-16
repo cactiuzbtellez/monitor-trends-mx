@@ -70,7 +70,7 @@ def fetch_feed(url):
             "fecha":       fecha_fmt,
             "fecha_dt":    fecha_dt.isoformat(),
             "imagen":      imagen,
-            "link":        f"https://trends.google.com/trends/explore?geo=MX&q={titulo.replace(' ', '+')}",
+            "link":        f"https://trends.google.com/trending?geo=MX&q={titulo.replace(' ', '+')}",
         })
 
     return items
