@@ -67,7 +67,13 @@ def fetch_csv():
     for url in CSV_URLS:
         print(f"→ CSV: {url}")
         try:
-            r = requests.get(url, headers=HEADERS, timeout=20)
+            r = requests.get(url, headers=HEADERS, timeout=20, allow_redirects=False)
+            # Si hay redirección, seguirla manualmente para corregir /trends/trending/ → /trending/
+            if r.status_code in (301, 302, 303, 307, 308):
+                location = r.headers.get("Location", "")
+                location = location.replace("/trends/trending/", "/trending/")
+                print(f"   Redirigido a: {location}")
+                r = requests.get(location, headers=HEADERS, timeout=20)
             r.raise_for_status()
 
             # Detectar encoding
