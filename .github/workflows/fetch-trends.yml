@@ -2,7 +2,7 @@ name: Fetch Tendencias MX
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Cada hora
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,20 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Instalar dependencias
-        run: pip install feedparser
-
+        run: pip install requests
       - name: Ejecutar fetch
         run: python scripts/fetch_trends.py
-
       - name: Commit trends.json
         run: |
           git config user.name  "github-actions[bot]"
