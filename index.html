@@ -193,9 +193,17 @@
 let todos = [];
 let filtroDias = 7;
 
+function traficoANumero(t) {
+  const s = (t.trafico || "0").replace("+", "").replace(/,/g, "").trim().toUpperCase();
+  if (s.endsWith("K")) return parseFloat(s) * 1000;
+  return parseInt(s) || 0;
+}
+
 function filtrarPorDias(trends, dias) {
   const corte = new Date(Date.now() - dias * 86400000);
-  return trends.filter(t => !t.fecha_dt || new Date(t.fecha_dt) >= corte);
+  return trends
+    .filter(t => !t.fecha_dt || new Date(t.fecha_dt) >= corte)
+    .sort((a, b) => traficoANumero(b) - traficoANumero(a));
 }
 
 function renderTicker(trends) {
