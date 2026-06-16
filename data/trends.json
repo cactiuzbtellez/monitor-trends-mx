@@ -1,7 +1,110 @@
 {
-  "actualizado": "Pendiente — el GitHub Action generará este archivo en la primera ejecución",
-  "total": 0,
-  "total_sin_filtro": 0,
-  "stats_categorias": {},
-  "trends": []
+  "actualizado": "16/06/2026 15:29 UTC",
+  "total": 10,
+  "total_sin_filtro": 10,
+  "stats_categorias": {
+    "General": 10
+  },
+  "trends": [
+    {
+      "titulo": "mario kempes",
+      "trafico": "100+",
+      "fecha": "16/06/2026 15:20",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTke4uG1rJO8VAid9T7pn__yiJynfSTCyKg33sLWXnUs7tjyN0k2aw9z_SU8nc",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "portugal vs congo",
+      "trafico": "100+",
+      "fecha": "16/06/2026 15:10",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR7JBkYitQxr0aADsXeUx_JHRz99Tv-fAPuAz4cYq8edm6Fszvp17XcAdYL6A",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "martes de frescura 16 de junio 2026",
+      "trafico": "100+",
+      "fecha": "16/06/2026 15:00",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsT0F5iAXipiQnkK41i6z93bZ13SqooUKa3OXsHNwEOKp6qePEC-Oscx0q3Q",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "juegos de hoy del mundial 2026",
+      "trafico": "5000+",
+      "fecha": "16/06/2026 14:30",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt7mS-MNnbbUyueciRokMjqlP17OHehhPZiTgSn6jSwtcvNCbXhdF7LXu3I_E",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "gta 6",
+      "trafico": "200+",
+      "fecha": "16/06/2026 14:20",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "aldea global 2026",
+      "trafico": "100+",
+      "fecha": "16/06/2026 14:10",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9WFM_Etz6Ht7OI3iyCd9QWctgzQtJDCn4Qi5lC5FF6q8QS7p-MBe-RtTAd-4",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "río pánuco",
+      "trafico": "200+",
+      "fecha": "16/06/2026 13:40",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdKpZGzc83IxeBr9UjyN86aIM99Cx4HaxRl81PZbpP8zjSwjzecx8blzzCqUE",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "argentina",
+      "trafico": "2000+",
+      "fecha": "16/06/2026 13:30",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw2tuPcRVP2_swHC5H1jPqpP6nUlSD7TTDo6n99ZMqbm4pMtuwxFNX7UnXk7U",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "joão fonseca",
+      "trafico": "100+",
+      "fecha": "16/06/2026 13:10",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTel-_CM3NGCAkDgMUKzhi-7YNi0E2MVZ5EgojdZqL1n-uBbGJArMBJ1yRwOK8",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    },
+    {
+      "titulo": "clima tampico",
+      "trafico": "500+",
+      "fecha": "16/06/2026 13:00",
+      "link": "https://trends.google.com/trending/rss?geo=MX",
+      "imagen": "",
+      "categoria": "General",
+      "relevante": false,
+      "geo": "MX"
+    }
+  ]
 }
