@@ -1,7 +1,7 @@
 {
-  "actualizado": "16/06/2026 16:50 UTC",
+  "actualizado": "16/06/2026 16:57 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
-  "total": 10,
+  "total": 11,
   "trends": [
     {
       "titulo": "colombia",
@@ -10,7 +10,8 @@
       "fecha": "16/06/2026 15:50",
       "fecha_dt": "2026-06-16T15:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUtDnv7thHwYv99vWZ3LpdS83M0HdcEckxoH7zhMUnwVs8EHKLS_piCuMvMD8",
-      "link": "https://trends.google.com/trending?geo=MX&q=colombia"
+      "link": "https://trends.google.com/trending?geo=MX&q=colombia",
+      "status": ""
     },
     {
       "titulo": "shrek 5",
@@ -19,7 +20,8 @@
       "fecha": "16/06/2026 16:10",
       "fecha_dt": "2026-06-16T16:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiiAak189VjvqRg-gueNzTGXYOGj7WGfdiyFg0QmKFg59QZVGdYyLLW4rzrgs",
-      "link": "https://trends.google.com/trending?geo=MX&q=shrek+5"
+      "link": "https://trends.google.com/trending?geo=MX&q=shrek+5",
+      "status": ""
     },
     {
       "titulo": "tribunal de justicia",
@@ -28,7 +30,8 @@
       "fecha": "16/06/2026 15:30",
       "fecha_dt": "2026-06-16T15:30:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa4udVtvt_meMCRncQAkm65m5PTV57ofwcy2rhSsVz6JgeZZqM9b_zP5U_8bY",
-      "link": "https://trends.google.com/trending?geo=MX&q=tribunal+de+justicia"
+      "link": "https://trends.google.com/trending?geo=MX&q=tribunal+de+justicia",
+      "status": ""
     },
     {
       "titulo": "maru campos",
@@ -37,7 +40,8 @@
       "fecha": "16/06/2026 15:30",
       "fecha_dt": "2026-06-16T15:30:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu7hXHLEdKKRGnncVtNIJzx5O7eQ6o3GkJ0891Y0NDgUrHyoKvpEnkhT-YvBQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=maru+campos"
+      "link": "https://trends.google.com/trending?geo=MX&q=maru+campos",
+      "status": ""
     },
     {
       "titulo": "mario kempes",
@@ -46,16 +50,18 @@
       "fecha": "16/06/2026 15:20",
       "fecha_dt": "2026-06-16T15:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTke4uG1rJO8VAid9T7pn__yiJynfSTCyKg33sLWXnUs7tjyN0k2aw9z_SU8nc",
-      "link": "https://trends.google.com/trending?geo=MX&q=mario+kempes"
+      "link": "https://trends.google.com/trending?geo=MX&q=mario+kempes",
+      "status": ""
     },
     {
       "titulo": "portugal vs congo",
-      "descripcion": "Felix Tshisekedi avait assisté à la finale PSG-Arsenal",
+      "descripcion": "Cómo comprar entradas de última hora para el partido Portugal-República Democrática del Congo: precios de entradas para el Mundial, información sobre el NRG Stadium y más",
       "trafico": "200+",
       "fecha": "16/06/2026 15:10",
       "fecha_dt": "2026-06-16T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR7JBkYitQxr0aADsXeUx_JHRz99Tv-fAPuAz4cYq8edm6Fszvp17XcAdYL6A",
-      "link": "https://trends.google.com/trending?geo=MX&q=portugal+vs+congo"
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5YdNz0KDuka7366kyvDyo-_L_5KDOeFlwS9GMcIlF6whSjHPr-dX-N3InQSA",
+      "link": "https://trends.google.com/trending?geo=MX&q=portugal+vs+congo",
+      "status": ""
     },
     {
       "titulo": "iphone 17",
@@ -64,7 +70,8 @@
       "fecha": "16/06/2026 14:40",
       "fecha_dt": "2026-06-16T14:40:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIn7IqcKhwBjG2N3OptiA_eaV4uj8x3c5c77SEwYNtvkn4zIskeVrUJQgX63A",
-      "link": "https://trends.google.com/trending?geo=MX&q=iphone+17"
+      "link": "https://trends.google.com/trending?geo=MX&q=iphone+17",
+      "status": ""
     },
     {
       "titulo": "taylor swift",
@@ -73,7 +80,8 @@
       "fecha": "16/06/2026 16:20",
       "fecha_dt": "2026-06-16T16:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJr67Wmv0oNExMekHzTT4iLSGSxkClJmWwGwVw63-gjmfr_kPaFPnzgpLarPk",
-      "link": "https://trends.google.com/trending?geo=MX&q=taylor+swift"
+      "link": "https://trends.google.com/trending?geo=MX&q=taylor+swift",
+      "status": ""
     },
     {
       "titulo": "josé antonio noriega",
@@ -82,7 +90,8 @@
       "fecha": "16/06/2026 16:10",
       "fecha_dt": "2026-06-16T16:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyYZi6RqZg33IFOWFlMrzGzHpAj9xbr4ku7eenzD4dvPnoL9Ej_JvvogyW4U",
-      "link": "https://trends.google.com/trending?geo=MX&q=josé+antonio+noriega"
+      "link": "https://trends.google.com/trending?geo=MX&q=josé+antonio+noriega",
+      "status": ""
     },
     {
       "titulo": "martes de frescura 16 de junio 2026",
@@ -91,7 +100,18 @@
       "fecha": "16/06/2026 15:00",
       "fecha_dt": "2026-06-16T15:00:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbsT0F5iAXipiQnkK41i6z93bZ13SqooUKa3OXsHNwEOKp6qePEC-Oscx0q3Q",
-      "link": "https://trends.google.com/trending?geo=MX&q=martes+de+frescura+16+de+junio+2026"
+      "link": "https://trends.google.com/trending?geo=MX&q=martes+de+frescura+16+de+junio+2026",
+      "status": ""
+    },
+    {
+      "titulo": "muerte",
+      "descripcion": "Con la muerte de ‘El Mencho’ terminó la alianza con ‘Los Chapitos’: Harfuch",
+      "trafico": "100+",
+      "fecha": "16/06/2026 15:40",
+      "fecha_dt": "2026-06-16T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqmLO9I2oLIeO-K55avlavUenxVXvQB3BLANFTCkGpSEIWTKHmp9Askpo7Xd0",
+      "link": "https://trends.google.com/trending?geo=MX&q=muerte",
+      "status": ""
     }
   ]
 }
