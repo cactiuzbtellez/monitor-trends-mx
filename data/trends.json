@@ -1,8 +1,28 @@
 {
-  "actualizado": "04/07/2026 07:31 UTC",
+  "actualizado": "04/07/2026 11:58 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "juan fernando quintero",
+      "descripcion": "Vea el remate de Juan Fernando Quintero, que por poco termina en gol en Colombia vs. Ghana",
+      "trafico": "1000+",
+      "fecha": "04/07/2026 03:20",
+      "fecha_dt": "2026-07-04T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoEOsYCBHWUN86R9hW8DDW3iEjO8hm0I3vsQJgsHk-cE2ScYHkx6fb43p5vxQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=juan+fernando+quintero",
+      "status": ""
+    },
+    {
+      "titulo": "richard rios",
+      "descripcion": "O estado em que ficou o sobrolho de Richard Ríos após choque de cabeças no Colômbia-Gana",
+      "trafico": "1000+",
+      "fecha": "04/07/2026 03:00",
+      "fecha_dt": "2026-07-04T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZxKmMkMc1yivHJJSZW9kwF-u-rgsjoEtfDUPrIphDVDT0FtJNfZX-s9QVLQs",
+      "link": "https://trends.google.com/trending?geo=MX&q=richard+rios",
+      "status": ""
+    },
     {
       "titulo": "néstor araujo",
       "descripcion": "ÚLTIMO MOMENTO: América le da las gracias a ex seleccionado mexicano en pleno Mundial 2026",
@@ -21,16 +41,6 @@
       "fecha_dt": "2026-07-04T04:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb7sw70i_Z04FQxDXnW35le-UN6cRJGs0mk1Aq6lkR1BxPOm9jq7xZqpQsCcs",
       "link": "https://trends.google.com/trending?geo=MX&q=enrique+inzunza+cázarez",
-      "status": ""
-    },
-    {
-      "titulo": "juan fernando quintero",
-      "descripcion": "\"Juanfer\" Quintero, creatividad al servicio de la Selección Colombia",
-      "trafico": "500+",
-      "fecha": "04/07/2026 03:20",
-      "fecha_dt": "2026-07-04T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQKWbUO0Yg80rcRlaODb5znTIj3X7gd29bTxE6VAm-QgO21els6zeHpHMyiSg",
-      "link": "https://trends.google.com/trending?geo=MX&q=juan+fernando+quintero",
       "status": ""
     },
     {
@@ -55,51 +65,41 @@
     },
     {
       "titulo": "4 de julio",
-      "descripcion": "Suspenden la Gran Feria Estatal Americana por el calor • Internacional",
+      "descripcion": "Celebrar 250 años de la Declaración de Independencia",
       "trafico": "200+",
       "fecha": "04/07/2026 06:10",
       "fecha_dt": "2026-07-04T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvRzPvx1Q97tkR8ELV16hk6OeBFC4rtUCyUdeHHZeZTnMIdj8pOw5qNV1QFCM",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP5bzzluokU49vTi0L3dB21ZZho1TaMmDU3wGKSl9fcqSmmHbDwTt99gy1NOY",
       "link": "https://trends.google.com/trending?geo=MX&q=4+de+julio",
       "status": ""
     },
     {
       "titulo": "dodgers vs",
-      "descripcion": "Dodgers Announce Starting Pitchers for Series vs NL West Rival Padres",
+      "descripcion": "Yamamoto seeks to quiet Padres for 3rd time this season in Saturday matchup",
       "trafico": "200+",
       "fecha": "04/07/2026 04:10",
       "fecha_dt": "2026-07-04T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTy1rGBgI6JPrWFXRJcJVrW43LmO4IEFxpKANWTwV2yamzEv9PCExhy4q1zgE",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQj0EXcIY-9AedMgiqaXwFcPuOFWVS8HsrcHzDBoY-bzw6wGlH65jog7hhpk4",
       "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs",
       "status": ""
     },
     {
       "titulo": "predicción",
-      "descripcion": "Horóscopos de Mhoni Vidente: predicciones en salud y amor hoy 4 de julio 2026",
+      "descripcion": "Solana supera a Bitcoin y Ethereum: aquí te explicamos por qué",
       "trafico": "200+",
       "fecha": "04/07/2026 04:00",
       "fecha_dt": "2026-07-04T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVpVpbrHU_5LoiZSRfNni-ZGRxWr2Ps76jy5lQ_jC0rK_2z-VLm41yWR3Y0-g",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwDrwrwTdjuEpGtwER2AVAU6HZzuIK2J9tK1lkEEJhMIHarmKNQt3v-oEzFm8",
       "link": "https://trends.google.com/trending?geo=MX&q=predicción",
       "status": ""
     },
     {
-      "titulo": "luis diaz",
-      "descripcion": "Diaz: The goals will come for Colombia when we need them the most",
-      "trafico": "200+",
-      "fecha": "04/07/2026 02:10",
-      "fecha_dt": "2026-07-04T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCHjU-MHbI2tB4c9JBEAgpjjHkXHFvxrSGyknmf_wsSd7BysmQ3g2D5XZm8bo",
-      "link": "https://trends.google.com/trending?geo=MX&q=luis+diaz",
-      "status": ""
-    },
-    {
       "titulo": "ryan gosling",
-      "descripcion": "144-Minute Sci-Fi Masterpiece Officially Gets New Release This Summer",
+      "descripcion": "The Perfect Sci-Fi Double Feature Is Now Streaming on Prime Video",
       "trafico": "100+",
       "fecha": "04/07/2026 07:10",
       "fecha_dt": "2026-07-04T07:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3LZAPsUcF8m4LPhcislnmauJmnqXeo2Yygyif2A81mypewhBg5q8W2xRwiTg",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCrhk4VkVVjC5c2i7AipGrWqU_cEMW-kAKhOSHBa_fZqYLbGW7y0qoRIBKcQ",
       "link": "https://trends.google.com/trending?geo=MX&q=ryan+gosling",
       "status": ""
     }
