@@ -1,42 +1,22 @@
 {
-  "actualizado": "11/07/2026 17:56 UTC",
+  "actualizado": "11/07/2026 19:16 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "suiza vs argentina",
-      "descripcion": "Problemón sin Di María",
-      "trafico": "2000+",
-      "fecha": "11/07/2026 16:30",
-      "fecha_dt": "2026-07-11T16:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlyg8bj2zCBprPic4tDYXS-WXzJh10ipnBNBSk5LLHQH_0g-TBdnqnWnBam8Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=suiza+vs+argentina",
-      "status": ""
-    },
-    {
-      "titulo": "sporting fc",
-      "descripcion": "RAYADOS, A CERRAR CON TRIUNFO SU PREPARACIÓN PARA EL APERTURA 2026",
+      "titulo": "sevilla - juventud torremolinos",
+      "descripcion": "El Juventud Torremolinos, un rival de bronce que quiere ser de plata",
       "trafico": "1000+",
-      "fecha": "11/07/2026 16:00",
-      "fecha_dt": "2026-07-11T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXQiPhoCId62EtqsLC1t_L6a6Z4Fz6qQ8munVLoOjk-o1uxaSQGsbftCsp3JA",
-      "link": "https://trends.google.com/trending?geo=MX&q=sporting+fc",
-      "status": ""
-    },
-    {
-      "titulo": "fátima bosch",
-      "descripcion": "Fátima Bosch responde a rumores sobre Jude Bellingham y revela sus planes tras concluir su reinado como Miss Universo",
-      "trafico": "1000+",
-      "fecha": "11/07/2026 15:50",
-      "fecha_dt": "2026-07-11T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJF6_iT2ekqM7Z5T2x9z_gv0TiX65kdx_sJfbQKhuH9XRAKTLSx9w2tAH-YQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=fátima+bosch",
+      "fecha": "11/07/2026 18:30",
+      "fecha_dt": "2026-07-11T18:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfcAoqZqPL_RgjEp79_aO2HVBSNJKPDrAG39xxrYJlFMhTqWzeXt0gR7XeuYc",
+      "link": "https://trends.google.com/trending?geo=MX&q=sevilla+-+juventud+torremolinos",
       "status": ""
     },
     {
       "titulo": "noruega vs. francia",
       "descripcion": "Noruega, consternada por las condiciones, abandona el hotel tras solo una noche",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "11/07/2026 17:50",
       "fecha_dt": "2026-07-11T17:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4nJnDObW5YA-zCvYznaXusyYvS04fFN6AYq9j0neARhtuBGVfLOvA6kZJrA0",
@@ -44,39 +24,29 @@
       "status": ""
     },
     {
-      "titulo": "levante - leganés",
-      "descripcion": "Qué canal pasa Levante vs Leganés hoy: dónde ver GRATIS y EN VIVO del amistoso",
+      "titulo": "benfica vs flamengo",
+      "descripcion": "Bayern interessado em Jules Koundé",
       "trafico": "500+",
-      "fecha": "11/07/2026 17:30",
-      "fecha_dt": "2026-07-11T17:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzeYKaEKmt1NrH5QVybk2UkQ2QMszDrNXPZvGav45bXMWBMAhvm6ZwFYK3Yw",
-      "link": "https://trends.google.com/trending?geo=MX&q=levante+-+leganés",
+      "fecha": "11/07/2026 18:50",
+      "fecha_dt": "2026-07-11T18:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnjIeGi5p6OuRUu1yfNRtiI6ptSiZJebp6XahehLi_oak_1Bzx-WcidZowiZQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=benfica+vs+flamengo",
       "status": ""
     },
     {
-      "titulo": "rey carlos iii",
-      "descripcion": "El rey Carlos III se reencuentra con sus nietos y Meghan Markle cuatro años después en una reunión privada",
+      "titulo": "fenerbahçe - pogoń szczecin",
+      "descripcion": "Fenerbahçe SK VS Pogon: Live Scores, Lineups, H2H & Odds",
       "trafico": "500+",
-      "fecha": "11/07/2026 17:00",
-      "fecha_dt": "2026-07-11T17:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIvq-Een8_OAlslbtH_xUHhfylo9dng8vgbDAdg53LR64Du7ZVv8CxJ7OgZWE",
-      "link": "https://trends.google.com/trending?geo=MX&q=rey+carlos+iii",
-      "status": ""
-    },
-    {
-      "titulo": "rayados",
-      "descripcion": "Presenta Racing de Santander a Canales",
-      "trafico": "500+",
-      "fecha": "11/07/2026 16:10",
-      "fecha_dt": "2026-07-11T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8lQ6f1LZAwz2fzzgXJhuK5bq_irVydsDzerhViPlkEbKfyVvlXUqM8YD_xZE",
-      "link": "https://trends.google.com/trending?geo=MX&q=rayados",
+      "fecha": "11/07/2026 18:00",
+      "fecha_dt": "2026-07-11T18:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe5gu2DIhawKbbB_O1ydbEjAv97Fx9eTPas_cFY3QDTmHsqXKqODnwnAUcb7g",
+      "link": "https://trends.google.com/trending?geo=MX&q=fenerbahçe+-+pogoń+szczecin",
       "status": ""
     },
     {
       "titulo": "pension del bienestar",
       "descripcion": "Pensiones para el Bienestar depositan el bimestre julio-agosto: revisa qué día te toca cobrar",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "11/07/2026 17:50",
       "fecha_dt": "2026-07-11T17:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpzAUaSaEOKsRXL8cVp4esZTAsyg9zstHeZV2-bFbF9VG0LoAtWNljCzewZbA",
@@ -84,23 +54,53 @@
       "status": ""
     },
     {
-      "titulo": "paramount",
-      "descripcion": "Paramount-WBD: una coalición de regiones de Estados Unidos ultima demanda antimonopolio - Señal News",
+      "titulo": "clima irapuato",
+      "descripcion": "",
       "trafico": "200+",
-      "fecha": "11/07/2026 17:00",
-      "fecha_dt": "2026-07-11T17:00:00+00:00",
+      "fecha": "11/07/2026 19:00",
+      "fecha_dt": "2026-07-11T19:00:00+00:00",
       "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=paramount",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+irapuato",
       "status": ""
     },
     {
-      "titulo": "paddy pimblett",
-      "descripcion": "Paddy Pimblett and the ‘hate watches’ that fuel his UFC redemption story",
+      "titulo": "twins - angels",
+      "descripcion": "Vaughn Grissom hits HR, Angels beat Twins 4-3 to snap 5-game skid at Target Field",
       "trafico": "200+",
-      "fecha": "11/07/2026 16:20",
-      "fecha_dt": "2026-07-11T16:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGC6GVpuqvYyISPT8AKk4oTEnXwc9vBsadKgtCsVrXfI3SzMFJhgL9lGC0xJY",
-      "link": "https://trends.google.com/trending?geo=MX&q=paddy+pimblett",
+      "fecha": "11/07/2026 19:00",
+      "fecha_dt": "2026-07-11T19:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6X0AfIeqkt0g1dfHGSSKSIfL9rnP9YdBrfcbojEIRX_uKIMzCj52O00V7dOI",
+      "link": "https://trends.google.com/trending?geo=MX&q=twins+-+angels",
+      "status": ""
+    },
+    {
+      "titulo": "romain molina",
+      "descripcion": "El FBI investiga la Asociación de Futbol Argentino por operaciones financieras en Estados Unidos",
+      "trafico": "200+",
+      "fecha": "11/07/2026 18:10",
+      "fecha_dt": "2026-07-11T18:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoH47kfwVBOcUsBxNWBoSqOde59aykiBbUpqotnETHojIQCQk-2lnevjKsm1M",
+      "link": "https://trends.google.com/trending?geo=MX&q=romain+molina",
+      "status": ""
+    },
+    {
+      "titulo": "xbox one",
+      "descripcion": "¿GTA 6 será el juego que salve a PlayStation 5? Esto incluye la nueva edición “especial” prémium para la conso",
+      "trafico": "200+",
+      "fecha": "11/07/2026 18:00",
+      "fecha_dt": "2026-07-11T18:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBMtWiAK_-1omdXaVn0QkXzVQQxI2uVrkREcz9-AbaWtK7NBb4b8eMwGrUh0A",
+      "link": "https://trends.google.com/trending?geo=MX&q=xbox+one",
+      "status": ""
+    },
+    {
+      "titulo": "accidente carretera nacional",
+      "descripcion": "Identifican a víctimas de choque en la Carretera Nacional",
+      "trafico": "200+",
+      "fecha": "11/07/2026 18:00",
+      "fecha_dt": "2026-07-11T18:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYywND9Tl-LWTQE8uW96CGk_0d6UU1oJ6HJGBtKRFxra2BV0HV4ihkWPoJ9lE",
+      "link": "https://trends.google.com/trending?geo=MX&q=accidente+carretera+nacional",
       "status": ""
     }
   ]
