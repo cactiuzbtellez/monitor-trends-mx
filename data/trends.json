@@ -1,46 +1,76 @@
 {
-  "actualizado": "11/07/2026 04:15 UTC",
+  "actualizado": "11/07/2026 07:13 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "thibaut courtois lesion",
-      "descripcion": "TRISTES IMÁGENES: Courtois sale LLORANDO desconsolado tras lesión en el España vs Bélgica",
-      "trafico": "20000+",
-      "fecha": "11/07/2026 03:50",
-      "fecha_dt": "2026-07-11T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWgIZxMu2G7ybXjIepyQ4j9Yx5oKq2uzD4aXRC_b8n8wu6ClSpXSJa66r5DyA",
-      "link": "https://trends.google.com/trending?geo=MX&q=thibaut+courtois+lesion",
+      "titulo": "cynthia klitbo",
+      "descripcion": "Moisés Peñaloza es el quinto habitante de \"La casa de los famosos\"",
+      "trafico": "2000+",
+      "fecha": "11/07/2026 03:10",
+      "fecha_dt": "2026-07-11T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRul_rSW_0fJBicFEgdsJ_OeS4PsGQyCTF11DKrTAAIlLQHbDTi4lqbtylK_TI",
+      "link": "https://trends.google.com/trending?geo=MX&q=cynthia+klitbo",
       "status": ""
     },
     {
-      "titulo": "moana",
-      "descripcion": "New movies to watch this weekend: See 'Moana' and 'Evil Dead Burn' in theaters, rent 'The Furious,' stream 'Faces of Death' on Shudder",
-      "trafico": "1000+",
-      "fecha": "11/07/2026 02:40",
-      "fecha_dt": "2026-07-11T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGazPaRsJrfsg0AYG00jpIe79YQE0VGFGUAgDhDNnoSPAXoy3Eu2kvLr1UeSI",
-      "link": "https://trends.google.com/trending?geo=MX&q=moana",
-      "status": ""
-    },
-    {
-      "titulo": "dónde mirar los angeles galaxy contra club américa",
-      "descripcion": "¿Quién transmite el partido amistoso de América vs LA Galaxy? Canal y Horario Pretemporada 2026",
+      "titulo": "antonio mohamed",
+      "descripcion": "Turco Mohamed lanza dardo: 'México me tenía que haber elegido para este Mundial'",
       "trafico": "500+",
-      "fecha": "11/07/2026 02:40",
-      "fecha_dt": "2026-07-11T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCBvOpEjHIEn1VIXeaGIfPpIMbafHH7OSvLUiNhlwXRjxiqV4WjiqAlYgyqKE",
-      "link": "https://trends.google.com/trending?geo=MX&q=dónde+mirar+los+angeles+galaxy+contra+club+américa",
+      "fecha": "11/07/2026 04:50",
+      "fecha_dt": "2026-07-11T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqG4yi8f5D1RVkPld6UChgLsTmyVGbV1qnCLLLF3nrdecWa_ybjZBXCdYB0KY",
+      "link": "https://trends.google.com/trending?geo=MX&q=antonio+mohamed",
       "status": ""
     },
     {
-      "titulo": "yankees",
-      "descripcion": "New York Yankees Player Makes 7-Word Post Before Nationals Series",
+      "titulo": "andrea chávez treviño",
+      "descripcion": "Reprocha Citlalli Hernández amago del PVEM sobre alianza",
+      "trafico": "500+",
+      "fecha": "11/07/2026 03:10",
+      "fecha_dt": "2026-07-11T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKTGiqa7EXLwClefAA6nW4E9MZa36iR42ez_m5M8K-DcNC96LuhQV7peOfoZI",
+      "link": "https://trends.google.com/trending?geo=MX&q=andrea+chávez+treviño",
+      "status": ""
+    },
+    {
+      "titulo": "antonio sancho",
+      "descripcion": "Antonio Sancho sobre Efraín: A él le toca responder por qué se fue",
+      "trafico": "500+",
+      "fecha": "11/07/2026 03:10",
+      "fecha_dt": "2026-07-11T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5M-1PljRTByf_bbkUAEqgiL4VS_fQd8yBvFlsNRagWCN-XjGx1sg3S7iXs1U",
+      "link": "https://trends.google.com/trending?geo=MX&q=antonio+sancho",
+      "status": ""
+    },
+    {
+      "titulo": "giants - rockies",
+      "descripcion": "San Francisco police arrest 4 after fan brawl during Giants game at Oracle Park",
+      "trafico": "500+",
+      "fecha": "11/07/2026 03:00",
+      "fecha_dt": "2026-07-11T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeclNZ4JsZpqrD6N27HIMgY6nrHNNy4bEklOoi0pFw04YBWQh_l6Dp7LKFBbs",
+      "link": "https://trends.google.com/trending?geo=MX&q=giants+-+rockies",
+      "status": ""
+    },
+    {
+      "titulo": "diablos rojos",
+      "descripcion": "Noche explosiva para el triunfo de los Diablos Rojos sobre los Conspiradores",
       "trafico": "200+",
-      "fecha": "11/07/2026 03:40",
-      "fecha_dt": "2026-07-11T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2KOMakA9waYRopMqQwo7zv4_6X1nmfpubwfJ4C_wZOXpz0I2yq6j3Qsu9zmQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=yankees",
+      "fecha": "11/07/2026 05:20",
+      "fecha_dt": "2026-07-11T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReFTTsHfz3PDHztgYzqRTKc9BW1239polEYd8Erw4THDhcpkorXSSMR36D5dI",
+      "link": "https://trends.google.com/trending?geo=MX&q=diablos+rojos",
+      "status": ""
+    },
+    {
+      "titulo": "tris clasico",
+      "descripcion": "Resultados Tris HOY 10 de julio: Ganadores del mediodía, las tres, las siete y el clásico",
+      "trafico": "200+",
+      "fecha": "11/07/2026 04:30",
+      "fecha_dt": "2026-07-11T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8jFeJ8PNFElns33PP2iZ9FISkI2wVauJHkTqGLJIFTJ2wt_P6_hJB2vDDpc4",
+      "link": "https://trends.google.com/trending?geo=MX&q=tris+clasico",
       "status": ""
     },
     {
@@ -54,53 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "giants - rockies",
-      "descripcion": "Giants-Rockies Series Preview: KABOOM?",
-      "trafico": "200+",
-      "fecha": "11/07/2026 03:00",
-      "fecha_dt": "2026-07-11T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTkysEwEZq4HJ9qmoyYqeOFKR4pe2b5TPBG-CtWYBKV2BO7Eb1rE1-xQ1brHY",
-      "link": "https://trends.google.com/trending?geo=MX&q=giants+-+rockies",
-      "status": ""
-    },
-    {
-      "titulo": "antonio sancho",
-      "descripcion": "Antonio Sancho sobre Efraín: A él le toca responder por qué se fue",
+      "titulo": "emma coronel",
+      "descripcion": "Emma Coronel sorprende al recordar las fiestas de \"El Chapo\" con integrante de Los Alegres del Barranco",
       "trafico": "100+",
-      "fecha": "11/07/2026 03:10",
-      "fecha_dt": "2026-07-11T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5M-1PljRTByf_bbkUAEqgiL4VS_fQd8yBvFlsNRagWCN-XjGx1sg3S7iXs1U",
-      "link": "https://trends.google.com/trending?geo=MX&q=antonio+sancho",
-      "status": ""
-    },
-    {
-      "titulo": "andrea chávez treviño",
-      "descripcion": "Reprocha Citlalli Hernández amago del PVEM sobre alianza",
-      "trafico": "100+",
-      "fecha": "11/07/2026 03:10",
-      "fecha_dt": "2026-07-11T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKTGiqa7EXLwClefAA6nW4E9MZa36iR42ez_m5M8K-DcNC96LuhQV7peOfoZI",
-      "link": "https://trends.google.com/trending?geo=MX&q=andrea+chávez+treviño",
+      "fecha": "11/07/2026 06:20",
+      "fecha_dt": "2026-07-11T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVolfKrRM66M_KWsSySLNTtHSECHp9hGXZMk8x6SZfCDHpStnXP_J_5RassSk",
+      "link": "https://trends.google.com/trending?geo=MX&q=emma+coronel",
       "status": ""
     },
     {
       "titulo": "twins - angels",
-      "descripcion": "MLB: Los Angeles Angels at Minnesota Twins",
+      "descripcion": "Licensable picture: MLB 2026: Angels Vs Twins JUL 10",
       "trafico": "100+",
       "fecha": "11/07/2026 03:00",
       "fecha_dt": "2026-07-11T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqkaThUkzA9B5RwkcOGumv4PCDGb-Sa7Z8S9mZjjgOgYLT2v-4HNs4CJCOtPo",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvvN3890YTZEDq6SRTcnqukGM15otMiVOThKEk1NkXBzKQuSwUBUPRP-nGqQA",
       "link": "https://trends.google.com/trending?geo=MX&q=twins+-+angels",
-      "status": ""
-    },
-    {
-      "titulo": "armada",
-      "descripcion": "Con la evolución tecnológica surgen nuevas amenazas que demandan respuestas: Fuerzas Armadas",
-      "trafico": "100+",
-      "fecha": "11/07/2026 03:00",
-      "fecha_dt": "2026-07-11T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYk3AuL_jj_wtv8faYX5roJWLN5lwLN42ZUuhMZ2tckgRy0t-bPcrJdW2P0gw",
-      "link": "https://trends.google.com/trending?geo=MX&q=armada",
       "status": ""
     }
   ]
