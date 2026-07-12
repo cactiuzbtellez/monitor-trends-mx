@@ -1,22 +1,42 @@
 {
-  "actualizado": "12/07/2026 20:55 UTC",
+  "actualizado": "12/07/2026 21:56 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "malvinas",
-      "descripcion": "Inglaterra: polémica por el cántico de los argentinos sobre las Malvinas",
+      "titulo": "epicentro",
+      "descripcion": "¿Hubo Temblor Hoy en México? Checa el Epicentro y Magnitud de Sismos; Últimas Noticias de SSN",
+      "trafico": "20000+",
+      "fecha": "12/07/2026 20:50",
+      "fecha_dt": "2026-07-12T20:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76xgETZXRJ4uc_3mBI4c2YOeL4rCMr4AlrYR_WcczVP_SA6f5YJ3Hh-ww9sg",
+      "link": "https://trends.google.com/trending?geo=MX&q=epicentro",
+      "status": ""
+    },
+    {
+      "titulo": "mlb",
+      "descripcion": "MLB Power Rankings, Award Tracker: An All-Star break vibe check",
       "trafico": "1000+",
-      "fecha": "12/07/2026 19:10",
-      "fecha_dt": "2026-07-12T19:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXaH6-c3A1IinLP2ZXLBgALInrtwMTb_sSKK79lY0qSvmB1IqeNSMFjLm4xaY",
-      "link": "https://trends.google.com/trending?geo=MX&q=malvinas",
+      "fecha": "12/07/2026 21:00",
+      "fecha_dt": "2026-07-12T21:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7B2XOISRIYz6HeJ0aGaBOIxPZhj_XHqmgluswqGm7mnU9vBp4d3tOkgDFUUI",
+      "link": "https://trends.google.com/trending?geo=MX&q=mlb",
+      "status": ""
+    },
+    {
+      "titulo": "12/07/2026",
+      "descripcion": "Russia reinstates wheat export tax amid rising prices and supply concerns - The Jordan News Agency",
+      "trafico": "1000+",
+      "fecha": "12/07/2026 20:40",
+      "fecha_dt": "2026-07-12T20:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRwXAste1KlIc5ZoGsvW6emCjjYN-r75Yb85hKHHABHn7o9DzXHuYqpvyw-0",
+      "link": "https://trends.google.com/trending?geo=MX&q=12/07/2026",
       "status": ""
     },
     {
       "titulo": "avengers doomsday poster",
       "descripcion": "'Avengers: Doomsday' Art: First Look at Doctor Doom Mask, X-Men",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "12/07/2026 20:40",
       "fecha_dt": "2026-07-12T20:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT82gy36IFrHvjYZ4dISiKV0tKFpIJqc8vwucV6dF6cbSQJDpm8Iv8HGASAWPg",
@@ -24,13 +44,23 @@
       "status": ""
     },
     {
-      "titulo": "gianni infantino",
-      "descripcion": "¡Va enserio! El importante cambio que haría la FIFA en el Mundial 2030",
+      "titulo": "irán",
+      "descripcion": "La guerra con Irán se intensifica y pone en riesgo la capacidad militar de EE.UU. para futuros conflictos",
       "trafico": "500+",
-      "fecha": "12/07/2026 20:00",
-      "fecha_dt": "2026-07-12T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkzBxjtZbCD2CxJCqaLjne9N0Ip_Ts6vWBAiWOF2N-JdzvGOySg1jQudjblPw",
-      "link": "https://trends.google.com/trending?geo=MX&q=gianni+infantino",
+      "fecha": "12/07/2026 21:00",
+      "fecha_dt": "2026-07-12T21:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz9ep8Ec_ii65Vv-OVTyDyj5-BowysX7BvL3IioS7Z4WR5jR8uOfMHJaQepbA",
+      "link": "https://trends.google.com/trending?geo=MX&q=irán",
+      "status": ""
+    },
+    {
+      "titulo": "byd denza z",
+      "descripcion": "",
+      "trafico": "200+",
+      "fecha": "12/07/2026 21:40",
+      "fecha_dt": "2026-07-12T21:40:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=byd+denza+z",
       "status": ""
     },
     {
@@ -44,33 +74,23 @@
       "status": ""
     },
     {
-      "titulo": "república islámica",
-      "descripcion": "\"República Islámica de Japón\": Se acumulan los deslices verbales de Trump",
-      "trafico": "200+",
-      "fecha": "12/07/2026 20:00",
-      "fecha_dt": "2026-07-12T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgP6H3z1CXk0fS2bCxTQgEeVjZ4EqF4Tclwgnx9HE0biKEWHcjb6iKcWmZ_vI",
-      "link": "https://trends.google.com/trending?geo=MX&q=república+islámica",
-      "status": ""
-    },
-    {
-      "titulo": "fluminense - bahía",
-      "descripcion": "De Olho Neles: como chega o Bahia para enfrentar o Fluminense em amistoso no Maracanã",
-      "trafico": "200+",
-      "fecha": "12/07/2026 19:30",
-      "fecha_dt": "2026-07-12T19:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRvq-ziF947_0E5IYE9TBJgF4wu-QLX1ZIokdGG7jc8K82LW5asf2yFWCoVHc",
-      "link": "https://trends.google.com/trending?geo=MX&q=fluminense+-+bahía",
-      "status": ""
-    },
-    {
-      "titulo": "dodgers vs diamondbacks",
-      "descripcion": "MLB: Arizona Diamondbacks at Los Angeles Dodgers",
+      "titulo": "cuenca vs aucas",
+      "descripcion": "Pronóstico Deportivo Cuenca Aucas - LigaPro Serie A 12/07/26",
       "trafico": "100+",
-      "fecha": "12/07/2026 20:10",
-      "fecha_dt": "2026-07-12T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxktfJUbx2oFDhSidywQ44quHcP2cxKNTDQpvnqYbA5akI3C3eSAIMeId7UL4",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs+diamondbacks",
+      "fecha": "12/07/2026 21:20",
+      "fecha_dt": "2026-07-12T21:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSANtnyDr2OsImZOhxf-lQnbf1QbXqJz6pBC78lfkwRiqqU2n3Crpecx4zyNAU",
+      "link": "https://trends.google.com/trending?geo=MX&q=cuenca+vs+aucas",
+      "status": ""
+    },
+    {
+      "titulo": "erika kirk",
+      "descripcion": "How Candace Owens Became TPUSA’s Worst Enemy",
+      "trafico": "100+",
+      "fecha": "12/07/2026 21:20",
+      "fecha_dt": "2026-07-12T21:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtVM5IufBd_E38P_hRwYKfKwP0R2kOt-pHWDae7rdpzOyBSUyBXOK6bsWJP7g",
+      "link": "https://trends.google.com/trending?geo=MX&q=erika+kirk",
       "status": ""
     },
     {
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-07-12T20:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqAMX9MWnbwHeio4XJZ4Va8c9rKCWeojlWbBEFoywIMYMjBX1iGOB_WN-pnCo",
       "link": "https://trends.google.com/trending?geo=MX&q=naruto",
-      "status": ""
-    },
-    {
-      "titulo": "wnba",
-      "descripcion": "Licensable picture: WNBA: New York Liberty at Toronto Tempo",
-      "trafico": "100+",
-      "fecha": "12/07/2026 20:00",
-      "fecha_dt": "2026-07-12T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT_nqarzfVOhiF-PF6-W8Taavdk6qpGDQOl8kXiM7EySjm0wqR8tFz-HfwLzM",
-      "link": "https://trends.google.com/trending?geo=MX&q=wnba",
-      "status": ""
-    },
-    {
-      "titulo": "carlos alcaraz",
-      "descripcion": "Dudan de que Carlos Alcaraz pueda jugar el US Open",
-      "trafico": "100+",
-      "fecha": "12/07/2026 19:20",
-      "fecha_dt": "2026-07-12T19:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDMyuUYrgn15c6q-DQuwapCjEk5tcyVohFOO5XLPSZG8r93T_QFyq4_LFLax8",
-      "link": "https://trends.google.com/trending?geo=MX&q=carlos+alcaraz",
       "status": ""
     }
   ]
