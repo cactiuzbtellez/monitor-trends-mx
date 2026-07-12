@@ -1,56 +1,66 @@
 {
-  "actualizado": "12/07/2026 21:56 UTC",
+  "actualizado": "12/07/2026 22:56 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
-  "total": 10,
+  "total": 11,
   "trends": [
-    {
-      "titulo": "epicentro",
-      "descripcion": "¿Hubo Temblor Hoy en México? Checa el Epicentro y Magnitud de Sismos; Últimas Noticias de SSN",
-      "trafico": "20000+",
-      "fecha": "12/07/2026 20:50",
-      "fecha_dt": "2026-07-12T20:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR76xgETZXRJ4uc_3mBI4c2YOeL4rCMr4AlrYR_WcczVP_SA6f5YJ3Hh-ww9sg",
-      "link": "https://trends.google.com/trending?geo=MX&q=epicentro",
-      "status": ""
-    },
-    {
-      "titulo": "mlb",
-      "descripcion": "MLB Power Rankings, Award Tracker: An All-Star break vibe check",
-      "trafico": "1000+",
-      "fecha": "12/07/2026 21:00",
-      "fecha_dt": "2026-07-12T21:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7B2XOISRIYz6HeJ0aGaBOIxPZhj_XHqmgluswqGm7mnU9vBp4d3tOkgDFUUI",
-      "link": "https://trends.google.com/trending?geo=MX&q=mlb",
-      "status": ""
-    },
-    {
-      "titulo": "12/07/2026",
-      "descripcion": "Russia reinstates wheat export tax amid rising prices and supply concerns - The Jordan News Agency",
-      "trafico": "1000+",
-      "fecha": "12/07/2026 20:40",
-      "fecha_dt": "2026-07-12T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRwXAste1KlIc5ZoGsvW6emCjjYN-r75Yb85hKHHABHn7o9DzXHuYqpvyw-0",
-      "link": "https://trends.google.com/trending?geo=MX&q=12/07/2026",
-      "status": ""
-    },
-    {
-      "titulo": "avengers doomsday poster",
-      "descripcion": "'Avengers: Doomsday' Art: First Look at Doctor Doom Mask, X-Men",
-      "trafico": "1000+",
-      "fecha": "12/07/2026 20:40",
-      "fecha_dt": "2026-07-12T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT82gy36IFrHvjYZ4dISiKV0tKFpIJqc8vwucV6dF6cbSQJDpm8Iv8HGASAWPg",
-      "link": "https://trends.google.com/trending?geo=MX&q=avengers+doomsday+poster",
-      "status": ""
-    },
     {
       "titulo": "irán",
       "descripcion": "La guerra con Irán se intensifica y pone en riesgo la capacidad militar de EE.UU. para futuros conflictos",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "12/07/2026 21:00",
       "fecha_dt": "2026-07-12T21:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz9ep8Ec_ii65Vv-OVTyDyj5-BowysX7BvL3IioS7Z4WR5jR8uOfMHJaQepbA",
       "link": "https://trends.google.com/trending?geo=MX&q=irán",
+      "status": ""
+    },
+    {
+      "titulo": "las guerreras k-pop",
+      "descripcion": "Little People Collector x Las Guerreras K-pop: Precio y dónde comprar",
+      "trafico": "500+",
+      "fecha": "12/07/2026 22:00",
+      "fecha_dt": "2026-07-12T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa-pkHKVCWAZXh9qpk-fSjS7absFQIn5gnTjkSb8oNZYd2lRSmHny_e-oIs3Q",
+      "link": "https://trends.google.com/trending?geo=MX&q=las+guerreras+k-pop",
+      "status": ""
+    },
+    {
+      "titulo": "moana",
+      "descripcion": "Disney’s ‘Moana’ Remake Crashes at Box Office",
+      "trafico": "200+",
+      "fecha": "12/07/2026 22:40",
+      "fecha_dt": "2026-07-12T22:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-dFI2V9_hNJpFfduwMBX3RzUJEU-4rv0FQqollvGrOS4mcrpMGCL5zQEP5ME",
+      "link": "https://trends.google.com/trending?geo=MX&q=moana",
+      "status": ""
+    },
+    {
+      "titulo": "federación mexicana de fútbol asociación",
+      "descripcion": "Secretaría Anticorrupción multa a la Federación Mexicana de Futbol con 42.8 mdp por violar protección de datos de aficionados",
+      "trafico": "200+",
+      "fecha": "12/07/2026 22:20",
+      "fecha_dt": "2026-07-12T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9GKKo4Zqc8cF24AHxY1pJmMXTkZFu3BHa5ES4AGI-JArOEY3NUxM28ggIcHA",
+      "link": "https://trends.google.com/trending?geo=MX&q=federación+mexicana+de+fútbol+asociación",
+      "status": ""
+    },
+    {
+      "titulo": "daniel noboa",
+      "descripcion": "Aumenta apoyo a la revocatoria del mandato de Novoa en Ecuador",
+      "trafico": "200+",
+      "fecha": "12/07/2026 22:20",
+      "fecha_dt": "2026-07-12T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJuKh1lHP-CMW-egmS0dC47Pm8VW5Gyla7bQXfq98qQrBqVUzgRkOeStBnenU",
+      "link": "https://trends.google.com/trending?geo=MX&q=daniel+noboa",
+      "status": ""
+    },
+    {
+      "titulo": "el norte",
+      "descripcion": "Marcan regias paso de oro en Colombia",
+      "trafico": "200+",
+      "fecha": "12/07/2026 22:20",
+      "fecha_dt": "2026-07-12T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE5F2v2a5M25vBSheun_MwWXDvlRMLkx1vUBDFhuMurjGfTGoLVzOC_VYY9lM",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+norte",
       "status": ""
     },
     {
@@ -64,13 +74,23 @@
       "status": ""
     },
     {
-      "titulo": "rivadavia vs tigre",
-      "descripcion": "Independiente Rivadavia vs Tigre, EN VIVO, por la Copa Argentina: horario, cómo ver y formaciones",
+      "titulo": "honda cbr500r",
+      "descripcion": "Honda CBR500R 2026 llega a México, la nueva deportiva de media cilindrada, conoce precio y versiones",
       "trafico": "200+",
-      "fecha": "12/07/2026 20:20",
-      "fecha_dt": "2026-07-12T20:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycWTJi-YfOj9kqZwaOQM4H3DKiY4lSkDao7uNyWT8QZ5ku3gCydA8OZ0XnJo",
-      "link": "https://trends.google.com/trending?geo=MX&q=rivadavia+vs+tigre",
+      "fecha": "12/07/2026 22:20",
+      "fecha_dt": "2026-07-12T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccpRl9zPQOeGUkXutjaVez5_eaLJio8ZvBkmbrLLAzrO_uwEb-JSjAc21oDU",
+      "link": "https://trends.google.com/trending?geo=MX&q=honda+cbr500r",
+      "status": ""
+    },
+    {
+      "titulo": "houston",
+      "descripcion": "Mexico-US relations are already strained, but experts say they’re about to get worse",
+      "trafico": "100+",
+      "fecha": "12/07/2026 22:00",
+      "fecha_dt": "2026-07-12T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6OVELZ7KZpkCxJpGaRw7pkF6ZhD4xph7wiOFlUyg0kB3brQPYwHZC1wKhWhU",
+      "link": "https://trends.google.com/trending?geo=MX&q=houston",
       "status": ""
     },
     {
@@ -91,16 +111,6 @@
       "fecha_dt": "2026-07-12T21:20:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtVM5IufBd_E38P_hRwYKfKwP0R2kOt-pHWDae7rdpzOyBSUyBXOK6bsWJP7g",
       "link": "https://trends.google.com/trending?geo=MX&q=erika+kirk",
-      "status": ""
-    },
-    {
-      "titulo": "naruto",
-      "descripcion": "¡Es oficial! El live action de Naruto busca a sus protagonistas; conoce aquí los detalles del casting global",
-      "trafico": "100+",
-      "fecha": "12/07/2026 20:10",
-      "fecha_dt": "2026-07-12T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqAMX9MWnbwHeio4XJZ4Va8c9rKCWeojlWbBEFoywIMYMjBX1iGOB_WN-pnCo",
-      "link": "https://trends.google.com/trending?geo=MX&q=naruto",
       "status": ""
     }
   ]
