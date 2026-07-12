@@ -1,36 +1,56 @@
 {
-  "actualizado": "12/07/2026 09:05 UTC",
+  "actualizado": "12/07/2026 11:13 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "tarjeta roja fútbol",
-      "descripcion": "Argentina: ¿cuáles decisiones arbitrales han sido polémicas en este mundial?",
-      "trafico": "20000+",
-      "fecha": "12/07/2026 07:50",
-      "fecha_dt": "2026-07-12T07:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-vPp0aqZUG2Ayef8uLtY-MXLtrXc1uZQmCOUpGLCpLsJMr_80tynW8sohPPo",
-      "link": "https://trends.google.com/trending?geo=MX&q=tarjeta+roja+fútbol",
-      "status": ""
-    },
-    {
       "titulo": "lindsey graham",
-      "descripcion": "Sen. Lindsey Graham dies at 71 after sudden illness",
+      "descripcion": "Lindsey Graham, longtime GOP senator and Trump ally, dies at 71 after sudden illness",
       "trafico": "2000+",
       "fecha": "12/07/2026 06:40",
       "fecha_dt": "2026-07-12T06:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRul7cHHOn7fNcv25agCTqcCSlxOd5BT2W3qOaLKUWa0oA00iIshllU9IIhkWo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvqTeOuUBbVeSYQulZNjuHrPqiQYgIa3cRoq0xdfcejg6sa4urMTGKwWztK38",
       "link": "https://trends.google.com/trending?geo=MX&q=lindsey+graham",
       "status": ""
     },
     {
-      "titulo": "francia vs. españa",
-      "descripcion": "Los datos de España y Francia: ¿quién ha jugado mejor en el Mundial?",
+      "titulo": "clima mexicali",
+      "descripcion": "Gobierno de Baja California",
+      "trafico": "1000+",
+      "fecha": "12/07/2026 09:20",
+      "fecha_dt": "2026-07-12T09:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7xJEbGNerrTE0wpG6mtLF_8fFhcb9MLC7i-8mXm8pxFsaCLziL25-FzAUe18",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+mexicali",
+      "status": ""
+    },
+    {
+      "titulo": "serie netflix no tengo miedo",
+      "descripcion": "¿”No tengo miedo” está basada en una historia real? Esto se sabe",
       "trafico": "500+",
-      "fecha": "12/07/2026 04:20",
-      "fecha_dt": "2026-07-12T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3io-psoGSvnWQUG4Qjx4Vz-Vy8ujZn5CaV8Yq0eLn17VfLzeBGx4kbbxg2o",
-      "link": "https://trends.google.com/trending?geo=MX&q=francia+vs.+españa",
+      "fecha": "12/07/2026 11:00",
+      "fecha_dt": "2026-07-12T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVL2a1e1PwWHkGWbiTbCvsW_YTkmvjvWCDPPLJ5YGOcyfhqwudYQShfwn65F8",
+      "link": "https://trends.google.com/trending?geo=MX&q=serie+netflix+no+tengo+miedo",
+      "status": ""
+    },
+    {
+      "titulo": "id software",
+      "descripcion": "Update: 136 workers have been laid off at id Software",
+      "trafico": "500+",
+      "fecha": "12/07/2026 07:20",
+      "fecha_dt": "2026-07-12T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjOx7swN0ldMZswnl_TBBTApT6WTAcdRKaH092_iDlppz5noFkEzeXaqlAGSw",
+      "link": "https://trends.google.com/trending?geo=MX&q=id+software",
+      "status": ""
+    },
+    {
+      "titulo": "trinidad y tobago",
+      "descripcion": "Un grupo de científicos halló un volcán de lodo frente a Trinidad y Tobago formado por los terremotos de Venezuela",
+      "trafico": "200+",
+      "fecha": "12/07/2026 08:30",
+      "fecha_dt": "2026-07-12T08:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLAIyfEERiNZ5R8jujV_UTWo5Y4XdZvX0c6QkpJfTSkKED82mwjaoYqIyHHoY",
+      "link": "https://trends.google.com/trending?geo=MX&q=trinidad+y+tobago",
       "status": ""
     },
     {
@@ -44,32 +64,22 @@
       "status": ""
     },
     {
-      "titulo": "id software",
-      "descripcion": "Update: 136 workers have been laid off at id Software",
-      "trafico": "200+",
-      "fecha": "12/07/2026 07:20",
-      "fecha_dt": "2026-07-12T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjOx7swN0ldMZswnl_TBBTApT6WTAcdRKaH092_iDlppz5noFkEzeXaqlAGSw",
-      "link": "https://trends.google.com/trending?geo=MX&q=id+software",
-      "status": ""
-    },
-    {
       "titulo": "zendaya",
-      "descripcion": "Zendaya’s Latest ‘Odyssey’ Look Was Blessed by the Fashion Gods",
+      "descripcion": "Zendaya Shares The Sweet Way Tom Holland Broke The News She Was Cast In ‘The Odyssey’",
       "trafico": "200+",
       "fecha": "12/07/2026 05:50",
       "fecha_dt": "2026-07-12T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiykEbLDtzFIVaJW8UMg6_clw0zTqFxW27SLqs10T5Zng8vbilXV4jKwEVfms",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1B-phlXHzukZn1DQxS70vCosi4jWP7JPxjT7L3zu2jaN65hamu-yrulrRnjk",
       "link": "https://trends.google.com/trending?geo=MX&q=zendaya",
       "status": ""
     },
     {
       "titulo": "kun agüero",
-      "descripcion": "¿Atlético de Madrid cederá por el traspaso de Julián Álvarez al Barcelona?",
+      "descripcion": "\"Es un padre para mí\": Kun Agüero elogia a Javier Aguirre y Rafa Márquez en Selección Mexicana",
       "trafico": "200+",
       "fecha": "12/07/2026 04:40",
       "fecha_dt": "2026-07-12T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_AykDQhO9jcvgpxVcF8JfdBV1NPi4m2m7uAwDF92ShSYs9gpfsEd7VQMdPyw",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-jZtGUoGYXG7PKlURUIEbmV2vMC6D_WtDNuKlfdRpg7sNqYxpbEvXiuNAq3g",
       "link": "https://trends.google.com/trending?geo=MX&q=kun+agüero",
       "status": ""
     },
@@ -81,16 +91,6 @@
       "fecha_dt": "2026-07-12T04:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1h0BUJm4pxdKuCADd7GotxNnf-eKRAfMoWXHZHrHVaaG9PrHELQTWLkacWb0",
       "link": "https://trends.google.com/trending?geo=MX&q=flaco+lopez",
-      "status": ""
-    },
-    {
-      "titulo": "trinidad y tobago",
-      "descripcion": "Un grupo de científicos halló un volcán de lodo frente a Trinidad y Tobago formado por los terremotos de Venezuela",
-      "trafico": "100+",
-      "fecha": "12/07/2026 08:30",
-      "fecha_dt": "2026-07-12T08:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLAIyfEERiNZ5R8jujV_UTWo5Y4XdZvX0c6QkpJfTSkKED82mwjaoYqIyHHoY",
-      "link": "https://trends.google.com/trending?geo=MX&q=trinidad+y+tobago",
       "status": ""
     },
     {
