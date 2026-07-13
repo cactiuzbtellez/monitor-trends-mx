@@ -1,22 +1,22 @@
 {
-  "actualizado": "12/07/2026 22:56 UTC",
+  "actualizado": "13/07/2026 00:01 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
-  "total": 11,
+  "total": 10,
   "trends": [
     {
-      "titulo": "irán",
-      "descripcion": "La guerra con Irán se intensifica y pone en riesgo la capacidad militar de EE.UU. para futuros conflictos",
+      "titulo": "federación mexicana de fútbol asociación",
+      "descripcion": "Sancionan a FMF con 42 mdp por mal manejo de datos en FAN ID",
       "trafico": "1000+",
-      "fecha": "12/07/2026 21:00",
-      "fecha_dt": "2026-07-12T21:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz9ep8Ec_ii65Vv-OVTyDyj5-BowysX7BvL3IioS7Z4WR5jR8uOfMHJaQepbA",
-      "link": "https://trends.google.com/trending?geo=MX&q=irán",
+      "fecha": "12/07/2026 22:20",
+      "fecha_dt": "2026-07-12T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOAiOcW4y8l8AOXFLoZhuU0ME1N5f-hd9Qg5o1hvplKoE08xu4zCs1oSs9U9I",
+      "link": "https://trends.google.com/trending?geo=MX&q=federación+mexicana+de+fútbol+asociación",
       "status": ""
     },
     {
       "titulo": "las guerreras k-pop",
       "descripcion": "Little People Collector x Las Guerreras K-pop: Precio y dónde comprar",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "12/07/2026 22:00",
       "fecha_dt": "2026-07-12T22:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSa-pkHKVCWAZXh9qpk-fSjS7absFQIn5gnTjkSb8oNZYd2lRSmHny_e-oIs3Q",
@@ -24,9 +24,19 @@
       "status": ""
     },
     {
+      "titulo": "dodgers",
+      "descripcion": "Dodgers swept by Diamondbacks as they sputter into the All-Star break",
+      "trafico": "500+",
+      "fecha": "12/07/2026 23:00",
+      "fecha_dt": "2026-07-12T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSujceHCCa6wC2eyImEPsahHkg9997P30kw5H0IradhwbSXjWSIGKP2RjpUiYU",
+      "link": "https://trends.google.com/trending?geo=MX&q=dodgers",
+      "status": ""
+    },
+    {
       "titulo": "moana",
       "descripcion": "Disney’s ‘Moana’ Remake Crashes at Box Office",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "12/07/2026 22:40",
       "fecha_dt": "2026-07-12T22:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-dFI2V9_hNJpFfduwMBX3RzUJEU-4rv0FQqollvGrOS4mcrpMGCL5zQEP5ME",
@@ -34,23 +44,33 @@
       "status": ""
     },
     {
-      "titulo": "federación mexicana de fútbol asociación",
-      "descripcion": "Secretaría Anticorrupción multa a la Federación Mexicana de Futbol con 42.8 mdp por violar protección de datos de aficionados",
-      "trafico": "200+",
+      "titulo": "daniel noboa",
+      "descripcion": "Ministros de salud de Daniel Noboa no superan cuatro meses en funciones",
+      "trafico": "500+",
       "fecha": "12/07/2026 22:20",
       "fecha_dt": "2026-07-12T22:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9GKKo4Zqc8cF24AHxY1pJmMXTkZFu3BHa5ES4AGI-JArOEY3NUxM28ggIcHA",
-      "link": "https://trends.google.com/trending?geo=MX&q=federación+mexicana+de+fútbol+asociación",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKleXeUwuli1HpYpiVZ0mGn9esuePVg3Ov3LbaAqk89s9BkqHwdS8_Dg1BSZE",
+      "link": "https://trends.google.com/trending?geo=MX&q=daniel+noboa",
       "status": ""
     },
     {
-      "titulo": "daniel noboa",
-      "descripcion": "Aumenta apoyo a la revocatoria del mandato de Novoa en Ecuador",
-      "trafico": "200+",
+      "titulo": "honda cbr500r",
+      "descripcion": "Honda CBR500R 2026 llega a México, la nueva deportiva de media cilindrada, conoce precio y versiones",
+      "trafico": "500+",
       "fecha": "12/07/2026 22:20",
       "fecha_dt": "2026-07-12T22:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJuKh1lHP-CMW-egmS0dC47Pm8VW5Gyla7bQXfq98qQrBqVUzgRkOeStBnenU",
-      "link": "https://trends.google.com/trending?geo=MX&q=daniel+noboa",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccpRl9zPQOeGUkXutjaVez5_eaLJio8ZvBkmbrLLAzrO_uwEb-JSjAc21oDU",
+      "link": "https://trends.google.com/trending?geo=MX&q=honda+cbr500r",
+      "status": ""
+    },
+    {
+      "titulo": "fidel barajas",
+      "descripcion": "Chivas prestó a Fidel Bajaras al Monterey Bay",
+      "trafico": "200+",
+      "fecha": "12/07/2026 23:20",
+      "fecha_dt": "2026-07-12T23:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoPnDrnf41NGlM7mFIOLabIpvDBXBE0JvkrKUOPYiAx19HKl-UHEmi5d9fzP8",
+      "link": "https://trends.google.com/trending?geo=MX&q=fidel+barajas",
       "status": ""
     },
     {
@@ -64,29 +84,9 @@
       "status": ""
     },
     {
-      "titulo": "byd denza z",
-      "descripcion": "",
-      "trafico": "200+",
-      "fecha": "12/07/2026 21:40",
-      "fecha_dt": "2026-07-12T21:40:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=byd+denza+z",
-      "status": ""
-    },
-    {
-      "titulo": "honda cbr500r",
-      "descripcion": "Honda CBR500R 2026 llega a México, la nueva deportiva de media cilindrada, conoce precio y versiones",
-      "trafico": "200+",
-      "fecha": "12/07/2026 22:20",
-      "fecha_dt": "2026-07-12T22:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTccpRl9zPQOeGUkXutjaVez5_eaLJio8ZvBkmbrLLAzrO_uwEb-JSjAc21oDU",
-      "link": "https://trends.google.com/trending?geo=MX&q=honda+cbr500r",
-      "status": ""
-    },
-    {
       "titulo": "houston",
       "descripcion": "Mexico-US relations are already strained, but experts say they’re about to get worse",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "12/07/2026 22:00",
       "fecha_dt": "2026-07-12T22:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6OVELZ7KZpkCxJpGaRw7pkF6ZhD4xph7wiOFlUyg0kB3brQPYwHZC1wKhWhU",
@@ -94,23 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "cuenca vs aucas",
-      "descripcion": "Pronóstico Deportivo Cuenca Aucas - LigaPro Serie A 12/07/26",
+      "titulo": "dodgers vs. dbacks",
+      "descripcion": "Los Angeles Dodgers v Arizona Diamondbacks Prediction & Tips",
       "trafico": "100+",
-      "fecha": "12/07/2026 21:20",
-      "fecha_dt": "2026-07-12T21:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSANtnyDr2OsImZOhxf-lQnbf1QbXqJz6pBC78lfkwRiqqU2n3Crpecx4zyNAU",
-      "link": "https://trends.google.com/trending?geo=MX&q=cuenca+vs+aucas",
-      "status": ""
-    },
-    {
-      "titulo": "erika kirk",
-      "descripcion": "How Candace Owens Became TPUSA’s Worst Enemy",
-      "trafico": "100+",
-      "fecha": "12/07/2026 21:20",
-      "fecha_dt": "2026-07-12T21:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtVM5IufBd_E38P_hRwYKfKwP0R2kOt-pHWDae7rdpzOyBSUyBXOK6bsWJP7g",
-      "link": "https://trends.google.com/trending?geo=MX&q=erika+kirk",
+      "fecha": "12/07/2026 23:00",
+      "fecha_dt": "2026-07-12T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToyYEcSw2FvaP4YR3_nCBKcXd_1rApDC57fympjo70UfqizqdLu1vLqmLbi30",
+      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs.+dbacks",
       "status": ""
     }
   ]
