@@ -1,46 +1,36 @@
 {
-  "actualizado": "14/07/2026 06:14 UTC",
+  "actualizado": "14/07/2026 09:06 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "home run derby mlb",
+      "descripcion": "Walker stuns Schwarber, becomes Cardinals' first Derby champ",
+      "trafico": "5000+",
+      "fecha": "14/07/2026 04:20",
+      "fecha_dt": "2026-07-14T04:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcG_Vy-2uOqiIQKZC2c4yZydcQuXbMANj6cF4SW-OdgVdYlea47bG82Io_R1Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=home+run+derby+mlb",
+      "status": ""
+    },
+    {
       "titulo": "flor vigna",
-      "descripcion": "La Casa de los Famosos México 4: esto debes saber del reality",
+      "descripcion": "\"Necesitaba ayudar a mi familia\": el motivo detrás del desembarco de Flor Vigna en OnlyFans",
       "trafico": "5000+",
       "fecha": "14/07/2026 03:10",
       "fecha_dt": "2026-07-14T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUE3m6QmMZpEgMdeu48mRMZivkafA_6DQ5S_Kbkm4tUKluRxsLvrWM7ifSQlg",
+      "imagen": "",
       "link": "https://trends.google.com/trending?geo=MX&q=flor+vigna",
       "status": ""
     },
     {
       "titulo": "iphone",
-      "descripcion": "Every MacBook getting macOS 27: See the full compatibility list",
+      "descripcion": "Siri AI is already changing how I use my iPhone",
       "trafico": "5000+",
       "fecha": "14/07/2026 02:20",
       "fecha_dt": "2026-07-14T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6Enmh-7h1sGOSghNV8s6I9h-WxQ1_PChZ1jDP52YyOsoL5bpDODTGx_bIQK4",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwxDuYGHz6TW8AWKk2xh1gdUumZ5Lcowds5iYpjTafQIu0zf4gPW5gQTuGZLs",
       "link": "https://trends.google.com/trending?geo=MX&q=iphone",
-      "status": ""
-    },
-    {
-      "titulo": "calendario escolar 2027 sep",
-      "descripcion": "Para planear tus vacaciones: ¿Cuándo son los puentes según el calendario preliminar 2026-2027 de la SEP?",
-      "trafico": "5000+",
-      "fecha": "14/07/2026 02:00",
-      "fecha_dt": "2026-07-14T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI1wZzYYRd5AbSwb_092ktVqYo34T6TW2Xl7FhnBkolB3A8btuE-JdrBnP2fQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=calendario+escolar+2027+sep",
-      "status": ""
-    },
-    {
-      "titulo": "oro",
-      "descripcion": "Oro cae más de 1% a inicio de semana mientras tensión en Oriente Medio refuerza apuestas sobre tasas",
-      "trafico": "2000+",
-      "fecha": "14/07/2026 01:30",
-      "fecha_dt": "2026-07-14T01:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiWPkrfFPSsO_cSOKXUPCqi7rz59ekhS2ky3fFzeHjVcvhe2VIaudwyvs2J6k",
-      "link": "https://trends.google.com/trending?geo=MX&q=oro",
       "status": ""
     },
     {
@@ -54,6 +44,16 @@
       "status": ""
     },
     {
+      "titulo": "cyclospora",
+      "descripcion": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+      "trafico": "500+",
+      "fecha": "14/07/2026 05:00",
+      "fecha_dt": "2026-07-14T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2WdKWqfiw_69nd7iKT1ypOHny93I8ZfDxzdfQgm9xuZjq6-98WQODbkbaNhE",
+      "link": "https://trends.google.com/trending?geo=MX&q=cyclospora",
+      "status": ""
+    },
+    {
       "titulo": "hermosillo",
       "descripcion": "Socavón en Hermosillo, Sonora, se traga camioneta mientras conductor intentaba rescatar a motociclista",
       "trafico": "500+",
@@ -64,23 +64,23 @@
       "status": ""
     },
     {
-      "titulo": "alexis cuello",
-      "descripcion": "Rayados quiere 2 refuerzos para el ataque y ya tiene opciones adelantadas; así van las negociaciones",
-      "trafico": "500+",
-      "fecha": "14/07/2026 02:00",
-      "fecha_dt": "2026-07-14T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt2wpYwYBNrM0-WLULrfQetwYeJbQZyw3qHCqugn8AEtVp3zQ_x8p6Rp4QZuw",
-      "link": "https://trends.google.com/trending?geo=MX&q=alexis+cuello",
+      "titulo": "gasolina",
+      "descripcion": "Precio de la gasolina hoy 13 de julio sorprende en México tras ajuste en estímulo fiscal",
+      "trafico": "200+",
+      "fecha": "14/07/2026 07:40",
+      "fecha_dt": "2026-07-14T07:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqHijL596FMHH7P7Eggvq5xPEa_JQvoDcomraJXmMH0wWoX1HHpyPuAGURUQo",
+      "link": "https://trends.google.com/trending?geo=MX&q=gasolina",
       "status": ""
     },
     {
-      "titulo": "cyclospora",
-      "descripcion": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
+      "titulo": "hm",
+      "descripcion": "",
       "trafico": "200+",
-      "fecha": "14/07/2026 05:00",
-      "fecha_dt": "2026-07-14T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2WdKWqfiw_69nd7iKT1ypOHny93I8ZfDxzdfQgm9xuZjq6-98WQODbkbaNhE",
-      "link": "https://trends.google.com/trending?geo=MX&q=cyclospora",
+      "fecha": "14/07/2026 07:10",
+      "fecha_dt": "2026-07-14T07:10:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=hm",
       "status": ""
     },
     {
