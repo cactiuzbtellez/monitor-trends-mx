@@ -1,46 +1,76 @@
 {
-  "actualizado": "14/07/2026 15:25 UTC",
+  "actualizado": "14/07/2026 17:18 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "selección de futbol sub-20 de méxico",
-      "descripcion": "México: Los jugadores que buscarán el pase a Juegos Olímpicos 2028",
+      "titulo": "huelga nacional monte de piedad",
+      "descripcion": "Huelga en Nacional Monte de Piedad avanza con las negociaciones bajo reserva",
       "trafico": "500+",
-      "fecha": "14/07/2026 15:00",
-      "fecha_dt": "2026-07-14T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsdedPE6vowa6SIHryO1aL23wB022kzAYItL0Sk0sio8N9QHF52CeT2596q_c",
-      "link": "https://trends.google.com/trending?geo=MX&q=selección+de+futbol+sub-20+de+méxico",
+      "fecha": "14/07/2026 15:40",
+      "fecha_dt": "2026-07-14T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYacCrMytGqnlMzh9U_K_i2wTpQ8DdV2Ou5Bpoc9mcsS5YL0_QjEieNvKTXYo",
+      "link": "https://trends.google.com/trending?geo=MX&q=huelga+nacional+monte+de+piedad",
       "status": ""
     },
     {
       "titulo": "samuel garcía",
-      "descripcion": "Bloquean en Corte juicio político contra Samuel García",
-      "trafico": "200+",
+      "descripcion": "Revisará CSP bloqueo a juicio político de Samuel",
+      "trafico": "500+",
       "fecha": "14/07/2026 15:00",
       "fecha_dt": "2026-07-14T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSidnosFiNGlAsGOfkm4u_XdLm6ABMRxpeYtJ-CCzaaLo8zaamnK6NpzfPXrZk",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBQO8JLSxQO4YOIszd9TLDGQFyzkTqy3LtBE3mG_3cYvKWPkicyJemcgomrck",
       "link": "https://trends.google.com/trending?geo=MX&q=samuel+garcía",
       "status": ""
     },
     {
       "titulo": "14 de julio",
-      "descripcion": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 14 de julio: Síguela aquí en vivo",
-      "trafico": "200+",
+      "descripcion": "Mundial 2026: ¿Por qué FIFA cambió reglas de \"equipos sembrados\"?",
+      "trafico": "500+",
       "fecha": "14/07/2026 15:00",
       "fecha_dt": "2026-07-14T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9IFGXPJFAL5zelbfIqsQdCjs5l6igDsaz5zFJAMu9nu_us0BBgVbLR_Lv2EE",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxgpoqYbLZCupCzr0mebExUTpWOTYhw_PP9v_VfcKkWKRPg1hRfo4H75WmscI",
       "link": "https://trends.google.com/trending?geo=MX&q=14+de+julio",
       "status": ""
     },
     {
       "titulo": "angelina jolie",
       "descripcion": "Brad Pitt's kids Zahara and Maddox take out newspaper ads to officially drop 'Pitt' from last name",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "14/07/2026 15:00",
       "fecha_dt": "2026-07-14T15:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVi6TEDiqZQckVPUMIeI5wDb1lwZQDt_dfjRoJXEdRwtzvaJkWM-QNrA2PWgc",
       "link": "https://trends.google.com/trending?geo=MX&q=angelina+jolie",
+      "status": ""
+    },
+    {
+      "titulo": "tour de france 2026",
+      "descripcion": "Tour de France 2026: Pogacar underlines dominance with stage 10 win on Bastille Day – live",
+      "trafico": "200+",
+      "fecha": "14/07/2026 16:10",
+      "fecha_dt": "2026-07-14T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpd5laaKiiV2eZr7JvXRWJX-Bg6mAtnrsOCOuRDQDy-gaDwGUFep2Iyz1oscw",
+      "link": "https://trends.google.com/trending?geo=MX&q=tour+de+france+2026",
+      "status": ""
+    },
+    {
+      "titulo": "ebola",
+      "descripcion": "Confirmed Ebola cases in Democratic Republic of Congo rise to 1,963",
+      "trafico": "200+",
+      "fecha": "14/07/2026 15:40",
+      "fecha_dt": "2026-07-14T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqN0925yMEYBNbBpBkJGaxD_jL9IuXGOFAWZSCoFA150NeVZcO5kabUfUdU-E",
+      "link": "https://trends.google.com/trending?geo=MX&q=ebola",
+      "status": ""
+    },
+    {
+      "titulo": "w",
+      "descripcion": "Downtown housing proposal becomes the sixth to lean on new state law",
+      "trafico": "200+",
+      "fecha": "14/07/2026 15:40",
+      "fecha_dt": "2026-07-14T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzwE46p8pd6XA6BcFiDAOHs3Di2j1LE6XLAm2fVo8Lnaqn5vLDEE3FVXq-lVw",
+      "link": "https://trends.google.com/trending?geo=MX&q=w",
       "status": ""
     },
     {
@@ -55,52 +85,22 @@
     },
     {
       "titulo": "juez",
-      "descripcion": "El PSOE denuncia la \"obsesión\" del juez Peinado con Begoña Gómez y cree que es él quien debería sentarse en el banquillo",
+      "descripcion": "Sumar denuncia el \"machismo, la violencia de género y el delirio\" del juez Peinado con Begoña Gómez",
       "trafico": "200+",
       "fecha": "14/07/2026 14:20",
       "fecha_dt": "2026-07-14T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMD7ArwcGJwIPKum0wxILGxu7uiLrd5opshl9P1GXLD4FWdiDWEn904axvr8M",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRg7RhDBhFKgn0QKI-8nh42b7ZOfGvul1-mfso332bHV8p-qmxIvgpJddhlhk",
       "link": "https://trends.google.com/trending?geo=MX&q=juez",
       "status": ""
     },
     {
-      "titulo": "maría natalia mauleón",
-      "descripcion": "¡Natalia Mauleón se viste de rojiblanca!",
-      "trafico": "200+",
-      "fecha": "14/07/2026 14:10",
-      "fecha_dt": "2026-07-14T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWn3ooCE4kqZ2lctpQwUeh7RhSVv4pyIUu56TMH96qvPf6pPe-5t6z0JwwB-c",
-      "link": "https://trends.google.com/trending?geo=MX&q=maría+natalia+mauleón",
-      "status": ""
-    },
-    {
-      "titulo": "spain vs france",
-      "descripcion": "France vs Spain mega-preview: Predictions, form guide, key players and more - The Athletic",
-      "trafico": "200+",
-      "fecha": "14/07/2026 13:20",
-      "fecha_dt": "2026-07-14T13:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5Rov-ZYrHasJVhST0NTz7J4uei_sLe0vz0Eoj5kuoOPCSsxoFg4icz0vrRtQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=spain+vs+france",
-      "status": ""
-    },
-    {
-      "titulo": "familia real noruega",
-      "descripcion": "La Familia Real noruega recibe a Haaland tras el Mundial en una imagen para la historia sin Mette-Marit",
-      "trafico": "200+",
-      "fecha": "14/07/2026 12:50",
-      "fecha_dt": "2026-07-14T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tAPhMqym6znAMpL6uY5R19gbiNkpuZYt0mGGAe25BRHWL-9JC-e3E_W1Y30",
-      "link": "https://trends.google.com/trending?geo=MX&q=familia+real+noruega",
-      "status": ""
-    },
-    {
-      "titulo": "rosario piedra ibarra",
-      "descripcion": "La CNDH, contra la 4T… y la CNDH",
+      "titulo": "scotiabank",
+      "descripcion": "Here's Why Newmont Stock Popped Today (Hint: Wall Street Likes its Valuation)",
       "trafico": "100+",
-      "fecha": "14/07/2026 14:00",
-      "fecha_dt": "2026-07-14T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc5JYXS7yX2B_v7WeRsXyQ2_1xglSqlFXBlarfuqRvrQktCRb0x336AXdFvpc",
-      "link": "https://trends.google.com/trending?geo=MX&q=rosario+piedra+ibarra",
+      "fecha": "14/07/2026 16:00",
+      "fecha_dt": "2026-07-14T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1hfxLYwFVAwMZXGMZdDrMLAL_aA8-Ty6HOpSJTDyZhz-2k49X-zCcT9N4CWI",
+      "link": "https://trends.google.com/trending?geo=MX&q=scotiabank",
       "status": ""
     }
   ]
