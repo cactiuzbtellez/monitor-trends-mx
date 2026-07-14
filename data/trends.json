@@ -1,18 +1,8 @@
 {
-  "actualizado": "14/07/2026 09:06 UTC",
+  "actualizado": "14/07/2026 11:27 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
-    {
-      "titulo": "home run derby mlb",
-      "descripcion": "Walker stuns Schwarber, becomes Cardinals' first Derby champ",
-      "trafico": "5000+",
-      "fecha": "14/07/2026 04:20",
-      "fecha_dt": "2026-07-14T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcG_Vy-2uOqiIQKZC2c4yZydcQuXbMANj6cF4SW-OdgVdYlea47bG82Io_R1Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=home+run+derby+mlb",
-      "status": ""
-    },
     {
       "titulo": "flor vigna",
       "descripcion": "\"Necesitaba ayudar a mi familia\": el motivo detrás del desembarco de Flor Vigna en OnlyFans",
@@ -24,33 +14,23 @@
       "status": ""
     },
     {
-      "titulo": "iphone",
-      "descripcion": "Siri AI is already changing how I use my iPhone",
-      "trafico": "5000+",
-      "fecha": "14/07/2026 02:20",
-      "fecha_dt": "2026-07-14T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwxDuYGHz6TW8AWKk2xh1gdUumZ5Lcowds5iYpjTafQIu0zf4gPW5gQTuGZLs",
-      "link": "https://trends.google.com/trending?geo=MX&q=iphone",
+      "titulo": "cyclospora",
+      "descripcion": "‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak",
+      "trafico": "500+",
+      "fecha": "14/07/2026 05:00",
+      "fecha_dt": "2026-07-14T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeiSV6fiRxxZq9Yi1I7b3y3Npb2v2l5V2weRG8VKqWrWnF8fxHGAoVJmxTvL4",
+      "link": "https://trends.google.com/trending?geo=MX&q=cyclospora",
       "status": ""
     },
     {
       "titulo": "granizo",
-      "descripcion": "ANTE RIESGOS POR LLUVIAS, LOS TRES ÓRDENES DE GOBIERNO REFUERZAN PROTOCOLOS DE RESPUESTA Y MONITOREO",
-      "trafico": "1000+",
+      "descripcion": "Llega ahora el monzón mexicano y azotará con más lluvias y vientos fuertes este martes",
+      "trafico": "500+",
       "fecha": "14/07/2026 03:20",
       "fecha_dt": "2026-07-14T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyCgrw_n_tYo1qAkH2Pm-PkQvPwQgoN4-M070qjNIBu7a1q5GbPpRfeymCbOs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrqa92phS8hm8fzM3RNvXKlxHTCsXF1Psp2BSeovyvcAgXZvjQ96Rd8wFedOg",
       "link": "https://trends.google.com/trending?geo=MX&q=granizo",
-      "status": ""
-    },
-    {
-      "titulo": "cyclospora",
-      "descripcion": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
-      "trafico": "500+",
-      "fecha": "14/07/2026 05:00",
-      "fecha_dt": "2026-07-14T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2WdKWqfiw_69nd7iKT1ypOHny93I8ZfDxzdfQgm9xuZjq6-98WQODbkbaNhE",
-      "link": "https://trends.google.com/trending?geo=MX&q=cyclospora",
       "status": ""
     },
     {
@@ -101,6 +81,26 @@
       "fecha_dt": "2026-07-14T03:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsdedPE6vowa6SIHryO1aL23wB022kzAYItL0Sk0sio8N9QHF52CeT2596q_c",
       "link": "https://trends.google.com/trending?geo=MX&q=selección+de+fútbol+sub-20+de+méxico",
+      "status": ""
+    },
+    {
+      "titulo": "mlb home run derby 2026",
+      "descripcion": "Michael Irvin on filming content for his Netflix podcast at 2026 Home Run Derby: 'I'm excited about it'",
+      "trafico": "200+",
+      "fecha": "14/07/2026 03:00",
+      "fecha_dt": "2026-07-14T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjC-uU1cVX-7sgi-OhTCI_Fwt3Ms6P9adadbNSmWcroUaIzEqvP_TTXlYnujU",
+      "link": "https://trends.google.com/trending?geo=MX&q=mlb+home+run+derby+2026",
+      "status": ""
+    },
+    {
+      "titulo": "cayetana rivera y martínez de irujo",
+      "descripcion": "Tana Rivera y Andrés Roca Rey, nueva cita romántica",
+      "trafico": "100+",
+      "fecha": "14/07/2026 10:10",
+      "fecha_dt": "2026-07-14T10:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMCxGufYfPMw8qh59YCRo2-BWjBWo18s9oLJVbLToMaAlxlM1jS7shxBr0MxE",
+      "link": "https://trends.google.com/trending?geo=MX&q=cayetana+rivera+y+martínez+de+irujo",
       "status": ""
     }
   ]
