@@ -1,65 +1,85 @@
 {
-  "actualizado": "16/07/2026 10:12 UTC",
+  "actualizado": "16/07/2026 12:22 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "ricardo salinas pliego",
-      "descripcion": "Mientras Salinas Pliego pelea con la 4T, sus ganancias con Afore Azteca se multiplican por 15",
-      "trafico": "2000+",
-      "fecha": "16/07/2026 04:00",
-      "fecha_dt": "2026-07-16T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDG1bFMp5EEKuCPOOtAnTLEi3aXa162mj2VEFMfHpiuJY6GqT1fakDR_m5uM",
-      "link": "https://trends.google.com/trending?geo=MX&q=ricardo+salinas+pliego",
+      "titulo": "hora",
+      "descripcion": "¿Cómo están las apuestas para el Inglaterra vs Argentina?",
+      "trafico": "200000+",
+      "fecha": "16/07/2026 10:40",
+      "fecha_dt": "2026-07-16T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToUcPOF47BYYoI6Y5sScRnwrOcaJGMgO5h-R0rWcHZ9YiVpSvZHGVUinn00g",
+      "link": "https://trends.google.com/trending?geo=MX&q=hora",
       "status": ""
     },
     {
-      "titulo": "instituto nacional electoral",
-      "descripcion": "TEPJF confirma sanciones del INE contra la organización ciudadana México Tiene Vida",
-      "trafico": "500+",
-      "fecha": "16/07/2026 05:30",
-      "fecha_dt": "2026-07-16T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS48sKoLio9ldhjdOJxIM4xZerWyXMKqWAoAkyr2J_f6jfDpxFczPeJwd1RMxQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=instituto+nacional+electoral",
+      "titulo": "proceso",
+      "descripcion": "La FGR tardó 10 meses en descubrir que entregó a EU al piloto del caso El Mayo",
+      "trafico": "2000+",
+      "fecha": "16/07/2026 11:40",
+      "fecha_dt": "2026-07-16T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-kpJgLXgGCrrPCzWyFi3ivp-m8rvrCUiyQcivX9yjMzodxrzmuSI0VSJtr2g",
+      "link": "https://trends.google.com/trending?geo=MX&q=proceso",
+      "status": ""
+    },
+    {
+      "titulo": "clima chihuahua",
+      "descripcion": "Clima Hoy en el Estado de Chihuahua 15 de Julio del 2026",
+      "trafico": "1000+",
+      "fecha": "16/07/2026 12:00",
+      "fecha_dt": "2026-07-16T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUkfwsORP6oM2SZrgIq0Ph8-3AUE8reGeITdI6f3pLKbuI1d32_PVCPHYSo54",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+chihuahua",
+      "status": ""
+    },
+    {
+      "titulo": "melate",
+      "descripcion": "Resultados Melate, Revancha y Revanchita 4239: números ganadores del miércoles 15 de Julio 2026",
+      "trafico": "200+",
+      "fecha": "16/07/2026 11:50",
+      "fecha_dt": "2026-07-16T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUp_UYeu30rmO6ZpHDLWsMK-ehlJKvvU1Vt860gDAhUTYB4xjWllSIz0t2QWI",
+      "link": "https://trends.google.com/trending?geo=MX&q=melate",
+      "status": ""
+    },
+    {
+      "titulo": "canícula",
+      "descripcion": "Secretaría de Medio Ambiente emite recomendaciones ante la llegada de la canícula",
+      "trafico": "200+",
+      "fecha": "16/07/2026 11:10",
+      "fecha_dt": "2026-07-16T11:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRui4mNi2lQQqJBpBtk8X7xkXHCgUn-RhkKcuhRp8cX8ZxaLkq9iaSbrYrI29s",
+      "link": "https://trends.google.com/trending?geo=MX&q=canícula",
       "status": ""
     },
     {
       "titulo": "clima guadalajara",
-      "descripcion": "Clima en Guadalajara hoy: el pronóstico para el jueves 16 de julio de 2026",
+      "descripcion": "Prevén lluvias puntuales fuertes para este jueves en Jalisco",
       "trafico": "200+",
       "fecha": "16/07/2026 08:20",
       "fecha_dt": "2026-07-16T08:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRq4DUGuasK6C-XEaNzVyVgWTT_F5cLNiC_DtCjqY7gFtl3W-rh6vXI8yAGIoo",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+guadalajara",
       "status": ""
     },
     {
-      "titulo": "tigres vs",
-      "descripcion": "Diablos Rojos vs Tigres",
-      "trafico": "200+",
-      "fecha": "16/07/2026 06:20",
-      "fecha_dt": "2026-07-16T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4K6unyRGKNN_nc8iWIW-nH74Az2ovc9Q7s6xX3Bwjs8HSbsNUrOCijnN2yk",
-      "link": "https://trends.google.com/trending?geo=MX&q=tigres+vs",
-      "status": ""
-    },
-    {
-      "titulo": "sonora",
-      "descripcion": "Pronostican lluvias fuertes para Hermosillo y el sur de Sonora en las próximas horas de este martes; alertan por crecimiento de ríos y arroyos",
-      "trafico": "200+",
-      "fecha": "16/07/2026 04:10",
-      "fecha_dt": "2026-07-16T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXRAWzZImohp9WIc_vbRyxYpNzoWAqwNQsBCvXh5W9jLcY1EOTwtT3NfzL4TA",
-      "link": "https://trends.google.com/trending?geo=MX&q=sonora",
+      "titulo": "exportación",
+      "descripcion": "Trump se enreda de nuevo en una guerra de Irán sin salida clara",
+      "trafico": "100+",
+      "fecha": "16/07/2026 10:30",
+      "fecha_dt": "2026-07-16T10:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWM73KMPl97tJoghIvjo_wVsOuADKEF0bIFSTy_OhaKK2XS83rsa-ghD4YxCo",
+      "link": "https://trends.google.com/trending?geo=MX&q=exportación",
       "status": ""
     },
     {
       "titulo": "hola",
-      "descripcion": "Princess Stéphanie of Monaco made this plunging swimsuit famous. Now her daughter is bringing it back.",
+      "descripcion": "El hermano menor de Lamine Yamal se gana el corazón de internet",
       "trafico": "100+",
       "fecha": "16/07/2026 09:50",
       "fecha_dt": "2026-07-16T09:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKMq056nrrrw-CGL1jTK-C94-XhSARVVV41Ya0bvbKbXFAJokDwiHi0Cvy5w",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7uB_cfEPmB6rjZdeR56QYQAIxKbFJXcl2hjE4ZynRGlbt3CFq6hAhNw9TfLg",
       "link": "https://trends.google.com/trending?geo=MX&q=hola",
       "status": ""
     },
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-07-16T07:20:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4Y-py3Nv97OxsMZ9fBgOjJZdtk9TXpASd9VPL-v9nlA2CasC-6pemxNqJOj4",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+acapulco",
-      "status": ""
-    },
-    {
-      "titulo": "toros de tijuana",
-      "descripcion": "Juegos y Posiciones en LMB",
-      "trafico": "100+",
-      "fecha": "16/07/2026 05:10",
-      "fecha_dt": "2026-07-16T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVtOi7RCxDEJQDyt4OFn3tdOD4Gy-b5Od7akydNP9xQZvFipNSKyK8qblfq2A",
-      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
-      "status": ""
-    },
-    {
-      "titulo": "melate 4239",
-      "descripcion": "Resultados Melate, Revancha y Revanchita 4239: números ganadores del miércoles 15 de Julio 2026",
-      "trafico": "100+",
-      "fecha": "16/07/2026 05:10",
-      "fecha_dt": "2026-07-16T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUp_UYeu30rmO6ZpHDLWsMK-ehlJKvvU1Vt860gDAhUTYB4xjWllSIz0t2QWI",
-      "link": "https://trends.google.com/trending?geo=MX&q=melate+4239",
       "status": ""
     }
   ]
