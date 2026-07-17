@@ -1,46 +1,86 @@
 {
-  "actualizado": "17/07/2026 16:17 UTC",
+  "actualizado": "17/07/2026 18:08 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "temblor hoy",
-      "descripcion": "Un terremoto de 7,4 se registra en el sur de México sin que se activara la alerta sísmica",
-      "trafico": "100000+",
-      "fecha": "17/07/2026 14:50",
-      "fecha_dt": "2026-07-17T14:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOsoquUf1lLYsoV1EG8S2LT6ooDcX2qFBY8GK9WokZ-CZ5PFNRNKuyRKlOjzY",
-      "link": "https://trends.google.com/trending?geo=MX&q=temblor+hoy",
+      "titulo": "aylin mujica",
+      "descripcion": "Muere hijo de Aylín Mujica a los 30 años, reportan",
+      "trafico": "2000+",
+      "fecha": "17/07/2026 17:20",
+      "fecha_dt": "2026-07-17T17:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9CMhe6DZ0k6CVE-5suj8SW_rw6CRu2CNMsuVdKVZk34JBqMn5h4s9fd8mnC8",
+      "link": "https://trends.google.com/trending?geo=MX&q=aylin+mujica",
       "status": ""
     },
     {
-      "titulo": "smn",
-      "descripcion": "Clima en CDMX y Edomex: Viernes con cielo nublado para el 17 de julio",
+      "titulo": "cucurella",
+      "descripcion": "España derrota 2-0 a Francia",
       "trafico": "2000+",
-      "fecha": "17/07/2026 15:00",
-      "fecha_dt": "2026-07-17T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7RQ-cddm_RkWzfJToS4kKF7rIRv5AQVQOsIeLk64JDcdN2zjlp_ae2cuXTHk",
-      "link": "https://trends.google.com/trending?geo=MX&q=smn",
+      "fecha": "17/07/2026 16:50",
+      "fecha_dt": "2026-07-17T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS6aGjPB8Hev6B8tL9QdR6O_aCTBkl0ME5NFXHTRQND1ds69X7w1eeY4CO3oU",
+      "link": "https://trends.google.com/trending?geo=MX&q=cucurella",
+      "status": ""
+    },
+    {
+      "titulo": "marc cucurella",
+      "descripcion": "Marc Cucurella said what nobody expected about his Spanish national team future",
+      "trafico": "2000+",
+      "fecha": "17/07/2026 16:40",
+      "fecha_dt": "2026-07-17T16:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFqgfqj_el1Kthlen9ZJo08Dxt6aXOo3GuLjkN64rrU7twB40vDGaJ34jy_l0",
+      "link": "https://trends.google.com/trending?geo=MX&q=marc+cucurella",
       "status": ""
     },
     {
       "titulo": "earthquake",
       "descripcion": "Powerful earthquake in Mexico shakes Guatemala and El Salvador",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "17/07/2026 15:20",
       "fecha_dt": "2026-07-17T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS459bPJhEdzSmSetg6H-7EqmfuzcjNOXthyZgitO0c098lPSEPcBGjK3QMWXs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSht-hB96njAIjdLip95stsTBb_ACYW6lZW21KHKKMFqijjbvulkbCPMiq9Es4",
       "link": "https://trends.google.com/trending?geo=MX&q=earthquake",
       "status": ""
     },
     {
-      "titulo": "noticias",
-      "descripcion": "Meor concreta la venta de dos etapas de HubsPark Juárez",
+      "titulo": "red sox - rays",
+      "descripcion": "Red Sox without best hitter for one more game Friday as doubleheader starts with rookie on mound",
       "trafico": "500+",
-      "fecha": "17/07/2026 15:00",
-      "fecha_dt": "2026-07-17T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSlgnnjBNtLPd6s2rs7icNupViJn4WJ2PUAkRJuG2pv_RX2-_TDJdZZqQ6eE",
-      "link": "https://trends.google.com/trending?geo=MX&q=noticias",
+      "fecha": "17/07/2026 17:30",
+      "fecha_dt": "2026-07-17T17:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhS8Tw3Q6RZ2FxuHUvJlyUrSIWNPKtp9wgJBpBynO0luxIxBbUEB3-I5lGNBE",
+      "link": "https://trends.google.com/trending?geo=MX&q=red+sox+-+rays",
+      "status": ""
+    },
+    {
+      "titulo": "nueva especie de mono",
+      "descripcion": "La nueva especie de mono con labios naranjas que fue descubierta en el corazón de África",
+      "trafico": "200+",
+      "fecha": "17/07/2026 16:20",
+      "fecha_dt": "2026-07-17T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBAW863gCY88eiDwcv0ZgkGpx2CetL2YU9qxDv1uN_ZYDrVdhQpA4GvqEQmwc",
+      "link": "https://trends.google.com/trending?geo=MX&q=nueva+especie+de+mono",
+      "status": ""
+    },
+    {
+      "titulo": "keira knightley",
+      "descripcion": "The “sensational” co-star who blew Keira Knightley’s mind: “It just worked”",
+      "trafico": "100+",
+      "fecha": "17/07/2026 18:00",
+      "fecha_dt": "2026-07-17T18:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdLLxhXCJqrtO99GKPUgV5PiOfd0QzLTeVc0iWPISnq1QIduh5z6jSA3MnXmo",
+      "link": "https://trends.google.com/trending?geo=MX&q=keira+knightley",
+      "status": ""
+    },
+    {
+      "titulo": "lhs 1140b",
+      "descripcion": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+      "trafico": "100+",
+      "fecha": "17/07/2026 17:00",
+      "fecha_dt": "2026-07-17T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh90Riml7RLCDV60HhAjTeynqw935Q16iRXN254kDnaCj2VVKm2bT3TF5HkXw",
+      "link": "https://trends.google.com/trending?geo=MX&q=lhs+1140b",
       "status": ""
     },
     {
@@ -55,52 +95,12 @@
     },
     {
       "titulo": "noticias en vivo",
-      "descripcion": "Argentina vs. España, la final del Mundial 2026: bienvenidos al mejor partido posible",
+      "descripcion": "Argentina vs España: definida la ropa que usarán para la final del Mundial 2026",
       "trafico": "100+",
       "fecha": "17/07/2026 16:00",
       "fecha_dt": "2026-07-17T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8T254TvMAmDF163wc7B-XRlImWUIuRMux4sKtU1ZJ30sIBDdPpM7_tPApSBc",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6TjL2YChiZ-cEuyuNqfxO3zPkjU8dBo8oJRjm5wugHGZgAOmZ-UB_-Kddv6g",
       "link": "https://trends.google.com/trending?geo=MX&q=noticias+en+vivo",
-      "status": ""
-    },
-    {
-      "titulo": "te",
-      "descripcion": "Brandweer verzaagt boom die dreigt om te vallen aan Het Melkhuisje",
-      "trafico": "100+",
-      "fecha": "17/07/2026 15:10",
-      "fecha_dt": "2026-07-17T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQZxXFGwjbwzFE7ihjTGnzfAKrH1u2uytArwSJqyEPfq0fzmqv-ZA5dSaEBwI",
-      "link": "https://trends.google.com/trending?geo=MX&q=te",
-      "status": ""
-    },
-    {
-      "titulo": "forbes",
-      "descripcion": "NYT Strands Hints And Daily Guide For Puzzle #865 July 16 2026 Tips Theme Clues And Spangram Help",
-      "trafico": "100+",
-      "fecha": "17/07/2026 15:10",
-      "fecha_dt": "2026-07-17T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHplf25WYUrSVsxUxI9IgXrHcLaFVYWxNiReWy9plxni8-MtrptAfBjg3my8E",
-      "link": "https://trends.google.com/trending?geo=MX&q=forbes",
-      "status": ""
-    },
-    {
-      "titulo": "expulsión",
-      "descripcion": "Decenas marchan en Oaxaca contra la gentrificación y turismo masivo",
-      "trafico": "100+",
-      "fecha": "17/07/2026 15:00",
-      "fecha_dt": "2026-07-17T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPuIdncil9b1BAdYnGtj3JUGfQsInTeQuiU-KLEGkBDmmo8OPf94LsRBY8qgs",
-      "link": "https://trends.google.com/trending?geo=MX&q=expulsión",
-      "status": ""
-    },
-    {
-      "titulo": "servicio de control de inmigración y aduanas",
-      "descripcion": "Exigen liberar a hermano de paisano asesinado por el ICE; es testigo directo",
-      "trafico": "100+",
-      "fecha": "17/07/2026 15:00",
-      "fecha_dt": "2026-07-17T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCnEQ2FQo4D4F6xgmhOadgneUpOeZjuqUuayQOmEMwIS_nBvuySAgnbfi4LRA",
-      "link": "https://trends.google.com/trending?geo=MX&q=servicio+de+control+de+inmigración+y+aduanas",
       "status": ""
     }
   ]
