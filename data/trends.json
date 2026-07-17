@@ -1,12 +1,12 @@
 {
-  "actualizado": "17/07/2026 22:56 UTC",
+  "actualizado": "17/07/2026 23:58 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
-  "total": 12,
+  "total": 10,
   "trends": [
     {
       "titulo": "yankees - dodgers",
       "descripcion": "Today's top games to watch, best bets, odds: Dodgers vs. Yankees, White Sox vs. Blue Jays and more",
-      "trafico": "1000+",
+      "trafico": "5000+",
       "fecha": "17/07/2026 22:20",
       "fecha_dt": "2026-07-17T22:20:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ4GMLmG8dKCrlrCiJ7GaDVXXex45ifSO-7BxfqWQPGZS5SNMYgmWBW3vb9RM",
@@ -14,29 +14,19 @@
       "status": ""
     },
     {
-      "titulo": "aguinaldo",
-      "descripcion": "Aguinaldo y sueldo se cobra desde hoy 17 de julio, según cronograma de pagos del Banco de la Nación",
-      "trafico": "1000+",
-      "fecha": "17/07/2026 22:10",
-      "fecha_dt": "2026-07-17T22:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShARXEe3wVWMgA4qz8CUpmUltjjaXNlrzdCV1L_Zd96t5WHuuuvhL9Q-p6mI",
-      "link": "https://trends.google.com/trending?geo=MX&q=aguinaldo",
-      "status": ""
-    },
-    {
-      "titulo": "estadio banorte",
-      "descripcion": "¿Por qué Cruz Azul no tiene estadio propio?",
-      "trafico": "1000+",
-      "fecha": "17/07/2026 21:40",
-      "fecha_dt": "2026-07-17T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJr08Y39eDq2ijK2ufr4Egluc5wd01HldL3dMXPsGwTN1PDISTUrq_PJUCfI",
-      "link": "https://trends.google.com/trending?geo=MX&q=estadio+banorte",
+      "titulo": "cruz azul",
+      "descripcion": "Cruz Azul jugará en el Banorte el Apertura 2026: Oficial",
+      "trafico": "2000+",
+      "fecha": "17/07/2026 23:10",
+      "fecha_dt": "2026-07-17T23:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcdf09mw3cCVtRdbtHsPYCVV43cFf2JBq-UxjxVpqPKqrbKmsRyXUnbywX-jI",
+      "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul",
       "status": ""
     },
     {
       "titulo": "fluminense - bragantino",
       "descripcion": "De Olho Neles: como estava o RB Bragantino antes da pausa para a Copa do Mundo",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "17/07/2026 22:30",
       "fecha_dt": "2026-07-17T22:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcjSg4lnXWDFpznxaROaVSu3LtVPqnPh6qteiYeNa6aJgzV6bg7CFp3N0Gfk0",
@@ -44,59 +34,19 @@
       "status": ""
     },
     {
-      "titulo": "deslizamiento de tierra en china",
-      "descripcion": "Deslizamiento de tierra en China deja desaparecidos y más de mil evacuados",
-      "trafico": "200+",
-      "fecha": "17/07/2026 22:20",
-      "fecha_dt": "2026-07-17T22:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShxXo3OAmcmalTETxryH5TxCipW1b0e9Ph5CgfF6yzbgKDcD6xteBd9CSx_Yw",
-      "link": "https://trends.google.com/trending?geo=MX&q=deslizamiento+de+tierra+en+china",
-      "status": ""
-    },
-    {
-      "titulo": "san lorenzo vs deportivo riestra",
-      "descripcion": "Cuándo juegan San Lorenzo vs. Riestra por la Copa Argentina: equipo, fecha, hora y TV en vivo",
-      "trafico": "200+",
-      "fecha": "17/07/2026 22:00",
-      "fecha_dt": "2026-07-17T22:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2gai77RxIuYUEzYF3dBZ5JpCnMTetWVnuB64SRooFj2zn-JqY7rf9YgAFt2s",
-      "link": "https://trends.google.com/trending?geo=MX&q=san+lorenzo+vs+deportivo+riestra",
-      "status": ""
-    },
-    {
-      "titulo": "petróleos mexicanos",
-      "descripcion": "'Desaparece' Pemex 1 de cada 12 barriles",
-      "trafico": "200+",
-      "fecha": "17/07/2026 21:40",
-      "fecha_dt": "2026-07-17T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSys8AxTZECyc4EowSUNFjWh_Xkl1ttMN25JE84b5_opB3-KezLe_wKunUAacg",
-      "link": "https://trends.google.com/trending?geo=MX&q=petróleos+mexicanos",
-      "status": ""
-    },
-    {
-      "titulo": "ronaldo",
-      "descripcion": "Ronaldo sentenció el final de la carrera de Cristiano Ronaldo tras Mundial 2026",
-      "trafico": "200+",
-      "fecha": "17/07/2026 21:40",
-      "fecha_dt": "2026-07-17T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTi7khVJaD8e-P_tWkiiAmSEO20KrK5wIYNB0MpH3Oyxh95ZFKyfpY91sAwgQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=ronaldo",
-      "status": ""
-    },
-    {
-      "titulo": "vix index",
-      "descripcion": "VIX climbs to 18 as weekly surge signals evaporating complacency",
-      "trafico": "200+",
-      "fecha": "17/07/2026 21:30",
-      "fecha_dt": "2026-07-17T21:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2FLV8G2qqn5Lj65ROym_JErBM9wUUne2SOD6PEANUiLNQuX3RgKN4ohowNow",
-      "link": "https://trends.google.com/trending?geo=MX&q=vix+index",
+      "titulo": "árbitro",
+      "descripcion": "Narcóticos, prostitución y tráfico de armas; así es el pasado del árbitro de la Final del Mundial 2026",
+      "trafico": "500+",
+      "fecha": "17/07/2026 23:20",
+      "fecha_dt": "2026-07-17T23:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNKyRTxzCihBNEn2SOsJ54C7uri6RjyeZHEWub-KAW0LQABH0BirmJds_t8Fg",
+      "link": "https://trends.google.com/trending?geo=MX&q=árbitro",
       "status": ""
     },
     {
       "titulo": "petróleo",
       "descripcion": "Lanza Irán ataques a Baréin, Kuwait y Qatar",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "17/07/2026 22:50",
       "fecha_dt": "2026-07-17T22:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWGPUQOFjph1JmTkBy-Z2F6iqh83-xb_Z1zoeqLmhnL_pBiINOxVc0u_ZWuo8",
@@ -106,7 +56,7 @@
     {
       "titulo": "falsificación",
       "descripcion": "¡Mucho cuidado! Cofepris alerta por falsificación de un producto para el monitoreo de la glucosa",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "17/07/2026 22:50",
       "fecha_dt": "2026-07-17T22:50:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95El8LjaMV0v3JBeCapdUtqbytllQzQlU96YRRj9EZRncHoscB1a69ZLtMfY",
@@ -114,13 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "s&p 500",
-      "descripcion": "Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks",
+      "titulo": "braves - rangers",
+      "descripcion": "Sale opens second half as Braves face key stretch before Deadline",
+      "trafico": "200+",
+      "fecha": "17/07/2026 23:50",
+      "fecha_dt": "2026-07-17T23:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsCjbSqGSbZh_OLejFah4xo5FX2S_6i_3nSQMC7VNJ8hD9s52dE-QXOWbS8Go",
+      "link": "https://trends.google.com/trending?geo=MX&q=braves+-+rangers",
+      "status": ""
+    },
+    {
+      "titulo": "blue jays - white sox",
+      "descripcion": "White Sox have perfect chance to checkmate Blue Jays into trade deadline fire sale",
+      "trafico": "200+",
+      "fecha": "17/07/2026 23:40",
+      "fecha_dt": "2026-07-17T23:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZz8DVQOuGuDmXGl7V48QgZiADA2DmhIRceMVOPW7K8d0HMxHTS5rUYfq5xxg",
+      "link": "https://trends.google.com/trending?geo=MX&q=blue+jays+-+white+sox",
+      "status": ""
+    },
+    {
+      "titulo": "fever - storm",
+      "descripcion": "Where to watch Caitlin Clark, Indiana Fever vs. Seattle Storm",
+      "trafico": "200+",
+      "fecha": "17/07/2026 23:40",
+      "fecha_dt": "2026-07-17T23:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWDWED-UAse4VnopPbPk5kn-HyM8h9ejunrleewgMVAur8XzJ1ML489BSQ87Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=fever+-+storm",
+      "status": ""
+    },
+    {
+      "titulo": "bahía - chapecoense",
+      "descripcion": "Bahia x Chapecoense: Tricolor faz 2 a 0 no primeiro tempo com gols de Rodrigo Nestor e Román Gómez",
       "trafico": "100+",
-      "fecha": "17/07/2026 22:00",
-      "fecha_dt": "2026-07-17T22:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRFoOlB_9PQUKYdRVsH843wbf7rQksYOVtcjRtnQuR1lXOkXewW7mrVeTetU",
-      "link": "https://trends.google.com/trending?geo=MX&q=s&p+500",
+      "fecha": "17/07/2026 23:10",
+      "fecha_dt": "2026-07-17T23:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-eT-mD2q70itM77F9dJYD_vqdo2mvPLPugbwtzqWwVL3ggBx0Dt4TyEG4zTU",
+      "link": "https://trends.google.com/trending?geo=MX&q=bahía+-+chapecoense",
       "status": ""
     }
   ]
