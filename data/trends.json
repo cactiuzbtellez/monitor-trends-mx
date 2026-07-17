@@ -1,26 +1,66 @@
 {
-  "actualizado": "17/07/2026 21:56 UTC",
+  "actualizado": "17/07/2026 22:56 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
-  "total": 10,
+  "total": 12,
   "trends": [
     {
+      "titulo": "yankees - dodgers",
+      "descripcion": "Today's top games to watch, best bets, odds: Dodgers vs. Yankees, White Sox vs. Blue Jays and more",
+      "trafico": "1000+",
+      "fecha": "17/07/2026 22:20",
+      "fecha_dt": "2026-07-17T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ4GMLmG8dKCrlrCiJ7GaDVXXex45ifSO-7BxfqWQPGZS5SNMYgmWBW3vb9RM",
+      "link": "https://trends.google.com/trending?geo=MX&q=yankees+-+dodgers",
+      "status": ""
+    },
+    {
+      "titulo": "aguinaldo",
+      "descripcion": "Aguinaldo y sueldo se cobra desde hoy 17 de julio, según cronograma de pagos del Banco de la Nación",
+      "trafico": "1000+",
+      "fecha": "17/07/2026 22:10",
+      "fecha_dt": "2026-07-17T22:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRShARXEe3wVWMgA4qz8CUpmUltjjaXNlrzdCV1L_Zd96t5WHuuuvhL9Q-p6mI",
+      "link": "https://trends.google.com/trending?geo=MX&q=aguinaldo",
+      "status": ""
+    },
+    {
       "titulo": "estadio banorte",
-      "descripcion": "Cruz Azul jugará en el Banorte el Apertura 2026: Oficial",
+      "descripcion": "¿Por qué Cruz Azul no tiene estadio propio?",
       "trafico": "1000+",
       "fecha": "17/07/2026 21:40",
       "fecha_dt": "2026-07-17T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcdf09mw3cCVtRdbtHsPYCVV43cFf2JBq-UxjxVpqPKqrbKmsRyXUnbywX-jI",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJr08Y39eDq2ijK2ufr4Egluc5wd01HldL3dMXPsGwTN1PDISTUrq_PJUCfI",
       "link": "https://trends.google.com/trending?geo=MX&q=estadio+banorte",
       "status": ""
     },
     {
-      "titulo": "ronaldo",
-      "descripcion": "Ronaldo sentenció el final de la carrera de Cristiano Ronaldo tras Mundial 2026",
+      "titulo": "fluminense - bragantino",
+      "descripcion": "De Olho Neles: como estava o RB Bragantino antes da pausa para a Copa do Mundo",
       "trafico": "200+",
-      "fecha": "17/07/2026 21:40",
-      "fecha_dt": "2026-07-17T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTi7khVJaD8e-P_tWkiiAmSEO20KrK5wIYNB0MpH3Oyxh95ZFKyfpY91sAwgQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=ronaldo",
+      "fecha": "17/07/2026 22:30",
+      "fecha_dt": "2026-07-17T22:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcjSg4lnXWDFpznxaROaVSu3LtVPqnPh6qteiYeNa6aJgzV6bg7CFp3N0Gfk0",
+      "link": "https://trends.google.com/trending?geo=MX&q=fluminense+-+bragantino",
+      "status": ""
+    },
+    {
+      "titulo": "deslizamiento de tierra en china",
+      "descripcion": "Deslizamiento de tierra en China deja desaparecidos y más de mil evacuados",
+      "trafico": "200+",
+      "fecha": "17/07/2026 22:20",
+      "fecha_dt": "2026-07-17T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShxXo3OAmcmalTETxryH5TxCipW1b0e9Ph5CgfF6yzbgKDcD6xteBd9CSx_Yw",
+      "link": "https://trends.google.com/trending?geo=MX&q=deslizamiento+de+tierra+en+china",
+      "status": ""
+    },
+    {
+      "titulo": "san lorenzo vs deportivo riestra",
+      "descripcion": "Cuándo juegan San Lorenzo vs. Riestra por la Copa Argentina: equipo, fecha, hora y TV en vivo",
+      "trafico": "200+",
+      "fecha": "17/07/2026 22:00",
+      "fecha_dt": "2026-07-17T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2gai77RxIuYUEzYF3dBZ5JpCnMTetWVnuB64SRooFj2zn-JqY7rf9YgAFt2s",
+      "link": "https://trends.google.com/trending?geo=MX&q=san+lorenzo+vs+deportivo+riestra",
       "status": ""
     },
     {
@@ -34,6 +74,16 @@
       "status": ""
     },
     {
+      "titulo": "ronaldo",
+      "descripcion": "Ronaldo sentenció el final de la carrera de Cristiano Ronaldo tras Mundial 2026",
+      "trafico": "200+",
+      "fecha": "17/07/2026 21:40",
+      "fecha_dt": "2026-07-17T21:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTi7khVJaD8e-P_tWkiiAmSEO20KrK5wIYNB0MpH3Oyxh95ZFKyfpY91sAwgQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=ronaldo",
+      "status": ""
+    },
+    {
       "titulo": "vix index",
       "descripcion": "VIX climbs to 18 as weekly surge signals evaporating complacency",
       "trafico": "200+",
@@ -44,63 +94,33 @@
       "status": ""
     },
     {
-      "titulo": "las mañaneras",
-      "descripcion": "Sheinbaum pide a Marina del Pilar rendir cuentas sobre reunión con EU: ‘Tiene que dar una explicación’",
+      "titulo": "petróleo",
+      "descripcion": "Lanza Irán ataques a Baréin, Kuwait y Qatar",
       "trafico": "200+",
-      "fecha": "17/07/2026 21:20",
-      "fecha_dt": "2026-07-17T21:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOL25HHaGZsFFVRPxyCAru2iRviEhq-emhO4Zt6j8PpjoZIPdW5eT6c8Ykolk",
-      "link": "https://trends.google.com/trending?geo=MX&q=las+mañaneras",
+      "fecha": "17/07/2026 22:50",
+      "fecha_dt": "2026-07-17T22:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWGPUQOFjph1JmTkBy-Z2F6iqh83-xb_Z1zoeqLmhnL_pBiINOxVc0u_ZWuo8",
+      "link": "https://trends.google.com/trending?geo=MX&q=petróleo",
       "status": ""
     },
     {
-      "titulo": "hora cero",
-      "descripcion": "Se acerca la \"hora cero\" para atacar a las fuerzas navales de EU, advierte Irán; \"movimientos y equipamiento están bajo vigilancia\"",
+      "titulo": "falsificación",
+      "descripcion": "¡Mucho cuidado! Cofepris alerta por falsificación de un producto para el monitoreo de la glucosa",
       "trafico": "200+",
-      "fecha": "17/07/2026 21:00",
-      "fecha_dt": "2026-07-17T21:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvtJroLvUlPruVXkLk-dKUWY6MGwAghv4Q5BgJP39vjKGh537MQ2cbpfqsewE",
-      "link": "https://trends.google.com/trending?geo=MX&q=hora+cero",
+      "fecha": "17/07/2026 22:50",
+      "fecha_dt": "2026-07-17T22:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95El8LjaMV0v3JBeCapdUtqbytllQzQlU96YRRj9EZRncHoscB1a69ZLtMfY",
+      "link": "https://trends.google.com/trending?geo=MX&q=falsificación",
       "status": ""
     },
     {
-      "titulo": "clima culiacan",
-      "descripcion": "Sinaloa espera lluvias muy fuertes este jueves; también persistirá el calor de hasta 40 grados",
-      "trafico": "200+",
-      "fecha": "17/07/2026 20:30",
-      "fecha_dt": "2026-07-17T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPPzgFRT-gEwZGVlgboTI70jijbS6BFGcR38OEd3VX9Tnvl7nN0JLqPWTWmo",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+culiacan",
-      "status": ""
-    },
-    {
-      "titulo": "pep guardiola",
-      "descripcion": "Guardiola: “En el Mundial voy con jugadores que me gustan: Portugal, Argentina...”",
-      "trafico": "200+",
-      "fecha": "17/07/2026 20:20",
-      "fecha_dt": "2026-07-17T20:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSuj0a-NfK6lWcuDPKz1QTqFgoENAS8GgPb7ACI3AjnT80_om0bbK7hip8pRE",
-      "link": "https://trends.google.com/trending?geo=MX&q=pep+guardiola",
-      "status": ""
-    },
-    {
-      "titulo": "sergio torres félix",
-      "descripcion": "Detienen a presuntos responsables del atentado contra diputados de MC, Elizabeth Montoya y Sergio Torres",
-      "trafico": "200+",
-      "fecha": "17/07/2026 20:20",
-      "fecha_dt": "2026-07-17T20:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQW0dlm4MdBHyU6uMjdVuwv8qo7K50aT-SRc1Vffg_jGDpAdynEw5us79jzh0A",
-      "link": "https://trends.google.com/trending?geo=MX&q=sergio+torres+félix",
-      "status": ""
-    },
-    {
-      "titulo": "óscar maydon música en mi jetski",
-      "descripcion": "Óscar Maydón lanza “Música en mi Jetski” y deja claro: seguirá haciendo corridos",
+      "titulo": "s&p 500",
+      "descripcion": "Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks",
       "trafico": "100+",
-      "fecha": "17/07/2026 21:10",
-      "fecha_dt": "2026-07-17T21:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1bmNCTnFFI24jsiRQeafaTwAEgsyq2jGkVVALehAHF58vmzsAy1Tf8F4PAY",
-      "link": "https://trends.google.com/trending?geo=MX&q=óscar+maydon+música+en+mi+jetski",
+      "fecha": "17/07/2026 22:00",
+      "fecha_dt": "2026-07-17T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReRFoOlB_9PQUKYdRVsH843wbf7rQksYOVtcjRtnQuR1lXOkXewW7mrVeTetU",
+      "link": "https://trends.google.com/trending?geo=MX&q=s&p+500",
       "status": ""
     }
   ]
