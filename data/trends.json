@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/07/2026 06:08 UTC",
+  "actualizado": "18/07/2026 08:50 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -15,12 +15,22 @@
     },
     {
       "titulo": "instituto mexicano del seguro social",
-      "descripcion": "Utilizarán e.firma para trámites patronales ante IMSS",
-      "trafico": "1000+",
+      "descripcion": "IMSS implementará e.firma como único certificado digital válido para personas empleadoras y sujetos obligados",
+      "trafico": "2000+",
       "fecha": "18/07/2026 03:40",
       "fecha_dt": "2026-07-18T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEXWHSxxsBwVV1D9ZkTmDoP_vjIBtJh_X1ykhqU0Qisth3XVzFeJP1vMZzCxk",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqbi6pDu-69ucNHWuni_ptBmweBXdRDXhtU7-hgF2nYztKG5vFwLRsy_ep4BU",
       "link": "https://trends.google.com/trending?geo=MX&q=instituto+mexicano+del+seguro+social",
+      "status": ""
+    },
+    {
+      "titulo": "juarez",
+      "descripcion": "Prevén lluvias en Chihuahua y 29 municipios más esta tarde-noche🎦",
+      "trafico": "1000+",
+      "fecha": "18/07/2026 03:50",
+      "fecha_dt": "2026-07-18T03:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQktD6Zzzi-dygcVDNgqX3LYYZ6y-xC-7AqiwLkeaSEKG_MlpvJb4IsyxujXxc",
+      "link": "https://trends.google.com/trending?geo=MX&q=juarez",
       "status": ""
     },
     {
@@ -34,19 +44,19 @@
       "status": ""
     },
     {
-      "titulo": "juarez",
-      "descripcion": "How to live stream FC Juarez vs Club Puebla: Liga MX, TV channel",
+      "titulo": "lotería nacional sorteo especial",
+      "descripcion": "Resultados Sorteo Especial 17 de julio: Números ganadores de la Lotería Nacional",
       "trafico": "500+",
-      "fecha": "18/07/2026 03:50",
-      "fecha_dt": "2026-07-18T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpyct_gqrJSUoTw0D8cVSnnhOvIxKwoiaQVXnpRucsEl2M24m3yAgSctyvsRg",
-      "link": "https://trends.google.com/trending?geo=MX&q=juarez",
+      "fecha": "18/07/2026 06:20",
+      "fecha_dt": "2026-07-18T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbBuE_hdIxP-4acONFe1I92fzOQEus2_5NQRT8AQj2eLdoeg_3BCeFoIW0vKE",
+      "link": "https://trends.google.com/trending?geo=MX&q=lotería+nacional+sorteo+especial",
       "status": ""
     },
     {
       "titulo": "clima durango",
       "descripcion": "¿Este sábado bajará el calor? Te decimos el pronóstico del clima para Coahuila y Durango",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "18/07/2026 06:00",
       "fecha_dt": "2026-07-18T06:00:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8lySHSg0xow-_bR15ekyuKSOl46wp_-IAVcdZh8QbDNporK2ZhyH1fIkRak",
@@ -55,12 +65,22 @@
     },
     {
       "titulo": "ofertas julio regalado soriana",
-      "descripcion": "Soriana ofertas hoy en shampoos y acondicionadores: así puedes obtener el 70 % de descuento | 17 de julio 2026",
-      "trafico": "200+",
+      "descripcion": "¿Productos al 4x3 y 4x2? Estas son las mejores ofertas de Julio Regalado en Soriana ésta semana",
+      "trafico": "500+",
       "fecha": "18/07/2026 05:50",
       "fecha_dt": "2026-07-18T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQsulYR0PB-yGEz07yrPj_BoCcZSw2NQGyS_DEP_bT3EywBUrGEPoQT1n-IAE",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUPfB7jjRY9gq0Qp-ydO6XA77Y6TQYTUhfiEqMr92c2lThsnlrr_bv1lzqNiQ",
       "link": "https://trends.google.com/trending?geo=MX&q=ofertas+julio+regalado+soriana",
+      "status": ""
+    },
+    {
+      "titulo": "monterrey vs santos",
+      "descripcion": "Monterrey vs Santos: posibles alineaciones de la jornada 1",
+      "trafico": "200+",
+      "fecha": "18/07/2026 06:00",
+      "fecha_dt": "2026-07-18T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7vIrIkL4l5yakmPG9_cLBPDAU_9VQoUGZfDf1r-XsirO2oYZXhFGcI1sfVU",
+      "link": "https://trends.google.com/trending?geo=MX&q=monterrey+vs+santos",
       "status": ""
     },
     {
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-07-18T04:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVy4MORnJZU71e6HvaU4i6A2syBkjx5rAeOrbTMKhRhlmLDvkVIxXcE5r7eI",
       "link": "https://trends.google.com/trending?geo=MX&q=moonswatch+omega",
-      "status": ""
-    },
-    {
-      "titulo": "monterrey vs santos",
-      "descripcion": "Monterrey vs Santos: posibles alineaciones de la jornada 1",
-      "trafico": "100+",
-      "fecha": "18/07/2026 06:00",
-      "fecha_dt": "2026-07-18T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7vIrIkL4l5yakmPG9_cLBPDAU_9VQoUGZfDf1r-XsirO2oYZXhFGcI1sfVU",
-      "link": "https://trends.google.com/trending?geo=MX&q=monterrey+vs+santos",
-      "status": ""
-    },
-    {
-      "titulo": "galaxy fc",
-      "descripcion": "La MLS reanudará con un partidazo en Los Angeles",
-      "trafico": "100+",
-      "fecha": "18/07/2026 04:10",
-      "fecha_dt": "2026-07-18T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNgZoOcNQgP-dfPGPktJNGbfia5lwjIKFpQynfTCqyxhDS8U0nQtSU0z6Leo",
-      "link": "https://trends.google.com/trending?geo=MX&q=galaxy+fc",
       "status": ""
     }
   ]
