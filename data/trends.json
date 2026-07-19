@@ -1,26 +1,56 @@
 {
-  "actualizado": "19/07/2026 13:25 UTC",
+  "actualizado": "19/07/2026 14:59 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "facebook",
-      "descripcion": "Facebook and Instagram users reporting some outages, say internet watchdogs",
-      "trafico": "10000+",
-      "fecha": "19/07/2026 08:00",
-      "fecha_dt": "2026-07-19T08:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNuIcShbQZjGVHaExcy5W00lVbcHAFs6TDzpt0u8VJHi3OuYAzFkGIoYCdKU",
-      "link": "https://trends.google.com/trending?geo=MX&q=facebook",
+      "titulo": "formula 1",
+      "descripcion": "2026 Belgian Grand Prix: Multiple leader changes and Russell out in Lap 1",
+      "trafico": "1000+",
+      "fecha": "19/07/2026 13:20",
+      "fecha_dt": "2026-07-19T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4DtrkxWabMAmBZ1Zvo6FOaj9xmFEr4EegjPSY7a-gFUKoNp-FkeEhxEHPUpc",
+      "link": "https://trends.google.com/trending?geo=MX&q=formula+1",
       "status": ""
     },
     {
-      "titulo": "pensión",
-      "descripcion": "Pensión Hombres Bienestar 2026: cómo registrarte para recibir 3,000 pesos bimestrales en CDMX",
-      "trafico": "5000+",
-      "fecha": "19/07/2026 11:30",
-      "fecha_dt": "2026-07-19T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBXr09Axyn0s3IzHe2O2T8TBbcHVikZH3WB5fC-4jH11_wulX1Qhg75put1n4",
-      "link": "https://trends.google.com/trending?geo=MX&q=pensión",
+      "titulo": "f1 hoy",
+      "descripcion": "EN VIVO: Sigue el Gran Premio de Bélgica 2026",
+      "trafico": "1000+",
+      "fecha": "19/07/2026 13:20",
+      "fecha_dt": "2026-07-19T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRO_8gDD9h0BQvmbgRAQ19G9h4jqN7hDDvEF0duaDGld8L3nqc7dwKatn1YQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=f1+hoy",
+      "status": ""
+    },
+    {
+      "titulo": "milenio",
+      "descripcion": "Aylín Mujica se despide de su fallecido hijo y Ely Gutiérrez, Toni Costa y más famosos la arropan",
+      "trafico": "500+",
+      "fecha": "19/07/2026 14:50",
+      "fecha_dt": "2026-07-19T14:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbKxt_EeqbdxMs4uww720sPvqh7qGS1ma9rhJN0cb5pin0i4Waji8cMsr4wyM",
+      "link": "https://trends.google.com/trending?geo=MX&q=milenio",
+      "status": ""
+    },
+    {
+      "titulo": "clausura mundial 2026",
+      "descripcion": "“Pan y circo”: The Cure sobre show del Mundial 2026",
+      "trafico": "500+",
+      "fecha": "19/07/2026 13:50",
+      "fecha_dt": "2026-07-19T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOl6HjXVIiZNpUbr1dufUGFFY9pBXG7r-xAsVHaE55PBq0fJ467uwU99AWIrU",
+      "link": "https://trends.google.com/trending?geo=MX&q=clausura+mundial+2026",
+      "status": ""
+    },
+    {
+      "titulo": "excelsior",
+      "descripcion": "La final de los tres Jefes de Gobierno",
+      "trafico": "500+",
+      "fecha": "19/07/2026 13:50",
+      "fecha_dt": "2026-07-19T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUwlc7hLA3uTywLU2ZqLh_OImXymUbZulJ9Y-SnnMTzHM5EosyhmAdJ65SUJU",
+      "link": "https://trends.google.com/trending?geo=MX&q=excelsior",
       "status": ""
     },
     {
@@ -29,78 +59,48 @@
       "trafico": "500+",
       "fecha": "19/07/2026 13:00",
       "fecha_dt": "2026-07-19T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdy93nr50cPCYSjkpfVW2li_6aSJzHxebLeL6aslCv8ff7Cu8QWT2dhjZpYfc",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSogR51xBiGbuIWbWT5yCQOEIb5YLEvCOhMLpHd_GMapEcViz_SOufDDVki44U",
       "link": "https://trends.google.com/trending?geo=MX&q=iran",
       "status": ""
     },
     {
-      "titulo": "f1 tv",
-      "descripcion": "Checo Pérez saldrá desde la posición 20 en el GP de Bélgica de F1",
+      "titulo": "jürgen klinsmann",
+      "descripcion": "WM 2026: Klinsmann, Magath und Effenberg kritisieren DFB",
+      "trafico": "200+",
+      "fecha": "19/07/2026 14:00",
+      "fecha_dt": "2026-07-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSn0UTHf7LvtqbPO8wyLS0KlWPZZW1ORMJ-MeRe157XTDvOvXTZ1WMLH37IJ7w",
+      "link": "https://trends.google.com/trending?geo=MX&q=jürgen+klinsmann",
+      "status": ""
+    },
+    {
+      "titulo": "sergio pérez",
+      "descripcion": "'Checo' se retira del GP de Bélgica por fallas en su Cadillac",
+      "trafico": "200+",
+      "fecha": "19/07/2026 14:00",
+      "fecha_dt": "2026-07-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxfPikCyZSHaKYtkfiPd2BS5O626J9Bq5070Zivd2DmeHQ2yljzOLSAmOw4g",
+      "link": "https://trends.google.com/trending?geo=MX&q=sergio+pérez",
+      "status": ""
+    },
+    {
+      "titulo": "brad pitt",
+      "descripcion": "Brad Pitt's children are dropping their dad's surname - here's why I did the same",
       "trafico": "200+",
       "fecha": "19/07/2026 12:50",
       "fecha_dt": "2026-07-19T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HeyVeyCI9X-fHc4gkNoXAd-OS4FufHHtItY4IhKYhiyOS7h3GFyvpOWNIk4",
-      "link": "https://trends.google.com/trending?geo=MX&q=f1+tv",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeLgdSaIyaWuSKiqf7z2iHsNCMYol8RkutGfGw1n7a3Wrcx8YqUv3GrLF6xT4",
+      "link": "https://trends.google.com/trending?geo=MX&q=brad+pitt",
       "status": ""
     },
     {
-      "titulo": "el cronista",
-      "descripcion": "Una nueva investigación desvela el misterio que rodea a la estatua de bronce de 3.000 años de antigüedad en Sanxingdui.",
-      "trafico": "200+",
-      "fecha": "19/07/2026 11:20",
-      "fecha_dt": "2026-07-19T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGmGu74HcWyAeCVMeBeLDJgvLv4ZBh3TxZgPGsXmkQ2l0HkdL6RN8OySWL6TY",
-      "link": "https://trends.google.com/trending?geo=MX&q=el+cronista",
-      "status": ""
-    },
-    {
-      "titulo": "ángel correa",
-      "descripcion": "¡Crisis en River Plate! Necesitan dar 'golpe' con Ángel Correa",
-      "trafico": "200+",
-      "fecha": "19/07/2026 11:00",
-      "fecha_dt": "2026-07-19T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXmg7XRXUbTPTfZy0h37sqJc3X63ZkSWJzYbfLYmlc-HmF9vowExfveGbqZg",
-      "link": "https://trends.google.com/trending?geo=MX&q=ángel+correa",
-      "status": ""
-    },
-    {
-      "titulo": "face",
-      "descripcion": "Kelly: Is a contract extension for Jordyn Brooks absolutely necessary? | Opinion",
-      "trafico": "200+",
-      "fecha": "19/07/2026 08:20",
-      "fecha_dt": "2026-07-19T08:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST8qsM_70rst2nJO03WRqESG2aZEDkktiRhVCbrmbnHvEibu3MY-z2otqtS9g",
-      "link": "https://trends.google.com/trending?geo=MX&q=face",
-      "status": ""
-    },
-    {
-      "titulo": "clima mazatlan",
-      "descripcion": "Advierte Protección Civil Estatal por sensación térmica superior a los 40 grados en Mazatlán durante el fin de semana",
-      "trafico": "200+",
-      "fecha": "19/07/2026 08:20",
-      "fecha_dt": "2026-07-19T08:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDSCJKPqKdReb6T5IzCNqc8YBZ3WpwC8wzNHXUYuaFWAZzNAtz7z7AJ5QRKuc",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+mazatlan",
-      "status": ""
-    },
-    {
-      "titulo": "kramatorsk",
-      "descripcion": "Dramatic Photo Highlights Uptick In Drone Attacks In Ukraine's Kramatorsk",
+      "titulo": "final fifa",
+      "descripcion": "¿Vas a ver la Final del Mundial? ¡Cuídate! El monzón mexicano hará de las suyas HOY en Guadalajara",
       "trafico": "100+",
-      "fecha": "19/07/2026 11:30",
-      "fecha_dt": "2026-07-19T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VvQCxpGiVdib-U9gvYuxgaMeXR01OixXOv7WR-99dCqPcB3GAp_NWz0Ob3s",
-      "link": "https://trends.google.com/trending?geo=MX&q=kramatorsk",
-      "status": ""
-    },
-    {
-      "titulo": "pizza",
-      "descripcion": "Pizza Hut’s Nostalgic New Value Menu Features Y2K-Era Prices—Including A $3 Pizza",
-      "trafico": "100+",
-      "fecha": "19/07/2026 10:10",
-      "fecha_dt": "2026-07-19T10:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ3CerOHco-2p9BLBTLQX2QOdKG7ZF0VLa5t1jceypt6VwV-3xkJuAq9U57Zw",
-      "link": "https://trends.google.com/trending?geo=MX&q=pizza",
+      "fecha": "19/07/2026 14:50",
+      "fecha_dt": "2026-07-19T14:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpiagB8b-PUIlSSBqzEEULIrJtnahQEFz-QlZ4zFq0m-bT3eJWttQOw1tfqc",
+      "link": "https://trends.google.com/trending?geo=MX&q=final+fifa",
       "status": ""
     }
   ]
