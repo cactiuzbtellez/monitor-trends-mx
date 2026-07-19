@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/07/2026 11:11 UTC",
+  "actualizado": "19/07/2026 13:25 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -9,28 +9,68 @@
       "trafico": "10000+",
       "fecha": "19/07/2026 08:00",
       "fecha_dt": "2026-07-19T08:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS459bPJhEdzSmSetg6H-7EqmfuzcjNOXthyZgitO0c098lPSEPcBGjK3QMWXs",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwNuIcShbQZjGVHaExcy5W00lVbcHAFs6TDzpt0u8VJHi3OuYAzFkGIoYCdKU",
       "link": "https://trends.google.com/trending?geo=MX&q=facebook",
       "status": ""
     },
     {
-      "titulo": "cablebús",
-      "descripcion": "Tarjeta informativa: En una acción coordinada entre paramédicos del ERUM, oficiales de la SSC y Bomberos, rescataron a un hombre que puso en riesgo su vida al subir a una de las torres del Cablebús, en la alcaldía Gustavo A. Madero",
-      "trafico": "1000+",
-      "fecha": "19/07/2026 05:30",
-      "fecha_dt": "2026-07-19T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_HoxmtMSF_M_o5OXKYWMG17XBjBZn6iEHH8aIFftj3V2d9U1RAYY0UqDzjGU",
-      "link": "https://trends.google.com/trending?geo=MX&q=cablebús",
+      "titulo": "pensión",
+      "descripcion": "Pensión Hombres Bienestar 2026: cómo registrarte para recibir 3,000 pesos bimestrales en CDMX",
+      "trafico": "5000+",
+      "fecha": "19/07/2026 11:30",
+      "fecha_dt": "2026-07-19T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBXr09Axyn0s3IzHe2O2T8TBbcHVikZH3WB5fC-4jH11_wulX1Qhg75put1n4",
+      "link": "https://trends.google.com/trending?geo=MX&q=pensión",
       "status": ""
     },
     {
-      "titulo": "calendario escolar 2026 sep",
-      "descripcion": "¿Cuánto durarán las vacaciones de verano?; la SEP ya publicó la fecha oficial del regreso a clases",
-      "trafico": "1000+",
-      "fecha": "19/07/2026 04:40",
-      "fecha_dt": "2026-07-19T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8BsFDR164prJM3HQ4J8Upiyk-hWYRAEy_bWrbq6SUyY39JWrPkdaYqANmHA",
-      "link": "https://trends.google.com/trending?geo=MX&q=calendario+escolar+2026+sep",
+      "titulo": "iran",
+      "descripcion": "Live updates: Iran war news; US troop deaths raise fears of a wider war as Iran hit by new strikes",
+      "trafico": "500+",
+      "fecha": "19/07/2026 13:00",
+      "fecha_dt": "2026-07-19T13:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdy93nr50cPCYSjkpfVW2li_6aSJzHxebLeL6aslCv8ff7Cu8QWT2dhjZpYfc",
+      "link": "https://trends.google.com/trending?geo=MX&q=iran",
+      "status": ""
+    },
+    {
+      "titulo": "f1 tv",
+      "descripcion": "Checo Pérez saldrá desde la posición 20 en el GP de Bélgica de F1",
+      "trafico": "200+",
+      "fecha": "19/07/2026 12:50",
+      "fecha_dt": "2026-07-19T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HeyVeyCI9X-fHc4gkNoXAd-OS4FufHHtItY4IhKYhiyOS7h3GFyvpOWNIk4",
+      "link": "https://trends.google.com/trending?geo=MX&q=f1+tv",
+      "status": ""
+    },
+    {
+      "titulo": "el cronista",
+      "descripcion": "Una nueva investigación desvela el misterio que rodea a la estatua de bronce de 3.000 años de antigüedad en Sanxingdui.",
+      "trafico": "200+",
+      "fecha": "19/07/2026 11:20",
+      "fecha_dt": "2026-07-19T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGmGu74HcWyAeCVMeBeLDJgvLv4ZBh3TxZgPGsXmkQ2l0HkdL6RN8OySWL6TY",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+cronista",
+      "status": ""
+    },
+    {
+      "titulo": "ángel correa",
+      "descripcion": "¡Crisis en River Plate! Necesitan dar 'golpe' con Ángel Correa",
+      "trafico": "200+",
+      "fecha": "19/07/2026 11:00",
+      "fecha_dt": "2026-07-19T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXmg7XRXUbTPTfZy0h37sqJc3X63ZkSWJzYbfLYmlc-HmF9vowExfveGbqZg",
+      "link": "https://trends.google.com/trending?geo=MX&q=ángel+correa",
+      "status": ""
+    },
+    {
+      "titulo": "face",
+      "descripcion": "Kelly: Is a contract extension for Jordyn Brooks absolutely necessary? | Opinion",
+      "trafico": "200+",
+      "fecha": "19/07/2026 08:20",
+      "fecha_dt": "2026-07-19T08:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcST8qsM_70rst2nJO03WRqESG2aZEDkktiRhVCbrmbnHvEibu3MY-z2otqtS9g",
+      "link": "https://trends.google.com/trending?geo=MX&q=face",
       "status": ""
     },
     {
@@ -44,63 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "m",
-      "descripcion": "‘The Odyssey’ Review: Passion in Every Frame",
-      "trafico": "200+",
-      "fecha": "19/07/2026 05:30",
-      "fecha_dt": "2026-07-19T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMSOgGvdqupxqvZ_M9_aGKwaCQ8KGI3Sh8EfqzeInA04CBcSZOaXVJF1-U21E",
-      "link": "https://trends.google.com/trending?geo=MX&q=m",
-      "status": ""
-    },
-    {
-      "titulo": "oscar casas",
-      "descripcion": "La playa oculta de Galicia que esconde a Mario y Óscar Casas: olas salvajes, arena infinita y el refugio definitivo a 40 minutos de la ciudad",
-      "trafico": "200+",
-      "fecha": "19/07/2026 05:00",
-      "fecha_dt": "2026-07-19T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHcc6weQWRZEp6lFpxoq77kUVpTW6tfGv2p5Engfl629DT-r2U0tnpPKvCac4",
-      "link": "https://trends.google.com/trending?geo=MX&q=oscar+casas",
-      "status": ""
-    },
-    {
-      "titulo": "l",
-      "descripcion": "Tropical disturbance in Gulf, Invest 91, has higher chance of development",
+      "titulo": "kramatorsk",
+      "descripcion": "Dramatic Photo Highlights Uptick In Drone Attacks In Ukraine's Kramatorsk",
       "trafico": "100+",
-      "fecha": "19/07/2026 07:40",
-      "fecha_dt": "2026-07-19T07:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGumv1CwyFNzrqvwvVK4m6HjRBH83esfguJKepP9WW2miSR-0oDV6lGdovhe4",
-      "link": "https://trends.google.com/trending?geo=MX&q=l",
+      "fecha": "19/07/2026 11:30",
+      "fecha_dt": "2026-07-19T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VvQCxpGiVdib-U9gvYuxgaMeXR01OixXOv7WR-99dCqPcB3GAp_NWz0Ob3s",
+      "link": "https://trends.google.com/trending?geo=MX&q=kramatorsk",
       "status": ""
     },
     {
-      "titulo": "benny safdie",
-      "descripcion": "Why Agamemnon In Christopher Nolan's The Odyssey Looks So Familiar",
+      "titulo": "pizza",
+      "descripcion": "Pizza Hut’s Nostalgic New Value Menu Features Y2K-Era Prices—Including A $3 Pizza",
       "trafico": "100+",
-      "fecha": "19/07/2026 07:10",
-      "fecha_dt": "2026-07-19T07:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2zpmDSMAIY8gsqZyS9bea-ueiLcWTLYVkHYkcTbukccKXyGH2CFTDxsZ5Ubo",
-      "link": "https://trends.google.com/trending?geo=MX&q=benny+safdie",
-      "status": ""
-    },
-    {
-      "titulo": "la",
-      "descripcion": "Impacto vial de las motocicletas como parte de la movilidad en Yucatán, aún no es parte de los estudios: advierte",
-      "trafico": "100+",
-      "fecha": "19/07/2026 06:00",
-      "fecha_dt": "2026-07-19T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHq-KaQeOnj2il9CtBuIDmVB2wZe5jMFAT-0pR872DSofCE9w-KRiy1GwwNHk",
-      "link": "https://trends.google.com/trending?geo=MX&q=la",
-      "status": ""
-    },
-    {
-      "titulo": "jennifer finch",
-      "descripcion": "Jennifer Finch, L7 Bassist, Dead at 59",
-      "trafico": "100+",
-      "fecha": "19/07/2026 05:20",
-      "fecha_dt": "2026-07-19T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaU7rgtOtXnp-5tfg3yYGq_E5RvBECUdRA6owdK1N_VfFdQ5q2oAez-kpmN4w",
-      "link": "https://trends.google.com/trending?geo=MX&q=jennifer+finch",
+      "fecha": "19/07/2026 10:10",
+      "fecha_dt": "2026-07-19T10:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ3CerOHco-2p9BLBTLQX2QOdKG7ZF0VLa5t1jceypt6VwV-3xkJuAq9U57Zw",
+      "link": "https://trends.google.com/trending?geo=MX&q=pizza",
       "status": ""
     }
   ]
