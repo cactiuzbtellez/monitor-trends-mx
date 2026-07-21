@@ -1,32 +1,12 @@
 {
-  "actualizado": "21/07/2026 11:49 UTC",
+  "actualizado": "21/07/2026 14:01 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "fifa punishment argentina",
-      "descripcion": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
-      "trafico": "2000+",
-      "fecha": "21/07/2026 04:40",
-      "fecha_dt": "2026-07-21T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMCbc_EY4zJYDYtRbqklX-5fr5y1ugLTvpc79_pKd5L8fCXaN-9d9jWwG2LEc",
-      "link": "https://trends.google.com/trending?geo=MX&q=fifa+punishment+argentina",
-      "status": ""
-    },
-    {
-      "titulo": "refinería olmeca pemex",
-      "descripcion": "Refinería de Dos Bocas de Pemex registra nuevo incendio; no se reportan lesionados",
-      "trafico": "1000+",
-      "fecha": "21/07/2026 11:10",
-      "fecha_dt": "2026-07-21T11:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5KV1c5JrXPdGZk7spePaO7MQgJJ1GR7dOGdWLpdwmWc1zIcja7u9fYP4lZRw",
-      "link": "https://trends.google.com/trending?geo=MX&q=refinería+olmeca+pemex",
-      "status": ""
-    },
-    {
       "titulo": "sat",
       "descripcion": "COMMENTARY: Why the University of California should not reinstate the SAT/ACT for admissions",
-      "trafico": "500+",
+      "trafico": "5000+",
       "fecha": "21/07/2026 11:40",
       "fecha_dt": "2026-07-21T11:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUQ6vFDV9oZCeP0wpNYNqBVYoKCWy-t0WyOScdZYUuZ9HPOPCk5oRu-Ux_uf4",
@@ -34,9 +14,19 @@
       "status": ""
     },
     {
+      "titulo": "refinería",
+      "descripcion": "Refinería de Dos Bocas de Pemex registra nuevo incendio; no se reportan lesionados",
+      "trafico": "1000+",
+      "fecha": "21/07/2026 13:30",
+      "fecha_dt": "2026-07-21T13:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5KV1c5JrXPdGZk7spePaO7MQgJJ1GR7dOGdWLpdwmWc1zIcja7u9fYP4lZRw",
+      "link": "https://trends.google.com/trending?geo=MX&q=refinería",
+      "status": ""
+    },
+    {
       "titulo": "julián andrés quiñones",
       "descripcion": "Mundial 2026: México y las estadísticas en las que entró al Top 10",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "21/07/2026 10:50",
       "fecha_dt": "2026-07-21T10:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGsREhsXVF-_dTaDRfzoUAtRawIaNRUWt94IdOnpQPph8r9HIoN898k3M5Lh0",
@@ -44,23 +34,53 @@
       "status": ""
     },
     {
-      "titulo": "ofertas walmart martes de frescura",
-      "descripcion": "Martes de frescura Walmart 21 de julio 2026: conoce las ofertas y promociones en frutas y verduras",
-      "trafico": "200+",
-      "fecha": "21/07/2026 08:10",
-      "fecha_dt": "2026-07-21T08:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEHpD3iB-cVHF1UIl2W8wpbszIvF-KZ6HTRt0laFytzRXW84QvgB-msMwo58k",
-      "link": "https://trends.google.com/trending?geo=MX&q=ofertas+walmart+martes+de+frescura",
+      "titulo": "2027",
+      "descripcion": "Sinaloa, con miras a refrendar a Morena en 2027",
+      "trafico": "500+",
+      "fecha": "21/07/2026 12:00",
+      "fecha_dt": "2026-07-21T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEhQfGkh9gqzRM_rKZ54sCz1hsr2p2iQB3NoJEqSxiTbwCq9loLZaqvjX6i8o",
+      "link": "https://trends.google.com/trending?geo=MX&q=2027",
       "status": ""
     },
     {
-      "titulo": "clima torreon",
-      "descripcion": "Coahuila y Durango enfrentarán una jornada de intenso calor; pronóstico de la semana",
+      "titulo": "martes de frescura",
+      "descripcion": "Martes de frescura Walmart 21 de julio 2026: conoce las ofertas y promociones en frutas y verduras",
       "trafico": "200+",
-      "fecha": "21/07/2026 05:20",
-      "fecha_dt": "2026-07-21T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvSoCanH50X5i5b1SA4leKvGf2zoorVoImYFfjwTtUs5iC-jpSi-dTGnfKF34",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+torreon",
+      "fecha": "21/07/2026 13:30",
+      "fecha_dt": "2026-07-21T13:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEHpD3iB-cVHF1UIl2W8wpbszIvF-KZ6HTRt0laFytzRXW84QvgB-msMwo58k",
+      "link": "https://trends.google.com/trending?geo=MX&q=martes+de+frescura",
+      "status": ""
+    },
+    {
+      "titulo": "estadio banorte",
+      "descripcion": "Cruz Azul anuncia precios para su regreso al Estadio Banorte",
+      "trafico": "200+",
+      "fecha": "21/07/2026 12:20",
+      "fecha_dt": "2026-07-21T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROdec19xjAuO2heQLxqrt3ugnKnsyv7rbnTA6dW7_5qH-7fagtaGZxHVPtG9E",
+      "link": "https://trends.google.com/trending?geo=MX&q=estadio+banorte",
+      "status": ""
+    },
+    {
+      "titulo": "cuba",
+      "descripcion": "US claims of Cuba’s ‘unique threat’ jar with reality of hunger and blackouts",
+      "trafico": "200+",
+      "fecha": "21/07/2026 11:00",
+      "fecha_dt": "2026-07-21T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY7NQRTZ57y0dpEB5yFodzIoiGayD2IoHAiyWALbW9JQ0hbStEY0gkydY72sY",
+      "link": "https://trends.google.com/trending?geo=MX&q=cuba",
+      "status": ""
+    },
+    {
+      "titulo": "dakota johnson",
+      "descripcion": "Dakota Johnson confirma que los jeans flare con bailarinas negras son la combinación más elegante del verano 2026",
+      "trafico": "100+",
+      "fecha": "21/07/2026 12:20",
+      "fecha_dt": "2026-07-21T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2UG_MnMn-NOM6CMLKCDkzGMBaPwAcqA_pBYhPZmPsa3KeFg95vkjA0_QaSzg",
+      "link": "https://trends.google.com/trending?geo=MX&q=dakota+johnson",
       "status": ""
     },
     {
@@ -79,28 +99,8 @@
       "trafico": "100+",
       "fecha": "21/07/2026 09:00",
       "fecha_dt": "2026-07-21T09:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN3BkKn-LcPjQ1J9p8oxxrckPwR98O2AXfEdoRXtqDQoUQ8Yw-IcoonVRLy2c",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KBOGZl3Z8ozwdrgC4UTs_WgtoAlSELajCpUvx2CYQeoR8PhAuu4EAgki7ak",
       "link": "https://trends.google.com/trending?geo=MX&q=blanco",
-      "status": ""
-    },
-    {
-      "titulo": "historial",
-      "descripcion": "Lamine Yamal sale con una influencer española tras una relación anterior con diferencia de edades",
-      "trafico": "100+",
-      "fecha": "21/07/2026 08:50",
-      "fecha_dt": "2026-07-21T08:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGuxdkEnddqRo99XF21c5BkFE3M52CQg41Y9OdHTdpquuepuJ4vu5f2o07pc",
-      "link": "https://trends.google.com/trending?geo=MX&q=historial",
-      "status": ""
-    },
-    {
-      "titulo": "deseo netflix",
-      "descripcion": "'Deseo' Netflix reparto: ¿quién es quién en la película mexicana protagonizada por Ludwika Paleta?",
-      "trafico": "100+",
-      "fecha": "21/07/2026 06:00",
-      "fecha_dt": "2026-07-21T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdvCqizMMPXGP1ANXSd-4xqNh9J5c8ZsR3bZh7eZ4oHocImex6FQU4mJk-XBE",
-      "link": "https://trends.google.com/trending?geo=MX&q=deseo+netflix",
       "status": ""
     }
   ]
