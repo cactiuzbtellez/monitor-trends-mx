@@ -1,106 +1,106 @@
 {
-  "actualizado": "23/07/2026 17:26 UTC",
+  "actualizado": "23/07/2026 19:23 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "servicio meteorológico nacional",
-      "descripcion": "Jueves con escasas lluvias y ambiente muy calurosos sobre México, pero llegarán los remanentes de Bertha al noreste",
-      "trafico": "500+",
-      "fecha": "23/07/2026 17:00",
-      "fecha_dt": "2026-07-23T17:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDfPSHS-womdrR_0ZX_wBXPmTVqn01VQi1Luh_KkKur10eDezTEv-GMKPDaS4",
-      "link": "https://trends.google.com/trending?geo=MX&q=servicio+meteorológico+nacional",
+      "titulo": "blue jays - rays",
+      "descripcion": "Shane Bieber's strong Rays splits make Toronto Blue Jays the smart first 5 innings MLB bet",
+      "trafico": "1000+",
+      "fecha": "23/07/2026 18:50",
+      "fecha_dt": "2026-07-23T18:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVFM3a_xJ8FB-_f6Gj0_zSlJBmTLApDkORxM41XDfjq_05mP_eh_PsNIPUo7w",
+      "link": "https://trends.google.com/trending?geo=MX&q=blue+jays+-+rays",
       "status": ""
     },
     {
-      "titulo": "hammarby - anderlecht",
-      "descripcion": "Hammarby vs Anderlecht: UEFA Europa League stats & head-to-head",
+      "titulo": "córdoba - sevilla",
+      "descripcion": "LUIS GARCÍA PLAZA CITA A 24 JUGADORES PARA EL IV TROFEO PUERTAS DE CÓRDOBA",
       "trafico": "500+",
-      "fecha": "23/07/2026 16:40",
-      "fecha_dt": "2026-07-23T16:40:00+00:00",
+      "fecha": "23/07/2026 18:50",
+      "fecha_dt": "2026-07-23T18:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm1bfpZ1hayatVIlKdXtTaLiOklgzOgpnN4mlOfIv8_uVfG9j3HOhW0KCjVDU",
+      "link": "https://trends.google.com/trending?geo=MX&q=córdoba+-+sevilla",
+      "status": ""
+    },
+    {
+      "titulo": "benfica",
+      "descripcion": "Todos os oito jogos do SL Benfica com equipas suíças",
+      "trafico": "500+",
+      "fecha": "23/07/2026 18:00",
+      "fecha_dt": "2026-07-23T18:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMP4f9nqaiFf2ux_CF5GzG47iXLvDPzH-aXoM8TPC6mo9DLkBo2FVltNDXaUw",
+      "link": "https://trends.google.com/trending?geo=MX&q=benfica",
+      "status": ""
+    },
+    {
+      "titulo": "tiago gouveia",
+      "descripcion": "El portugués Tiago Gouveia será jugador del Atlas",
+      "trafico": "200+",
+      "fecha": "23/07/2026 18:40",
+      "fecha_dt": "2026-07-23T18:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBLUNPCpUpWMJJqCdhOUp27HFAkM0xsKnomUiOBBV4WvBkyYnre4Uqvsvq954",
+      "link": "https://trends.google.com/trending?geo=MX&q=tiago+gouveia",
+      "status": ""
+    },
+    {
+      "titulo": "twente",
+      "descripcion": "VI Live: Ajax dik verdiend weer op voorsprong, Twente komt langszij",
+      "trafico": "200+",
+      "fecha": "23/07/2026 18:40",
+      "fecha_dt": "2026-07-23T18:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWoIun70WX5NSDbaoM1PDbpn1RK30eUuqz4cHBec45qMnj-0k4KkKRBVs7Tg",
+      "link": "https://trends.google.com/trending?geo=MX&q=twente",
+      "status": ""
+    },
+    {
+      "titulo": "dólar",
+      "descripcion": "Precio del dólar HOY jueves 23 de julio de 2026: Peso mexicano cede terreno en la apertura tras datos de la in",
+      "trafico": "200+",
+      "fecha": "23/07/2026 18:30",
+      "fecha_dt": "2026-07-23T18:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX8ktN9RI_4YEmejpr1_Vu6Qw-UDWWkeS8nWEB2u_gD4Rp5PsV9i8jtd_2EJo",
+      "link": "https://trends.google.com/trending?geo=MX&q=dólar",
+      "status": ""
+    },
+    {
+      "titulo": "hammarby",
+      "descripcion": "Viktig information inför torsdagens Europakval",
+      "trafico": "200+",
+      "fecha": "23/07/2026 18:10",
+      "fecha_dt": "2026-07-23T18:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBpOMgu1p7CreR50qwKXCSyCbtWyakn0QzflEwPHyIGRb8UiqfBBBpAgd-0bQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=hammarby",
+      "status": ""
+    },
+    {
+      "titulo": "besiktas vs midtjylland",
+      "descripcion": "'Stressed' Karoline Leavitt 'cracked' as she was confronted with Donald Trump question",
+      "trafico": "100+",
+      "fecha": "23/07/2026 19:10",
+      "fecha_dt": "2026-07-23T19:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSS5WtLJzmWPkyDrGwO-ngE6TlXslOncj0mhozYVW3JxLDrqfVnAh8LxJCTJTQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=besiktas+vs+midtjylland",
+      "status": ""
+    },
+    {
+      "titulo": "besiktas vs",
+      "descripcion": "Beşiktaş vs Midtjylland: UEFA Europa League stats & head-to-head",
+      "trafico": "100+",
+      "fecha": "23/07/2026 18:50",
+      "fecha_dt": "2026-07-23T18:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-      "link": "https://trends.google.com/trending?geo=MX&q=hammarby+-+anderlecht",
+      "link": "https://trends.google.com/trending?geo=MX&q=besiktas+vs",
       "status": ""
     },
     {
-      "titulo": "petróleos mexicanos",
-      "descripcion": "",
-      "trafico": "200+",
-      "fecha": "23/07/2026 17:00",
-      "fecha_dt": "2026-07-23T17:00:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=petróleos+mexicanos",
-      "status": ""
-    },
-    {
-      "titulo": "guardians - twins",
-      "descripcion": "Minnesota Twins vs Cleveland Guardians Live Stream: How to Watch MLB",
-      "trafico": "200+",
-      "fecha": "23/07/2026 17:00",
-      "fecha_dt": "2026-07-23T17:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8Du67SsHrCgNJwaDXOmnG2VpZlWxjmbCNyaBKaJHkyqzMl8IisL4nXEYIWtY",
-      "link": "https://trends.google.com/trending?geo=MX&q=guardians+-+twins",
-      "status": ""
-    },
-    {
-      "titulo": "julio regalado",
-      "descripcion": "Ahorra con Julio Regalado. Soriana casi regala estos productos con sus ofertas del 3x2: quesos, cafés, sopas y más",
+      "titulo": "ajax",
+      "descripcion": "Live Europees voetbal | Klaassen zet Ajax snel op 0-1, Twente op achterstand",
       "trafico": "100+",
-      "fecha": "23/07/2026 17:20",
-      "fecha_dt": "2026-07-23T17:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr076k0z9zDBoC7ABlv91wUhIEhMM3wWPPLMP4OBQdyeSO5wbcfricAgkuSpk",
-      "link": "https://trends.google.com/trending?geo=MX&q=julio+regalado",
-      "status": ""
-    },
-    {
-      "titulo": "aislinn derbez",
-      "descripcion": "Hasta el fin del mundo: Emotiva, aunque con algunas fisuras",
-      "trafico": "100+",
-      "fecha": "23/07/2026 17:10",
-      "fecha_dt": "2026-07-23T17:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSF8tnoZZswfLOG7JQaIxOp9iJoBlEOY1wXep-Q8fqmEdT0fLtw_u4tDJIFgSA",
-      "link": "https://trends.google.com/trending?geo=MX&q=aislinn+derbez",
-      "status": ""
-    },
-    {
-      "titulo": "fifa 27",
-      "descripcion": "EA Sports FC 27 Just Revealed An Even More Expensive ‘Ultimate Plus’ Edition For $150",
-      "trafico": "100+",
-      "fecha": "23/07/2026 17:00",
-      "fecha_dt": "2026-07-23T17:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsWbjHNZICvwnAU889ZTLT8QWojRohMDR47FScgqBk7NMXjtVe-qkwLTMS5ks",
-      "link": "https://trends.google.com/trending?geo=MX&q=fifa+27",
-      "status": ""
-    },
-    {
-      "titulo": "denzel washington",
-      "descripcion": "Denzel Washington: “First part of your life, you learn. Second part of your life, you earn. Third part of your",
-      "trafico": "100+",
-      "fecha": "23/07/2026 16:50",
-      "fecha_dt": "2026-07-23T16:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzrC6RKSt2yxmwcy5LNizs6RtZ7_-VL32GPghrtW_LzRHqxfZKNWYEtdXye5E",
-      "link": "https://trends.google.com/trending?geo=MX&q=denzel+washington",
-      "status": ""
-    },
-    {
-      "titulo": "precio",
-      "descripcion": "Superan precios del crudo Brent los 100 dólares por barril",
-      "trafico": "100+",
-      "fecha": "23/07/2026 16:50",
-      "fecha_dt": "2026-07-23T16:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYSu7Gf3NqmKGSaktTqImfpQdEnh1WKMmI1hKzvhgXGCG-CPcsigRZl61-gKY",
-      "link": "https://trends.google.com/trending?geo=MX&q=precio",
-      "status": ""
-    },
-    {
-      "titulo": "ibai llanos",
-      "descripcion": "La CNMC impone una multa de 4.000 euros a los ‘influencers’ Ibai Llanos, Jordi Wild y Nachter",
-      "trafico": "100+",
-      "fecha": "23/07/2026 16:40",
-      "fecha_dt": "2026-07-23T16:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE_99VctqFppnguShqszuh4kaLlNDJxHMe33zXTmxwSJ2ZpcEag8yhtUTMRng",
-      "link": "https://trends.google.com/trending?geo=MX&q=ibai+llanos",
+      "fecha": "23/07/2026 18:40",
+      "fecha_dt": "2026-07-23T18:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLEfwG4f9N9yGE2O04mr_PUEXNJE_D_h-sqBVsc2iQNCFdDAG20Tlw_DRo5JE",
+      "link": "https://trends.google.com/trending?geo=MX&q=ajax",
       "status": ""
     }
   ]
