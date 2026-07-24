@@ -1,56 +1,56 @@
 {
-  "actualizado": "24/07/2026 07:34 UTC",
+  "actualizado": "24/07/2026 10:22 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "jubilación",
-      "descripcion": "Jubilados de empresas públicas piden a diputados corregir reforma al Artículo 127 por daños a sus pensiones",
+      "descripcion": "Carlos Slim rechaza la jornada laboral de 40 horas y propone trabajar 12 horas diarias hasta los 75 años",
       "trafico": "5000+",
       "fecha": "24/07/2026 04:20",
       "fecha_dt": "2026-07-24T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXtMELN_GLHlOVo6R1dQvtmV31gE8bEgVvvMr2WWu47n-x6U_TirGVTOlaqzw",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn6PBI35fMCxn_bJkwxHOuBvDqtz5Iirr9oS9exTwEXdBCGWYxMs0wXzLp5jI",
       "link": "https://trends.google.com/trending?geo=MX&q=jubilación",
       "status": ""
     },
     {
       "titulo": "velada del año 2026",
-      "descripcion": "¿Quién transmite La Velada del Año 6 en México? Horario y CANAL de transmisión EN VIVO de peleas de box",
+      "descripcion": "La Velada del Año 6: horario, dónde ver, los combates y todo lo que hay que saber del evento de Ibai Llanos",
       "trafico": "1000+",
       "fecha": "24/07/2026 07:00",
       "fecha_dt": "2026-07-24T07:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNSWvk1DvkU1Ca5R0pac6X2emJiDqCZURS2D-rlnM1P49UKpL8UEXK9YY6qTM",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ75O6HCWO0a3eALJjvf98LJWX6H89Sn7cP0CJn_LZj5EPsqKbC2k8D1sgSzXc",
       "link": "https://trends.google.com/trending?geo=MX&q=velada+del+año+2026",
       "status": ""
     },
     {
+      "titulo": "tigres futbol",
+      "descripcion": "¿Qué pasa con Ángel Correa y su salida de Tigres a River Plate?",
+      "trafico": "500+",
+      "fecha": "24/07/2026 09:50",
+      "fecha_dt": "2026-07-24T09:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR398U011Cmem-ehZP8NiJfcEcr1DGUo4vxaapkLcV7dbn_tKyRe5NijSJe01w",
+      "link": "https://trends.google.com/trending?geo=MX&q=tigres+futbol",
+      "status": ""
+    },
+    {
+      "titulo": "empresario",
+      "descripcion": "El fiscal de Zacatecas informa de que al menos dos de los empresarios asesinados “participaban” en actividades de extorsión",
+      "trafico": "500+",
+      "fecha": "24/07/2026 09:40",
+      "fecha_dt": "2026-07-24T09:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuXz2eiJsBtQ5YabegELNSR3l3ClOLegFJritiNYAg1_GPyV3R01NLzlb2-BQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=empresario",
+      "status": ""
+    },
+    {
       "titulo": "clima obregon",
-      "descripcion": "Clima y pronóstico en Ciudad Obregón: miércoles 22 de julio con calor extremo",
+      "descripcion": "",
       "trafico": "500+",
       "fecha": "24/07/2026 05:30",
       "fecha_dt": "2026-07-24T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTol3ACVGI9WKH1QJ_ViKVbBqEAo_GTyFeGthPI-ZRVcgKhFMazOd6xrBvAlaY",
+      "imagen": "",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+obregon",
-      "status": ""
-    },
-    {
-      "titulo": "zacatecas",
-      "descripcion": "El fiscal de Zacatecas informa de que al menos dos de los empresarios asesinados “participaban” en actividades de extorsión",
-      "trafico": "500+",
-      "fecha": "24/07/2026 04:30",
-      "fecha_dt": "2026-07-24T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuXz2eiJsBtQ5YabegELNSR3l3ClOLegFJritiNYAg1_GPyV3R01NLzlb2-BQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=zacatecas",
-      "status": ""
-    },
-    {
-      "titulo": "hirving lozano",
-      "descripcion": "Dos grandes de la Liga MX cierran las puertas a ‘Chucky’ Lozano",
-      "trafico": "500+",
-      "fecha": "24/07/2026 04:10",
-      "fecha_dt": "2026-07-24T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSv4PB-ZaAxHu7RmZnw1ONbJNWV7q0wP5uwQlFnSKVP9Ds_40HFvhi3DLTwOvc",
-      "link": "https://trends.google.com/trending?geo=MX&q=hirving+lozano",
       "status": ""
     },
     {
@@ -65,11 +65,11 @@
     },
     {
       "titulo": "pronostico del tiempo",
-      "descripcion": "Clima en Zacualpan: Pronóstico templado y nublado para el viernes 24 de julio",
+      "descripcion": "Clima en Zacualpan: Jueves 23 de julio con ambiente templado y nubes dispersas",
       "trafico": "200+",
       "fecha": "24/07/2026 05:10",
       "fecha_dt": "2026-07-24T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR524VHNszXHaovJeEaiFoXfUZM2_tMG7mPpO7MLVfcMxl2DdAhQyQIu0bIKkU",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1OmzIU03QjWMgxmC6lM4eUxdlsDkkycoEfgnUV44GFghk3rGzL5Ste_FPZ_Y",
       "link": "https://trends.google.com/trending?geo=MX&q=pronostico+del+tiempo",
       "status": ""
     },
@@ -84,13 +84,13 @@
       "status": ""
     },
     {
-      "titulo": "dagoberto espinoza",
-      "descripcion": "¿Qué rol tendrá en el equipo con Guillermo Almada?",
-      "trafico": "200+",
-      "fecha": "24/07/2026 04:10",
-      "fecha_dt": "2026-07-24T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRb0Y6GyxoaXs7rT-5jo27AO_qujTx-n72S766iWOEg6kSe1VYwKCCB3jLxsdM",
-      "link": "https://trends.google.com/trending?geo=MX&q=dagoberto+espinoza",
+      "titulo": "apple iphone 18 pro max",
+      "descripcion": "Apple cambia lanzamiento oficial del iPhone 18 por esta razón",
+      "trafico": "100+",
+      "fecha": "24/07/2026 09:00",
+      "fecha_dt": "2026-07-24T09:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwtdBpsEwnEoaOUsRRqv0tauN07Xhl0tB6rUjhaZheZXCwnjFuBHxOagcnhzw",
+      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro+max",
       "status": ""
     },
     {
