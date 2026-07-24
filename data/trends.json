@@ -1,46 +1,16 @@
 {
-  "actualizado": "24/07/2026 10:22 UTC",
+  "actualizado": "24/07/2026 12:22 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "jubilación",
-      "descripcion": "Carlos Slim rechaza la jornada laboral de 40 horas y propone trabajar 12 horas diarias hasta los 75 años",
-      "trafico": "5000+",
-      "fecha": "24/07/2026 04:20",
-      "fecha_dt": "2026-07-24T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn6PBI35fMCxn_bJkwxHOuBvDqtz5Iirr9oS9exTwEXdBCGWYxMs0wXzLp5jI",
-      "link": "https://trends.google.com/trending?geo=MX&q=jubilación",
-      "status": ""
-    },
-    {
-      "titulo": "velada del año 2026",
-      "descripcion": "La Velada del Año 6: horario, dónde ver, los combates y todo lo que hay que saber del evento de Ibai Llanos",
-      "trafico": "1000+",
-      "fecha": "24/07/2026 07:00",
-      "fecha_dt": "2026-07-24T07:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ75O6HCWO0a3eALJjvf98LJWX6H89Sn7cP0CJn_LZj5EPsqKbC2k8D1sgSzXc",
-      "link": "https://trends.google.com/trending?geo=MX&q=velada+del+año+2026",
-      "status": ""
-    },
-    {
       "titulo": "tigres futbol",
-      "descripcion": "¿Qué pasa con Ángel Correa y su salida de Tigres a River Plate?",
+      "descripcion": "Insólito error por mail provoca la novela Correa",
       "trafico": "500+",
       "fecha": "24/07/2026 09:50",
       "fecha_dt": "2026-07-24T09:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR398U011Cmem-ehZP8NiJfcEcr1DGUo4vxaapkLcV7dbn_tKyRe5NijSJe01w",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR886Pycd4JaOf0g6euvfVqv4dLhYd1lUviblm3sTbJBVfNJ9PfHDCkq1EBx0A",
       "link": "https://trends.google.com/trending?geo=MX&q=tigres+futbol",
-      "status": ""
-    },
-    {
-      "titulo": "empresario",
-      "descripcion": "El fiscal de Zacatecas informa de que al menos dos de los empresarios asesinados “participaban” en actividades de extorsión",
-      "trafico": "500+",
-      "fecha": "24/07/2026 09:40",
-      "fecha_dt": "2026-07-24T09:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuXz2eiJsBtQ5YabegELNSR3l3ClOLegFJritiNYAg1_GPyV3R01NLzlb2-BQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=empresario",
       "status": ""
     },
     {
@@ -51,6 +21,36 @@
       "fecha_dt": "2026-07-24T05:30:00+00:00",
       "imagen": "",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+obregon",
+      "status": ""
+    },
+    {
+      "titulo": "empresario",
+      "descripcion": "El fiscal de Zacatecas informa de que al menos dos de los empresarios asesinados “participaban” en actividades de extorsión",
+      "trafico": "200+",
+      "fecha": "24/07/2026 09:40",
+      "fecha_dt": "2026-07-24T09:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuXz2eiJsBtQ5YabegELNSR3l3ClOLegFJritiNYAg1_GPyV3R01NLzlb2-BQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=empresario",
+      "status": ""
+    },
+    {
+      "titulo": "apple iphone 18 pro max",
+      "descripcion": "iPhone 18 Pro Max: ¿cuándo sale a la venta y dónde comprar?",
+      "trafico": "200+",
+      "fecha": "24/07/2026 09:00",
+      "fecha_dt": "2026-07-24T09:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfDIpDWhUXnJD99FuaEQ2cyjC58WIjuVfYG1CZ78O4-MlXXTAijBQXxCCVkuA",
+      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro+max",
+      "status": ""
+    },
+    {
+      "titulo": "velada del año 2026",
+      "descripcion": "La Velada del Año 6: horario, dónde ver, los combates y todo lo que hay que saber del evento de Ibai Llanos",
+      "trafico": "200+",
+      "fecha": "24/07/2026 07:00",
+      "fecha_dt": "2026-07-24T07:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ75O6HCWO0a3eALJjvf98LJWX6H89Sn7cP0CJn_LZj5EPsqKbC2k8D1sgSzXc",
+      "link": "https://trends.google.com/trending?geo=MX&q=velada+del+año+2026",
       "status": ""
     },
     {
@@ -65,32 +65,32 @@
     },
     {
       "titulo": "pronostico del tiempo",
-      "descripcion": "Clima en Zacualpan: Jueves 23 de julio con ambiente templado y nubes dispersas",
+      "descripcion": "Clima en Zacualpan: Pronóstico templado y nublado para el viernes 24 de julio",
       "trafico": "200+",
       "fecha": "24/07/2026 05:10",
       "fecha_dt": "2026-07-24T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1OmzIU03QjWMgxmC6lM4eUxdlsDkkycoEfgnUV44GFghk3rGzL5Ste_FPZ_Y",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR524VHNszXHaovJeEaiFoXfUZM2_tMG7mPpO7MLVfcMxl2DdAhQyQIu0bIKkU",
       "link": "https://trends.google.com/trending?geo=MX&q=pronostico+del+tiempo",
       "status": ""
     },
     {
-      "titulo": "tris clasico",
-      "descripcion": "Resultados Tris HOY 23 de julio: Ganadores del mediodía, las tres, las siete y el clásico",
-      "trafico": "200+",
-      "fecha": "24/07/2026 04:30",
-      "fecha_dt": "2026-07-24T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8jFeJ8PNFElns33PP2iZ9FISkI2wVauJHkTqGLJIFTJ2wt_P6_hJB2vDDpc4",
-      "link": "https://trends.google.com/trending?geo=MX&q=tris+clasico",
+      "titulo": "pronóstico del tiempo",
+      "descripcion": "Cambios en el tiempo este fin de semana en CDMX: calor de 30 °C y posibilidad de tormentas dispersas",
+      "trafico": "100+",
+      "fecha": "24/07/2026 11:50",
+      "fecha_dt": "2026-07-24T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9yN5hl2QqYlpZy2b2qupgTe64_gM-0KKshgK6NxL344qTbLeghAeVyYpNxbw",
+      "link": "https://trends.google.com/trending?geo=MX&q=pronóstico+del+tiempo",
       "status": ""
     },
     {
-      "titulo": "apple iphone 18 pro max",
-      "descripcion": "Apple cambia lanzamiento oficial del iPhone 18 por esta razón",
+      "titulo": "topo chico",
+      "descripcion": "Paga embotelladora 2 mil 594 mdp a SHCP y evita juicio penal",
       "trafico": "100+",
-      "fecha": "24/07/2026 09:00",
-      "fecha_dt": "2026-07-24T09:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwtdBpsEwnEoaOUsRRqv0tauN07Xhl0tB6rUjhaZheZXCwnjFuBHxOagcnhzw",
-      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro+max",
+      "fecha": "24/07/2026 10:50",
+      "fecha_dt": "2026-07-24T10:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1uhKZvnP85k2CjZthq_w_ChaY4ri_xjiYemCAEgvFMLGbUhzzBON_vkAY3j0",
+      "link": "https://trends.google.com/trending?geo=MX&q=topo+chico",
       "status": ""
     },
     {
