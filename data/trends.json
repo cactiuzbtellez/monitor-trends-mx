@@ -1,16 +1,36 @@
 {
-  "actualizado": "26/07/2026 07:37 UTC",
+  "actualizado": "26/07/2026 10:03 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "clima mexicali",
+      "descripcion": "Ssa: Baja California suma 12 muertes por altas temperaturas; termómetro llega a 48 grados en Mexicali",
+      "trafico": "2000+",
+      "fecha": "26/07/2026 07:40",
+      "fecha_dt": "2026-07-26T07:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCyINfEbWYRBTwRMzLGCSYPhYpRIf18jv9O9Y0RM4fEwrM617NmziZDmCcHo8",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+mexicali",
+      "status": ""
+    },
+    {
       "titulo": "clima ensenada",
       "descripcion": "Pronóstico del clima en Ensenada: sábado 25 de julio será muy caluroso con nubes dispersas",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "26/07/2026 06:30",
       "fecha_dt": "2026-07-26T06:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj_lXs3RSYgPNbrQUfdJH1BfA3MH9x3wGPdHKy6k_VUDT3s9uWfHbW0CMlhbA",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+ensenada",
+      "status": ""
+    },
+    {
+      "titulo": "clima tijuana",
+      "descripcion": "Clima Tijuana: Sábado caluroso y con cielo despejado",
+      "trafico": "500+",
+      "fecha": "26/07/2026 08:40",
+      "fecha_dt": "2026-07-26T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO522w0aM1kmrp4vjj6J0c25ZAT1sZrIDx9ruPdsn5SWHSYjeKZcR3LezndJA",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+tijuana",
       "status": ""
     },
     {
@@ -24,13 +44,23 @@
       "status": ""
     },
     {
-      "titulo": "brian rodríguez",
-      "descripcion": "ÚLTIMA HORA: América confirma SENSIBLA BAJA de FIGURA por lesión en inicio del Apertura 2026",
-      "trafico": "500+",
-      "fecha": "26/07/2026 04:40",
-      "fecha_dt": "2026-07-26T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRK821WQo65dA4vdS9w_c_VyJoK7f0yvJCI-n_mPInBkGozar-9RHvBWsV9Erk",
-      "link": "https://trends.google.com/trending?geo=MX&q=brian+rodríguez",
+      "titulo": "berlín",
+      "descripcion": "La Policía muestra foto de sospechoso del atentado en Berlín",
+      "trafico": "200+",
+      "fecha": "26/07/2026 07:50",
+      "fecha_dt": "2026-07-26T07:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8hqTIrExtsupjqPz2Unes5QxtJif0_yMXbeuXc8j3npe-h3z_iIHHudiZf6I",
+      "link": "https://trends.google.com/trending?geo=MX&q=berlín",
+      "status": ""
+    },
+    {
+      "titulo": "pronostico",
+      "descripcion": "Clima en El Salto hoy: el pronóstico para el domingo 26 de julio de 2026",
+      "trafico": "200+",
+      "fecha": "26/07/2026 07:20",
+      "fecha_dt": "2026-07-26T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
+      "link": "https://trends.google.com/trending?geo=MX&q=pronostico",
       "status": ""
     },
     {
@@ -44,36 +74,6 @@
       "status": ""
     },
     {
-      "titulo": "72 horas",
-      "descripcion": "Marcello Hernández, comediante latino de \"SNL\", debuta en el cine con \"72 horas\" junto a Kevin Hart",
-      "trafico": "200+",
-      "fecha": "26/07/2026 04:40",
-      "fecha_dt": "2026-07-26T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc0NuQWGH_5PLWd1j4KONNxv_BjpZdFAy0l1p9e-OZrIUQtILHkOXKR3-LNuQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=72+horas",
-      "status": ""
-    },
-    {
-      "titulo": "juan brunetta",
-      "descripcion": "Este es el mejor “refuerzo” de Cruz Azul para el Apertura 2026 según sus estadísticas",
-      "trafico": "200+",
-      "fecha": "26/07/2026 04:40",
-      "fecha_dt": "2026-07-26T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-9qAyU1BjWwFx7v0BtE_K_QH9oQfS9JrqzRU0apFw7pa2AGZaBEykgVySI7s",
-      "link": "https://trends.google.com/trending?geo=MX&q=juan+brunetta",
-      "status": ""
-    },
-    {
-      "titulo": "pronostico",
-      "descripcion": "Clima en Mazamitla hoy: el pronóstico para el domingo 26 de julio de 2026",
-      "trafico": "100+",
-      "fecha": "26/07/2026 07:20",
-      "fecha_dt": "2026-07-26T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
-      "link": "https://trends.google.com/trending?geo=MX&q=pronostico",
-      "status": ""
-    },
-    {
       "titulo": "aaa verano de escandalo 2026",
       "descripcion": "Verano de Escándalo 2026: horario, cartelera y dónde ver EN VIVO el evento de Lucha Libre AAA Worldwide",
       "trafico": "100+",
@@ -84,23 +84,23 @@
       "status": ""
     },
     {
+      "titulo": "galaxy fc",
+      "descripcion": "LA Galaxy Sign Defender Sebastian Hernandez to Short Term Agreement Ahead of California Clásico",
+      "trafico": "100+",
+      "fecha": "26/07/2026 04:50",
+      "fecha_dt": "2026-07-26T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9S36Mg6gF0jlpOuuhGupbWRno3R7AS7ayibMJYp2zSxEmWJbit_uZsOoFa9E",
+      "link": "https://trends.google.com/trending?geo=MX&q=galaxy+fc",
+      "status": ""
+    },
+    {
       "titulo": "curtis mead",
       "descripcion": "Red Sox acquire slugging infielder Mead for LHP Early in trade with Nats",
       "trafico": "100+",
       "fecha": "26/07/2026 04:50",
       "fecha_dt": "2026-07-26T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsd6OxBvN8e3S1mWOa02w2yM9tRsyxGaHnxvSevmMffOucAtjwbbZPpzqhPsc",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVthm8djuMz1TuUW-eTaEv9MQ_p0ZgOJZbUBeKdw48iHU2Wz9jg91YtV1SrR0",
       "link": "https://trends.google.com/trending?geo=MX&q=curtis+mead",
-      "status": ""
-    },
-    {
-      "titulo": "errol spence jr",
-      "descripcion": "Tszyu Comfortably Beats Spence, Who Confirms Retirement",
-      "trafico": "100+",
-      "fecha": "26/07/2026 04:40",
-      "fecha_dt": "2026-07-26T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9R3U8EgWXAwAB0GV44pTNV5D6s7g8h5W4glcNufY9b_blajsBjcd9dbE-gIE",
-      "link": "https://trends.google.com/trending?geo=MX&q=errol+spence+jr",
       "status": ""
     }
   ]
