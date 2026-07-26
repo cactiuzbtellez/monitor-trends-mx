@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/07/2026 10:03 UTC",
+  "actualizado": "26/07/2026 12:06 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -14,6 +14,16 @@
       "status": ""
     },
     {
+      "titulo": "clima tijuana",
+      "descripcion": "Clima Tijuana: Sábado caluroso y con cielo despejado",
+      "trafico": "1000+",
+      "fecha": "26/07/2026 08:40",
+      "fecha_dt": "2026-07-26T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO522w0aM1kmrp4vjj6J0c25ZAT1sZrIDx9ruPdsn5SWHSYjeKZcR3LezndJA",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+tijuana",
+      "status": ""
+    },
+    {
       "titulo": "clima ensenada",
       "descripcion": "Pronóstico del clima en Ensenada: sábado 25 de julio será muy caluroso con nubes dispersas",
       "trafico": "1000+",
@@ -21,16 +31,6 @@
       "fecha_dt": "2026-07-26T06:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj_lXs3RSYgPNbrQUfdJH1BfA3MH9x3wGPdHKy6k_VUDT3s9uWfHbW0CMlhbA",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+ensenada",
-      "status": ""
-    },
-    {
-      "titulo": "clima tijuana",
-      "descripcion": "Clima Tijuana: Sábado caluroso y con cielo despejado",
-      "trafico": "500+",
-      "fecha": "26/07/2026 08:40",
-      "fecha_dt": "2026-07-26T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO522w0aM1kmrp4vjj6J0c25ZAT1sZrIDx9ruPdsn5SWHSYjeKZcR3LezndJA",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+tijuana",
       "status": ""
     },
     {
@@ -45,21 +45,21 @@
     },
     {
       "titulo": "berlín",
-      "descripcion": "La Policía muestra foto de sospechoso del atentado en Berlín",
+      "descripcion": "Merz promete castigar \"acto horrendo\" tras atropellamiento",
       "trafico": "200+",
       "fecha": "26/07/2026 07:50",
       "fecha_dt": "2026-07-26T07:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8hqTIrExtsupjqPz2Unes5QxtJif0_yMXbeuXc8j3npe-h3z_iIHHudiZf6I",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiKRS4I70eWLklolIPmQUGYepa5wJ937syOgZjuwGrZmxufjy7dusvMqV7CCs",
       "link": "https://trends.google.com/trending?geo=MX&q=berlín",
       "status": ""
     },
     {
       "titulo": "pronostico",
-      "descripcion": "Clima en El Salto hoy: el pronóstico para el domingo 26 de julio de 2026",
+      "descripcion": "Pronóstico del clima en Pachuca, Hidalgo hoy 26 de julio de 2026",
       "trafico": "200+",
       "fecha": "26/07/2026 07:20",
       "fecha_dt": "2026-07-26T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxZyF5ellq51z8WTgbnNWkPKAx2Cm1obB01dUT_8cXnAC9KOUGg69F6ThXojo",
       "link": "https://trends.google.com/trending?geo=MX&q=pronostico",
       "status": ""
     },
@@ -99,7 +99,7 @@
       "trafico": "100+",
       "fecha": "26/07/2026 04:50",
       "fecha_dt": "2026-07-26T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVthm8djuMz1TuUW-eTaEv9MQ_p0ZgOJZbUBeKdw48iHU2Wz9jg91YtV1SrR0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsd6OxBvN8e3S1mWOa02w2yM9tRsyxGaHnxvSevmMffOucAtjwbbZPpzqhPsc",
       "link": "https://trends.google.com/trending?geo=MX&q=curtis+mead",
       "status": ""
     }
