@@ -1,16 +1,36 @@
 {
-  "actualizado": "28/07/2026 05:50 UTC",
+  "actualizado": "28/07/2026 08:40 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "temblor en chiapas hoy",
       "descripcion": "Se registra sismo de 4.4 de magnitud",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "fecha": "28/07/2026 05:40",
       "fecha_dt": "2026-07-28T05:40:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-XEEvJ63NSpyVi9KFyz2YoFTfDMtkKZuJRl_qFr-KxpcDc_kppU7vKR_RlUc",
       "link": "https://trends.google.com/trending?geo=MX&q=temblor+en+chiapas+hoy",
+      "status": ""
+    },
+    {
+      "titulo": "sheinbaum daniel ortega",
+      "descripcion": "\"Estamos a favor de la democracia\": Sheinbaum sobre fin de elecciones en Nicaragua",
+      "trafico": "1000+",
+      "fecha": "28/07/2026 08:00",
+      "fecha_dt": "2026-07-28T08:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDVE3TaKHg41IY3FUj0JtunyVWRW7RmJK5jVGv9gNnfUG10ZYYoCBIpFH8KIU",
+      "link": "https://trends.google.com/trending?geo=MX&q=sheinbaum+daniel+ortega",
+      "status": ""
+    },
+    {
+      "titulo": "spiderman brand new day",
+      "descripcion": "‘Spider-Man: Brand New Day’ First Reactions: Tom Holland Has ‘Never Been Better’ in a Sequel That Ditches ‘Multiverse Tedium’ and Delivers a ‘Grounded Spider-Man Tale’",
+      "trafico": "500+",
+      "fecha": "28/07/2026 08:20",
+      "fecha_dt": "2026-07-28T08:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI_vnxXi_jZt-J6Vzy2lOhDhtOpgLuvxCaomlBWVVKqBypqOSzY_SPT4doGa0",
+      "link": "https://trends.google.com/trending?geo=MX&q=spiderman+brand+new+day",
       "status": ""
     },
     {
@@ -24,83 +44,63 @@
       "status": ""
     },
     {
-      "titulo": "coleman wong",
-      "descripcion": "Coleman Wong vs Darwin Blanch Prediction & Picks - ATP Los Cabos Open",
-      "trafico": "200+",
-      "fecha": "28/07/2026 05:10",
-      "fecha_dt": "2026-07-28T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEKMs7ZNakRPsQts94cAPK225-yZ1NNiXW0gBD2NHZISsxl5Ghl0GIlOMA4o0",
-      "link": "https://trends.google.com/trending?geo=MX&q=coleman+wong",
-      "status": ""
-    },
-    {
-      "titulo": "sadie sink",
-      "descripcion": "Destin Daniel Cretton Believes Secrecy Around Sadie Sink’s Role Makes ‘Spider-Man: Brand New Day’ a Better Movie",
-      "trafico": "200+",
-      "fecha": "28/07/2026 04:10",
-      "fecha_dt": "2026-07-28T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6zs5jJkGm3eciXGMQB2siK4Mw-vAGMWpNbdUf0veeTt1TnUC_K7N-0r5YfEE",
-      "link": "https://trends.google.com/trending?geo=MX&q=sadie+sink",
-      "status": ""
-    },
-    {
-      "titulo": "cristian castro",
-      "descripcion": "Cristian Castro, desilusionado de que no fuera contemplado para cantar en el Mundial 2026: \"solamente Shakira\"",
-      "trafico": "200+",
-      "fecha": "28/07/2026 03:50",
-      "fecha_dt": "2026-07-28T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQhRMKMODP0XK04AC873fijaZMd9JvZ6_jDShQtvfmG5Jv1Uamv_VAiyHPWnU",
-      "link": "https://trends.google.com/trending?geo=MX&q=cristian+castro",
-      "status": ""
-    },
-    {
-      "titulo": "vanessa williams",
-      "descripcion": "Whoopi Goldberg, Jenifer Lewis, Vanessa Williams & Vivica A. Fox Set For Netflix Comedy ‘Women Like Us’",
-      "trafico": "200+",
-      "fecha": "28/07/2026 03:50",
-      "fecha_dt": "2026-07-28T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTahVEF62sj6BqTEcCHhZQoqnzPduL3Cq2yip1i6zRVl1H1BaW4YpgP7gpr1SM",
-      "link": "https://trends.google.com/trending?geo=MX&q=vanessa+williams",
-      "status": ""
-    },
-    {
-      "titulo": "rodrigo dourado",
-      "descripcion": "¡Salida en el 'Nido'! Rodrigo Dourado es baja del América",
-      "trafico": "200+",
-      "fecha": "28/07/2026 03:50",
-      "fecha_dt": "2026-07-28T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6JWhxgmEzvIZtzY02TV4MMsT5nSn2p6QhpYReUFpqD8VoWcnrVkZxqWh12zc",
-      "link": "https://trends.google.com/trending?geo=MX&q=rodrigo+dourado",
-      "status": ""
-    },
-    {
-      "titulo": "elize sombras de una mujer",
-      "descripcion": "La historia real de ‘Elize: Sombras de una mujer’, película en tendencia en Netflix",
+      "titulo": "coach",
+      "descripcion": "🥐☕️FC Breakfast: D-day for Zidane ✨, King Kazu 🇯🇵",
       "trafico": "100+",
-      "fecha": "28/07/2026 04:20",
-      "fecha_dt": "2026-07-28T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBmvZJTxkSPEq561HXDm3tvTgdukIRo4i5Qgw12HAkwbnvOqEIqhnpKRsfEu8",
-      "link": "https://trends.google.com/trending?geo=MX&q=elize+sombras+de+una+mujer",
+      "fecha": "28/07/2026 07:20",
+      "fecha_dt": "2026-07-28T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQveXFXzKTdfa5pa0NawMUtzsA1AmQGqwkU7VXbcAq0DmDa32l13mCgw6spyhg",
+      "link": "https://trends.google.com/trending?geo=MX&q=coach",
       "status": ""
     },
     {
-      "titulo": "los cabos open",
-      "descripcion": "¿Cómo se siente Rodrigo Pacheco en el décimo aniversario del Abierto de Los Cabos?",
+      "titulo": "potrero",
+      "descripcion": "Copero, el viral juego del modo carrera exprés que es tendencia en redes; así puedes jugarlo",
       "trafico": "100+",
-      "fecha": "28/07/2026 04:20",
-      "fecha_dt": "2026-07-28T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlUYqZw6844wTCEeFKuSROo8ZOcG8qBvB9ttChFGFWQ9A4RUzWywHOjerNtQc",
-      "link": "https://trends.google.com/trending?geo=MX&q=los+cabos+open",
+      "fecha": "28/07/2026 07:10",
+      "fecha_dt": "2026-07-28T07:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHJLHDhsNDv2n89FaxkElzlG_pxV6ylv4Sa6yYYCoaAO2V64ZkXihy4UdMKq4",
+      "link": "https://trends.google.com/trending?geo=MX&q=potrero",
       "status": ""
     },
     {
-      "titulo": "red sox vs athletics",
-      "descripcion": "Ceddanne Rafaela’s grand slam sends Red Sox past Athletics",
+      "titulo": "apple store",
+      "descripcion": "Apple sued after alleged App Store crypto scam cost users $1.8M",
       "trafico": "100+",
-      "fecha": "28/07/2026 03:50",
-      "fecha_dt": "2026-07-28T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc9H2oB_4xn0ackgo2SKdCvn4O94E2tIGuBJZXfn1apyw0tXpqmF7vrANP2E0",
-      "link": "https://trends.google.com/trending?geo=MX&q=red+sox+vs+athletics",
+      "fecha": "28/07/2026 06:10",
+      "fecha_dt": "2026-07-28T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBu40XrO5x42NRx9XzUBo7O6NlfoFl8qFkyIqlOV9RpQWijDCajTOW0Mkovn4",
+      "link": "https://trends.google.com/trending?geo=MX&q=apple+store",
+      "status": ""
+    },
+    {
+      "titulo": "gema la casa de los famosos",
+      "descripcion": "Gema Garoa, la integrante sorpresa de \"La casa de los famosos México\"",
+      "trafico": "100+",
+      "fecha": "28/07/2026 05:50",
+      "fecha_dt": "2026-07-28T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlevxwF-zokArbl8KkP06cgURxdFIN-Up1xdg4vHEyyB8SumeMNiYgwK83DqU",
+      "link": "https://trends.google.com/trending?geo=MX&q=gema+la+casa+de+los+famosos",
+      "status": ""
+    },
+    {
+      "titulo": "pareja de cynthia klitbo",
+      "descripcion": "¿Quién es Luis Rodríguez, el misterioso cineasta que conquistó el corazón de Cynthia Klitbo? | FOTO",
+      "trafico": "100+",
+      "fecha": "28/07/2026 05:30",
+      "fecha_dt": "2026-07-28T05:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZark9cDtDSq3TMY7NAZSN3AqZ1P8xvzpcOd2EwUaLOlR1sQnx_dWMnAWWNV0",
+      "link": "https://trends.google.com/trending?geo=MX&q=pareja+de+cynthia+klitbo",
+      "status": ""
+    },
+    {
+      "titulo": "película avatar aang",
+      "descripcion": "El Avatar llegó a streaming: dónde ver la película que trae de regreso a Aang, el último maestro aire",
+      "trafico": "100+",
+      "fecha": "28/07/2026 05:00",
+      "fecha_dt": "2026-07-28T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe2_WBKTwM5NR3LVQ43Zrl6zHriCsXA6uM8M7EtdoAWtZtZLTFBnak3baFOks",
+      "link": "https://trends.google.com/trending?geo=MX&q=película+avatar+aang",
       "status": ""
     }
   ]
