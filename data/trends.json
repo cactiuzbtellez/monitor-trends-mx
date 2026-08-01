@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/08/2026 09:08 UTC",
+  "actualizado": "01/08/2026 11:19 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -24,6 +24,26 @@
       "status": ""
     },
     {
+      "titulo": "paula echevarría",
+      "descripcion": "Paula Echevarría, rota de dolor, da el último adiós a su padre en el funeral: Miguel Torres, a su lado en todo momento",
+      "trafico": "200+",
+      "fecha": "01/08/2026 10:30",
+      "fecha_dt": "2026-08-01T10:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnuUJ4hi0lITeB8DyLIfBOyzFg4Qgcn8oCxnmTfoUVUg8OWI5NjlU8wAEj-n8",
+      "link": "https://trends.google.com/trending?geo=MX&q=paula+echevarría",
+      "status": ""
+    },
+    {
+      "titulo": "chelsea",
+      "descripcion": "Tottenham team confirmed vs Chelsea - Solanke and Van Hecke start in strong XI",
+      "trafico": "200+",
+      "fecha": "01/08/2026 10:20",
+      "fecha_dt": "2026-08-01T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6t05I6qae5hIjxtYYwHrn1Qy4F2dV_FhdS5EdfqGgkfz3_-Dp3WLrdZ65m9E",
+      "link": "https://trends.google.com/trending?geo=MX&q=chelsea",
+      "status": ""
+    },
+    {
       "titulo": "clima culiacan",
       "descripcion": "Monzón Mexicano mantiene temporal lluvioso hoy en zonas de Chihuahua, Sonora, Sinaloa y Nayarit",
       "trafico": "200+",
@@ -34,23 +54,33 @@
       "status": ""
     },
     {
-      "titulo": "cameron norrie",
-      "descripcion": "Highlights: Shapovalov sinks home hope Pacheco Mendez in Los Cabos 2026",
+      "titulo": "loteria nacional 31 de julio 2026",
+      "descripcion": "Sorteo Lotería Nacional de Hoy 31 de Julio: Lista de Resultados, Número Ganador del Premio Mayor",
       "trafico": "200+",
-      "fecha": "01/08/2026 05:10",
-      "fecha_dt": "2026-08-01T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2nO6wfmVkYkeo01OemX36eFIAqlir1JnFJ11SZRa2amS1ibevROfb7dnOJoc",
-      "link": "https://trends.google.com/trending?geo=MX&q=cameron+norrie",
+      "fecha": "01/08/2026 06:00",
+      "fecha_dt": "2026-08-01T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX8xXOlE_QkVy-ql8lnjND1METkgIggwhHR77EgYgFtvmBMccv7ixXPpFwue4",
+      "link": "https://trends.google.com/trending?geo=MX&q=loteria+nacional+31+de+julio+2026",
       "status": ""
     },
     {
-      "titulo": "marilyn monroe",
-      "descripcion": "Dakota Johnson, Ellen Burstyn Play Versions of Marilyn Monroe in Maggie Gyllenhaal Short Film",
-      "trafico": "200+",
-      "fecha": "01/08/2026 04:40",
-      "fecha_dt": "2026-08-01T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzWEzK0jSmZt8R5ZhKFnsUewJ5ZBkGjXcuCKHf6N0Sxj1ndtmfFvHf4LrWpVo",
-      "link": "https://trends.google.com/trending?geo=MX&q=marilyn+monroe",
+      "titulo": "manchester city",
+      "descripcion": "Manchester City vs Inter LIVE Score Updates in Friendly Match",
+      "trafico": "100+",
+      "fecha": "01/08/2026 11:00",
+      "fecha_dt": "2026-08-01T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS55fKUROTIM8OzXX4PKeKExR2hEqSLmCj7RQ6qlmXvkyNSDpMz0KoMwjG6REQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=manchester+city",
+      "status": ""
+    },
+    {
+      "titulo": "kbo",
+      "descripcion": "South Korea baseball league cancels two games over heatwave",
+      "trafico": "100+",
+      "fecha": "01/08/2026 09:20",
+      "fecha_dt": "2026-08-01T09:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSChq2AvTZ9amXg_YkyV9f7UWuUMJjgRmzi5j9UavWIIj1IkgVEFzRatZow2GM",
+      "link": "https://trends.google.com/trending?geo=MX&q=kbo",
       "status": ""
     },
     {
@@ -64,16 +94,6 @@
       "status": ""
     },
     {
-      "titulo": "loteria nacional 31 de julio 2026",
-      "descripcion": "Resultados de la Lotería Nacional en vivo hoy, viernes 31 de julio 2026: qué números cayeron en Sorteo Superior 2892, Melate y otros sorteos electrónicos",
-      "trafico": "100+",
-      "fecha": "01/08/2026 06:00",
-      "fecha_dt": "2026-08-01T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HAJ7ONj8RdpB_qeU6N3ojQ_dBaWnyDHdkz-hoZVfcDjGtSCNrQyFhVA3RdY",
-      "link": "https://trends.google.com/trending?geo=MX&q=loteria+nacional+31+de+julio+2026",
-      "status": ""
-    },
-    {
       "titulo": "shohei ohtani",
       "descripcion": "Florida collector pulls 1-of-1 Ohtani card, sells it for $11M",
       "trafico": "100+",
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-08-01T05:40:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3VndnmmrHkDXYCmKlEzori_FmqaVR7PvBLBPre4UwlrFiz4J6Z5FlJnh9G4",
       "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
-      "status": ""
-    },
-    {
-      "titulo": "pumas vs cruz azul",
-      "descripcion": "Pumas aplastó a Juárez en la gran noche de Juninho",
-      "trafico": "100+",
-      "fecha": "01/08/2026 05:20",
-      "fecha_dt": "2026-08-01T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFqviJi6I6nanyGkqB2o0sgF75XMhudkdZNusj9aZ8t62R8EFltvCA9tpUw84",
-      "link": "https://trends.google.com/trending?geo=MX&q=pumas+vs+cruz+azul",
-      "status": ""
-    },
-    {
-      "titulo": "meryl streep",
-      "descripcion": "Finnegan On Films: Scorsese Classic And A Meryl Streep Double On The Box",
-      "trafico": "100+",
-      "fecha": "01/08/2026 04:40",
-      "fecha_dt": "2026-08-01T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7o-Z0rHKpKUQTVfDMlqFDrvfmd1uCEbJ46qejIcSLlx6djJ830I0sKyFQuQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=meryl+streep",
       "status": ""
     }
   ]
