@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/08/2026 06:32 UTC",
+  "actualizado": "01/08/2026 09:08 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -14,29 +14,9 @@
       "status": ""
     },
     {
-      "titulo": "francisco gattorno",
-      "descripcion": "Cynthia Klitbo confiesa por qué se divorció de Francisco Gattorno: “Embarazó a su amante”",
-      "trafico": "2000+",
-      "fecha": "01/08/2026 04:30",
-      "fecha_dt": "2026-08-01T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwTrjJN6tBOPkTAIYNT7eWPOCKPBu1QfZWC7izVP4RMzOqDMQfMY59foaKHEk",
-      "link": "https://trends.google.com/trending?geo=MX&q=francisco+gattorno",
-      "status": ""
-    },
-    {
-      "titulo": "mariana echeverría",
-      "descripcion": "Mariana Echeverría defiende su cuerpo tras comentarios de Gala Montes",
-      "trafico": "1000+",
-      "fecha": "01/08/2026 04:30",
-      "fecha_dt": "2026-08-01T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS11mrDGMoAQdAUUFrzm4LgXDcjgHuxdHpB0joGZBBheSvpLrdaybzcqAdx1AY",
-      "link": "https://trends.google.com/trending?geo=MX&q=mariana+echeverría",
-      "status": ""
-    },
-    {
       "titulo": "clima hermosillo",
       "descripcion": "Activa Hermosillo operativo de hidratación ante calor extremo",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "01/08/2026 06:20",
       "fecha_dt": "2026-08-01T06:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAl5wEFBEQYO02uPNbPLkUjUsxxRtk_snxb-VrFqQ5H7Epbyi-IOuI_oRFGVA",
@@ -44,23 +24,43 @@
       "status": ""
     },
     {
+      "titulo": "clima culiacan",
+      "descripcion": "Monzón Mexicano mantiene temporal lluvioso hoy en zonas de Chihuahua, Sonora, Sinaloa y Nayarit",
+      "trafico": "200+",
+      "fecha": "01/08/2026 07:10",
+      "fecha_dt": "2026-08-01T07:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5xt60eNmtVhWgpUSiMkWwUwa-I7ZsUX31wYwJWzpGFwGirwkXvGg8ESFDfuA",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+culiacan",
+      "status": ""
+    },
+    {
       "titulo": "cameron norrie",
-      "descripcion": "Los Cabos Open: Cameron Norrie reaches semi-finals by beating Bernard Tomic in 50 minutes",
+      "descripcion": "Highlights: Shapovalov sinks home hope Pacheco Mendez in Los Cabos 2026",
       "trafico": "200+",
       "fecha": "01/08/2026 05:10",
       "fecha_dt": "2026-08-01T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsZrZvMNHgJ9zYL5bd6BTBF44iXqi95TjCBqoH77UygZm-B6XcoDKUe-JfHFc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2nO6wfmVkYkeo01OemX36eFIAqlir1JnFJ11SZRa2amS1ibevROfb7dnOJoc",
       "link": "https://trends.google.com/trending?geo=MX&q=cameron+norrie",
       "status": ""
     },
     {
       "titulo": "marilyn monroe",
-      "descripcion": "Hold the front page! Marilyn Monroe is Dakota Johnson’s ninth cousin three times removed",
+      "descripcion": "Dakota Johnson, Ellen Burstyn Play Versions of Marilyn Monroe in Maggie Gyllenhaal Short Film",
       "trafico": "200+",
       "fecha": "01/08/2026 04:40",
       "fecha_dt": "2026-08-01T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC7QI51CYwdbMJ_UO1wLcpCjiWaD8EVxg35n5WNOhMGJsA_cYhZEBJH0_bQE4",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzWEzK0jSmZt8R5ZhKFnsUewJ5ZBkGjXcuCKHf6N0Sxj1ndtmfFvHf4LrWpVo",
       "link": "https://trends.google.com/trending?geo=MX&q=marilyn+monroe",
+      "status": ""
+    },
+    {
+      "titulo": "corea del norte",
+      "descripcion": "Las potencias occidentales denunciaron que Corea del Norte usa una red de empleados tecnológicos para financiar su programa nuclear",
+      "trafico": "100+",
+      "fecha": "01/08/2026 06:30",
+      "fecha_dt": "2026-08-01T06:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-5lfajBbyL94-9eAMGUMobigsmSZpQaM_yXUTYwccRzga8_9xTDtdOQJWtbY",
+      "link": "https://trends.google.com/trending?geo=MX&q=corea+del+norte",
       "status": ""
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "meryl streep",
-      "descripcion": "Five new movies and TV shows to stream this weekend",
+      "descripcion": "Finnegan On Films: Scorsese Classic And A Meryl Streep Double On The Box",
       "trafico": "100+",
       "fecha": "01/08/2026 04:40",
       "fecha_dt": "2026-08-01T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRfyHju2FxeivLwZRVj_lbpkGwG6zk5RY0JuGMYrESc_zH6snjCzvs7dmXX0g",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj7o-Z0rHKpKUQTVfDMlqFDrvfmd1uCEbJ46qejIcSLlx6djJ830I0sKyFQuQ",
       "link": "https://trends.google.com/trending?geo=MX&q=meryl+streep",
       "status": ""
     }
