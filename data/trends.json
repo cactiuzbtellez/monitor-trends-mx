@@ -1,36 +1,26 @@
 {
-  "actualizado": "02/08/2026 13:36 UTC",
+  "actualizado": "02/08/2026 15:05 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "año escolar",
-      "descripcion": "Defensa descarta relación con funcionamiento de escuela militarizada",
-      "trafico": "1000+",
-      "fecha": "02/08/2026 11:00",
-      "fecha_dt": "2026-08-02T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT8kntLOFhQuFfp5yD3oCzyigVqIbHbbWFMFGYhbHYBuvAGZiQFcbQxjkZ_74",
-      "link": "https://trends.google.com/trending?geo=MX&q=año+escolar",
-      "status": ""
-    },
-    {
-      "titulo": "ejército mexicano",
-      "descripcion": "Los 'Murciélagos' del Ejército Mexicano cumplen 40 años; solo tres de cada diez soldados pasan pruebas",
-      "trafico": "500+",
-      "fecha": "02/08/2026 11:30",
-      "fecha_dt": "2026-08-02T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHZHk9l1osPv5SJScqNutiSe1C7UhzldSWpRm_fnK9P_onqDmUpAIb4baunZ4",
-      "link": "https://trends.google.com/trending?geo=MX&q=ejército+mexicano",
-      "status": ""
-    },
-    {
-      "titulo": "campeonato sub-20 de la concacaf",
+      "titulo": "campeonato sub 20 de la concacaf",
       "descripcion": "¿Qué sigue para México en el Campeonato Sub-20 de Concacaf?",
-      "trafico": "200+",
-      "fecha": "02/08/2026 13:20",
-      "fecha_dt": "2026-08-02T13:20:00+00:00",
+      "trafico": "1000+",
+      "fecha": "02/08/2026 14:30",
+      "fecha_dt": "2026-08-02T14:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWcikCU_YHd2TMAwhzXOWCEAzDYfM1T3S0ZEWMA2Vy-gF4LsO5XegelIJX6fI",
-      "link": "https://trends.google.com/trending?geo=MX&q=campeonato+sub-20+de+la+concacaf",
+      "link": "https://trends.google.com/trending?geo=MX&q=campeonato+sub+20+de+la+concacaf",
+      "status": ""
+    },
+    {
+      "titulo": "rafael márquez",
+      "descripcion": "México vs. Colombia: ¿Qué se sabe del primer partido que dirigirá Rafa Márquez al frente del Tri?",
+      "trafico": "200+",
+      "fecha": "02/08/2026 13:50",
+      "fecha_dt": "2026-08-02T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnnF1pWtkuc0PMAw2p_Cge7oMethJ9T1aO-ud3Xx4pr60PfxEBKyfZCufF1hM",
+      "link": "https://trends.google.com/trending?geo=MX&q=rafael+márquez",
       "status": ""
     },
     {
@@ -44,19 +34,9 @@
       "status": ""
     },
     {
-      "titulo": "estafador",
-      "descripcion": "Así opera la estafa que usa a Mercado Libre para engañarte en WhatsApp",
-      "trafico": "200+",
-      "fecha": "02/08/2026 11:20",
-      "fecha_dt": "2026-08-02T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFbBfdvvow-bEeGDKxjokl_tnLkEqfs7rZlZ3C1zAqVQ2mfu71NtlaGIiqnzE",
-      "link": "https://trends.google.com/trending?geo=MX&q=estafador",
-      "status": ""
-    },
-    {
       "titulo": "cambio climático",
       "descripcion": "Azar o cambio climático: la fórmula matemática que revela si una tormenta extrema ya no es natural",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "02/08/2026 13:10",
       "fecha_dt": "2026-08-02T13:10:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu1pMIfkZ4o1Y6TUAvZUQh7b0Jr72ohaBUQcsnkxexoN9HjkFS_5HxVsrRhIo",
@@ -64,43 +44,63 @@
       "status": ""
     },
     {
-      "titulo": "autopista méxico - querétaro",
-      "descripcion": "La autopista México-Querétaro ahora será más grande. La ampliación comenzará el 17 de agosto: este será el tramo",
+      "titulo": "emma roberts",
+      "descripcion": "Exclusive | Eric Roberts speaks out after missing daughter Emma's Idaho wedding to Cody John",
       "trafico": "100+",
-      "fecha": "02/08/2026 13:00",
-      "fecha_dt": "2026-08-02T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqp_Ke1LNNB-rZnEx9zc-zIZ_VK9I3Qwn69NnI3zYm6bgdxwgud14JHfynU9k",
-      "link": "https://trends.google.com/trending?geo=MX&q=autopista+méxico+-+querétaro",
+      "fecha": "02/08/2026 14:40",
+      "fecha_dt": "2026-08-02T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4mgXz-OIRxWjf4iEz-ZSfLewmLWI6esHcxJpLtn5Mh8Nq5YAYNRrkfIZWTf8",
+      "link": "https://trends.google.com/trending?geo=MX&q=emma+roberts",
       "status": ""
     },
     {
-      "titulo": "eclipse lunar",
-      "descripcion": "Calendario astronómico de agosto: eclipses, planetas, fases lunares y pico de la mayor lluvia de meteoros del año",
+      "titulo": "codere",
+      "descripcion": "El Mundial de Fútbol impulsa el negocio de Codere Online: sus ingresos crecen un 27% en el trimestre",
       "trafico": "100+",
-      "fecha": "02/08/2026 12:30",
-      "fecha_dt": "2026-08-02T12:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRou8MHdsAdH1eZxlj_pO2CW6zWlBAPtpy1v-4JDIC0FlRoIajerKHhxsvb5ic",
-      "link": "https://trends.google.com/trending?geo=MX&q=eclipse+lunar",
+      "fecha": "02/08/2026 14:40",
+      "fecha_dt": "2026-08-02T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMYP9jz1fj2uKZ2ZjKyCRAoXN-z-2vcUTG20SlMGhfXVnkGv-78AGg32QblU",
+      "link": "https://trends.google.com/trending?geo=MX&q=codere",
       "status": ""
     },
     {
-      "titulo": "portugal",
-      "descripcion": "Portugal está fora da lista. Isso é boa notícia?",
+      "titulo": "scarlett johansson",
+      "descripcion": "Colin Jost scolds audience member who asks about Scarlett Johansson at ‘Pop Culture Jeopardy!’ taping",
       "trafico": "100+",
-      "fecha": "02/08/2026 11:50",
-      "fecha_dt": "2026-08-02T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGqaXnGr-lfj-xEdwwWmOoBiJdXaLasDHzWNk41DMOA_Ae_2Os0sUyzxt6PE8",
-      "link": "https://trends.google.com/trending?geo=MX&q=portugal",
+      "fecha": "02/08/2026 14:30",
+      "fecha_dt": "2026-08-02T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4XqAXyCfANqbtsf5CXmThdt9LsII-th3brWhhqKMby5xifV60rKsAurnX-z8",
+      "link": "https://trends.google.com/trending?geo=MX&q=scarlett+johansson",
       "status": ""
     },
     {
-      "titulo": "el",
-      "descripcion": "Precio del dólar HOY viernes 31 de julio de 2026: Peso mexicano perfila ganancia mensual a la espera del Banxi",
+      "titulo": "línea telefónica",
+      "descripcion": "\"Tu línea será suspendida en 72 horas\": CRT responsabiliza a Telcel, AT&T y operadoras el éxito del registro telefónico",
       "trafico": "100+",
-      "fecha": "02/08/2026 09:20",
-      "fecha_dt": "2026-08-02T09:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_m19-6GSlgGtI_EqD8oWYMgfqmg-6id2xrUMw661f9kUQeHE6eGFjt3bkXoQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=el",
+      "fecha": "02/08/2026 14:20",
+      "fecha_dt": "2026-08-02T14:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtLAP-mZzPUSat3ntPG9wFy8QHQj0CioFZLi9PkmMR-7aBpGU5hFxOx-j7otY",
+      "link": "https://trends.google.com/trending?geo=MX&q=línea+telefónica",
+      "status": ""
+    },
+    {
+      "titulo": "willer ditta",
+      "descripcion": "¿Qué haces, Ditta? La dura entrada del jugador de Cruz Azul que termina en penalti",
+      "trafico": "100+",
+      "fecha": "02/08/2026 14:10",
+      "fecha_dt": "2026-08-02T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzy5wLXbbbXyeLh2NP2vSTng4OXutWQawUx_pay70AYRjxIMMn7GsAC2vmYjg",
+      "link": "https://trends.google.com/trending?geo=MX&q=willer+ditta",
+      "status": ""
+    },
+    {
+      "titulo": "oriente medio",
+      "descripcion": "Suspende EU ataques contra Irán mientras aliados alistan acuerdo",
+      "trafico": "100+",
+      "fecha": "02/08/2026 13:20",
+      "fecha_dt": "2026-08-02T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcFkW7U60yV2s-Sq52lnASbbBoJd0G9_voqr6VzpQk6UwgHJWDJuyWO8NY3FA",
+      "link": "https://trends.google.com/trending?geo=MX&q=oriente+medio",
       "status": ""
     }
   ]
