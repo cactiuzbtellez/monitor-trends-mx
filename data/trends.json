@@ -1,15 +1,15 @@
 {
-  "actualizado": "06/08/2026 08:42 UTC",
+  "actualizado": "06/08/2026 11:26 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "nominados la casa de los famosos",
-      "descripcion": "¿A qué hora y dónde ver la segunda gala de nominación de La Casa de los Famosos México 2026?",
+      "descripcion": "¿Quiénes quedaron nominados hoy en La Casa de los Famosos México 2026?",
       "trafico": "20000+",
       "fecha": "06/08/2026 05:10",
       "fecha_dt": "2026-08-06T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaUIrCH6xPkouhX5CFzOGqv5Fkc3i87PVfONdD9rukYL6D_8AQZfDMjIscWg0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT09CeD1Y66qeydNvFAGrtjxzWs4zSA-SUV55zzJ48ymX7ylgcCzQgpl9wvLhI",
       "link": "https://trends.google.com/trending?geo=MX&q=nominados+la+casa+de+los+famosos",
       "status": ""
     },
@@ -25,22 +25,12 @@
     },
     {
       "titulo": "vix votaciones",
-      "descripcion": "¿Cuándo finaliza el acceso gratuito a La Casa de los Famosos México 2026? ¡Toma nota!",
+      "descripcion": "¿Cómo suscribirte a ViX para ver La Casa de los Famosos México 2026?",
       "trafico": "500+",
       "fecha": "06/08/2026 05:30",
       "fecha_dt": "2026-08-06T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIF3fPKHCr8qjWe9NY2pGFz8fKSGgktdcmYA4KIOTX0r-tgAmmYph34JNWA28",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4ySGTEiSJBoiBEIqGVoDL-uSOLNdcw6B913es9i9TGS49gHcNKmB8JriWKR4",
       "link": "https://trends.google.com/trending?geo=MX&q=vix+votaciones",
-      "status": ""
-    },
-    {
-      "titulo": "el idolo",
-      "descripcion": "AEW Grand Slam: Mexico Preview: August 5, 2026 – Will Ospreay vs. Mark Davis in a Mexico City Street Fight, Two Championship Matches, Casino Gauntlet #1 Spot 3-Way, More",
-      "trafico": "200+",
-      "fecha": "06/08/2026 07:10",
-      "fecha_dt": "2026-08-06T07:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7HZDsZP6KvggNJOHdELnPVJmag3Is3KSTVyOWbBo2WZkNFHWg8HJ9fi15Lwc",
-      "link": "https://trends.google.com/trending?geo=MX&q=el+idolo",
       "status": ""
     },
     {
@@ -74,6 +64,16 @@
       "status": ""
     },
     {
+      "titulo": "san diego fc",
+      "descripcion": "América vs San Diego: posibles alineaciones y probabilidades",
+      "trafico": "200+",
+      "fecha": "06/08/2026 05:10",
+      "fecha_dt": "2026-08-06T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6HsEiwzdikItn0hDs01budjC6wuT3sXuFEj9_DDStTs9TILpvHogMuV1yfec",
+      "link": "https://trends.google.com/trending?geo=MX&q=san+diego+fc",
+      "status": ""
+    },
+    {
       "titulo": "sydney sweeney",
       "descripcion": "Man charged with setting Spokane's largest wildfire was questioned about 2 other blazes last year",
       "trafico": "100+",
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "edge",
-      "descripcion": "Falcons' Jalon Walker has torn ACL, will miss 2026 season",
+      "descripcion": "Abdul El-Sayed responds to Donald Trump's attacks following his primary victory in Michigan",
       "trafico": "100+",
       "fecha": "06/08/2026 05:30",
       "fecha_dt": "2026-08-06T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHdYkFCbmIfidybz9-cmjVL02gyUb-qSapW5-KauZb6qp0GGi8elzzuEBJJ2Y",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5XRhtcFxfqUsbv8ee2xh0Bt6rgwrmCj2nRL6xBUc2lfNHzXrqaT4XLWsp64Y",
       "link": "https://trends.google.com/trending?geo=MX&q=edge",
       "status": ""
     }
