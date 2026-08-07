@@ -1,8 +1,18 @@
 {
-  "actualizado": "07/08/2026 09:03 UTC",
+  "actualizado": "07/08/2026 10:56 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "clima tijuana",
+      "descripcion": "Clima en Tijuana hoy jueves 6 de agosto: Calor intenso y cielos nubosos en Baja California",
+      "trafico": "5000+",
+      "fecha": "07/08/2026 08:50",
+      "fecha_dt": "2026-08-07T08:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSov7bm8x_P4oh__baTyrRe2-q4wCqGX3ePi3prE2KkgRF2xjdYzoJoxDb7kw",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+tijuana",
+      "status": ""
+    },
     {
       "titulo": "clima mexicali",
       "descripcion": "Calor extremo continuará durante el fin de semana en Mexicali; sábado rozará los 50 grados centígrados",
@@ -14,13 +24,23 @@
       "status": ""
     },
     {
-      "titulo": "clima tijuana",
-      "descripcion": "Clima Tijuana: una máxima de 29°C",
+      "titulo": "nadie nos va a extrañar 2",
+      "descripcion": "Antes de ser fenómeno, ‘Nadie nos va a extrañar’ pasó por la mirada de egresada IBERO: Catalina Aguilar Mastretta",
+      "trafico": "500+",
+      "fecha": "07/08/2026 04:50",
+      "fecha_dt": "2026-08-07T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXR3itwSzDus_mjHap8AeS2-JaNCfVqZUNGaoEtWbbJtcp3HVYkiE3cU793PE",
+      "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+2",
+      "status": ""
+    },
+    {
+      "titulo": "pronostico",
+      "descripcion": "Viernes soleado en Jalisco: Guadalajara espera hasta 30°C el 7 de agosto",
       "trafico": "200+",
-      "fecha": "07/08/2026 08:50",
-      "fecha_dt": "2026-08-07T08:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwLBXIn0UoD0qM8Tt0AadR-NMggFtJeeFjlnGY1GxfmKmCgmq_j2XkQTtZxrw",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+tijuana",
+      "fecha": "07/08/2026 09:30",
+      "fecha_dt": "2026-08-07T09:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSgG1ha08VVK3XfZlpAdWJP0FDiSUkC8oNHufR-ZHqJmVcf6ElcwHL961qE8",
+      "link": "https://trends.google.com/trending?geo=MX&q=pronostico",
       "status": ""
     },
     {
@@ -31,6 +51,16 @@
       "fecha_dt": "2026-08-07T08:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwpYxtSB_xP8R9aavVls5qLNjRdXFtcFXS4ReWj3JcXd923z2tpGqWNx8lnnQ",
       "link": "https://trends.google.com/trending?geo=MX&q=moises+peñaloza",
+      "status": ""
+    },
+    {
+      "titulo": "jennifer hermoso",
+      "descripcion": "¡Se va! Jennifer Hermoso rescinde contrato con Tigres",
+      "trafico": "200+",
+      "fecha": "07/08/2026 07:30",
+      "fecha_dt": "2026-08-07T07:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0NhHXOwdWIBn344YzX7SpzBqwCJ-bRtDXGe9flUwSzSZqM4WCrZoZxchwLg",
+      "link": "https://trends.google.com/trending?geo=MX&q=jennifer+hermoso",
       "status": ""
     },
     {
@@ -54,16 +84,6 @@
       "status": ""
     },
     {
-      "titulo": "nadie nos va a extrañar 2",
-      "descripcion": "Antes de ser fenómeno, ‘Nadie nos va a extrañar’ pasó por la mirada de egresada IBERO: Catalina Aguilar Mastretta",
-      "trafico": "200+",
-      "fecha": "07/08/2026 04:50",
-      "fecha_dt": "2026-08-07T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXR3itwSzDus_mjHap8AeS2-JaNCfVqZUNGaoEtWbbJtcp3HVYkiE3cU793PE",
-      "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+2",
-      "status": ""
-    },
-    {
       "titulo": "clima ciudad juarez",
       "descripcion": "Pronóstico del clima en Ciudad Juárez hoy 7 de agosto de 2026 de 2025",
       "trafico": "200+",
@@ -74,33 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "jennifer hermoso",
-      "descripcion": "¡Se va! Jennifer Hermoso rescinde contrato con Tigres",
-      "trafico": "100+",
-      "fecha": "07/08/2026 07:30",
-      "fecha_dt": "2026-08-07T07:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0NhHXOwdWIBn344YzX7SpzBqwCJ-bRtDXGe9flUwSzSZqM4WCrZoZxchwLg",
-      "link": "https://trends.google.com/trending?geo=MX&q=jennifer+hermoso",
-      "status": ""
-    },
-    {
       "titulo": "still karol g",
-      "descripcion": "‘Still’ Lyrics: Karol G Sings in English With Bruno Mars on Emotional Collaboration",
+      "descripcion": "The Meaning Behind Every Song on Karol G’s Most Personal Album, In Her Own Words",
       "trafico": "100+",
       "fecha": "07/08/2026 05:50",
       "fecha_dt": "2026-08-07T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFKe2OWxvcamBUz2zL-RWQuAGSr6_yScwEJuzxeXLqnhIAzsP8arVPxq9AoeY",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_f5-OQjHc5GOdJqm9p4ww-2-MmkLpH_5NrJpLtQnlVRZofIT6xc9F1P5tKtM",
       "link": "https://trends.google.com/trending?geo=MX&q=still+karol+g",
-      "status": ""
-    },
-    {
-      "titulo": "pericos de puebla",
-      "descripcion": "CINCUENTA TRIUNFOS EMPLUMADOS",
-      "trafico": "100+",
-      "fecha": "07/08/2026 04:40",
-      "fecha_dt": "2026-08-07T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS36R5ldwUZ4VvvQXcIr5ZJOMn6VlTvZzVKOredO9yaZlGp9clQC-ukXIx-1ZE",
-      "link": "https://trends.google.com/trending?geo=MX&q=pericos+de+puebla",
       "status": ""
     }
   ]
