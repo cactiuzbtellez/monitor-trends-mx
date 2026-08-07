@@ -1,12 +1,12 @@
 {
-  "actualizado": "07/08/2026 11:49 UTC",
+  "actualizado": "07/08/2026 13:12 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "clima tijuana",
       "descripcion": "Clima en Tijuana hoy jueves 6 de agosto: Calor intenso y cielos nubosos en Baja California",
-      "trafico": "5000+",
+      "trafico": "10000+",
       "fecha": "07/08/2026 08:50",
       "fecha_dt": "2026-08-07T08:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSov7bm8x_P4oh__baTyrRe2-q4wCqGX3ePi3prE2KkgRF2xjdYzoJoxDb7kw",
@@ -14,22 +14,42 @@
       "status": ""
     },
     {
-      "titulo": "clima mexicali",
-      "descripcion": "Calor extremo continuará durante el fin de semana en Mexicali; sábado rozará los 50 grados centígrados",
-      "trafico": "2000+",
-      "fecha": "07/08/2026 04:40",
-      "fecha_dt": "2026-08-07T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMaFbTcG-vcTvJb1kDDC2I-fQtQrF4lGhCsoM8EOCxCc7UJOabMZd7nppzahU",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+mexicali",
+      "titulo": "clima xalapa",
+      "descripcion": "Persiste la probabilidad de lluvias y tormentas aisladas en Veracruz",
+      "trafico": "1000+",
+      "fecha": "07/08/2026 12:00",
+      "fecha_dt": "2026-08-07T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3EvrFNVuVkX_uwQBY4G6nAe7DZflbhvH7If1rMNJSbKjsjCoUQoI0MRrJYUk",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+xalapa",
+      "status": ""
+    },
+    {
+      "titulo": "hotel",
+      "descripcion": "Zendaya and Tom Holland Have Secret Wedding Celebration at Luxury Hotel in English Countryside",
+      "trafico": "500+",
+      "fecha": "07/08/2026 11:50",
+      "fecha_dt": "2026-08-07T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5sH7JYhQt93N475x-IjJv4vBSENTb2Jr7w0fowUB0rCn0dv3xHZdmguLwleU",
+      "link": "https://trends.google.com/trending?geo=MX&q=hotel",
+      "status": ""
+    },
+    {
+      "titulo": "jennifer hermoso",
+      "descripcion": "¡Se va! Jennifer Hermoso rescinde contrato con Tigres",
+      "trafico": "500+",
+      "fecha": "07/08/2026 07:30",
+      "fecha_dt": "2026-08-07T07:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0NhHXOwdWIBn344YzX7SpzBqwCJ-bRtDXGe9flUwSzSZqM4WCrZoZxchwLg",
+      "link": "https://trends.google.com/trending?geo=MX&q=jennifer+hermoso",
       "status": ""
     },
     {
       "titulo": "pronostico",
-      "descripcion": "Viernes soleado en Jalisco: Guadalajara espera hasta 30°C el 7 de agosto",
+      "descripcion": "Pronóstico del clima en Chicago, Illinois hoy 7 de agosto de 2026",
       "trafico": "200+",
       "fecha": "07/08/2026 09:30",
       "fecha_dt": "2026-08-07T09:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSgG1ha08VVK3XfZlpAdWJP0FDiSUkC8oNHufR-ZHqJmVcf6ElcwHL961qE8",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnYEUGcit27xxGP-vkmJUshcl0URJjhGKgDyVGA5lC3x542Pq1nGPjvjOeShE",
       "link": "https://trends.google.com/trending?geo=MX&q=pronostico",
       "status": ""
     },
@@ -44,63 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "jennifer hermoso",
-      "descripcion": "¡Se va! Jennifer Hermoso rescinde contrato con Tigres",
-      "trafico": "200+",
-      "fecha": "07/08/2026 07:30",
-      "fecha_dt": "2026-08-07T07:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU0NhHXOwdWIBn344YzX7SpzBqwCJ-bRtDXGe9flUwSzSZqM4WCrZoZxchwLg",
-      "link": "https://trends.google.com/trending?geo=MX&q=jennifer+hermoso",
-      "status": ""
-    },
-    {
-      "titulo": "gema",
-      "descripcion": "Gema Garoa directa asegura que 'Las Divinas' la nominaron y señala con quiénes se siente incómoda en La Casa de Los Famosos México",
-      "trafico": "200+",
-      "fecha": "07/08/2026 05:10",
-      "fecha_dt": "2026-08-07T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzW5J51ndioUheZoX2V2P7Ro8f-c1aqxvIP2hbV__CpwLAM5jMk3sfgIKkA70",
-      "link": "https://trends.google.com/trending?geo=MX&q=gema",
-      "status": ""
-    },
-    {
-      "titulo": "cameron diaz",
-      "descripcion": "Actress Cameron Diaz Welcomes Her Third Child at 53",
-      "trafico": "200+",
-      "fecha": "07/08/2026 05:00",
-      "fecha_dt": "2026-08-07T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4FCtuH0vVGEmvN9KPPWM0S9geMv0zn5oMpF8eJYQJ77nMHFH9nLLjJIvuSvE",
-      "link": "https://trends.google.com/trending?geo=MX&q=cameron+diaz",
-      "status": ""
-    },
-    {
-      "titulo": "nadie nos va a extrañar 2",
-      "descripcion": "Antes de ser fenómeno, ‘Nadie nos va a extrañar’ pasó por la mirada de egresada IBERO: Catalina Aguilar Mastretta",
-      "trafico": "200+",
-      "fecha": "07/08/2026 04:50",
-      "fecha_dt": "2026-08-07T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXR3itwSzDus_mjHap8AeS2-JaNCfVqZUNGaoEtWbbJtcp3HVYkiE3cU793PE",
-      "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+2",
-      "status": ""
-    },
-    {
-      "titulo": "clima ciudad juarez",
-      "descripcion": "Pronóstico del clima en Ciudad Juárez hoy 7 de agosto de 2026 de 2025",
-      "trafico": "200+",
-      "fecha": "07/08/2026 04:50",
-      "fecha_dt": "2026-08-07T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzYmia-eUJQsDCUgnU7Nx48sliSzjiu2t63WAbJXkk0UTLk9GzYsM9YyNSbSM",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+ciudad+juarez",
-      "status": ""
-    },
-    {
-      "titulo": "still karol g",
-      "descripcion": "Karol G Feels It All on the Vulnerable ‘No Me Arrepiento de Sentir Tanto’",
+      "titulo": "bayern munich",
+      "descripcion": "Working hard in the Hong Kong heat",
       "trafico": "100+",
-      "fecha": "07/08/2026 05:50",
-      "fecha_dt": "2026-08-07T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGqLHcELVeqSdTQkw82OlMxzwCFiNb3PQ1ISuAjJeYgbQbLMW-vj6Z0XKzjHg",
-      "link": "https://trends.google.com/trending?geo=MX&q=still+karol+g",
+      "fecha": "07/08/2026 13:00",
+      "fecha_dt": "2026-08-07T13:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnxici-xAGV_O-_WUsIY2qlOvM30tdnkOCGcxNnIwWlJIyTCAtBPlxhAnbUmY",
+      "link": "https://trends.google.com/trending?geo=MX&q=bayern+munich",
+      "status": ""
+    },
+    {
+      "titulo": "ozempic",
+      "descripcion": "‘Hubo riesgo de perder la vida’: Rodrigo Vidal revela el problema de salud que sufrió tras usar Ozempic",
+      "trafico": "100+",
+      "fecha": "07/08/2026 12:50",
+      "fecha_dt": "2026-08-07T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEc2VIFEsTzeCOGaUaE9q2zYURSdqKf1lGTeL2_AEAycvDYggKzw_HOHAXftg",
+      "link": "https://trends.google.com/trending?geo=MX&q=ozempic",
+      "status": ""
+    },
+    {
+      "titulo": "c",
+      "descripcion": "Spice Girl Mel C reveals why Victoria Beckham missed her wedding",
+      "trafico": "100+",
+      "fecha": "07/08/2026 12:20",
+      "fecha_dt": "2026-08-07T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYZeSFe4QMBPVLdNSAJa4bL_Pig4CnfKJ53abEh9cPxFXmI2SoeVHfYZgbCok",
+      "link": "https://trends.google.com/trending?geo=MX&q=c",
+      "status": ""
+    },
+    {
+      "titulo": "bet365",
+      "descripcion": "bet365 Sportsbook Alberta Now Live! Sign Up with bet365 Sportsbook Alberta",
+      "trafico": "100+",
+      "fecha": "07/08/2026 10:40",
+      "fecha_dt": "2026-08-07T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxFqtwoGqSguDJa3rxlUqXxHivn8kp2cpAVLO3JT2MatzENg7NRjsfzSFLD5g",
+      "link": "https://trends.google.com/trending?geo=MX&q=bet365",
       "status": ""
     }
   ]
