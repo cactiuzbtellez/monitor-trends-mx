@@ -1,8 +1,28 @@
 {
-  "actualizado": "07/08/2026 14:56 UTC",
+  "actualizado": "07/08/2026 16:00 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "sat",
+      "descripcion": "‘We Made a Mistake’: University of California Faculty Calls to Reinstate SAT",
+      "trafico": "10000+",
+      "fecha": "07/08/2026 15:40",
+      "fecha_dt": "2026-08-07T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwlLTPOyXaoYm78gcV-qellkPGankxnNBj1ZMk40y7pdlyHVYbnW-ccA0jrF8",
+      "link": "https://trends.google.com/trending?geo=MX&q=sat",
+      "status": ""
+    },
+    {
+      "titulo": "aston villa - bayern",
+      "descripcion": "Working hard in the Hong Kong heat",
+      "trafico": "1000+",
+      "fecha": "07/08/2026 13:40",
+      "fecha_dt": "2026-08-07T13:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnxici-xAGV_O-_WUsIY2qlOvM30tdnkOCGcxNnIwWlJIyTCAtBPlxhAnbUmY",
+      "link": "https://trends.google.com/trending?geo=MX&q=aston+villa+-+bayern",
+      "status": ""
+    },
     {
       "titulo": "paloma cuevas",
       "descripcion": "Luis Miguel y Paloma Cuevas están en Los Cabos y ella demuestra que también lleva a México en el corazón",
@@ -14,29 +34,9 @@
       "status": ""
     },
     {
-      "titulo": "clima xalapa",
-      "descripcion": "Persiste la probabilidad de lluvias y tormentas aisladas en Veracruz",
-      "trafico": "1000+",
-      "fecha": "07/08/2026 12:00",
-      "fecha_dt": "2026-08-07T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3EvrFNVuVkX_uwQBY4G6nAe7DZflbhvH7If1rMNJSbKjsjCoUQoI0MRrJYUk",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+xalapa",
-      "status": ""
-    },
-    {
-      "titulo": "aston villa - bayern",
-      "descripcion": "Working hard in the Hong Kong heat",
-      "trafico": "500+",
-      "fecha": "07/08/2026 13:40",
-      "fecha_dt": "2026-08-07T13:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnxici-xAGV_O-_WUsIY2qlOvM30tdnkOCGcxNnIwWlJIyTCAtBPlxhAnbUmY",
-      "link": "https://trends.google.com/trending?geo=MX&q=aston+villa+-+bayern",
-      "status": ""
-    },
-    {
       "titulo": "luis cárdenas periodista",
       "descripcion": "Tras 16 años, Luis Cárdenas anuncia su salida de MVS Noticias",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "07/08/2026 13:00",
       "fecha_dt": "2026-08-07T13:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQiM83HYbZ_yEPxK3MKFVzqI4NsTF7To0l8O3D31c455M54Nrf9_WZq5WLU2o",
@@ -46,7 +46,7 @@
     {
       "titulo": "refinería",
       "descripcion": "Pasan de la ordeña a tener sus refinerías",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "07/08/2026 14:20",
       "fecha_dt": "2026-08-07T14:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRE-NrQz-B44tE1lXfJijwaLnIMFyUtA3c3egzSmdjkXW4VHKguNbdT2n_ar4U",
@@ -54,19 +54,19 @@
       "status": ""
     },
     {
-      "titulo": "juegos centroamericanos y del caribe",
-      "descripcion": "Catherine Oliver y Yael Marmolejo conquistan el oro histórico que da a México el récord de 146 títulos",
+      "titulo": "william orbit",
+      "descripcion": "William Orbit, pop producer for Madonna, All Saints and more, dies aged 69",
       "trafico": "200+",
-      "fecha": "07/08/2026 11:50",
-      "fecha_dt": "2026-08-07T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQJBpGBByYOjsb9kc3sOP3VAIKOs6wF0WwD5NI5HqZfhJwCcsl_a6ho3-rY6Q",
-      "link": "https://trends.google.com/trending?geo=MX&q=juegos+centroamericanos+y+del+caribe",
+      "fecha": "07/08/2026 14:40",
+      "fecha_dt": "2026-08-07T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0u9QCokvLVizneF4wkCuBesfkD_lSP-fnJvjPFWNaV0J9iaTLxQhVnE0WJWk",
+      "link": "https://trends.google.com/trending?geo=MX&q=william+orbit",
       "status": ""
     },
     {
       "titulo": "edificio",
       "descripcion": "Comenzó la construcción del edificio más alto de América Latina: superará los 470 metros",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "07/08/2026 13:10",
       "fecha_dt": "2026-08-07T13:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQroaEOsOsmvR6vwHyZwdv92sRyDXcK9brtxv8_vYAvGIAKZIwhW5m-vbEyEmk",
@@ -74,19 +74,9 @@
       "status": ""
     },
     {
-      "titulo": "bayern munich",
-      "descripcion": "Who was Bayern Munich’s Meister of the Match?",
-      "trafico": "100+",
-      "fecha": "07/08/2026 13:00",
-      "fecha_dt": "2026-08-07T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmChM9tjUPn6Ib_wG8BY6QiRvvNpttrL1jIDkfOYwpnHFfTtvHcw3hwJ1cYCM",
-      "link": "https://trends.google.com/trending?geo=MX&q=bayern+munich",
-      "status": ""
-    },
-    {
       "titulo": "ozempic",
       "descripcion": "‘Hubo riesgo de perder la vida’: Rodrigo Vidal revela el problema de salud que sufrió tras usar Ozempic",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "07/08/2026 12:50",
       "fecha_dt": "2026-08-07T12:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAHkIizosTpkcSJbDBzA2fPiTRze2E4THHuKx_66Cmyx6IqQn9rmY4BbQqvHE",
@@ -94,13 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "c",
-      "descripcion": "Spice Girl Mel C reveals why Victoria Beckham missed her wedding",
+      "titulo": "fátima bosch",
+      "descripcion": "Fátima Bosch reacciona tras ser relacionada con famosos: Giovanni, Natanael, hijo de ‘Luismi’...",
       "trafico": "100+",
-      "fecha": "07/08/2026 12:20",
-      "fecha_dt": "2026-08-07T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYZeSFe4QMBPVLdNSAJa4bL_Pig4CnfKJ53abEh9cPxFXmI2SoeVHfYZgbCok",
-      "link": "https://trends.google.com/trending?geo=MX&q=c",
+      "fecha": "07/08/2026 15:20",
+      "fecha_dt": "2026-08-07T15:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5Yp3TC4diMFt7DdQrEmXLpTCqbJep8Tk9QvnDhIjFgw0ukavBdl5qQVm_g5Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=fátima+bosch",
+      "status": ""
+    },
+    {
+      "titulo": "mexico vs canada",
+      "descripcion": "Canadá y México se enfrentan en las Semifinales del Campeonato Sub-20",
+      "trafico": "100+",
+      "fecha": "07/08/2026 13:50",
+      "fecha_dt": "2026-08-07T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqTOpu61E6pn5ctyLMz_i2Y8-xHm65Aof330tw352ddlmXrieZgdzWcroHnbg",
+      "link": "https://trends.google.com/trending?geo=MX&q=mexico+vs+canada",
       "status": ""
     }
   ]
