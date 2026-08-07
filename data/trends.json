@@ -1,26 +1,66 @@
 {
-  "actualizado": "07/08/2026 05:42 UTC",
+  "actualizado": "07/08/2026 07:21 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "reforma",
-      "descripcion": "Milei cancela reforma que paralizó puertos",
+      "descripcion": "¿Pensión para los ‘perrhijos’? Proponen que mascotas reciban manutención tras divorcios en CDMX",
       "trafico": "2000+",
       "fecha": "07/08/2026 04:30",
       "fecha_dt": "2026-08-07T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjOmC_y1_KlyR5IeeC1ojBL6Fq4TGeJQiKMzIwF8DUUeL_hpJHZ1ezA7naSz8",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTh-oVByqg_2mx0GGk9N_Vbm9jOA2U1Q3Hh5lDdNbbQ0SxS2PcsTb4nobXTQqE",
       "link": "https://trends.google.com/trending?geo=MX&q=reforma",
       "status": ""
     },
     {
       "titulo": "vota la casa de los famosos mexico",
       "descripcion": "Ernesto Laguardia destapa quién cree que lo nominó y ¿se va contra Las Divinas?",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "fecha": "07/08/2026 04:10",
       "fecha_dt": "2026-08-07T04:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX_MttCg9vmWMFgHrSx9epy9BX8a5ES4C0G3pCv05gh7t9kuRCGre1kZfL83I",
       "link": "https://trends.google.com/trending?geo=MX&q=vota+la+casa+de+los+famosos+mexico",
+      "status": ""
+    },
+    {
+      "titulo": "virus",
+      "descripcion": "This A.I. Just Created Viruses Not Found in Nature",
+      "trafico": "500+",
+      "fecha": "07/08/2026 04:10",
+      "fecha_dt": "2026-08-07T04:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2WVJ---3jti7NkaxwyCQcKTF0QdWaOikKGPZs1qDSK1WvR44ioOIynCuVw",
+      "link": "https://trends.google.com/trending?geo=MX&q=virus",
+      "status": ""
+    },
+    {
+      "titulo": "gema",
+      "descripcion": "Gema Garoa directa asegura que 'Las Divinas' la nominaron y señala con quiénes se siente incómoda en La Casa de Los Famosos México",
+      "trafico": "200+",
+      "fecha": "07/08/2026 05:10",
+      "fecha_dt": "2026-08-07T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzW5J51ndioUheZoX2V2P7Ro8f-c1aqxvIP2hbV__CpwLAM5jMk3sfgIKkA70",
+      "link": "https://trends.google.com/trending?geo=MX&q=gema",
+      "status": ""
+    },
+    {
+      "titulo": "cameron diaz",
+      "descripcion": "Actress Cameron Diaz Welcomes Her Third Child at 53",
+      "trafico": "200+",
+      "fecha": "07/08/2026 05:00",
+      "fecha_dt": "2026-08-07T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4FCtuH0vVGEmvN9KPPWM0S9geMv0zn5oMpF8eJYQJ77nMHFH9nLLjJIvuSvE",
+      "link": "https://trends.google.com/trending?geo=MX&q=cameron+diaz",
+      "status": ""
+    },
+    {
+      "titulo": "nadie nos va a extrañar 2",
+      "descripcion": "Antes de ser fenómeno, ‘Nadie nos va a extrañar’ pasó por la mirada de egresada IBERO: Catalina Aguilar Mastretta",
+      "trafico": "200+",
+      "fecha": "07/08/2026 04:50",
+      "fecha_dt": "2026-08-07T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXR3itwSzDus_mjHap8AeS2-JaNCfVqZUNGaoEtWbbJtcp3HVYkiE3cU793PE",
+      "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+2",
       "status": ""
     },
     {
@@ -34,53 +74,23 @@
       "status": ""
     },
     {
-      "titulo": "virus",
-      "descripcion": "This A.I. Just Created Viruses Not Found in Nature",
-      "trafico": "200+",
-      "fecha": "07/08/2026 04:10",
-      "fecha_dt": "2026-08-07T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2WVJ---3jti7NkaxwyCQcKTF0QdWaOikKGPZs1qDSK1WvR44ioOIynCuVw",
-      "link": "https://trends.google.com/trending?geo=MX&q=virus",
-      "status": ""
-    },
-    {
       "titulo": "guerreros de oaxaca",
-      "descripcion": "Fusionan Guerreros de Oaxaca el arte y el béisbol en el Yu’va",
+      "descripcion": "Oaxaca nivela la serie ante Yucatán",
       "trafico": "200+",
       "fecha": "07/08/2026 03:50",
       "fecha_dt": "2026-08-07T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2oTEOMQGUaPyni6R4Af51w9xw9sNiaAam37vfls_5wqHaW8IpQNhNIXU_PFg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlfvRh9ZCQaSzqwx2muprKzJE-RGPUZBY5sAbeKI2jZs0BDKk8tiOx7MyjWeg",
       "link": "https://trends.google.com/trending?geo=MX&q=guerreros+de+oaxaca",
       "status": ""
     },
     {
-      "titulo": "trabzonspor",
-      "descripcion": "U19 Takımımız yeni sezon hazırlıklarına devam ediyor",
-      "trafico": "200+",
-      "fecha": "07/08/2026 03:40",
-      "fecha_dt": "2026-08-07T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRmjO8FogDv2XflYcDe7zo4upswhoHIay8PLMTEGoJAyDe13dVRlrLCBI56E2I",
-      "link": "https://trends.google.com/trending?geo=MX&q=trabzonspor",
-      "status": ""
-    },
-    {
-      "titulo": "cameron diaz",
-      "descripcion": "Actress Cameron Diaz Welcomes Her Third Child at 53",
+      "titulo": "still karol g",
+      "descripcion": "‘Still’ Lyrics: Karol G Sings in English With Bruno Mars on Emotional Collaboration",
       "trafico": "100+",
-      "fecha": "07/08/2026 05:00",
-      "fecha_dt": "2026-08-07T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4FCtuH0vVGEmvN9KPPWM0S9geMv0zn5oMpF8eJYQJ77nMHFH9nLLjJIvuSvE",
-      "link": "https://trends.google.com/trending?geo=MX&q=cameron+diaz",
-      "status": ""
-    },
-    {
-      "titulo": "nadie nos va a extrañar 2",
-      "descripcion": "Antes de ser fenómeno, ‘Nadie nos va a extrañar’ pasó por la mirada de egresada IBERO: Catalina Aguilar Mastretta",
-      "trafico": "100+",
-      "fecha": "07/08/2026 04:50",
-      "fecha_dt": "2026-08-07T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXR3itwSzDus_mjHap8AeS2-JaNCfVqZUNGaoEtWbbJtcp3HVYkiE3cU793PE",
-      "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+2",
+      "fecha": "07/08/2026 05:50",
+      "fecha_dt": "2026-08-07T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFKe2OWxvcamBUz2zL-RWQuAGSr6_yScwEJuzxeXLqnhIAzsP8arVPxq9AoeY",
+      "link": "https://trends.google.com/trending?geo=MX&q=still+karol+g",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-07T04:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS36R5ldwUZ4VvvQXcIr5ZJOMn6VlTvZzVKOredO9yaZlGp9clQC-ukXIx-1ZE",
       "link": "https://trends.google.com/trending?geo=MX&q=pericos+de+puebla",
-      "status": ""
-    },
-    {
-      "titulo": "luis cardenas",
-      "descripcion": "Tras 16 años, Luis Cárdenas anuncia su salida de MVS Noticias",
-      "trafico": "100+",
-      "fecha": "07/08/2026 03:50",
-      "fecha_dt": "2026-08-07T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQiM83HYbZ_yEPxK3MKFVzqI4NsTF7To0l8O3D31c455M54Nrf9_WZq5WLU2o",
-      "link": "https://trends.google.com/trending?geo=MX&q=luis+cardenas",
       "status": ""
     }
   ]
