@@ -1,5 +1,5 @@
 {
-  "actualizado": "08/08/2026 09:40 UTC",
+  "actualizado": "08/08/2026 10:37 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -11,16 +11,6 @@
       "fecha_dt": "2026-08-08T05:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqhEY3aEq6tDXD6FGt6z4waNR9UlvncZemBDnzgoP9-J889gveDGEtnA1T30E",
       "link": "https://trends.google.com/trending?geo=MX&q=la+casa+de+los+famosos+votar",
-      "status": ""
-    },
-    {
-      "titulo": "lluvias",
-      "descripcion": "Intensas lluvias desbordan el río Magdalena y generan afectaciones al sur y poniente de la CDMX",
-      "trafico": "1000+",
-      "fecha": "08/08/2026 07:40",
-      "fecha_dt": "2026-08-08T07:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSikBo6k_H_5P8eg4G-dOrPw_SXrcV_3k5Ha3H5H-glITfD72-qmEFTGRg0yrU",
-      "link": "https://trends.google.com/trending?geo=MX&q=lluvias",
       "status": ""
     },
     {
@@ -44,6 +34,16 @@
       "status": ""
     },
     {
+      "titulo": "carlos slim",
+      "descripcion": "Carlos Slim se apropia de uno de los recursos más vitales de México: administrará más de 100 kilómetros, 40 puentes y 9 viaductos de una ruta clave en México",
+      "trafico": "200+",
+      "fecha": "08/08/2026 10:20",
+      "fecha_dt": "2026-08-08T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQRXB5-qvTjcFqH-7qW3bvmE93iAjzhumnlJzR2-HLpyyjtojgX0YBwlxJAANQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=carlos+slim",
+      "status": ""
+    },
+    {
       "titulo": "ocarina of time remake",
       "descripcion": "Nintendo May Send Zelda: Ocarina Of Time Remake Straight At GTA 6, As Rating Points To a Possible November Launch",
       "trafico": "200+",
@@ -55,11 +55,11 @@
     },
     {
       "titulo": "marie claire",
-      "descripcion": "Pourquoi Sterling Point, sur Prime Video, va devenir votre obsession de l’été",
+      "descripcion": "Parfum, mascara, solaire… Voici les 5 nouveautés beauté qui nous font craquer en août",
       "trafico": "200+",
       "fecha": "08/08/2026 05:50",
       "fecha_dt": "2026-08-08T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSpQgVG6xNo_AhxvmzPtpoArVQaGiwVv1BmbL5a1o5-DFyfFo0Tm-YO_ixGkU",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS7PeNMx2ykP4v9yrT0yLukfXrqf_fL6Ze9UBmUYuaBu33NKEXQI3EBr2KBHo",
       "link": "https://trends.google.com/trending?geo=MX&q=marie+claire",
       "status": ""
     },
@@ -84,22 +84,22 @@
       "status": ""
     },
     {
-      "titulo": "sorteo superior",
-      "descripcion": "Sorteo Lotería Nacional Hoy 7 de Agosto: Lista de Resultados y Número Ganador del Premio Mayor",
-      "trafico": "200+",
-      "fecha": "08/08/2026 05:20",
-      "fecha_dt": "2026-08-08T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZP8rCgMek3L92qiJiH0lO8aDH13ayFjEBVBXVbjE-A-d8RyJEso3WC3iQypc",
-      "link": "https://trends.google.com/trending?geo=MX&q=sorteo+superior",
+      "titulo": "epic games",
+      "descripcion": "Lista de juegos gratis del fin de semana: NBA 2K26, Tom Clancy’s Ghost Recon Wildlands en Steam, Xbox, PlayStation y Epic Games Store.",
+      "trafico": "100+",
+      "fecha": "08/08/2026 09:40",
+      "fecha_dt": "2026-08-08T09:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVoQTIfm_majoMK3-6dvbqgbN8IZKmU6yB84anRB9bSCL26r8k2ZtKi3Fnmbw",
+      "link": "https://trends.google.com/trending?geo=MX&q=epic+games",
       "status": ""
     },
     {
       "titulo": "clima puerto vallarta",
-      "descripcion": "Clima en Puerto Vallarta hoy: el pronóstico para el sábado 8 de agosto de 2026",
+      "descripcion": "Las costas de Jalisco gozarán de condiciones veraniegas",
       "trafico": "100+",
       "fecha": "08/08/2026 07:00",
       "fecha_dt": "2026-08-08T07:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3otxADiB9nwLz5nS_yIGSGMIjv9us8qqe6_PYM6ierHSjHYXhr-9KcIaYI9E",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+puerto+vallarta",
       "status": ""
     }
