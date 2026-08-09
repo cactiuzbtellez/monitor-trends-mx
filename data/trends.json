@@ -1,46 +1,76 @@
 {
-  "actualizado": "09/08/2026 15:35 UTC",
+  "actualizado": "09/08/2026 16:39 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "liverpool vs",
-      "descripcion": "Cuándo juegan Liverpool vs AS Monaco en un amistoso: equipo, fecha, hora y TV en vivo",
-      "trafico": "500+",
-      "fecha": "09/08/2026 15:10",
-      "fecha_dt": "2026-08-09T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaA4iezFChMvyp_KaVrcQ1t-5OtXtNl9sbbbfcwa-iqoujQgNVnbNshRZlWMg",
-      "link": "https://trends.google.com/trending?geo=MX&q=liverpool+vs",
-      "status": ""
-    },
-    {
-      "titulo": "club necaxa femenil",
-      "descripcion": "Pumas encuentra al final la fórmula para vencer al Necaxa en la Liga Femenil",
-      "trafico": "500+",
-      "fecha": "09/08/2026 14:40",
-      "fecha_dt": "2026-08-09T14:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHpHK32JUNifKA2NqovJ_iR7BDIFjW0-1qVFThA7GxUZEPvOf43G5uedl68ug",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+necaxa+femenil",
-      "status": ""
-    },
-    {
-      "titulo": "cruzeiro - mirassol",
-      "descripcion": "Time reserva? Veja a escalação do Cruzeiro diante do Mirassol",
-      "trafico": "500+",
-      "fecha": "09/08/2026 14:20",
-      "fecha_dt": "2026-08-09T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL4AwtbTZ49WRNd2J1_RnVHJwNmr2zxLaAAmQq5-420t-p2txOKG66jXm-hkM",
-      "link": "https://trends.google.com/trending?geo=MX&q=cruzeiro+-+mirassol",
+      "titulo": "9 de agosto",
+      "descripcion": "Se aproximan tormentas esta tarde de domingo en la CDMX: mayor probabilidad de lluvia a partir de las 13:00 horas",
+      "trafico": "200000+",
+      "fecha": "09/08/2026 15:30",
+      "fecha_dt": "2026-08-09T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXBvGT7oAOwFUB0UJX0swaLuG4JEWjVkrO1GlqHhvGIBkBtESMcKOAhAfsAhE",
+      "link": "https://trends.google.com/trending?geo=MX&q=9+de+agosto",
       "status": ""
     },
     {
       "titulo": "marsella - athletic",
       "descripcion": "",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "09/08/2026 15:20",
       "fecha_dt": "2026-08-09T15:20:00+00:00",
       "imagen": "",
       "link": "https://trends.google.com/trending?geo=MX&q=marsella+-+athletic",
+      "status": ""
+    },
+    {
+      "titulo": "cadillac en fórmula 1",
+      "descripcion": "Checo Pérez... ¿de Cadillac a Williams?",
+      "trafico": "500+",
+      "fecha": "09/08/2026 16:30",
+      "fecha_dt": "2026-08-09T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfHAvybO4O20VCqceTRmva2DFEBiDBQ9wrTE0zNO3hfVXApBrrZBAQ0qkcgCs",
+      "link": "https://trends.google.com/trending?geo=MX&q=cadillac+en+fórmula+1",
+      "status": ""
+    },
+    {
+      "titulo": "paolo maldini",
+      "descripcion": "Maldini: \"Guardiola era vicino, già scriveva le formazioni. Malagò ha rivisto i patti in corsa, inaccettabile\"",
+      "trafico": "500+",
+      "fecha": "09/08/2026 14:50",
+      "fecha_dt": "2026-08-09T14:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLnJKr7JDiCQWw9ozBwBj-zGlvKtHa_G26FSYbPYa3tMGZbiUodkh-XvE5Eg",
+      "link": "https://trends.google.com/trending?geo=MX&q=paolo+maldini",
+      "status": ""
+    },
+    {
+      "titulo": "billetes falsos",
+      "descripcion": "2143: Oficiales de la SSC detuvieron a una mujer que posiblemente intentó pagar en un establecimiento con billetes falsos, en posesión de probable documentación falsa, en la alcaldía Cuauhtémoc",
+      "trafico": "200+",
+      "fecha": "09/08/2026 16:30",
+      "fecha_dt": "2026-08-09T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTT-tBRTxq6-zsu9qaono6Am-nnC4xhGqfjZrKTkPfmpdbsnc2HsxxFBIg3Ac",
+      "link": "https://trends.google.com/trending?geo=MX&q=billetes+falsos",
+      "status": ""
+    },
+    {
+      "titulo": "anderlecht - raal la louvière",
+      "descripcion": "Last tickets for the season opener against RAAL La Louvière",
+      "trafico": "200+",
+      "fecha": "09/08/2026 16:10",
+      "fecha_dt": "2026-08-09T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlb1U9laAQ12EiK5VGiMRY9LoDI2prh9BM_UL6DTp8hnjyjEZW6NDTC5kXUY0",
+      "link": "https://trends.google.com/trending?geo=MX&q=anderlecht+-+raal+la+louvière",
+      "status": ""
+    },
+    {
+      "titulo": "seattle sounders",
+      "descripcion": "Press Conference Brian Schmetzer and Albert Rusnák on facing Querétaro F.C. in Leagues Cup",
+      "trafico": "200+",
+      "fecha": "09/08/2026 15:30",
+      "fecha_dt": "2026-08-09T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWXt85sV7fqs_5B86jsXwnEU67XC0zLPKUOdyvivRnoTx8QshpAeEAR3zKLGU",
+      "link": "https://trends.google.com/trending?geo=MX&q=seattle+sounders",
       "status": ""
     },
     {
@@ -54,53 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "paolo maldini",
-      "descripcion": "Maldini: \"Guardiola era vicino, già scriveva le formazioni. Malagò ha rivisto i patti in corsa, inaccettabile\"",
-      "trafico": "200+",
-      "fecha": "09/08/2026 14:50",
-      "fecha_dt": "2026-08-09T14:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLnJKr7JDiCQWw9ozBwBj-zGlvKtHa_G26FSYbPYa3tMGZbiUodkh-XvE5Eg",
-      "link": "https://trends.google.com/trending?geo=MX&q=paolo+maldini",
-      "status": ""
-    },
-    {
-      "titulo": "paz vega",
-      "descripcion": "Paz Vega dice adiós a su melena con un corte 'mixie' muy atrevido: \"Simboliza el inicio de una nueva etapa\"",
-      "trafico": "200+",
-      "fecha": "09/08/2026 14:30",
-      "fecha_dt": "2026-08-09T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSq5nePZFzz5guSmofhmjD92mkJdsyqgWNgm5IsTvLACpagz9BmBer9oOv1vlM",
-      "link": "https://trends.google.com/trending?geo=MX&q=paz+vega",
-      "status": ""
-    },
-    {
-      "titulo": "cadillac formula 1 team",
-      "descripcion": "Checo Pérez... ¿de Cadillac a Williams?",
+      "titulo": "cruz azul vs new york city",
+      "descripcion": "Cruz Azul vs NYC FC: posibles alineaciones y probabilidades",
       "trafico": "100+",
-      "fecha": "09/08/2026 15:20",
-      "fecha_dt": "2026-08-09T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcuJFgqQG9wARuCUuE2KrHpuoVuo95prqGqyI4UxkXRmWvKG-fkkT9a7N2lo",
-      "link": "https://trends.google.com/trending?geo=MX&q=cadillac+formula+1+team",
+      "fecha": "09/08/2026 15:40",
+      "fecha_dt": "2026-08-09T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVcJqEQYVzB7JHnoZYiueDMs9sP8M7khayEXZNzwR_svffUbNvta4hyHu_WGg",
+      "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul+vs+new+york+city",
       "status": ""
     },
     {
-      "titulo": "borussia dortmund",
-      "descripcion": "Arsenal vs. Borussia Dortmund: Das BVB-Testspiel jetzt live im Ticker - Aufstellungen sind da!",
+      "titulo": "miguel bosé",
+      "descripcion": "Los dos hijos de Nacho Palau se encuentran veraneando en Andorra para conocer el lugar en el que vivirán sus hermanos junto a Miguel Bosé",
       "trafico": "100+",
-      "fecha": "09/08/2026 14:50",
-      "fecha_dt": "2026-08-09T14:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQA4Dqv1mQLgekW339qm7mOAy73OPaaf425VFuo44joOecz9VKz0siaZn0GKwA",
-      "link": "https://trends.google.com/trending?geo=MX&q=borussia+dortmund",
-      "status": ""
-    },
-    {
-      "titulo": "boda",
-      "descripcion": "En medio de rumores y movimientos misteriosos: Cristiano Ronaldo se burla de la noticia de su boda",
-      "trafico": "100+",
-      "fecha": "09/08/2026 14:40",
-      "fecha_dt": "2026-08-09T14:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp7Qu4JzsBHydQE29Yb-mh2gse5R_OCFgcGgNAFvb0NHGmlolwY50HM6TiREo",
-      "link": "https://trends.google.com/trending?geo=MX&q=boda",
+      "fecha": "09/08/2026 15:30",
+      "fecha_dt": "2026-08-09T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb5gpPFybOE4h7wmxu-x5dW7K-0wolQ9OtTTLbbtEqkdkFFtMuSIw3n05WZ2k",
+      "link": "https://trends.google.com/trending?geo=MX&q=miguel+bosé",
       "status": ""
     }
   ]
