@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/08/2026 07:01 UTC",
+  "actualizado": "09/08/2026 08:48 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -24,6 +24,16 @@
       "status": ""
     },
     {
+      "titulo": "inundación",
+      "descripcion": "SE ACTUALIZA ALERTA ROJA Y NARANJA POR PERSISTENCIA DE LLUVIAS FUERTES Y POSIBLE CAÍDA DE GRANIZO; SE MANTIENE ALERTA AMARILLA",
+      "trafico": "1000+",
+      "fecha": "09/08/2026 05:30",
+      "fecha_dt": "2026-08-09T05:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTy9ZY-eL2KcW20al30jK-5eQKWD1xa2REpNSRd1aIwNpv9YwLVPIKnY8MnK0",
+      "link": "https://trends.google.com/trending?geo=MX&q=inundación",
+      "status": ""
+    },
+    {
       "titulo": "comentarista",
       "descripcion": "Legendario comentarista de TUDN se une a Imagen TV para Leagues Cup",
       "trafico": "1000+",
@@ -31,16 +41,6 @@
       "fecha_dt": "2026-08-09T05:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg207Yt1JV54NUpOvrpxSpN13vpQbLf81psEVXBUXKSVpS2ZQyu80QofDr_RE",
       "link": "https://trends.google.com/trending?geo=MX&q=comentarista",
-      "status": ""
-    },
-    {
-      "titulo": "inundación",
-      "descripcion": "Lluvias vuelven a pegar en el sur de CDMX; calles de Topilejo se transforman en \"auténticos ríos\"",
-      "trafico": "500+",
-      "fecha": "09/08/2026 05:30",
-      "fecha_dt": "2026-08-09T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0UDx3ETQOWZcB5WKAvcFECqfgOmElQfHjI70BUutDG-9CrMUJgSXZENl8OJY",
-      "link": "https://trends.google.com/trending?geo=MX&q=inundación",
       "status": ""
     },
     {
@@ -74,6 +74,16 @@
       "status": ""
     },
     {
+      "titulo": "elliot page",
+      "descripcion": "Elliot Page Shares the Deep Personal Joy of Collaborating for The Odyssey",
+      "trafico": "200+",
+      "fecha": "09/08/2026 06:00",
+      "fecha_dt": "2026-08-09T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSETF9k3qwEvoCWQLPdsR1TrpOVvQjYxDoaR_anMtG_2_oHuw37w6OLksuPDpE",
+      "link": "https://trends.google.com/trending?geo=MX&q=elliot+page",
+      "status": ""
+    },
+    {
       "titulo": "zelda ocarina of time remake",
       "descripcion": "What we know about Zelda's 40th anniversary celebrations",
       "trafico": "200+",
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-09T04:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScgKfIZsG1V0bygbsmaoF1V9vhq0rnbXfbnDxQtwwWw2RXYwsZZhi1AOqhwic",
       "link": "https://trends.google.com/trending?geo=MX&q=trainspotting",
-      "status": ""
-    },
-    {
-      "titulo": "elliot page",
-      "descripcion": "Elliot Page Shares the Deep Personal Joy of Collaborating for The Odyssey",
-      "trafico": "100+",
-      "fecha": "09/08/2026 06:00",
-      "fecha_dt": "2026-08-09T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSETF9k3qwEvoCWQLPdsR1TrpOVvQjYxDoaR_anMtG_2_oHuw37w6OLksuPDpE",
-      "link": "https://trends.google.com/trending?geo=MX&q=elliot+page",
       "status": ""
     }
   ]
