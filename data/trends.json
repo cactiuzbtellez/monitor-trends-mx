@@ -1,8 +1,18 @@
 {
-  "actualizado": "09/08/2026 10:38 UTC",
+  "actualizado": "09/08/2026 11:32 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "manchester city - atlético madrid",
+      "descripcion": "Xavier Parker race, line-up hint, Ruben Dias gesture - five things spotted in Man City training",
+      "trafico": "2000+",
+      "fecha": "09/08/2026 10:20",
+      "fecha_dt": "2026-08-09T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZf7JsnHe9ixjxQv6ZoRMvul3J5jnwnPJ180nVsO4WOHXYSc1ycxyYgQHMNL0",
+      "link": "https://trends.google.com/trending?geo=MX&q=manchester+city+-+atlético+madrid",
+      "status": ""
+    },
     {
       "titulo": "ia virus",
       "descripcion": "La IA cruza una nueva frontera: ya diseña virus y prende alertas por futuros peligros",
@@ -34,32 +44,22 @@
       "status": ""
     },
     {
-      "titulo": "comentarista",
-      "descripcion": "Legendario comentarista de TUDN se une a Imagen TV para Leagues Cup",
-      "trafico": "1000+",
-      "fecha": "09/08/2026 05:00",
-      "fecha_dt": "2026-08-09T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg207Yt1JV54NUpOvrpxSpN13vpQbLf81psEVXBUXKSVpS2ZQyu80QofDr_RE",
-      "link": "https://trends.google.com/trending?geo=MX&q=comentarista",
-      "status": ""
-    },
-    {
-      "titulo": "manchester city - atlético madrid",
-      "descripcion": "Manchester City vs Atletico de Madrid LIVE Score Updates in Friendly Match",
-      "trafico": "200+",
-      "fecha": "09/08/2026 10:20",
-      "fecha_dt": "2026-08-09T10:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlgKUv6l0Dg_Y1mAL63SafNgpVHvIAzNZNASuY675EmnZ4EpWsJJ1dFG8Ufpc",
-      "link": "https://trends.google.com/trending?geo=MX&q=manchester+city+-+atlético+madrid",
+      "titulo": "2026",
+      "descripcion": "Is ‘Gentle Parenting’ Ruining French Children?",
+      "trafico": "500+",
+      "fecha": "09/08/2026 11:20",
+      "fecha_dt": "2026-08-09T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQy-uVZZtGMIccyn10JtCHA7LBKF_SxgBJOz3WjUipchswwdR6682aiLo6278c",
+      "link": "https://trends.google.com/trending?geo=MX&q=2026",
       "status": ""
     },
     {
       "titulo": "sparta rotterdam - feyenoord",
-      "descripcion": "Live Eredivisie | Feyenoord begint met drie debutanten op Het Kasteel",
-      "trafico": "200+",
+      "descripcion": "Live Eredivisie | Aanvoerder Valente opent na drinkpauze score op Het Kasteel",
+      "trafico": "500+",
       "fecha": "09/08/2026 10:20",
       "fecha_dt": "2026-08-09T10:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Uxi1ndOo7GKr5bvYDuTaMGfVxKAqdpKgJcVK32QRGEF7XYGEOeOS0IofpFc",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh_lztP2Jjl5jbbZWKtUr33gBOyA42I5BlGcYIimFeb2nXZ6QuCIQ0t6KRqFw",
       "link": "https://trends.google.com/trending?geo=MX&q=sparta+rotterdam+-+feyenoord",
       "status": ""
     },
@@ -75,11 +75,11 @@
     },
     {
       "titulo": "nadie nos va a extrañar reparto",
-      "descripcion": "'Nadie nos va a extrañar': El arte de despedirse y aprender a soltar",
+      "descripcion": "'Nadie nos va a extrañar' estrena su temporada 2 completa en Prime Video con canción de Julieta Venegas",
       "trafico": "200+",
       "fecha": "09/08/2026 06:00",
       "fecha_dt": "2026-08-09T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlOHBbhehdJ3QXsB3vc6y8AMzkGFiY-_RTmpXeCfSt9Ewz1hFBnU3IwdSAmD4",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEEPw5Ac8d1kyKyFOrwu3UTXPeTz0nNMKV2lNBA-v0_S8z9nQupEVQZxNAYM",
       "link": "https://trends.google.com/trending?geo=MX&q=nadie+nos+va+a+extrañar+reparto",
       "status": ""
     },
