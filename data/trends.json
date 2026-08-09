@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/08/2026 09:43 UTC",
+  "actualizado": "09/08/2026 10:38 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -44,13 +44,23 @@
       "status": ""
     },
     {
-      "titulo": "real salt lake vs atlante f.c. standings",
-      "descripcion": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "trafico": "500+",
-      "fecha": "09/08/2026 04:40",
-      "fecha_dt": "2026-08-09T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDqLxaD7zmequUGWKIxcsBiWezKHhWPtiaoDq8-nn1Uqb0nOl0rE5BB2EBQ_8",
-      "link": "https://trends.google.com/trending?geo=MX&q=real+salt+lake+vs+atlante+f.c.+standings",
+      "titulo": "manchester city - atlético madrid",
+      "descripcion": "Manchester City vs Atletico de Madrid LIVE Score Updates in Friendly Match",
+      "trafico": "200+",
+      "fecha": "09/08/2026 10:20",
+      "fecha_dt": "2026-08-09T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlgKUv6l0Dg_Y1mAL63SafNgpVHvIAzNZNASuY675EmnZ4EpWsJJ1dFG8Ufpc",
+      "link": "https://trends.google.com/trending?geo=MX&q=manchester+city+-+atlético+madrid",
+      "status": ""
+    },
+    {
+      "titulo": "sparta rotterdam - feyenoord",
+      "descripcion": "Live Eredivisie | Feyenoord begint met drie debutanten op Het Kasteel",
+      "trafico": "200+",
+      "fecha": "09/08/2026 10:20",
+      "fecha_dt": "2026-08-09T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Uxi1ndOo7GKr5bvYDuTaMGfVxKAqdpKgJcVK32QRGEF7XYGEOeOS0IofpFc",
+      "link": "https://trends.google.com/trending?geo=MX&q=sparta+rotterdam+-+feyenoord",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-09T05:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs5PpFQAz5VNJpc6qt3OUTn2BjFPMA0xVaDLjmzNoXhYAEGE9NfDH9nvH7xVA",
       "link": "https://trends.google.com/trending?geo=MX&q=zelda+ocarina+of+time+remake",
-      "status": ""
-    },
-    {
-      "titulo": "trainspotting",
-      "descripcion": "Trainspotting The Musical cancels tour",
-      "trafico": "200+",
-      "fecha": "09/08/2026 04:50",
-      "fecha_dt": "2026-08-09T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjwq5q3WEoGZvBEzPZ_31ZEFJ4DFh-OSNdJXHYKtLwmDe8UJve37wkpmMymlo",
-      "link": "https://trends.google.com/trending?geo=MX&q=trainspotting",
       "status": ""
     }
   ]
