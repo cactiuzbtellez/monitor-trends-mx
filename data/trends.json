@@ -1,8 +1,28 @@
 {
-  "actualizado": "10/08/2026 08:41 UTC",
+  "actualizado": "10/08/2026 10:20 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "quien salio de la casa de los famosos",
+      "descripcion": "¡Ximena Herrera se va al Exilio con Mariana Ochoa!; así se decidirá quién regresa a La Casa de Los Famosos México 2026",
+      "trafico": "50000+",
+      "fecha": "10/08/2026 05:00",
+      "fecha_dt": "2026-08-10T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYnzosF4R_D7WFnWhRO87aD1wEcx23RYUK3y6nQqYfBnvTsCeuiBYx0hm5ws8",
+      "link": "https://trends.google.com/trending?geo=MX&q=quien+salio+de+la+casa+de+los+famosos",
+      "status": ""
+    },
+    {
+      "titulo": "exilio",
+      "descripcion": "Dos exposiciones virtuales recuerdan a María Luisa Elío y Carmen Húder, mujeres navarra claves del exilio republicano",
+      "trafico": "2000+",
+      "fecha": "10/08/2026 04:50",
+      "fecha_dt": "2026-08-10T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZdQivbUxKwDcjGsz8yNZWKRPmYIb60ES4nwWO1mkR_u4CRXJBqgAe1W33QE",
+      "link": "https://trends.google.com/trending?geo=MX&q=exilio",
+      "status": ""
+    },
     {
       "titulo": "club américa vs portland timbers standings",
       "descripcion": "Goals and Highlights: America 3-1 Timbers in Leagues Cup",
@@ -35,11 +55,11 @@
     },
     {
       "titulo": "el informador",
-      "descripcion": "Muestran músculo…",
+      "descripcion": "Cartucho",
       "trafico": "200+",
       "fecha": "10/08/2026 06:20",
       "fecha_dt": "2026-08-10T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf1HUutc4rg_EX8nIllukLPVSrWBwKB_fw5KzSDzdVOAqyBBxZ1ooaLjeAqMU",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1XxeiOKghLIARbrB48k_OktJKZk6UvuHYr62p2XkztUShZJhk0LEEPlXAvyM",
       "link": "https://trends.google.com/trending?geo=MX&q=el+informador",
       "status": ""
     },
@@ -75,32 +95,12 @@
     },
     {
       "titulo": "herencia",
-      "descripcion": "El SEPE puede retirar el subsidio por desempleo a los parados que reciban una herencia, pero solo si superan el límite de patrimonio establecido",
+      "descripcion": "La millonaria herencia de Mark Zuckerberg (42 años), director ejecutivo de Meta: el magnate le avisó a su hija que regalaría el 99% de su fortuna",
       "trafico": "100+",
       "fecha": "10/08/2026 05:10",
       "fecha_dt": "2026-08-10T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSx0F7bYJyb_pi2-xMw5v6M5UuFvsiVEthzNXZtbTG7gfRGIdrfa-ID9OYZxUA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXslCvgmsXcPdMMbk8StLtNqfyICP2OWJ6EuYcDzerh72pRarXuPe9C9REeAw",
       "link": "https://trends.google.com/trending?geo=MX&q=herencia",
-      "status": ""
-    },
-    {
-      "titulo": "austin football club",
-      "descripcion": "Uzuni firma un hat-trick y Austin aplasta a Puebla",
-      "trafico": "100+",
-      "fecha": "10/08/2026 04:40",
-      "fecha_dt": "2026-08-10T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIuNxgnaeRoR6z_4o9tA9xAIGMlAm6rebvWjFIjl8Rf9c6wBjtD3mYBfFaCU",
-      "link": "https://trends.google.com/trending?geo=MX&q=austin+football+club",
-      "status": ""
-    },
-    {
-      "titulo": "leagues cup standings",
-      "descripcion": "Leagues Cup 2026 continues with eight Matchday 6 contests",
-      "trafico": "100+",
-      "fecha": "10/08/2026 04:40",
-      "fecha_dt": "2026-08-10T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdV08GxaneP9XlF6X4wsqqcuMldp5cT9bNlllGsvyBWDZrb59i6SVznm3cBqM",
-      "link": "https://trends.google.com/trending?geo=MX&q=leagues+cup+standings",
       "status": ""
     }
   ]
