@@ -1,45 +1,25 @@
 {
-  "actualizado": "10/08/2026 10:20 UTC",
+  "actualizado": "10/08/2026 11:50 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "quien salio de la casa de los famosos",
-      "descripcion": "¡Ximena Herrera se va al Exilio con Mariana Ochoa!; así se decidirá quién regresa a La Casa de Los Famosos México 2026",
-      "trafico": "50000+",
-      "fecha": "10/08/2026 05:00",
-      "fecha_dt": "2026-08-10T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYnzosF4R_D7WFnWhRO87aD1wEcx23RYUK3y6nQqYfBnvTsCeuiBYx0hm5ws8",
-      "link": "https://trends.google.com/trending?geo=MX&q=quien+salio+de+la+casa+de+los+famosos",
-      "status": ""
-    },
-    {
-      "titulo": "exilio",
-      "descripcion": "Dos exposiciones virtuales recuerdan a María Luisa Elío y Carmen Húder, mujeres navarra claves del exilio republicano",
-      "trafico": "2000+",
-      "fecha": "10/08/2026 04:50",
-      "fecha_dt": "2026-08-10T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOZdQivbUxKwDcjGsz8yNZWKRPmYIb60ES4nwWO1mkR_u4CRXJBqgAe1W33QE",
-      "link": "https://trends.google.com/trending?geo=MX&q=exilio",
-      "status": ""
-    },
-    {
-      "titulo": "club américa vs portland timbers standings",
-      "descripcion": "Goals and Highlights: America 3-1 Timbers in Leagues Cup",
-      "trafico": "2000+",
-      "fecha": "10/08/2026 04:40",
-      "fecha_dt": "2026-08-10T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaYht0XZoU5XOXHx0fG2L3y-zZl43s4B0VxIstCOXrQSTj3eXPGPNrk-Bvkg8",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+américa+vs+portland+timbers+standings",
+      "titulo": "huachicol",
+      "descripcion": "Dice Morena que se aclara más que Ruffo no es perseguido",
+      "trafico": "500+",
+      "fecha": "10/08/2026 10:40",
+      "fecha_dt": "2026-08-10T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbO46sKrkx_C3iFV-5XEUIDPeLsaspYYTFiFAavAN0fy1c7xwj76f0ZNWlmDw",
+      "link": "https://trends.google.com/trending?geo=MX&q=huachicol",
       "status": ""
     },
     {
       "titulo": "gaceta",
-      "descripcion": "UNAM firma convenio para fortalecer capacidades ante fenómenos",
+      "descripcion": "Doble oro para triatlón en Juegos Centroamericanos y del Caribe 2026",
       "trafico": "500+",
       "fecha": "10/08/2026 06:00",
       "fecha_dt": "2026-08-10T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOkMB3EiDKw3IFFmSiYENKoZ8o861sCP04ZXYpZUCDrf30S6D2tEsI-8zMATI",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRljMx73dAdxrZCqoTjEGYQ96qd2iLwtOLOnnPAk4k3gIYHUEQfYyd1J0RMM5M",
       "link": "https://trends.google.com/trending?geo=MX&q=gaceta",
       "status": ""
     },
@@ -54,6 +34,26 @@
       "status": ""
     },
     {
+      "titulo": "clima obregon",
+      "descripcion": "Clima en Ciudad de México hoy: el pronóstico para el lunes 10 de agosto de 2026",
+      "trafico": "200+",
+      "fecha": "10/08/2026 10:50",
+      "fecha_dt": "2026-08-10T10:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+obregon",
+      "status": ""
+    },
+    {
+      "titulo": "citlalli hernández",
+      "descripcion": "PAN alista iniciativa para obtener derecho de réplica en la mañanera",
+      "trafico": "200+",
+      "fecha": "10/08/2026 06:40",
+      "fecha_dt": "2026-08-10T06:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQmZTbwqJan1I2Rfl3PkdpjqQeWDp4D_ErCTvLvCZue4y6_wq0pBwOAaLG0Ms",
+      "link": "https://trends.google.com/trending?geo=MX&q=citlalli+hernández",
+      "status": ""
+    },
+    {
       "titulo": "el informador",
       "descripcion": "Cartucho",
       "trafico": "200+",
@@ -64,23 +64,33 @@
       "status": ""
     },
     {
-      "titulo": "masterchef",
-      "descripcion": "OFICIAL: Lista completa de los 10 mejores cocineros de MasterChef 24/7 rumbo a la Gran Final",
+      "titulo": "herencia",
+      "descripcion": "Herencia sexenal",
       "trafico": "200+",
-      "fecha": "10/08/2026 05:00",
-      "fecha_dt": "2026-08-10T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7J0WOf-LPFloItU2Q92Kuu-3s9eVOjKY1coXu0AqnAvkyH1731-FT7tf1Nvg",
-      "link": "https://trends.google.com/trending?geo=MX&q=masterchef",
+      "fecha": "10/08/2026 05:10",
+      "fecha_dt": "2026-08-10T05:10:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=herencia",
       "status": ""
     },
     {
-      "titulo": "citlalli hernández",
-      "descripcion": "PAN promoverá desde el Congreso que se garantice el derecho de réplica en las mañaneras",
+      "titulo": "clima saltillo",
+      "descripcion": "Pronóstico del clima en Saltillo hoy 9 de agosto de 2026 de 2025",
       "trafico": "100+",
-      "fecha": "10/08/2026 06:40",
-      "fecha_dt": "2026-08-10T06:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIP_mOoTapBKi_yv59L0_qAxUdJrlgdgilyUZmkOt6qCzdwR7wGTFXVWUFjVU",
-      "link": "https://trends.google.com/trending?geo=MX&q=citlalli+hernández",
+      "fecha": "10/08/2026 11:40",
+      "fecha_dt": "2026-08-10T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFje0NfT4x5JDjp9n1-UrsHhVxS9CmUMero17Xck7y8RwPZb8VZ7-qGeIrP9o",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+saltillo",
+      "status": ""
+    },
+    {
+      "titulo": "santiago giménez",
+      "descripcion": "Santiago Giménez, a un paso de llegar a un gigante europeo",
+      "trafico": "100+",
+      "fecha": "10/08/2026 10:00",
+      "fecha_dt": "2026-08-10T10:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc0wgaTO2wOiesrGvXe4BCNPj3i00E8hghn-HjyfHYfqVoB_GQ1buCk99FLxo",
+      "link": "https://trends.google.com/trending?geo=MX&q=santiago+giménez",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-10T05:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIhUhk-Ia24CtLvrd0CvbisP10l-tcsy5OCgbl47SiRtoGd7w7IAsn83ipNKI",
       "link": "https://trends.google.com/trending?geo=MX&q=rayban+meta",
-      "status": ""
-    },
-    {
-      "titulo": "herencia",
-      "descripcion": "La millonaria herencia de Mark Zuckerberg (42 años), director ejecutivo de Meta: el magnate le avisó a su hija que regalaría el 99% de su fortuna",
-      "trafico": "100+",
-      "fecha": "10/08/2026 05:10",
-      "fecha_dt": "2026-08-10T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXslCvgmsXcPdMMbk8StLtNqfyICP2OWJ6EuYcDzerh72pRarXuPe9C9REeAw",
-      "link": "https://trends.google.com/trending?geo=MX&q=herencia",
       "status": ""
     }
   ]
