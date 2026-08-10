@@ -1,56 +1,86 @@
 {
-  "actualizado": "10/08/2026 22:40 UTC",
+  "actualizado": "10/08/2026 23:38 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "tren maya",
-      "descripcion": "¿Quieres viajar de Cancún a Playa del Carmen en el Tren Maya? Horas, rutas y toda la información",
-      "trafico": "2000+",
-      "fecha": "10/08/2026 20:40",
-      "fecha_dt": "2026-08-10T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6Nu_7PyUm_t99YJsb3IcDIxWfS6K0x0bLSLEaEVvq7Fa62V2ps6-h61eXGHs",
-      "link": "https://trends.google.com/trending?geo=MX&q=tren+maya",
-      "status": ""
-    },
-    {
-      "titulo": "ben jones dukes of hazzard",
-      "descripcion": "Ben Jones, ‘Dukes of Hazzard’ Actor and Congressman, Dies at 84",
-      "trafico": "1000+",
-      "fecha": "10/08/2026 21:00",
-      "fecha_dt": "2026-08-10T21:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF-bweQR6uPw_4hTyI2NV4Ae5Tdn5BvAmB5pZtNegG8Bh3aung1yMfZ1AUgqg",
-      "link": "https://trends.google.com/trending?geo=MX&q=ben+jones+dukes+of+hazzard",
-      "status": ""
-    },
-    {
-      "titulo": "banfield vs belgrano",
-      "descripcion": "EN VIVO: 0-0: Banfield y su duelo por la fecha 4 del Clausura",
-      "trafico": "500+",
-      "fecha": "10/08/2026 21:00",
-      "fecha_dt": "2026-08-10T21:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3hbKLNcvrlBnUqBfWTgLQr859nSgVb8z6Bl53k5f-YUUqmToS6-akXXuZTKA",
-      "link": "https://trends.google.com/trending?geo=MX&q=banfield+vs+belgrano",
-      "status": ""
-    },
-    {
-      "titulo": "sebastián abreu",
-      "descripcion": "'Loco' Abreu lanza dura critica a la Leagues Cup: \"Es una carnicería\"",
-      "trafico": "500+",
-      "fecha": "10/08/2026 20:50",
-      "fecha_dt": "2026-08-10T20:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2gPArFqyIEyzSkWn9doQZNfUNNw6DAlV-ZQUoPPtOY1uTCjS1ehCNBtsAZw8",
-      "link": "https://trends.google.com/trending?geo=MX&q=sebastián+abreu",
-      "status": ""
-    },
-    {
       "titulo": "blue jays - red sox",
       "descripcion": "Gameday live updates: DSL Tigers 1 at DSL Blue Jays Red game on 08/08/2026 free",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "10/08/2026 22:30",
       "fecha_dt": "2026-08-10T22:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWkWWXOHaVcEC_ngyzAYUxXYHkMXLz5fEQMkQa_VC_hOvvNSPQMQPoKxLzno",
       "link": "https://trends.google.com/trending?geo=MX&q=blue+jays+-+red+sox",
+      "status": ""
+    },
+    {
+      "titulo": "braves - mets",
+      "descripcion": "It’s a New York turnaround as Braves pop home to face Mets",
+      "trafico": "500+",
+      "fecha": "10/08/2026 23:00",
+      "fecha_dt": "2026-08-10T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUUEwRzJFvxEazH5bO8jfA7IJT_JQ1RrhQqOzEeysFKRr0GD7w4U_tG_IgQSU",
+      "link": "https://trends.google.com/trending?geo=MX&q=braves+-+mets",
+      "status": ""
+    },
+    {
+      "titulo": "industria automotriz",
+      "descripcion": "El arancel automotriz ya muerde a México",
+      "trafico": "500+",
+      "fecha": "10/08/2026 23:00",
+      "fecha_dt": "2026-08-10T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsR5nHkck4_jxKqXCCrZQSDsfWuTnzceBkuawqlv7zWADfYN2OmpVafXDL7v0",
+      "link": "https://trends.google.com/trending?geo=MX&q=industria+automotriz",
+      "status": ""
+    },
+    {
+      "titulo": "alejandro moreno cárdenas",
+      "descripcion": "Alito Moreno lleva su denuncia de presunta censura del INE ante la justicia estadounidense",
+      "trafico": "500+",
+      "fecha": "10/08/2026 22:50",
+      "fecha_dt": "2026-08-10T22:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3Wl8SgO8i94DrfQNIevtM_EK27FCwn_88ldwvGSCrCLEqHy_dxFn7lmKFF3g",
+      "link": "https://trends.google.com/trending?geo=MX&q=alejandro+moreno+cárdenas",
+      "status": ""
+    },
+    {
+      "titulo": "twins - orioles",
+      "descripcion": "Baltimore Orioles vs. Minnesota Twins 12/8/26 - Mira Juego en vivo",
+      "trafico": "200+",
+      "fecha": "10/08/2026 23:30",
+      "fecha_dt": "2026-08-10T23:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRKwrCWch4Foc865UNNMxX2H_IlV5dTHwlhrFEewvGTNQnzu5_1XctvFVdQ6Q",
+      "link": "https://trends.google.com/trending?geo=MX&q=twins+-+orioles",
+      "status": ""
+    },
+    {
+      "titulo": "iga świątek",
+      "descripcion": "Czeka na finał Igi Świątek. \"Wygrana z Kostiuk zrobiła wrażenie\"",
+      "trafico": "200+",
+      "fecha": "10/08/2026 23:30",
+      "fecha_dt": "2026-08-10T23:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9VBcZdMNJbFybkBKTPjlImuRANesY1yNkfS3LeJjrDMbc4XDJyJ-XONpUU7k",
+      "link": "https://trends.google.com/trending?geo=MX&q=iga+świątek",
+      "status": ""
+    },
+    {
+      "titulo": "clima celaya",
+      "descripcion": "¿Llevo paraguas? Así será el clima en Guanajuato este lunes 10 de agosto",
+      "trafico": "200+",
+      "fecha": "10/08/2026 22:30",
+      "fecha_dt": "2026-08-10T22:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcKbIdiDj69u7WCjSPiSjGXcBvhAE4X7w8y4cwXRtar14dBthdWYYv7x5DwPc",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+celaya",
+      "status": ""
+    },
+    {
+      "titulo": "ivonne montero",
+      "descripcion": "Pese a que prometió no volver a los realitys, Ivonne Montero confirma su participación en \"La granja VIP\"",
+      "trafico": "200+",
+      "fecha": "10/08/2026 22:10",
+      "fecha_dt": "2026-08-10T22:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Ulun8TdppG-nVVjwgpJ0DQr9EJ5nHjdMtyPj_CYnUrtqB8I2WA-LwzI6ceM",
+      "link": "https://trends.google.com/trending?geo=MX&q=ivonne+montero",
       "status": ""
     },
     {
@@ -64,43 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "josé eduardo derbez",
-      "descripcion": "José Eduardo Derbez reaparece con su hija en medio de supuesta separación: Victoria Ruffo reacciona",
-      "trafico": "200+",
-      "fecha": "10/08/2026 20:40",
-      "fecha_dt": "2026-08-10T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTISYcHFG6GzC0TLpzIoCScthFl_poz6CleE2xN854_pQXmqGfYhPYWSD2VwVg",
-      "link": "https://trends.google.com/trending?geo=MX&q=josé+eduardo+derbez",
-      "status": ""
-    },
-    {
-      "titulo": "ivonne montero",
-      "descripcion": "Pese a que prometió no volver a los realitys, Ivonne Montero confirma su participación en \"La granja VIP\"",
+      "titulo": "conmebol",
+      "descripcion": "Infantino habría ofrecido ayudar a México a dejar Concacaf y unirse a Conmebol",
       "trafico": "100+",
-      "fecha": "10/08/2026 22:10",
-      "fecha_dt": "2026-08-10T22:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4Ulun8TdppG-nVVjwgpJ0DQr9EJ5nHjdMtyPj_CYnUrtqB8I2WA-LwzI6ceM",
-      "link": "https://trends.google.com/trending?geo=MX&q=ivonne+montero",
-      "status": ""
-    },
-    {
-      "titulo": "resultados progol",
-      "descripcion": "Resultados Progol 2345: Premios y quiniela ganadora del fin de semana",
-      "trafico": "100+",
-      "fecha": "10/08/2026 21:10",
-      "fecha_dt": "2026-08-10T21:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCXT5GKBUGYB6cN7vDpF4905U9C2dwaJPOFEz4N-vNUyZgt3KHUFXuxSUg4fY",
-      "link": "https://trends.google.com/trending?geo=MX&q=resultados+progol",
-      "status": ""
-    },
-    {
-      "titulo": "clima san luis potosi",
-      "descripcion": "El clima y pronóstico en San Luis Potosí este lunes 10 de agosto: Temperaturas templadas y cielo nublado",
-      "trafico": "100+",
-      "fecha": "10/08/2026 20:40",
-      "fecha_dt": "2026-08-10T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTol3ACVGI9WKH1QJ_ViKVbBqEAo_GTyFeGthPI-ZRVcgKhFMazOd6xrBvAlaY",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+san+luis+potosi",
+      "fecha": "10/08/2026 23:00",
+      "fecha_dt": "2026-08-10T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRax3k-AqPdOVbjWhnhQi4qvdb5yc3qcEQ8ylEfeZ7W4pz4WrnXnK3a-iE5E9s",
+      "link": "https://trends.google.com/trending?geo=MX&q=conmebol",
       "status": ""
     }
   ]
