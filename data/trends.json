@@ -1,62 +1,42 @@
 {
-  "actualizado": "11/08/2026 16:59 UTC",
+  "actualizado": "11/08/2026 18:02 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "aeropuerto internacional matecaña",
-      "descripcion": "Pánico en un colegio durante el terremoto en Colombia",
-      "trafico": "5000+",
-      "fecha": "11/08/2026 16:30",
-      "fecha_dt": "2026-08-11T16:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiHBhkMpdgQ_V3DwXEW7jdxWPcllUcdH0vWnpUWC6dA8hKaOnDE3aH73LtBYg",
-      "link": "https://trends.google.com/trending?geo=MX&q=aeropuerto+internacional+matecaña",
+      "titulo": "club américa vs portland timbers",
+      "descripcion": "América venció a Portland Timbers y se acerca a la siguiente ronda",
+      "trafico": "2000+",
+      "fecha": "11/08/2026 17:40",
+      "fecha_dt": "2026-08-11T17:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFUUhxOgcsWP5gxW-jyZp8qDZYAVBTBRrzOSOyE3vlREuCjeXU2wn-lorHP9c",
+      "link": "https://trends.google.com/trending?geo=MX&q=club+américa+vs+portland+timbers",
+      "status": ""
+    },
+    {
+      "titulo": "iberia 1999",
+      "descripcion": "Europa League: Larne boss Gary Haveron says his squad will 'embrace challenge' of second leg",
+      "trafico": "1000+",
+      "fecha": "11/08/2026 16:50",
+      "fecha_dt": "2026-08-11T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQiOxLSn2XPKzKLJcySqMUDU9-UlQg60Buux-8zguz_tthq-wLFz7b__7ESJUI",
+      "link": "https://trends.google.com/trending?geo=MX&q=iberia+1999",
       "status": ""
     },
     {
       "titulo": "rubén rocha moya",
       "descripcion": "Rocha Moya, otra vez al rojo vivo",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "11/08/2026 16:00",
       "fecha_dt": "2026-08-11T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCTikLT8zoBByDgWLut5jT45UGEm9E1-w5ZPQTe5BCj8j9qxksG21CFQoVzLo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqmjmhkqaZaHVeWZRztgHkMpCM2byIBL8yrrt5z95hZu4CYUiUhskG685Eqog",
       "link": "https://trends.google.com/trending?geo=MX&q=rubén+rocha+moya",
-      "status": ""
-    },
-    {
-      "titulo": "california",
-      "descripcion": "Exclusive | A California Home that Rotates 320 Degrees Takes a Spin on the Market",
-      "trafico": "500+",
-      "fecha": "11/08/2026 16:00",
-      "fecha_dt": "2026-08-11T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv_usBNJSFeZXjybvQ_gW3MxGBP8tI7pp2fNkBsGh4FZSXP9ng62T1sq-mN08",
-      "link": "https://trends.google.com/trending?geo=MX&q=california",
-      "status": ""
-    },
-    {
-      "titulo": "martes y miércoles del campo",
-      "descripcion": "Martes y Miércoles del Campo Soriana: Ofertas en frutas y verduras para el 11 y 12 de agosto de 2026",
-      "trafico": "500+",
-      "fecha": "11/08/2026 15:50",
-      "fecha_dt": "2026-08-11T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNjyZpk0nLKZ9KuWD_8Ufy0MY_CkYgze8n0TRz-GsMNnjOl8JHS4VXRg02rf4",
-      "link": "https://trends.google.com/trending?geo=MX&q=martes+y+miércoles+del+campo",
-      "status": ""
-    },
-    {
-      "titulo": "luis donaldo colosio riojas",
-      "descripcion": "Qué penita con la alcaldesa de Mexicali",
-      "trafico": "500+",
-      "fecha": "11/08/2026 15:50",
-      "fecha_dt": "2026-08-11T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ29TsM9KO1SndqZKanNFPR1wAGDl-SptsLlbO4WSHCQSYUQmNmOGRj47tj3oQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=luis+donaldo+colosio+riojas",
       "status": ""
     },
     {
       "titulo": "club tijuana",
       "descripcion": "Mejores Jugadas: San Diego FC vs. Club Tijuana | 9 de Agosto, 2026",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "11/08/2026 16:50",
       "fecha_dt": "2026-08-11T16:50:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZYDgWyzIR-Q9aRgClXf58cyGzwnOytXLkgVLUE2tHSdc8LKcpeLWOpBORoc",
@@ -64,23 +44,53 @@
       "status": ""
     },
     {
-      "titulo": "allan saint-maximin",
-      "descripcion": "“Estamos en deuda con la afición”, admite Solari, técnico de los Pumas",
+      "titulo": "sturm - fenerbahçe",
+      "descripcion": "Sturm Graz - Fenerbahçe Maçı Tahmini: Muhtemel Kadrolar",
       "trafico": "200+",
-      "fecha": "11/08/2026 16:00",
-      "fecha_dt": "2026-08-11T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSngE1KWLV0a_-guxFTCFkM-72icBRieI9Ry6r2QEXhtWkpoB5nQUQMDis_TWk",
-      "link": "https://trends.google.com/trending?geo=MX&q=allan+saint-maximin",
+      "fecha": "11/08/2026 17:50",
+      "fecha_dt": "2026-08-11T17:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdwDhRST-ZclyNRLS8KaGqhviTo13w_pqumjcti_33fKB7y9ZBC_a1vYYQV5M",
+      "link": "https://trends.google.com/trending?geo=MX&q=sturm+-+fenerbahçe",
       "status": ""
     },
     {
-      "titulo": "iberia 1999",
-      "descripcion": "FC Iberia 1999 vs Larne Predictions, Picks & Odds – 11/08/2026",
+      "titulo": "aguacate",
+      "descripcion": "Capturado X1, de Los Caballeros Templarios, junto a otros 11 extorsionadores del sector del aguacate en Michoacán",
+      "trafico": "200+",
+      "fecha": "11/08/2026 17:30",
+      "fecha_dt": "2026-08-11T17:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCwPMubdjSpjn4pmiQq1jeepvJKhOHy4dlcaeeUE9ZeGSB-Xt9y6wmA--fLZs",
+      "link": "https://trends.google.com/trending?geo=MX&q=aguacate",
+      "status": ""
+    },
+    {
+      "titulo": "alfredo ramírez bedolla",
+      "descripcion": "¿MC apoyará a Grecia Quiroz para Michoacán?",
+      "trafico": "200+",
+      "fecha": "11/08/2026 16:10",
+      "fecha_dt": "2026-08-11T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsTV-BjWD9cmBwOLGZ8kyILyxSSOPNjhzAxgODVv4Cf9d7smG9m-ymuWnqOz0",
+      "link": "https://trends.google.com/trending?geo=MX&q=alfredo+ramírez+bedolla",
+      "status": ""
+    },
+    {
+      "titulo": "sabah vs",
+      "descripcion": "AGF coach confident weekend break will make all the difference in Baku clash",
       "trafico": "100+",
-      "fecha": "11/08/2026 16:50",
-      "fecha_dt": "2026-08-11T16:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAOrynKgD3mbELoVqt6TYvBKNYNkzVF5e7JMFW9ItpUYt1N3UmQby3oAkpPe4",
-      "link": "https://trends.google.com/trending?geo=MX&q=iberia+1999",
+      "fecha": "11/08/2026 17:20",
+      "fecha_dt": "2026-08-11T17:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAtWFhLV_fWLiCtXQT_7uhnglrdlB26-iDMcas0ectlvthdWdeSNnVg4usBx0",
+      "link": "https://trends.google.com/trending?geo=MX&q=sabah+vs",
+      "status": ""
+    },
+    {
+      "titulo": "jair ventura",
+      "descripcion": "Arrascaeta manda recado à torcida do Flamengo após jogo no Maracanã",
+      "trafico": "100+",
+      "fecha": "11/08/2026 17:00",
+      "fecha_dt": "2026-08-11T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuSx1DAlRnzHYGzjB2RYwBzg5NqaFsjO7W8sVzxPV16Xh8r0b0kAr5BrmwnF8",
+      "link": "https://trends.google.com/trending?geo=MX&q=jair+ventura",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-11T16:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFqQeyl18v1TajwaYCcbVEWsvhvFLwB759gawEmqqVf8l92F3vIGgWg5MkDac",
       "link": "https://trends.google.com/trending?geo=MX&q=davian+kimbrough",
-      "status": ""
-    },
-    {
-      "titulo": "alfredo ramírez bedolla",
-      "descripcion": "¿MC apoyará a Grecia Quiroz para Michoacán?",
-      "trafico": "100+",
-      "fecha": "11/08/2026 16:10",
-      "fecha_dt": "2026-08-11T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsTV-BjWD9cmBwOLGZ8kyILyxSSOPNjhzAxgODVv4Cf9d7smG9m-ymuWnqOz0",
-      "link": "https://trends.google.com/trending?geo=MX&q=alfredo+ramírez+bedolla",
       "status": ""
     }
   ]
