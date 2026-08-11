@@ -1,46 +1,56 @@
 {
-  "actualizado": "11/08/2026 05:13 UTC",
+  "actualizado": "11/08/2026 07:13 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "dumping",
+      "descripcion": "China impone aranceles del 51,6% a las nueces pecanas de México",
+      "trafico": "2000+",
+      "fecha": "11/08/2026 04:40",
+      "fecha_dt": "2026-08-11T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYk2Ptveucq61KuilEqDR9M7aRXIc9RjkOtU3d4_nke8QIPt_TlZHzB0fupE",
+      "link": "https://trends.google.com/trending?geo=MX&q=dumping",
+      "status": ""
+    },
+    {
+      "titulo": "seguro de desempleo cdmx",
+      "descripcion": "Apoyo de $3500 Abre Registro Exprés a Hombres y Mujeres 18 a 64 Años: Requisitos y Cómo Asegurar",
+      "trafico": "1000+",
+      "fecha": "11/08/2026 06:20",
+      "fecha_dt": "2026-08-11T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0F75IYvGwFVVjJ-lYyK-cCLmy-xKO7ArywZFKIXVoVP9vJ2L063CmKK1DwKc",
+      "link": "https://trends.google.com/trending?geo=MX&q=seguro+de+desempleo+cdmx",
+      "status": ""
+    },
+    {
       "titulo": "moises peñaloza",
-      "descripcion": "Karina no se queda callada tras escuchar lo que Moisés dijo a espaldas de todos y, sin tapujos, lo confronta",
+      "descripcion": "¿Qué pasa en La Casa de los Famosos México 4 HOY 8 de agosto? Sigue las ÚLTIMAS NOTICIAS este sábado EN DIRECT",
       "trafico": "1000+",
       "fecha": "11/08/2026 04:30",
       "fecha_dt": "2026-08-11T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WflXQwZyMG2MetQgeSUrGtJtsTT8535XCzLgdEP8InCJduzMuanWxnFLPmQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTi2jPBp_y0ntdeIspgTQX7KD1OPGhzU3nM0I8hDN-50wuK9Wl9aODknku-n3k",
       "link": "https://trends.google.com/trending?geo=MX&q=moises+peñaloza",
       "status": ""
     },
     {
-      "titulo": "dodgers",
-      "descripcion": "Tarik Skubal pitches 6 effective innings in Dodgers debut against Cubs",
-      "trafico": "1000+",
-      "fecha": "11/08/2026 04:20",
-      "fecha_dt": "2026-08-11T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_TrsHa_RDc1L-kuMGguEOl0Pw0E5JCfbynmReyuDpfHnV38x3opZFajR6lew",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers",
+      "titulo": "pensión mujeres bienestar",
+      "descripcion": "La Presidenta rinde cuentas de hechos concretos a favor de las mujeres: Mariela Gutiérrez",
+      "trafico": "200+",
+      "fecha": "11/08/2026 05:50",
+      "fecha_dt": "2026-08-11T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq3znhQWFMmKfPwa6Xl0D2HLkt0BtJCGniRFOfwF0hMo4ipXlHGKmNlZ5tHl0",
+      "link": "https://trends.google.com/trending?geo=MX&q=pensión+mujeres+bienestar",
       "status": ""
     },
     {
-      "titulo": "clima torreon",
-      "descripcion": "Clima en Torreón: lunes 10 de agosto con lluvia ligera y ambiente templado",
-      "trafico": "500+",
-      "fecha": "11/08/2026 04:00",
-      "fecha_dt": "2026-08-11T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ75uXMO1wpjC4WjD17n5S5CtZqaVmaYvcVuhyh_6ualNtlpyCJd3DInqujqL4",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+torreon",
-      "status": ""
-    },
-    {
-      "titulo": "miguel mancera aguayo",
-      "descripcion": "Muere a los 93 años Miguel Mancera Aguayo, primer gobernador de Banxico",
-      "trafico": "500+",
-      "fecha": "11/08/2026 03:50",
-      "fecha_dt": "2026-08-11T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsG3hLqYPDphIx2IFhGqlnKc0tQi2I40Bkkimop5hbWlhyHjS6s3ZCyxJ8zJ8",
-      "link": "https://trends.google.com/trending?geo=MX&q=miguel+mancera+aguayo",
+      "titulo": "libia",
+      "descripcion": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
+      "trafico": "200+",
+      "fecha": "11/08/2026 05:20",
+      "fecha_dt": "2026-08-11T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM1Gc7Fqu0wLC1B0Tld5YbuTzyjydyd1T8pdhDPvgd3kMwXtHPbfAKKJoptXY",
+      "link": "https://trends.google.com/trending?geo=MX&q=libia",
       "status": ""
     },
     {
@@ -54,53 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "réplica",
-      "descripcion": "Pide Kenia López derecho de réplica en la mañanera",
-      "trafico": "200+",
-      "fecha": "11/08/2026 04:00",
-      "fecha_dt": "2026-08-11T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1dRQMjsfb3K6NJEzV2bjxaM11msdbrXedO0Qc1xbkJPRcclC8edXI__nVKe4",
-      "link": "https://trends.google.com/trending?geo=MX&q=réplica",
-      "status": ""
-    },
-    {
-      "titulo": "dodgers hoy",
-      "descripcion": "Dodgers: Blake Snell regresará el martes tras el debut en casa de Skubal",
-      "trafico": "100+",
-      "fecha": "11/08/2026 04:50",
-      "fecha_dt": "2026-08-11T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpaOPa9c6mele9wZ_GNle2AsOYebQtUvMqwD12fGzqwiHj_--0rMSpSQK3DrY",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "la dodgers",
-      "descripcion": "Dave Roberts drops blunt reaction to slumping Dodgers ‘getting bullied’",
-      "trafico": "100+",
-      "fecha": "11/08/2026 04:30",
-      "fecha_dt": "2026-08-11T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfqYqflZtu8zHe1hQCFXGpRZ11ZmDaeTnMu7ylHZK7OmeWyrgVXUSpGXSIl3o",
-      "link": "https://trends.google.com/trending?geo=MX&q=la+dodgers",
-      "status": ""
-    },
-    {
-      "titulo": "sultanes",
-      "descripcion": "Ganan Sultanes segundo de la serie a Charros",
-      "trafico": "100+",
-      "fecha": "11/08/2026 04:30",
-      "fecha_dt": "2026-08-11T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvqaBb5fhy0CB0rgckOJUOuIc7ZbzXtecqWGBv_3A-qDXopuoOwlMAS2AYZEk",
-      "link": "https://trends.google.com/trending?geo=MX&q=sultanes",
-      "status": ""
-    },
-    {
       "titulo": "acaramelados serie coreana",
       "descripcion": "\"Acaramelados\": reparto del nuevo k-drama de Netflix",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "11/08/2026 04:10",
       "fecha_dt": "2026-08-11T04:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnLI7qE4kG_FVVy1oyse60cPHYJcEE_q_UY6xxkd2rlTcU4WDrfpNCPM8r3QE",
       "link": "https://trends.google.com/trending?geo=MX&q=acaramelados+serie+coreana",
+      "status": ""
+    },
+    {
+      "titulo": "dodgers hoy",
+      "descripcion": "Freeman empuja la del triunfo para los Dodgers",
+      "trafico": "100+",
+      "fecha": "11/08/2026 04:50",
+      "fecha_dt": "2026-08-11T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRREzFW5SyV22l4ObAC5SQ_XJq_RDmTdTlJmLiEbGXlZYL_aPb43WVBHowL4v0",
+      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+hoy",
+      "status": ""
+    },
+    {
+      "titulo": "sultanes",
+      "descripcion": "¡Sultanes pone contra las cuerdas a Charros! Monterrey toma ventaja 2-0",
+      "trafico": "100+",
+      "fecha": "11/08/2026 04:30",
+      "fecha_dt": "2026-08-11T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIJvDweqIQlk9C_-uMnZw3gbCfe4vhy_MFR4Yw_9O9IE-oIBXDz38-HVfwjWg",
+      "link": "https://trends.google.com/trending?geo=MX&q=sultanes",
+      "status": ""
+    },
+    {
+      "titulo": "padres vs brewers",
+      "descripcion": "MLB: Milwaukee Brewers at San Diego Padres",
+      "trafico": "100+",
+      "fecha": "11/08/2026 04:30",
+      "fecha_dt": "2026-08-11T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdndC-L4i4cg061nzHkKD_NAkJBglZi5stDS2u9pLvfEMma9CrYPFpd4po3pc",
+      "link": "https://trends.google.com/trending?geo=MX&q=padres+vs+brewers",
       "status": ""
     }
   ]
