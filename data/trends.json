@@ -1,15 +1,45 @@
 {
-  "actualizado": "12/08/2026 11:50 UTC",
+  "actualizado": "12/08/2026 13:17 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "epicentro",
+      "descripcion": "Nuevo Temblor en México Hoy: Magnitud y Epicentro de los Sismos este Martes 11 de Agosto 2026",
+      "trafico": "5000+",
+      "fecha": "12/08/2026 11:50",
+      "fecha_dt": "2026-08-12T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlaZiM687wa6xD2jQWiryziit5dc-5WEnwfvfUg1Qknq01gUSL6KV6Iufux9c",
+      "link": "https://trends.google.com/trending?geo=MX&q=epicentro",
+      "status": ""
+    },
+    {
+      "titulo": "club de fútbol cruz azul",
+      "descripcion": "Cruz Azul Femenil destituye a su DT tras goleada de 10-0",
+      "trafico": "1000+",
+      "fecha": "12/08/2026 11:40",
+      "fecha_dt": "2026-08-12T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwH-MON4iAGcoNgLvq0-w3bFajZAHwT-0XG-u2dCtz-ED0HUDC6CkDh7QP5Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=club+de+fútbol+cruz+azul",
+      "status": ""
+    },
+    {
+      "titulo": "asteroide",
+      "descripcion": "La NASA descubrió un asteroide del tamaño de la Torre Eiffel que se acerca a la Tierra: cuándo será y a cuánta distancia",
+      "trafico": "1000+",
+      "fecha": "12/08/2026 10:50",
+      "fecha_dt": "2026-08-12T10:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ESiFUALtrNyTbVDrIC2-4-D-NstrN5R6fCIi6Q1VTj_7dHfFpPxuCQ43aNs",
+      "link": "https://trends.google.com/trending?geo=MX&q=asteroide",
+      "status": ""
+    },
+    {
       "titulo": "onda tropical",
-      "descripcion": "Pronóstico agrometeorológico semanal para México: Monzón y lluvias de hasta 150 mm amenazan aguacate, berries y ganado",
+      "descripcion": "Yucatán pronostica la llegada de cuatro ondas tropicales",
       "trafico": "500+",
       "fecha": "12/08/2026 10:40",
       "fecha_dt": "2026-08-12T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwFQUPmRZJuJPlUml9sV2eYIzCQoz2le881OZg9f20cbX_v9DiGgn-wOZMzC4",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3xQsAXJZ8jpFwDdOyXQv_cvVLJV3URWlPfn_sp6bL08bKY__-P_B4WSdLg7I",
       "link": "https://trends.google.com/trending?geo=MX&q=onda+tropical",
       "status": ""
     },
@@ -24,43 +54,43 @@
       "status": ""
     },
     {
-      "titulo": "profeco",
-      "descripcion": "Profeco llama a fomentar el consumo responsable desde la infancia",
-      "trafico": "500+",
-      "fecha": "12/08/2026 06:10",
-      "fecha_dt": "2026-08-12T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzoxa75THta6oXfPJY1X7_xUqT7OUrVnwL262ks-kR0loa3QUQZB9MdX1tMvI",
-      "link": "https://trends.google.com/trending?geo=MX&q=profeco",
-      "status": ""
-    },
-    {
-      "titulo": "dodgers vs",
-      "descripcion": "Highlights: Royals at Dodgers (8/11) Stream of Major League Baseball",
-      "trafico": "500+",
-      "fecha": "12/08/2026 05:10",
-      "fecha_dt": "2026-08-12T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLItWJk8krJKZl2-qTid9Ko10aoMFJ1y1jDivXaA8FiECpbhnssZpVYLY8FyE",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs",
-      "status": ""
-    },
-    {
-      "titulo": "club de fútbol cruz azul",
-      "descripcion": "Cruz Azul Femenil destituye a su DT tras goleada de 10-0",
+      "titulo": "el financiero",
+      "descripcion": "El calor llegó a los verdes",
       "trafico": "200+",
-      "fecha": "12/08/2026 11:40",
-      "fecha_dt": "2026-08-12T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwH-MON4iAGcoNgLvq0-w3bFajZAHwT-0XG-u2dCtz-ED0HUDC6CkDh7QP5Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+de+fútbol+cruz+azul",
+      "fecha": "12/08/2026 12:50",
+      "fecha_dt": "2026-08-12T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXES1KHxnq3Twq-aeMasS1u3I1rXNQtqpBJm1uByCQ0_j-I_ns7A-0TW7RZIo",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+financiero",
       "status": ""
     },
     {
-      "titulo": "asteroide",
-      "descripcion": "La NASA descubrió un asteroide del tamaño de la Torre Eiffel que se acerca a la Tierra: cuándo será y a cuánta distancia",
-      "trafico": "200+",
-      "fecha": "12/08/2026 10:50",
-      "fecha_dt": "2026-08-12T10:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ESiFUALtrNyTbVDrIC2-4-D-NstrN5R6fCIi6Q1VTj_7dHfFpPxuCQ43aNs",
-      "link": "https://trends.google.com/trending?geo=MX&q=asteroide",
+      "titulo": "stefan medina",
+      "descripcion": "Stefan Medina abandona concentración de Rayados y viaja a Colombia",
+      "trafico": "100+",
+      "fecha": "12/08/2026 12:40",
+      "fecha_dt": "2026-08-12T12:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx_3lTkmsVD9WX5iNzCoSlZcc-C096XirwkrKTi1Pzcf-bqbUE6lqr_kXxtxQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=stefan+medina",
+      "status": ""
+    },
+    {
+      "titulo": "sorteo mayor",
+      "descripcion": "Resultados de la Lotería Nacional en vivo hoy, martes 11 de agosto 2026: qué números cayeron en Sorteo Mayor 4024 y sorteos electrónicos",
+      "trafico": "100+",
+      "fecha": "12/08/2026 12:00",
+      "fecha_dt": "2026-08-12T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HAJ7ONj8RdpB_qeU6N3ojQ_dBaWnyDHdkz-hoZVfcDjGtSCNrQyFhVA3RdY",
+      "link": "https://trends.google.com/trending?geo=MX&q=sorteo+mayor",
+      "status": ""
+    },
+    {
+      "titulo": "christina burkenroad",
+      "descripcion": "Deja Burkenroad Rayadas y el futbol",
+      "trafico": "100+",
+      "fecha": "12/08/2026 11:20",
+      "fecha_dt": "2026-08-12T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGNAZSlkr7LLdExujEZbEBy2TsMrMCgcyDYIzzan_HViogBfDpbn45JgOBvwA",
+      "link": "https://trends.google.com/trending?geo=MX&q=christina+burkenroad",
       "status": ""
     },
     {
@@ -71,36 +101,6 @@
       "fecha_dt": "2026-08-12T09:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY4wtom01fDT1g5p6mjc5gtRJnz3VEtCfbpF4P830hmxPIiWaBE1UZbFM0ZsA",
       "link": "https://trends.google.com/trending?geo=MX&q=psg",
-      "status": ""
-    },
-    {
-      "titulo": "u",
-      "descripcion": "Report: Gen X, Millennials are flocking to Florida",
-      "trafico": "100+",
-      "fecha": "12/08/2026 07:20",
-      "fecha_dt": "2026-08-12T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTf705QcjxIptaSyLeg-EBS5owYZpQpT_MVmi2zrAci0I3R4mxEpVKoJQOcxvc",
-      "link": "https://trends.google.com/trending?geo=MX&q=u",
-      "status": ""
-    },
-    {
-      "titulo": "bravos de leon",
-      "descripcion": "Los Olmecas sufren en la cueva del León",
-      "trafico": "100+",
-      "fecha": "12/08/2026 05:40",
-      "fecha_dt": "2026-08-12T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzJybewBCoGbuLxeVBwVTvI1i50FYYHdJEc-ex3hAHvmfadCNMsoLgh57g6h4",
-      "link": "https://trends.google.com/trending?geo=MX&q=bravos+de+leon",
-      "status": ""
-    },
-    {
-      "titulo": "rayados vs nashville",
-      "descripcion": "Almeyda advierte la dificultad de Nashville y pide mejorar el formato de la Leagues Cup",
-      "trafico": "100+",
-      "fecha": "12/08/2026 05:10",
-      "fecha_dt": "2026-08-12T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7x_SEQwPa7yV0X4XHwlHTTVn3f3k1B1aUg_iO00aFKrGroegQPt_RRUpjpY",
-      "link": "https://trends.google.com/trending?geo=MX&q=rayados+vs+nashville",
       "status": ""
     }
   ]
