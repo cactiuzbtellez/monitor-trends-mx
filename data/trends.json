@@ -1,52 +1,32 @@
 {
-  "actualizado": "12/08/2026 16:59 UTC",
+  "actualizado": "12/08/2026 18:01 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "everton - newcastle",
-      "descripcion": "Latest. Confirmed line-up: Joelinton skippers Magpies at Murrayfield",
+      "titulo": "manchester united - leeds",
+      "descripcion": "Man Utd v Leeds: The first soccer game between two English sides at Croke Park, Dublin",
       "trafico": "2000+",
-      "fecha": "12/08/2026 15:30",
-      "fecha_dt": "2026-08-12T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGLA5SH5kFbA0KwZONPTNQ2_QCcWfwhbzxzPZ6KhhNUgyGML6Qwk4DMrI4t4",
-      "link": "https://trends.google.com/trending?geo=MX&q=everton+-+newcastle",
+      "fecha": "12/08/2026 17:50",
+      "fecha_dt": "2026-08-12T17:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtc5qYNlqYfB4znoghnlMgTvaZBNzjfcJcvhlEIBuf986pDAWGcZxT9nypXk0",
+      "link": "https://trends.google.com/trending?geo=MX&q=manchester+united+-+leeds",
       "status": ""
     },
     {
-      "titulo": "martes de frescura walmart ofertas",
-      "descripcion": "Martes de frescura Walmart 11 de agosto 2026: conoce las ofertas y promociones en frutas y verduras",
+      "titulo": "huelga",
+      "descripcion": "SCJN admite recurso sobre huelga en Nacional Monte de Piedad; pleno votará si revisa el caso",
       "trafico": "2000+",
-      "fecha": "12/08/2026 15:20",
-      "fecha_dt": "2026-08-12T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHZEcc1C8xVjVPVIkZwZzYRoyUXBH9rtYS15BMgUQR6I5VtffOPP2Y33Ya8ZE",
-      "link": "https://trends.google.com/trending?geo=MX&q=martes+de+frescura+walmart+ofertas",
-      "status": ""
-    },
-    {
-      "titulo": "rommel pacheco",
-      "descripcion": "Sheinbaum presume a medallistas de los JCC de Santo Domingo; se premiarán todas las preseas obtenidas",
-      "trafico": "2000+",
-      "fecha": "12/08/2026 15:20",
-      "fecha_dt": "2026-08-12T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYxNoNCSdKOy4NW7l-Zzvbt7VH5R-7QjJN41tXCV-zHXyWsQYA0Uqxt_Jxg7A",
-      "link": "https://trends.google.com/trending?geo=MX&q=rommel+pacheco",
-      "status": ""
-    },
-    {
-      "titulo": "pixel 11",
-      "descripcion": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
-      "trafico": "1000+",
-      "fecha": "12/08/2026 15:20",
-      "fecha_dt": "2026-08-12T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0eogK1bI4ubDQ3yUfSn09mJO5-f7-LA7z7AFrQvRq0mMdv4dT7WB7GkHgRq8",
-      "link": "https://trends.google.com/trending?geo=MX&q=pixel+11",
+      "fecha": "12/08/2026 17:40",
+      "fecha_dt": "2026-08-12T17:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLBhPJ8O0sjfOXWjXiXXAkHsk5QSIEqmuG3mzoRk8Fg-pDZyyQjW9LAQ0N1zM",
+      "link": "https://trends.google.com/trending?geo=MX&q=huelga",
       "status": ""
     },
     {
       "titulo": "nasa",
       "descripcion": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
-      "trafico": "500+",
+      "trafico": "2000+",
       "fecha": "12/08/2026 16:20",
       "fecha_dt": "2026-08-12T16:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8WgsuFxzdQGgTQZTSRLhCZHtarmf-ZJJOq5GECkyUbKM407LB0Wvkk-YaMwQ",
@@ -56,11 +36,21 @@
     {
       "titulo": "samsung galaxy s26",
       "descripcion": "Galaxy S26 One UI 9 Beta: Google Play System Updates Paused",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "12/08/2026 16:40",
       "fecha_dt": "2026-08-12T16:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3ksyas8q_ow9Nj0VPqYL31B-o2HrOD4GJygAlhyustSGkAqZ29io9_F3F6gg",
       "link": "https://trends.google.com/trending?geo=MX&q=samsung+galaxy+s26",
+      "status": ""
+    },
+    {
+      "titulo": "alligator",
+      "descripcion": "Florida paddleboarder rescues woman from alligator attack",
+      "trafico": "200+",
+      "fecha": "12/08/2026 16:40",
+      "fecha_dt": "2026-08-12T16:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyRjdEr2t1zo7PZ7mFji1bPGt-fzWcqyTQr5p-UWlAEyfLRY5WmztsgQysIw0",
+      "link": "https://trends.google.com/trending?geo=MX&q=alligator",
       "status": ""
     },
     {
@@ -74,33 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "super copa europa",
-      "descripcion": "PSG vs Aston Villa: Alineaciones, horario y más sobre la Supercopa",
-      "trafico": "200+",
-      "fecha": "12/08/2026 15:30",
-      "fecha_dt": "2026-08-12T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJEpNEDagTQ4zKpHSEtKfLuPHv5fSf6UugLs--I6ILlCmuzEJ2Ao8haFUcY8",
-      "link": "https://trends.google.com/trending?geo=MX&q=super+copa+europa",
-      "status": ""
-    },
-    {
-      "titulo": "geovanna bañuelos de la torre",
-      "descripcion": "“Se desmorona” versión de atentado contra senadora",
-      "trafico": "200+",
-      "fecha": "12/08/2026 15:20",
-      "fecha_dt": "2026-08-12T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAkSnHWI0XZuy25ObVs0yaUF_dO6eTlFBKT8XQpN1w05BrX_p7yOgF-A_gIS4",
-      "link": "https://trends.google.com/trending?geo=MX&q=geovanna+bañuelos+de+la+torre",
-      "status": ""
-    },
-    {
-      "titulo": "alligator",
-      "descripcion": "Florida paddleboarder rescues woman from alligator attack",
+      "titulo": "arsenal vs como",
+      "descripcion": "Cuándo juega Arsenal vs. Como por un amistoso de pretemporada: equipo, fecha, hora y TV en vivo",
       "trafico": "100+",
-      "fecha": "12/08/2026 16:40",
-      "fecha_dt": "2026-08-12T16:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyRjdEr2t1zo7PZ7mFji1bPGt-fzWcqyTQr5p-UWlAEyfLRY5WmztsgQysIw0",
-      "link": "https://trends.google.com/trending?geo=MX&q=alligator",
+      "fecha": "12/08/2026 17:50",
+      "fecha_dt": "2026-08-12T17:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTkJZe14_7gMMpuqW_AbPb3SBQZ9VmjmiT5FD8iMvmgw2JonXGKvOI7v1cHs",
+      "link": "https://trends.google.com/trending?geo=MX&q=arsenal+vs+como",
+      "status": ""
+    },
+    {
+      "titulo": "nasa live",
+      "descripcion": "NASA+ Debuts on discovery+, Coming Soon to HBO Max",
+      "trafico": "100+",
+      "fecha": "12/08/2026 17:50",
+      "fecha_dt": "2026-08-12T17:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1O-eaGOsfGpas1P-z52Hs0K0HwrwFoyJ9g_arO7RQaFMKA_C8BXFjWIpJUfs",
+      "link": "https://trends.google.com/trending?geo=MX&q=nasa+live",
+      "status": ""
+    },
+    {
+      "titulo": "a que hora termina el eclipse del 12 de agosto",
+      "descripcion": "Eclipse solar total hoy, 12 de agosto, en directo: mapa, horarios y lugares de España para verlo | Última hora",
+      "trafico": "100+",
+      "fecha": "12/08/2026 17:40",
+      "fecha_dt": "2026-08-12T17:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkdda3xwBDruD-wcvW_7BarXnYyELgSwgrNSu7zkTMLQtwyT0kRHUHQe0_G4c",
+      "link": "https://trends.google.com/trending?geo=MX&q=a+que+hora+termina+el+eclipse+del+12+de+agosto",
+      "status": ""
+    },
+    {
+      "titulo": "hercules fc",
+      "descripcion": "Ya puedes adquirir gratuitamente tus entradas para el partido del Valencia CF ante el Hércules CF en el Estadi Antonio Puchades",
+      "trafico": "100+",
+      "fecha": "12/08/2026 17:20",
+      "fecha_dt": "2026-08-12T17:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0lqYqAVAG2ST_-fNEP83OzPrwMhfnaXEyVjaBBXNdzlbCHcQuBoryJDEYths",
+      "link": "https://trends.google.com/trending?geo=MX&q=hercules+fc",
       "status": ""
     }
   ]
