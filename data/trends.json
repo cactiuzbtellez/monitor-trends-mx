@@ -1,62 +1,22 @@
 {
-  "actualizado": "12/08/2026 13:17 UTC",
+  "actualizado": "12/08/2026 15:00 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "epicentro",
-      "descripcion": "Nuevo Temblor en México Hoy: Magnitud y Epicentro de los Sismos este Martes 11 de Agosto 2026",
-      "trafico": "5000+",
-      "fecha": "12/08/2026 11:50",
-      "fecha_dt": "2026-08-12T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlaZiM687wa6xD2jQWiryziit5dc-5WEnwfvfUg1Qknq01gUSL6KV6Iufux9c",
-      "link": "https://trends.google.com/trending?geo=MX&q=epicentro",
-      "status": ""
-    },
-    {
-      "titulo": "club de fútbol cruz azul",
-      "descripcion": "Cruz Azul Femenil destituye a su DT tras goleada de 10-0",
-      "trafico": "1000+",
-      "fecha": "12/08/2026 11:40",
-      "fecha_dt": "2026-08-12T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfwH-MON4iAGcoNgLvq0-w3bFajZAHwT-0XG-u2dCtz-ED0HUDC6CkDh7QP5Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+de+fútbol+cruz+azul",
-      "status": ""
-    },
-    {
-      "titulo": "asteroide",
-      "descripcion": "La NASA descubrió un asteroide del tamaño de la Torre Eiffel que se acerca a la Tierra: cuándo será y a cuánta distancia",
-      "trafico": "1000+",
-      "fecha": "12/08/2026 10:50",
-      "fecha_dt": "2026-08-12T10:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ESiFUALtrNyTbVDrIC2-4-D-NstrN5R6fCIi6Q1VTj_7dHfFpPxuCQ43aNs",
-      "link": "https://trends.google.com/trending?geo=MX&q=asteroide",
-      "status": ""
-    },
-    {
-      "titulo": "onda tropical",
-      "descripcion": "Yucatán pronostica la llegada de cuatro ondas tropicales",
-      "trafico": "500+",
-      "fecha": "12/08/2026 10:40",
-      "fecha_dt": "2026-08-12T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3xQsAXJZ8jpFwDdOyXQv_cvVLJV3URWlPfn_sp6bL08bKY__-P_B4WSdLg7I",
-      "link": "https://trends.google.com/trending?geo=MX&q=onda+tropical",
-      "status": ""
-    },
-    {
-      "titulo": "clima cancun",
-      "descripcion": "Calor extremo en la Península de Yucatán: Nublado y con 39°C el miércoles 12 de agosto",
-      "trafico": "500+",
-      "fecha": "12/08/2026 08:10",
-      "fecha_dt": "2026-08-12T08:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuzu4r5n_l7v92gRtuQhsmb3-J0X19GJRE3d6IkHubtFMhnqo1CD_pmkE0Yak",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+cancun",
+      "titulo": "google pixel",
+      "descripcion": "Google’s new Pixel 11 puts Gemini at center of AI phone battle with Apple",
+      "trafico": "10000+",
+      "fecha": "12/08/2026 14:50",
+      "fecha_dt": "2026-08-12T14:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0eogK1bI4ubDQ3yUfSn09mJO5-f7-LA7z7AFrQvRq0mMdv4dT7WB7GkHgRq8",
+      "link": "https://trends.google.com/trending?geo=MX&q=google+pixel",
       "status": ""
     },
     {
       "titulo": "el financiero",
       "descripcion": "El calor llegó a los verdes",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "12/08/2026 12:50",
       "fecha_dt": "2026-08-12T12:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXES1KHxnq3Twq-aeMasS1u3I1rXNQtqpBJm1uByCQ0_j-I_ns7A-0TW7RZIo",
@@ -64,9 +24,49 @@
       "status": ""
     },
     {
+      "titulo": "josh kushner",
+      "descripcion": "Sources: Josh Kushner, Bob Iger to buy Lakers for $12.5B",
+      "trafico": "500+",
+      "fecha": "12/08/2026 14:30",
+      "fecha_dt": "2026-08-12T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-C9D0wIz2HpLsb_-AGKJR1WTepG-DjaOdU8YSoGyHYxPNIOUbXbQCEL3NVDI",
+      "link": "https://trends.google.com/trending?geo=MX&q=josh+kushner",
+      "status": ""
+    },
+    {
+      "titulo": "narcoterrorismo",
+      "descripcion": "Detenidos en Chequia cuatro presuntos miembros del Cartel Jalisco acusados de narcoterrorismo y tráfico de armas",
+      "trafico": "500+",
+      "fecha": "12/08/2026 14:30",
+      "fecha_dt": "2026-08-12T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGkhf5iYG7ZdNWbzocx4mvx5rqjiHJiDoZr_j3FH-2JTMV18SBG5rwN8w1xUs",
+      "link": "https://trends.google.com/trending?geo=MX&q=narcoterrorismo",
+      "status": ""
+    },
+    {
+      "titulo": "snake",
+      "descripcion": "Venomous snake hides in football player’s helmet during practice — while he wears it",
+      "trafico": "200+",
+      "fecha": "12/08/2026 13:50",
+      "fecha_dt": "2026-08-12T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTci__c4bV1KvZcV6mfNu5pv03ZtWHCNXCexRrTR3F_mGj64bz_vODrNMP3VqY",
+      "link": "https://trends.google.com/trending?geo=MX&q=snake",
+      "status": ""
+    },
+    {
+      "titulo": "uefa super cup",
+      "descripcion": "Paris vs Aston Villa Super Cup preview: Where to watch, kick-off time, predicted line-ups",
+      "trafico": "200+",
+      "fecha": "12/08/2026 13:30",
+      "fecha_dt": "2026-08-12T13:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEvKc2o7uosRdgca5g7kFSZD4ko78RcHY_Ufufx7pSWqN-xurIvnIjpHyF4w",
+      "link": "https://trends.google.com/trending?geo=MX&q=uefa+super+cup",
+      "status": ""
+    },
+    {
       "titulo": "stefan medina",
       "descripcion": "Stefan Medina abandona concentración de Rayados y viaja a Colombia",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "12/08/2026 12:40",
       "fecha_dt": "2026-08-12T12:40:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx_3lTkmsVD9WX5iNzCoSlZcc-C096XirwkrKTi1Pzcf-bqbUE6lqr_kXxtxQ",
@@ -74,33 +74,33 @@
       "status": ""
     },
     {
-      "titulo": "sorteo mayor",
-      "descripcion": "Resultados de la Lotería Nacional en vivo hoy, martes 11 de agosto 2026: qué números cayeron en Sorteo Mayor 4024 y sorteos electrónicos",
+      "titulo": "corrimiento buap 2026",
+      "descripcion": "Publicará BUAP Convocatoria de Corrimiento y Lugares Disponibles 2026",
       "trafico": "100+",
-      "fecha": "12/08/2026 12:00",
-      "fecha_dt": "2026-08-12T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HAJ7ONj8RdpB_qeU6N3ojQ_dBaWnyDHdkz-hoZVfcDjGtSCNrQyFhVA3RdY",
-      "link": "https://trends.google.com/trending?geo=MX&q=sorteo+mayor",
+      "fecha": "12/08/2026 14:40",
+      "fecha_dt": "2026-08-12T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREHFq7Xs6AV9vcJw16bJJoGTRTq8uqj8yKNUev1MkzMrR2dOHwzlWCYlJz4w0",
+      "link": "https://trends.google.com/trending?geo=MX&q=corrimiento+buap+2026",
       "status": ""
     },
     {
-      "titulo": "christina burkenroad",
-      "descripcion": "Deja Burkenroad Rayadas y el futbol",
+      "titulo": "laura itzel castillo",
+      "descripcion": "Hospitalizan a la presidenta del Senado, Laura Itzel Castillo, tras sufrir una fractura de tobillo",
       "trafico": "100+",
-      "fecha": "12/08/2026 11:20",
-      "fecha_dt": "2026-08-12T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGNAZSlkr7LLdExujEZbEBy2TsMrMCgcyDYIzzan_HViogBfDpbn45JgOBvwA",
-      "link": "https://trends.google.com/trending?geo=MX&q=christina+burkenroad",
+      "fecha": "12/08/2026 14:10",
+      "fecha_dt": "2026-08-12T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxMVsOxXDE_xM1kGUrtCEdjJSOgySVGLjiEL8lZPsDMJq7WMLzFXvipxDnx6c",
+      "link": "https://trends.google.com/trending?geo=MX&q=laura+itzel+castillo",
       "status": ""
     },
     {
-      "titulo": "psg",
-      "descripcion": "Luis Enrique sur le retour tardif des internationaux du PSG avant d'affronter Aston Villa : « C'est une situation surréaliste »",
+      "titulo": "emmanuel reyes carmona",
+      "descripcion": "Acusa Sheffield a morenista de financiarse con iglesia",
       "trafico": "100+",
-      "fecha": "12/08/2026 09:00",
-      "fecha_dt": "2026-08-12T09:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY4wtom01fDT1g5p6mjc5gtRJnz3VEtCfbpF4P830hmxPIiWaBE1UZbFM0ZsA",
-      "link": "https://trends.google.com/trending?geo=MX&q=psg",
+      "fecha": "12/08/2026 12:50",
+      "fecha_dt": "2026-08-12T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsX8vkIWtL7rSDJgTquQuaJ4nkdEk89ihnrAcfpZQiEw3aR7AWK1ha_cgcUyA",
+      "link": "https://trends.google.com/trending?geo=MX&q=emmanuel+reyes+carmona",
       "status": ""
     }
   ]
