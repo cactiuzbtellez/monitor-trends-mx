@@ -1,26 +1,36 @@
 {
-  "actualizado": "13/08/2026 20:51 UTC",
+  "actualizado": "13/08/2026 21:50 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "santos - macará",
+      "descripcion": "📋 Santos listo para iniciar duelo por octavos de la Sudamericana",
+      "trafico": "2000+",
+      "fecha": "13/08/2026 21:10",
+      "fecha_dt": "2026-08-13T21:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3EnusWTj3Q-ExJHHUZqEKFvoa4pdpoCOytuTAIoN_r3UgXwxnd7D7vpvZDCk",
+      "link": "https://trends.google.com/trending?geo=MX&q=santos+-+macará",
+      "status": ""
+    },
+    {
+      "titulo": "america vs austin donde ver",
+      "descripcion": "América vs Austin: posibles alineaciones y probabilidades",
+      "trafico": "2000+",
+      "fecha": "13/08/2026 20:50",
+      "fecha_dt": "2026-08-13T20:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThrC6fgGBaOxikbA8yH_ydpImJLXhu5GfPYH7PzdG_c62DAtlt9WvguhaCbJU",
+      "link": "https://trends.google.com/trending?geo=MX&q=america+vs+austin+donde+ver",
+      "status": ""
+    },
+    {
       "titulo": "maite alberdi un hijo propio",
       "descripcion": "El estremecedor caso de la joven mexicana que fingió un embarazo y acabó secuestrando a una bebé recién nacida",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "fecha": "13/08/2026 20:40",
       "fecha_dt": "2026-08-13T20:40:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7j6unwbcEcRWYn8gilsCcUPOCVhz-LR-N8vecWA5rKjcaQMKjTfiHupt84NI",
       "link": "https://trends.google.com/trending?geo=MX&q=maite+alberdi+un+hijo+propio",
-      "status": ""
-    },
-    {
-      "titulo": "nationals - cubs",
-      "descripcion": "MLB: Chicago Cubs at Washington Nationals",
-      "trafico": "1000+",
-      "fecha": "13/08/2026 19:50",
-      "fecha_dt": "2026-08-13T19:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFshJSZRHSnRzy2z83ZRRJ5QqXoyBp0NXncehvDXUs6QcO5_M3zGCEAHAkCw4",
-      "link": "https://trends.google.com/trending?geo=MX&q=nationals+-+cubs",
       "status": ""
     },
     {
@@ -34,73 +44,63 @@
       "status": ""
     },
     {
-      "titulo": "periodista",
-      "descripcion": "¿Quién es Néstor Morales? Él es el conductor que hizo enojar a Héctor Méndez 'El Topo Mayor' en entrevista | P",
+      "titulo": "vasco da gama - olimpia",
+      "descripcion": "Pablo Sánchez: quem é técnico do Olimpia contra o Vasco? Por que é conhecido como 'Vitamina'?",
       "trafico": "200+",
-      "fecha": "13/08/2026 20:10",
-      "fecha_dt": "2026-08-13T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXk69Kf3Yoh95pKB_QHfiYqUc0CnCr5s0Vdj4ZBd1BBao0x3jhXGoF84Sj6zM",
-      "link": "https://trends.google.com/trending?geo=MX&q=periodista",
+      "fecha": "13/08/2026 21:30",
+      "fecha_dt": "2026-08-13T21:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuMldvEidkXU_g7YiSXV0CMP8ogyIp7GB3k1nEdgwqUNxdbVunpUF4euf_VXs",
+      "link": "https://trends.google.com/trending?geo=MX&q=vasco+da+gama+-+olimpia",
       "status": ""
     },
     {
-      "titulo": "abelardo de la espriella",
-      "descripcion": "Entre carpas y escombros, Cali ruega para que la lluvia no agrave la tragedia del terremoto",
-      "trafico": "200+",
-      "fecha": "13/08/2026 20:10",
-      "fecha_dt": "2026-08-13T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyJ-OwrIlbl6UsbZ90b-79lwXE_wqflDV1VZAhalAKY_fKT7ZKQ1_yuF3AW2A",
-      "link": "https://trends.google.com/trending?geo=MX&q=abelardo+de+la+espriella",
-      "status": ""
-    },
-    {
-      "titulo": "rangers vs jagiellonia",
-      "descripcion": "Thursday's Europa & Conference League deciders - radio & text",
+      "titulo": "chelo rodríguez",
+      "descripcion": "Muere Chelo Rodríguez, actriz de 'La Usurpadora' y 'Rafaela': se habría enfrentado a dos enfermedades en privado",
       "trafico": "100+",
-      "fecha": "13/08/2026 20:30",
-      "fecha_dt": "2026-08-13T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6o5JgxwofAQ1XnJjctixsWqC1a6-_XnDooidR7PfTf0qh_XsfM8Prlw_g66M",
-      "link": "https://trends.google.com/trending?geo=MX&q=rangers+vs+jagiellonia",
+      "fecha": "13/08/2026 21:40",
+      "fecha_dt": "2026-08-13T21:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiArZhuzYr8i45lVoV0CN7bSbDtBKKNMSKA-_dtVT_AXlGhII5yxwfiuLebDE",
+      "link": "https://trends.google.com/trending?geo=MX&q=chelo+rodríguez",
+      "status": ""
+    },
+    {
+      "titulo": "guerrero",
+      "descripcion": "Rescatan a 2 menores de Jalisco víctimas de reclutamiento",
+      "trafico": "100+",
+      "fecha": "13/08/2026 21:00",
+      "fecha_dt": "2026-08-13T21:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69kkxzxrVBQUo4Xr769m8L_jbqhxcMdFNn6UA4wDu_l8zWCnzmRyzWtDMQuo",
+      "link": "https://trends.google.com/trending?geo=MX&q=guerrero",
+      "status": ""
+    },
+    {
+      "titulo": "pete hegseth",
+      "descripcion": "Republicans fear Hegseth’s Democrat brushoff could backfire",
+      "trafico": "100+",
+      "fecha": "13/08/2026 21:00",
+      "fecha_dt": "2026-08-13T21:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvfH0FNnSDir8MnmpyiBze1by-RhfKC__oOT76vwkkdsUO-T8_3fRORemTzo",
+      "link": "https://trends.google.com/trending?geo=MX&q=pete+hegseth",
+      "status": ""
+    },
+    {
+      "titulo": "joan manuel serrat",
+      "descripcion": "Joan Manuel Serrat, 82 años: «Desayuno un café solo, negro y bien puesto. No necesito más para que el motor empiece a rodar»",
+      "trafico": "100+",
+      "fecha": "13/08/2026 20:50",
+      "fecha_dt": "2026-08-13T20:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ_Cd_7O79vHMX5gT4DOxZDdnJ6C0gTyjTiJDe8-A3VqjRNEPoBmyECkj0oH4",
+      "link": "https://trends.google.com/trending?geo=MX&q=joan+manuel+serrat",
       "status": ""
     },
     {
       "titulo": "rangers - jagiellonia białystok",
-      "descripcion": "Udany polski wieczór w pucharach. Jaga podbiła Szkocję",
+      "descripcion": "Scenariusz marzeń. Oto rywal Jagiellonii Białystok o Ligę Europy",
       "trafico": "100+",
       "fecha": "13/08/2026 20:30",
       "fecha_dt": "2026-08-13T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5OgiMsz3tzlLbaVvEgA0HM9n-nDXYgzdTViqvw_yDPGNqXSc4IJtzPkEe47c",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWkXPze_fViRKathrKcb_CZU3S1SwsxUQifw8cOZUOzDFHnmjKNVimTu12Zec",
       "link": "https://trends.google.com/trending?geo=MX&q=rangers+-+jagiellonia+białystok",
-      "status": ""
-    },
-    {
-      "titulo": "luisa maría alcalde luján",
-      "descripcion": "Luisa Alcalde presenta lista de periodistas y políticos que difunden mensajes anti-4T; oposición ve “mensaje de intimidación”",
-      "trafico": "100+",
-      "fecha": "13/08/2026 20:30",
-      "fecha_dt": "2026-08-13T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrozgoXnnKHHjcOKV8dFOnINguBrpSmSM0eppNsdfWoD9fOBsuA5DQaXOZMIU",
-      "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
-      "status": ""
-    },
-    {
-      "titulo": "rangers",
-      "descripcion": "Wrexham would walk Scottish football, Celtic and Rangers are Championship level",
-      "trafico": "100+",
-      "fecha": "13/08/2026 20:10",
-      "fecha_dt": "2026-08-13T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR569v2ejTWcuUM6b2UYo_8-cNV8z9c2FuFZxG66vnIYTIbPbY2ufJCxP05jvI",
-      "link": "https://trends.google.com/trending?geo=MX&q=rangers",
-      "status": ""
-    },
-    {
-      "titulo": "jugador",
-      "descripcion": "¿Qué pasó con el jugador en Brasil que cayó al vestidor en un festejo?",
-      "trafico": "100+",
-      "fecha": "13/08/2026 20:10",
-      "fecha_dt": "2026-08-13T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE9Y17aortwh9t_47rsE4PxcWDyL4zxKJOC5_3f2pDF5MyVoZNOXQtrtydxPU",
-      "link": "https://trends.google.com/trending?geo=MX&q=jugador",
       "status": ""
     }
   ]
