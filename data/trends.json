@@ -1,26 +1,16 @@
 {
-  "actualizado": "13/08/2026 08:23 UTC",
+  "actualizado": "13/08/2026 10:11 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "posiciones de los angeles fc contra queretaro fc",
-      "descripcion": "Leagues Cup 2026: Así se jugarán los Cuartos de Final",
-      "trafico": "20000+",
-      "fecha": "13/08/2026 05:00",
-      "fecha_dt": "2026-08-13T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSc7R7rBiF32rKglpfHf3j6IooNkZWRp6WlSj5Wz7WsCsL_fwSAtNxgZeN2x08",
-      "link": "https://trends.google.com/trending?geo=MX&q=posiciones+de+los+angeles+fc+contra+queretaro+fc",
-      "status": ""
-    },
-    {
-      "titulo": "temblor hoy",
+      "titulo": "temblor",
       "descripcion": "Sismo de magnitud 4.4 sacude las costas de Chiapas este miércoles 12 de agosto; epicentro fue frente a Ciudad Hidalgo",
       "trafico": "10000+",
-      "fecha": "13/08/2026 05:10",
-      "fecha_dt": "2026-08-13T05:10:00+00:00",
+      "fecha": "13/08/2026 05:20",
+      "fecha_dt": "2026-08-13T05:20:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTREmWQrbNWf6PvSakA5H5opt6LdYah6fd0wv73VApDSEkoP5KUmOaFHQrlnZA",
-      "link": "https://trends.google.com/trending?geo=MX&q=temblor+hoy",
+      "link": "https://trends.google.com/trending?geo=MX&q=temblor",
       "status": ""
     },
     {
@@ -64,6 +54,16 @@
       "status": ""
     },
     {
+      "titulo": "baez",
+      "descripcion": "Hochman: Has Cardinals prospect Joshua Baez improved enough to earn a call-up?",
+      "trafico": "200+",
+      "fecha": "13/08/2026 05:40",
+      "fecha_dt": "2026-08-13T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkSHa0rP4cSN2I4f29pzekuGskZeopQAj4lXPdB6fWlRVw7Ad4OwY5kVdq2Q",
+      "link": "https://trends.google.com/trending?geo=MX&q=baez",
+      "status": ""
+    },
+    {
       "titulo": "loco mexico magico",
       "descripcion": "",
       "trafico": "200+",
@@ -84,23 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "temblor colima",
-      "descripcion": "Temblor hoy 12 de agosto en México: se registra sismo de magnitud 4.5 en Colima",
-      "trafico": "200+",
-      "fecha": "13/08/2026 05:10",
-      "fecha_dt": "2026-08-13T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNg_c3U5cMHhnvhNhClOfvXiL3UTauWPJvCXftHsvqCbZU7ORWsk0AlWSH-d4",
-      "link": "https://trends.google.com/trending?geo=MX&q=temblor+colima",
+      "titulo": "d",
+      "descripcion": "Blue Jays claim Paul Sewald after veteran DFA'd by Diamondbacks",
+      "trafico": "100+",
+      "fecha": "13/08/2026 08:40",
+      "fecha_dt": "2026-08-13T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgeSogXay1lgZbRFpmPls19CZwTtanNZxC6BibFYrVZqzWEW1kPYrLOBnTnRs",
+      "link": "https://trends.google.com/trending?geo=MX&q=d",
       "status": ""
     },
     {
-      "titulo": "baez",
-      "descripcion": "Hochman: Has Cardinals prospect Joshua Baez improved enough to earn a call-up?",
+      "titulo": "usher",
+      "descripcion": "Usher Responds to Rumors as Fans Believe He’s Hired a Look-Alike to Perform at Concerts",
       "trafico": "100+",
-      "fecha": "13/08/2026 05:40",
-      "fecha_dt": "2026-08-13T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkSHa0rP4cSN2I4f29pzekuGskZeopQAj4lXPdB6fWlRVw7Ad4OwY5kVdq2Q",
-      "link": "https://trends.google.com/trending?geo=MX&q=baez",
+      "fecha": "13/08/2026 06:20",
+      "fecha_dt": "2026-08-13T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9W4C4q4ZIn5mb1AnBj9ovX35B9ylw1TS1oMpTLcKD_m1s1FbL7kQtkufYz2I",
+      "link": "https://trends.google.com/trending?geo=MX&q=usher",
       "status": ""
     }
   ]
