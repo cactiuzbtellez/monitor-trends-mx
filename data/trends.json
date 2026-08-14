@@ -1,16 +1,26 @@
 {
-  "actualizado": "14/08/2026 11:47 UTC",
+  "actualizado": "14/08/2026 13:14 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "epicentro",
       "descripcion": "Qué es la subducción de placas que causó el terremoto en Colombia",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "fecha": "14/08/2026 11:10",
       "fecha_dt": "2026-08-14T11:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwsENw8tbe_Odf1671sVRp84zfFzkY0rn0llYE3EXMtZlJrvYtZsGHBApJnSg",
       "link": "https://trends.google.com/trending?geo=MX&q=epicentro",
+      "status": ""
+    },
+    {
+      "titulo": "terremoto sismo temblor hoy epicentro",
+      "descripcion": "Temblor hoy 14 de agosto en México: se registró un sismo de magnitud 4.0 en Chiapas",
+      "trafico": "1000+",
+      "fecha": "14/08/2026 10:00",
+      "fecha_dt": "2026-08-14T10:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOXXLMOyYnKafpGGXpxOTKXo-COcwVUFVfrh8vUm2rkP0qAOoRda-7u0pJ9TA",
+      "link": "https://trends.google.com/trending?geo=MX&q=terremoto+sismo+temblor+hoy+epicentro",
       "status": ""
     },
     {
@@ -24,6 +34,16 @@
       "status": ""
     },
     {
+      "titulo": "herencia",
+      "descripcion": "La Suprema Corte cambia las herencias de los padres: hermanos podrán disputar los testamentos aunque la ley favorezca a los hijos",
+      "trafico": "500+",
+      "fecha": "14/08/2026 11:30",
+      "fecha_dt": "2026-08-14T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTV3mLfkOZZjFCkhRrDexrmcqTh4jJ5q8k4j4jGk_XhCNm6B2i-YXeCmC5ldw",
+      "link": "https://trends.google.com/trending?geo=MX&q=herencia",
+      "status": ""
+    },
+    {
       "titulo": "moises peñaloza",
       "descripcion": "Moisés Peñaloza se entera quién lo nominó y que rompió récords de puntos; y asegura: 'Verlo no me afecta'",
       "trafico": "500+",
@@ -34,29 +54,9 @@
       "status": ""
     },
     {
-      "titulo": "terremoto sismo temblor hoy epicentro",
-      "descripcion": "EN VIVO | Temblores en Jalisco y México | Jueves 13 de agosto",
-      "trafico": "200+",
-      "fecha": "14/08/2026 10:00",
-      "fecha_dt": "2026-08-14T10:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWAU4UgzmEJfdPdvI_8J63lxDlXXDdCP0AMatFcla6gu2Jqgh7DpdDmnQ-4Ns",
-      "link": "https://trends.google.com/trending?geo=MX&q=terremoto+sismo+temblor+hoy+epicentro",
-      "status": ""
-    },
-    {
-      "titulo": "edwin díaz",
-      "descripcion": "Díaz blows third save in a week, and LA misses chance to tie for NL's best record",
-      "trafico": "200+",
-      "fecha": "14/08/2026 05:20",
-      "fecha_dt": "2026-08-14T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCyzz5LAY1g4zd8ZS1hxItU0UhNr_YSRcdnH8d7YMGZseIurC4FPwgssKIzsU",
-      "link": "https://trends.google.com/trending?geo=MX&q=edwin+díaz",
-      "status": ""
-    },
-    {
       "titulo": "fenómeno",
       "descripcion": "El Niño se encamina hacia una intensidad que batirá todos los récords, según la NOAA",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "14/08/2026 11:40",
       "fecha_dt": "2026-08-14T11:40:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTYWzoC-OT7wz1XNjsb35Liq-ilW18BCszUOTtASYZCC3yIldFmAXQptzGwRE",
@@ -64,23 +64,33 @@
       "status": ""
     },
     {
-      "titulo": "herencia",
-      "descripcion": "La herencia no es mérito",
-      "trafico": "100+",
-      "fecha": "14/08/2026 11:30",
-      "fecha_dt": "2026-08-14T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAOzqXAgQEK_Gn2ctVnSe_MG5kOA76u16cTVBa09TGb-4whDzdVQ-_bKYNrls",
-      "link": "https://trends.google.com/trending?geo=MX&q=herencia",
-      "status": ""
-    },
-    {
       "titulo": "predicción",
       "descripcion": "Viernes 14 de agosto, Horóscopo de hoy. Qué te deparan los astros hoy según tu signo del zodiaco",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "14/08/2026 11:10",
       "fecha_dt": "2026-08-14T11:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmvifcmGGtQRdqAwx6R9z6HlEkHhLsBHxqSTEMdfk39lrfyoOO2N3_BIg0TcU",
       "link": "https://trends.google.com/trending?geo=MX&q=predicción",
+      "status": ""
+    },
+    {
+      "titulo": "edwin díaz",
+      "descripcion": "Roberts to stick with Diaz as Dodgers' closer after latest meltdown",
+      "trafico": "200+",
+      "fecha": "14/08/2026 05:20",
+      "fecha_dt": "2026-08-14T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZYna6VRRtZEY98qg0O-f-tvg8f-7WPBNNMZK6_UI8wndBH0Gg7JJZDgT30bM",
+      "link": "https://trends.google.com/trending?geo=MX&q=edwin+díaz",
+      "status": ""
+    },
+    {
+      "titulo": "mano",
+      "descripcion": "Aumentan las urgencias por la \"mano de aguacate\" en Alemania",
+      "trafico": "100+",
+      "fecha": "14/08/2026 12:20",
+      "fecha_dt": "2026-08-14T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjX5S6AnkUYpDfrcIsZzIIw5k3JjK0pJgFrSSFK3W-vlbdLzftVLgN-6S4OKM",
+      "link": "https://trends.google.com/trending?geo=MX&q=mano",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-14T08:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwOuqBwWmUdBjSiN2fUOsU5VBjEOgpLr01cq7U-SoQj5KVhVKrTD5KC77SiQw",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+veracruz",
-      "status": ""
-    },
-    {
-      "titulo": "dominik",
-      "descripcion": "Finn Balor Praises WWE Rival Dominik Mysterio: 'Annoyingly Cool'",
-      "trafico": "100+",
-      "fecha": "14/08/2026 05:00",
-      "fecha_dt": "2026-08-14T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1vOKVXSaoG3gr1IoGpQCefM0a_23Sll6u7BgsF0LgkiiB0Wd9ZUmbcaAFOZc",
-      "link": "https://trends.google.com/trending?geo=MX&q=dominik",
       "status": ""
     }
   ]
