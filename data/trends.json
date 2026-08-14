@@ -1,12 +1,22 @@
 {
-  "actualizado": "14/08/2026 16:57 UTC",
+  "actualizado": "14/08/2026 17:57 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "tasa de cambio",
+      "descripcion": "El dólar en 17: las razones",
+      "trafico": "2000+",
+      "fecha": "14/08/2026 17:30",
+      "fecha_dt": "2026-08-14T17:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3aSOeRsoiaD925_GO8Zq1opDE1MEAbxq9atrggsaduVIcxJf-fTNAtYqUbnw",
+      "link": "https://trends.google.com/trending?geo=MX&q=tasa+de+cambio",
+      "status": ""
+    },
+    {
       "titulo": "jubilación",
       "descripcion": "Jubilación VIP: la caja queda en manos del Gobierno y Peña decidirá si avanza o veta la ley",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "14/08/2026 16:50",
       "fecha_dt": "2026-08-14T16:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrXiPdpxiQm617vykSUwIEU00F0-JAJVVGHrZf_bhaDl0LT6lj1RAG39oak5k",
@@ -14,39 +24,9 @@
       "status": ""
     },
     {
-      "titulo": "marsella - atlético madrid",
-      "descripcion": "Olympique de Marsella - Atlético, hoy en directo: amistoso de clubes en vivo",
-      "trafico": "200+",
-      "fecha": "14/08/2026 16:10",
-      "fecha_dt": "2026-08-14T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMP1dFXX7Q9SSYretweS0v5sMH4drVjop-uRDEcQ_L2cXD59ovQqfTYljBekg",
-      "link": "https://trends.google.com/trending?geo=MX&q=marsella+-+atlético+madrid",
-      "status": ""
-    },
-    {
-      "titulo": "hola",
-      "descripcion": "Nicole Kidman habla como nunca de su divorcio de Keith Urban tras 19 años casados: \"No me esperaba esto\"",
-      "trafico": "200+",
-      "fecha": "14/08/2026 15:50",
-      "fecha_dt": "2026-08-14T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU8apPuu06ixmJFWbOMWZYuFfIyQcCbnRIlYepIDidMgIVoWHcDwEX3wALkjo",
-      "link": "https://trends.google.com/trending?geo=MX&q=hola",
-      "status": ""
-    },
-    {
-      "titulo": "atletico de madrid",
-      "descripcion": "Julián Álvarez, fuera de la convocatoria de Atlético para amistoso",
-      "trafico": "100+",
-      "fecha": "14/08/2026 16:30",
-      "fecha_dt": "2026-08-14T16:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NE9SOD1GpFNjaDwWW0NoSRL6tKaQJnUgBeZCj5jc-aJpzJ5Ebsrx8tPvuo4",
-      "link": "https://trends.google.com/trending?geo=MX&q=atletico+de+madrid",
-      "status": ""
-    },
-    {
       "titulo": "avengers doomsday",
       "descripcion": "New Avengers: Doomsday trailer expected release time (by time zone), preview, and what to expect",
-      "trafico": "100+",
+      "trafico": "500+",
       "fecha": "14/08/2026 16:20",
       "fecha_dt": "2026-08-14T16:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZUKrRVoxV3N2lhqwMcTkV4o2i8-LaoioFYUHrN5lkx3-Ojn97Fb-l55w2O8",
@@ -54,9 +34,29 @@
       "status": ""
     },
     {
+      "titulo": "padre",
+      "descripcion": "Tamaulipas: padre de Dafne no regresará como director de primaria en Tampico",
+      "trafico": "200+",
+      "fecha": "14/08/2026 17:50",
+      "fecha_dt": "2026-08-14T17:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQpXgrN8PtXBwmBFAr5ZAuffRbZgEyzlUIcnA2GRwgznyE0OsIUtHEjEHYPas",
+      "link": "https://trends.google.com/trending?geo=MX&q=padre",
+      "status": ""
+    },
+    {
+      "titulo": "atletico de madrid",
+      "descripcion": "Julián Álvarez, fuera de la convocatoria de Atlético para amistoso",
+      "trafico": "200+",
+      "fecha": "14/08/2026 16:30",
+      "fecha_dt": "2026-08-14T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8NE9SOD1GpFNjaDwWW0NoSRL6tKaQJnUgBeZCj5jc-aJpzJ5Ebsrx8tPvuo4",
+      "link": "https://trends.google.com/trending?geo=MX&q=atletico+de+madrid",
+      "status": ""
+    },
+    {
       "titulo": "efraín juárez",
       "descripcion": "Efraín Juárez acepta extrañar a Pumas pero está tranquilo por su salida",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "14/08/2026 16:20",
       "fecha_dt": "2026-08-14T16:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_7eHq6ZoDo3T1n9fRxzbXkueBmjzYexbEPNTiD_KE-bnEnN_jEG5Am4WKFxY",
@@ -64,43 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "clima tampico",
-      "descripcion": "Prevén viernes muy caluroso y lluvias fuertes en el sur | Clima en Tamaulipas HOY viernes 14",
+      "titulo": "edson álvarez",
+      "descripcion": "Ajax le cierra la puerta a la vuelta de Edson Álvarez, a poner la mira en la Premier League",
       "trafico": "100+",
-      "fecha": "14/08/2026 16:10",
-      "fecha_dt": "2026-08-14T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0u0fFVBzEF0a42aXWLpC8MoBgIm7yufOBSK0bQcXBl-nC9R0iXe-L0wGrJp4",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+tampico",
+      "fecha": "14/08/2026 17:40",
+      "fecha_dt": "2026-08-14T17:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSqIl6AJ49nULRaut6afsk2Ce1W0l0ytLtcg8hqCAlnLRw1v_FFgFR5B4L978",
+      "link": "https://trends.google.com/trending?geo=MX&q=edson+álvarez",
       "status": ""
     },
     {
-      "titulo": "parma vs",
-      "descripcion": "CARLOS CUESTA SPEAKS AHEAD OF PARMA'S FIRST COMPETITIVE FIXTURE IN THE COPPA ITALIA FRECCIAROSSA",
+      "titulo": "obed vargas",
+      "descripcion": "Los tres clubes españoles que buscan a Obed Vargas",
       "trafico": "100+",
-      "fecha": "14/08/2026 16:10",
-      "fecha_dt": "2026-08-14T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhOfyANOCgJRJruvwMGe7CUD9CQuoE-8uQB04WffEifOutMNTnOUO34Wat9Jo",
-      "link": "https://trends.google.com/trending?geo=MX&q=parma+vs",
+      "fecha": "14/08/2026 17:40",
+      "fecha_dt": "2026-08-14T17:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlkEG9qsjQLuYjsjV195iRaf2RtMG3nTnAcX45JWS-DkbHrNuaEqnbAR4jCw4",
+      "link": "https://trends.google.com/trending?geo=MX&q=obed+vargas",
       "status": ""
     },
     {
-      "titulo": "snake",
-      "descripcion": "High school football player in Arkansas practices with 2ft viper in helmet",
+      "titulo": "luigi mangione",
+      "descripcion": "\"Le disparé al señor Thompson\": Luigi Mangione se declara culpable de cargos por el asesinato del ejecutivo de UnitedHealthcare",
       "trafico": "100+",
-      "fecha": "14/08/2026 16:10",
-      "fecha_dt": "2026-08-14T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmk0fxZHuayMCV6rQEz2U0vJIFYkKzkhoaO7cwW6tnbZLztwchDHU7oHeYiN0",
-      "link": "https://trends.google.com/trending?geo=MX&q=snake",
+      "fecha": "14/08/2026 17:20",
+      "fecha_dt": "2026-08-14T17:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRVhnVK_Wr0mii8qEs2f496UVrgFZTgaO_KpuxjVB9UH1UxnCmsJEs9ovcMyE",
+      "link": "https://trends.google.com/trending?geo=MX&q=luigi+mangione",
       "status": ""
     },
     {
-      "titulo": "copa italia",
-      "descripcion": "Duván Zapata se perderá el inicio de la Copa Italia, hay prevención en Torino",
+      "titulo": "alejandro armenta",
+      "descripcion": "El futuro de Puebla se construye con resultados y de la mano del pueblo: Armenta Mier",
       "trafico": "100+",
-      "fecha": "14/08/2026 15:50",
-      "fecha_dt": "2026-08-14T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh7etUol3mYaCoxCXKBFz-0QgUhPx1jYwId4uFX71mNgbvpvu_2SejFoPK88M",
-      "link": "https://trends.google.com/trending?geo=MX&q=copa+italia",
+      "fecha": "14/08/2026 17:00",
+      "fecha_dt": "2026-08-14T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrryZ_5OMFY8JSkUG8NurnIGOUoQYdCgX4NqzInf20lBdL6vKd4CWDuXe9j0",
+      "link": "https://trends.google.com/trending?geo=MX&q=alejandro+armenta",
       "status": ""
     }
   ]
