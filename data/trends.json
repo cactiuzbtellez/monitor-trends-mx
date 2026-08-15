@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/08/2026 06:43 UTC",
+  "actualizado": "15/08/2026 07:33 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -34,6 +34,26 @@
       "status": ""
     },
     {
+      "titulo": "zootopia 3",
+      "descripcion": "‘Zootopia 3’ In Works With Ke Huy Quan Reprising Role In Next Film",
+      "trafico": "200+",
+      "fecha": "15/08/2026 06:20",
+      "fecha_dt": "2026-08-15T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOtJ4AynHr6FynSX3a-AZ329SxJWOVkSxdpqsLDKGQj2GPSnG2itYvMLGS2fA",
+      "link": "https://trends.google.com/trending?geo=MX&q=zootopia+3",
+      "status": ""
+    },
+    {
+      "titulo": "kathryn hahn",
+      "descripcion": "‘Tangled’ Sets March 2028 Release Date as First Footage Debuts at D23",
+      "trafico": "200+",
+      "fecha": "15/08/2026 06:00",
+      "fecha_dt": "2026-08-15T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0yNC5IfDTK9tmiJ2yt4XwnWen8jsTE3TvxdZkXghw2-DLyGrj2d9mmzjB8Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=kathryn+hahn",
+      "status": ""
+    },
+    {
       "titulo": "votar casa de los famosos",
       "descripcion": "Ve aquí EN VIVO el duelo de la salvación en La Casa de los Famosos México 2026: ¿quién ganará?",
       "trafico": "200+",
@@ -41,6 +61,16 @@
       "fecha_dt": "2026-08-15T05:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_3scKDn0QzEdvUk779urwkK99N-ayUgLYk7BdGBgpOpkKPrVxgmN9ZNeon54",
       "link": "https://trends.google.com/trending?geo=MX&q=votar+casa+de+los+famosos",
+      "status": ""
+    },
+    {
+      "titulo": "frozen 3",
+      "descripcion": "‘Frozen 3’ First Details: Anna and Kristoff Get Married, Olaf Gets a Girlfriend and a New Villain Emerges",
+      "trafico": "200+",
+      "fecha": "15/08/2026 05:40",
+      "fecha_dt": "2026-08-15T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWwHJvmaFxwV8g3nIy1ZjQTaBLH4S1gzKXWd6zfvchdi3Fdkobd6AuloBVDKQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=frozen+3",
       "status": ""
     },
     {
@@ -54,43 +84,13 @@
       "status": ""
     },
     {
-      "titulo": "maya boyd actress",
-      "descripcion": "D23 2026: Marvel Studios Unveils ‘X-Men’ Cast",
-      "trafico": "200+",
-      "fecha": "15/08/2026 04:50",
-      "fecha_dt": "2026-08-15T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjsVw5mH_MSGGOL54e7ciim1ihOubtoxG1Yqs5Q2iPAVvXjtdZ5a8p-Yz_nEU",
-      "link": "https://trends.google.com/trending?geo=MX&q=maya+boyd+actress",
-      "status": ""
-    },
-    {
-      "titulo": "zootopia 3",
-      "descripcion": "‘Zootopia 3’ In Works With Ke Huy Quan Reprising Role In Next Film",
+      "titulo": "community shield",
+      "descripcion": "Arsenal v Man City: What is the FA Community Shield?",
       "trafico": "100+",
-      "fecha": "15/08/2026 06:20",
-      "fecha_dt": "2026-08-15T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOtJ4AynHr6FynSX3a-AZ329SxJWOVkSxdpqsLDKGQj2GPSnG2itYvMLGS2fA",
-      "link": "https://trends.google.com/trending?geo=MX&q=zootopia+3",
-      "status": ""
-    },
-    {
-      "titulo": "kathryn hahn",
-      "descripcion": "‘Tangled’ Sets March 2028 Release Date as First Footage Debuts at D23",
-      "trafico": "100+",
-      "fecha": "15/08/2026 06:00",
-      "fecha_dt": "2026-08-15T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0yNC5IfDTK9tmiJ2yt4XwnWen8jsTE3TvxdZkXghw2-DLyGrj2d9mmzjB8Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=kathryn+hahn",
-      "status": ""
-    },
-    {
-      "titulo": "frozen 3",
-      "descripcion": "‘Frozen 3’ First Look Teases Wedding Bells & An Icy Villain From A Land “More Wild And Dangerous” Than Ever Before",
-      "trafico": "100+",
-      "fecha": "15/08/2026 05:40",
-      "fecha_dt": "2026-08-15T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtZAcVfo7Kj7cE17wDZd8ZDhPZ6s5Ze4MD4vH9CpMaZfRbtObbXgS1wNc7R-o",
-      "link": "https://trends.google.com/trending?geo=MX&q=frozen+3",
+      "fecha": "15/08/2026 06:50",
+      "fecha_dt": "2026-08-15T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAOt92bHQLIswp5mrvLOekqsII9SGQdfRQLH5pfFd1Vr37fwaWy5OPdRzlBwE",
+      "link": "https://trends.google.com/trending?geo=MX&q=community+shield",
       "status": ""
     },
     {
