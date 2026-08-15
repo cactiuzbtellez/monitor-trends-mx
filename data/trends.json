@@ -1,8 +1,18 @@
 {
-  "actualizado": "15/08/2026 02:54 UTC",
+  "actualizado": "15/08/2026 03:42 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "app bbva falla",
+      "descripcion": "Usuarios reportan fallas en la app de BBVA en plena quincena",
+      "trafico": "10000+",
+      "fecha": "15/08/2026 03:00",
+      "fecha_dt": "2026-08-15T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBUaJNskYO9QXhl3DctayK9RCsA_yCqEvbpsI_SuXUTkUq5UbjKslOsNgBEys",
+      "link": "https://trends.google.com/trending?geo=MX&q=app+bbva+falla",
+      "status": ""
+    },
     {
       "titulo": "cancelan lineas telefonicas",
       "descripcion": "CRT invita a usuarios a vincular línea celular con terminación cero para evitar suspensión del servicio; no habrá prórroga",
@@ -14,13 +24,63 @@
       "status": ""
     },
     {
-      "titulo": "temblores",
-      "descripcion": "Temblor hoy 14 de agosto en México: Colima y Michoacán registran una serie de sismos casi simultáneos",
+      "titulo": "coco 2",
+      "descripcion": "‘Incredibles 3’ Drops First Look Concept Art Ahead of Summer 2028 Release Date",
+      "trafico": "1000+",
+      "fecha": "15/08/2026 03:10",
+      "fecha_dt": "2026-08-15T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3ncnHSpWua7PuworkZQoRcvP2qlpzYyXofIuYJoL3qGuKCAoZju7XRJ6U-hY",
+      "link": "https://trends.google.com/trending?geo=MX&q=coco+2",
+      "status": ""
+    },
+    {
+      "titulo": "adam sandler",
+      "descripcion": "‘Don’t Say Good Luck’ Review: A Bittersweet Big Break",
       "trafico": "200+",
-      "fecha": "15/08/2026 02:20",
-      "fecha_dt": "2026-08-15T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOXXLMOyYnKafpGGXpxOTKXo-COcwVUFVfrh8vUm2rkP0qAOoRda-7u0pJ9TA",
-      "link": "https://trends.google.com/trending?geo=MX&q=temblores",
+      "fecha": "15/08/2026 03:20",
+      "fecha_dt": "2026-08-15T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRwPqRD6RgXrcpRAUOrTVppYLJAR70uCshZKHOncjltolt4Zw3Qa56YMStGuE",
+      "link": "https://trends.google.com/trending?geo=MX&q=adam+sandler",
+      "status": ""
+    },
+    {
+      "titulo": "storm - fire",
+      "descripcion": "WNBA: Portland Fire at Seattle Storm",
+      "trafico": "200+",
+      "fecha": "15/08/2026 02:50",
+      "fecha_dt": "2026-08-15T02:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKi26N7XBC6vInZXkT2lwSTqmJ7nYR83l7aedYmfqkxzsohEsjdedfxtgNQ4g",
+      "link": "https://trends.google.com/trending?geo=MX&q=storm+-+fire",
+      "status": ""
+    },
+    {
+      "titulo": "kingdom hearts",
+      "descripcion": "‘Kingdom Hearts’ Anime Series Based on Video Game Set for Disney+ and Disney Channel",
+      "trafico": "100+",
+      "fecha": "15/08/2026 03:30",
+      "fecha_dt": "2026-08-15T03:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZgZkVO_PUZyp3hs9lOLBmL3Xn4iHQcRZssTvWWG48oJ7AnYLqGPKmicoaDQI",
+      "link": "https://trends.google.com/trending?geo=MX&q=kingdom+hearts",
+      "status": ""
+    },
+    {
+      "titulo": "amanda bynes",
+      "descripcion": "Amanda Bynes looks somber as she steps out in LA following death of her All That co-star Christy Knowings",
+      "trafico": "100+",
+      "fecha": "15/08/2026 03:10",
+      "fecha_dt": "2026-08-15T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1PgCJFSLwxMQhzHOy66nIQ43DuN0CcPI0aMlNM8U1qKtrO9fkXvS1I43VArI",
+      "link": "https://trends.google.com/trending?geo=MX&q=amanda+bynes",
+      "status": ""
+    },
+    {
+      "titulo": "cruz azul vs atlante femenil",
+      "descripcion": "Invita Indem a presenciar el encuentro de Cruz Azul Femenil",
+      "trafico": "100+",
+      "fecha": "15/08/2026 02:50",
+      "fecha_dt": "2026-08-15T02:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8Ct8N5dBz3cGxCQVs8HKkmU2COeHRITbdvWtopHy-M7TeyllleWoSQ06fwZQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul+vs+atlante+femenil",
       "status": ""
     },
     {
@@ -35,72 +95,12 @@
     },
     {
       "titulo": "chivas vs santos",
-      "descripcion": "Chivas, con potenciales bajas ante Santos Laguna",
+      "descripcion": "Santos Laguna vs Chivas: previa, predicciones y alineaciones",
       "trafico": "100+",
       "fecha": "15/08/2026 02:40",
       "fecha_dt": "2026-08-15T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3tglK1XZ6WkqBPuXsYOkAftsM1uMaSK4PXDzoxdPPUbBXcGQr0Rn1bUBoUYw",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkUZT1F_gzDqNoNLw042iqEGYqwoOO7yl12E2lJSVJ8-jRnRpCJDFcASmLDLs",
       "link": "https://trends.google.com/trending?geo=MX&q=chivas+vs+santos",
-      "status": ""
-    },
-    {
-      "titulo": "pericos de puebla",
-      "descripcion": "Samar Leyva coloca al frente a los Pericos ante Piratas en el Primer Playoff",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:30",
-      "fecha_dt": "2026-08-15T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6WYJ0yxFgsT_Z--VzdMOJVQKEyPitGCcC-x3YrYcfwrXzQ99yvPvzhaIS00s",
-      "link": "https://trends.google.com/trending?geo=MX&q=pericos+de+puebla",
-      "status": ""
-    },
-    {
-      "titulo": "earthquake",
-      "descripcion": "Powerful 7.7 magnitude earthquake hits Indonesia, forcing villagers to flee",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:20",
-      "fecha_dt": "2026-08-15T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIaaWt57kQJQwu1jKKm4uBU582VxP-v1wSy6EnnQYSw9MMl0ciBd3Yjf4Bpss",
-      "link": "https://trends.google.com/trending?geo=MX&q=earthquake",
-      "status": ""
-    },
-    {
-      "titulo": "montreal vs dc united",
-      "descripcion": "Match Preview: D.C. United at CF Montréal | Saturday, August 15, 2026",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:20",
-      "fecha_dt": "2026-08-15T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAetJ7Eysi_2cB1m4t9N8AwXTzKQnHdJ5tPHVs17thxkRxRyTwktcJufPhJg",
-      "link": "https://trends.google.com/trending?geo=MX&q=montreal+vs+dc+united",
-      "status": ""
-    },
-    {
-      "titulo": "reece james",
-      "descripcion": "Reece James sobre el Estadio Azteca y los de la Premier: “No hay comparación”",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:10",
-      "fecha_dt": "2026-08-15T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQJ1gdBeb5xWRj_LBWZRcfz8WzYVjDZ5Lwp4iDw0eUwoXoqhdEH7qFjT8NLA",
-      "link": "https://trends.google.com/trending?geo=MX&q=reece+james",
-      "status": ""
-    },
-    {
-      "titulo": "athletics - rangers",
-      "descripcion": "Game #122: Rangers at Athletics Game Thread",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:10",
-      "fecha_dt": "2026-08-15T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRArU9fX7vhSI8-KeatjggGpXj5_Rc3Q9pHFE0l490xmAf0dAa70j9SRaQNYY0",
-      "link": "https://trends.google.com/trending?geo=MX&q=athletics+-+rangers",
-      "status": ""
-    },
-    {
-      "titulo": "alaves vs getafe",
-      "descripcion": "August 15, 2026: Los Angeles F vs San Diego FC: First Half Winner Prediction Market",
-      "trafico": "100+",
-      "fecha": "15/08/2026 02:10",
-      "fecha_dt": "2026-08-15T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHPWBTMyZZNuqX74wKK_r54z2Tx-AphVPgUjInHZ9zohlj0RiO9zs-vhKW_hE",
-      "link": "https://trends.google.com/trending?geo=MX&q=alaves+vs+getafe",
       "status": ""
     }
   ]
