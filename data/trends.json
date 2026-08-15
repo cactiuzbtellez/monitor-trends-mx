@@ -1,15 +1,15 @@
 {
-  "actualizado": "15/08/2026 09:28 UTC",
+  "actualizado": "15/08/2026 10:26 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "kathryn hahn",
-      "descripcion": "'Tangled' Live-Action Movie Sets 2028 Release, Unveils First Look at D23",
+      "descripcion": "‘Tangled’ Sets March 2028 Release Date as First Footage Debuts at D23",
       "trafico": "500+",
       "fecha": "15/08/2026 06:00",
       "fecha_dt": "2026-08-15T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3elEytrGGNStMosPaQtcLNI4PbnefXoHnT9F0kS2J1FkPS-Gg_UK57NzJiOY",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0yNC5IfDTK9tmiJ2yt4XwnWen8jsTE3TvxdZkXghw2-DLyGrj2d9mmzjB8Y",
       "link": "https://trends.google.com/trending?geo=MX&q=kathryn+hahn",
       "status": ""
     },
@@ -31,16 +31,6 @@
       "fecha_dt": "2026-08-15T05:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdWc3BkQKxYFzxkYyZuW4zlgUHWlgInVlizT7sudQwhQLuNBIDQymrmoEcPp0",
       "link": "https://trends.google.com/trending?geo=MX&q=emma+frost",
-      "status": ""
-    },
-    {
-      "titulo": "cailee spaeny",
-      "descripcion": "‘Beef’ Creator Lee Sung Jin on Abandoning His Tom Brady Heist Plot and the Finneas, Cailee Spaeny Emmy Snubs",
-      "trafico": "500+",
-      "fecha": "15/08/2026 05:20",
-      "fecha_dt": "2026-08-15T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQodO_TTCC3Z3vDk70hVagHEqciCW1oF_TLm8QJ7BOkI7J5FZJxRYQdJL42kFI",
-      "link": "https://trends.google.com/trending?geo=MX&q=cailee+spaeny",
       "status": ""
     },
     {
@@ -91,6 +81,16 @@
       "fecha_dt": "2026-08-15T05:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_3scKDn0QzEdvUk779urwkK99N-ayUgLYk7BdGBgpOpkKPrVxgmN9ZNeon54",
       "link": "https://trends.google.com/trending?geo=MX&q=votar+casa+de+los+famosos",
+      "status": ""
+    },
+    {
+      "titulo": "ferran torres",
+      "descripcion": "Barcelona y PSG alcanzan principio de acuerdo por Ferran Torres",
+      "trafico": "100+",
+      "fecha": "15/08/2026 09:40",
+      "fecha_dt": "2026-08-15T09:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbZeTgKMcrJEozRj7tJRaHID6chOEzEBMu9JeLbWzIWtyWLmLP3wmdt-PBdk0",
+      "link": "https://trends.google.com/trending?geo=MX&q=ferran+torres",
       "status": ""
     },
     {
