@@ -1,8 +1,18 @@
 {
-  "actualizado": "15/08/2026 10:26 UTC",
+  "actualizado": "15/08/2026 11:23 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "apple iphone 18 pro",
+      "descripcion": "¿El iPhone 18 no se lanzará al mismo tiempo que el iPhone 18 Pro?",
+      "trafico": "500+",
+      "fecha": "15/08/2026 08:10",
+      "fecha_dt": "2026-08-15T08:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJtGk_zvmTiuwSwhvyzNRKzf-2DmYIf9kpyHvZ8j-luAcRU4h0pCGTvDz9SWM",
+      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro",
+      "status": ""
+    },
     {
       "titulo": "kathryn hahn",
       "descripcion": "‘Tangled’ Sets March 2028 Release Date as First Footage Debuts at D23",
@@ -14,23 +24,13 @@
       "status": ""
     },
     {
-      "titulo": "frozen 3",
-      "descripcion": "'Frozen 3' First Look Teases Anna's Wedding, New Villain & More",
-      "trafico": "500+",
-      "fecha": "15/08/2026 05:40",
-      "fecha_dt": "2026-08-15T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtZAcVfo7Kj7cE17wDZd8ZDhPZ6s5Ze4MD4vH9CpMaZfRbtObbXgS1wNc7R-o",
-      "link": "https://trends.google.com/trending?geo=MX&q=frozen+3",
-      "status": ""
-    },
-    {
-      "titulo": "emma frost",
-      "descripcion": "Emma Frost's Demon Redesign Is a Gift to X-Men Cosplayers",
-      "trafico": "500+",
-      "fecha": "15/08/2026 05:20",
-      "fecha_dt": "2026-08-15T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdWc3BkQKxYFzxkYyZuW4zlgUHWlgInVlizT7sudQwhQLuNBIDQymrmoEcPp0",
-      "link": "https://trends.google.com/trending?geo=MX&q=emma+frost",
+      "titulo": "paola rojas",
+      "descripcion": "“Primero sané, después llegó el amor”, Paola Rojas nos presenta a Jorge Suárez Azcargota",
+      "trafico": "200+",
+      "fecha": "15/08/2026 11:00",
+      "fecha_dt": "2026-08-15T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC-LoSWxgmUCYJ3_6YsA_mXe6dXmVceGAnds3GMef8GyhlRzJ4n1D4ytWS2wg",
+      "link": "https://trends.google.com/trending?geo=MX&q=paola+rojas",
       "status": ""
     },
     {
@@ -41,16 +41,6 @@
       "fecha_dt": "2026-08-15T08:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT3O8hnNakriBEeIW2zLd2pLzf0Wo1cajQwc_QsRWVJIeX-n0sGFan1TiKf04",
       "link": "https://trends.google.com/trending?geo=MX&q=pelicula+coco+2",
-      "status": ""
-    },
-    {
-      "titulo": "apple iphone 18 pro",
-      "descripcion": "¿El iPhone 18 no se lanzará al mismo tiempo que el iPhone 18 Pro?",
-      "trafico": "200+",
-      "fecha": "15/08/2026 08:10",
-      "fecha_dt": "2026-08-15T08:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJtGk_zvmTiuwSwhvyzNRKzf-2DmYIf9kpyHvZ8j-luAcRU4h0pCGTvDz9SWM",
-      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro",
       "status": ""
     },
     {
@@ -84,6 +74,16 @@
       "status": ""
     },
     {
+      "titulo": "el norte",
+      "descripcion": "Prometen cierres intermitentes en Gonzalitos",
+      "trafico": "100+",
+      "fecha": "15/08/2026 10:40",
+      "fecha_dt": "2026-08-15T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHa41Fv3cSxaiNh7pVeiAGWPuyQYxghXJwzbycjNRyM7eoISxoIFneMmxqryY",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+norte",
+      "status": ""
+    },
+    {
       "titulo": "ferran torres",
       "descripcion": "Barcelona y PSG alcanzan principio de acuerdo por Ferran Torres",
       "trafico": "100+",
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "community shield",
-      "descripcion": "Arsenal line-ups decided for Man City clash as Mikel Arteta makes eight changes",
+      "descripcion": "Maresca’s first match in charge is against the champions, and Arsenal have no Saliba",
       "trafico": "100+",
       "fecha": "15/08/2026 06:50",
       "fecha_dt": "2026-08-15T06:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStESn-uIWLMWCVQHo2rzc2Di7W0wad33KqusUEaYKvZa2UYnuBslHP807kQtA",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAmMsP1QPmLJ7ZCF4ybtoaSeDFyrCbCvTtANUS-7IMx5a0D6E4AvsPChh2EAU",
       "link": "https://trends.google.com/trending?geo=MX&q=community+shield",
       "status": ""
     }
