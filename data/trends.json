@@ -1,8 +1,58 @@
 {
-  "actualizado": "15/08/2026 11:23 UTC",
+  "actualizado": "15/08/2026 12:43 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "andrés manuel lópez beltrán",
+      "descripcion": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán",
+      "trafico": "10000+",
+      "fecha": "15/08/2026 12:20",
+      "fecha_dt": "2026-08-15T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOj7yxoSUVbD6rNOcgoZIm6twSD9nZytF6dkcDQfiv_W7davx8QHeGR_Gt9H0",
+      "link": "https://trends.google.com/trending?geo=MX&q=andrés+manuel+lópez+beltrán",
+      "status": ""
+    },
+    {
+      "titulo": "paola rojas",
+      "descripcion": "“Primero sané, después llegó el amor”, Paola Rojas nos presenta a Jorge Suárez Azcargota",
+      "trafico": "1000+",
+      "fecha": "15/08/2026 11:00",
+      "fecha_dt": "2026-08-15T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC-LoSWxgmUCYJ3_6YsA_mXe6dXmVceGAnds3GMef8GyhlRzJ4n1D4ytWS2wg",
+      "link": "https://trends.google.com/trending?geo=MX&q=paola+rojas",
+      "status": ""
+    },
+    {
+      "titulo": "beca",
+      "descripcion": "Beca Rita Cetina: ¿quién recibió su pago en agosto y quién lo obtendrá en octubre?",
+      "trafico": "500+",
+      "fecha": "15/08/2026 11:20",
+      "fecha_dt": "2026-08-15T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx6sRt_hm2FKAZPZ2kQGLiwvCvg2ZC5KqLHVxCyBbAEfu5Wzsob9KQaDvIcJM",
+      "link": "https://trends.google.com/trending?geo=MX&q=beca",
+      "status": ""
+    },
+    {
+      "titulo": "el norte",
+      "descripcion": "Permutan predios para las obras en el Huajuco",
+      "trafico": "500+",
+      "fecha": "15/08/2026 10:40",
+      "fecha_dt": "2026-08-15T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihKmwNl8Tzz-SN3Ctq2Rb32tgxhXhajDZCYqksJRHKfc8wxBlN9c6gVIybUU",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+norte",
+      "status": ""
+    },
+    {
+      "titulo": "pelicula coco 2",
+      "descripcion": "D23: Pixar da detalles como fecha de estreno de ‘Los Increíbles 3’, ‘Coco 2’ y una nueva película",
+      "trafico": "500+",
+      "fecha": "15/08/2026 08:40",
+      "fecha_dt": "2026-08-15T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT3O8hnNakriBEeIW2zLd2pLzf0Wo1cajQwc_QsRWVJIeX-n0sGFan1TiKf04",
+      "link": "https://trends.google.com/trending?geo=MX&q=pelicula+coco+2",
+      "status": ""
+    },
     {
       "titulo": "apple iphone 18 pro",
       "descripcion": "¿El iPhone 18 no se lanzará al mismo tiempo que el iPhone 18 Pro?",
@@ -14,93 +64,43 @@
       "status": ""
     },
     {
-      "titulo": "kathryn hahn",
-      "descripcion": "‘Tangled’ Sets March 2028 Release Date as First Footage Debuts at D23",
-      "trafico": "500+",
-      "fecha": "15/08/2026 06:00",
-      "fecha_dt": "2026-08-15T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0yNC5IfDTK9tmiJ2yt4XwnWen8jsTE3TvxdZkXghw2-DLyGrj2d9mmzjB8Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=kathryn+hahn",
-      "status": ""
-    },
-    {
-      "titulo": "paola rojas",
-      "descripcion": "“Primero sané, después llegó el amor”, Paola Rojas nos presenta a Jorge Suárez Azcargota",
-      "trafico": "200+",
-      "fecha": "15/08/2026 11:00",
-      "fecha_dt": "2026-08-15T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC-LoSWxgmUCYJ3_6YsA_mXe6dXmVceGAnds3GMef8GyhlRzJ4n1D4ytWS2wg",
-      "link": "https://trends.google.com/trending?geo=MX&q=paola+rojas",
-      "status": ""
-    },
-    {
-      "titulo": "pelicula coco 2",
-      "descripcion": "D23: Pixar da detalles como fecha de estreno de ‘Los Increíbles 3’, ‘Coco 2’ y una nueva película",
-      "trafico": "200+",
-      "fecha": "15/08/2026 08:40",
-      "fecha_dt": "2026-08-15T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT3O8hnNakriBEeIW2zLd2pLzf0Wo1cajQwc_QsRWVJIeX-n0sGFan1TiKf04",
-      "link": "https://trends.google.com/trending?geo=MX&q=pelicula+coco+2",
-      "status": ""
-    },
-    {
       "titulo": "lotería nacional sorteo superior",
-      "descripcion": "Sorteo Lotería Nacional Hoy 14 de Agosto: Lista de Resultados y Número Ganador del Premio Mayor",
-      "trafico": "200+",
+      "descripcion": "Sorteo Superior de Lotería Nacional conmemoró el 30 Aniversario de la Fundación Politécnico",
+      "trafico": "500+",
       "fecha": "15/08/2026 07:50",
       "fecha_dt": "2026-08-15T07:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h8OVSOPIxcBppBZuSW3x5RpJTQvngJitzeeCWEEuvlw701bMP2O3f-T_mCM",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQl4jspjh0M_ZMEGcRWiJmDZep73AFIkTszOegJfLB4l91bKWNAdQh-es1lkhQ",
       "link": "https://trends.google.com/trending?geo=MX&q=lotería+nacional+sorteo+superior",
       "status": ""
     },
     {
-      "titulo": "zootopia 3",
-      "descripcion": "‘Zootopia 3’ In Works At Disney; Ke Huy Quan & Ginnifer Goodwin Reprising Roles – D23",
+      "titulo": "cnn",
+      "descripcion": "August 14, 2026 — Carrier group headed to Middle East to replace USS Lincoln, US official says",
       "trafico": "200+",
-      "fecha": "15/08/2026 06:20",
-      "fecha_dt": "2026-08-15T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOtJ4AynHr6FynSX3a-AZ329SxJWOVkSxdpqsLDKGQj2GPSnG2itYvMLGS2fA",
-      "link": "https://trends.google.com/trending?geo=MX&q=zootopia+3",
-      "status": ""
-    },
-    {
-      "titulo": "votar casa de los famosos",
-      "descripcion": "Ve aquí EN VIVO el duelo de la salvación en La Casa de los Famosos México 2026: ¿quién ganará?",
-      "trafico": "200+",
-      "fecha": "15/08/2026 05:50",
-      "fecha_dt": "2026-08-15T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_3scKDn0QzEdvUk779urwkK99N-ayUgLYk7BdGBgpOpkKPrVxgmN9ZNeon54",
-      "link": "https://trends.google.com/trending?geo=MX&q=votar+casa+de+los+famosos",
-      "status": ""
-    },
-    {
-      "titulo": "el norte",
-      "descripcion": "Prometen cierres intermitentes en Gonzalitos",
-      "trafico": "100+",
-      "fecha": "15/08/2026 10:40",
-      "fecha_dt": "2026-08-15T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHa41Fv3cSxaiNh7pVeiAGWPuyQYxghXJwzbycjNRyM7eoISxoIFneMmxqryY",
-      "link": "https://trends.google.com/trending?geo=MX&q=el+norte",
+      "fecha": "15/08/2026 11:30",
+      "fecha_dt": "2026-08-15T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLFXAiemRzvGHxpw_0CT67rYdfhJdIHTIU54N6RY8_zrR81PzvCvMXKcg2txs",
+      "link": "https://trends.google.com/trending?geo=MX&q=cnn",
       "status": ""
     },
     {
       "titulo": "ferran torres",
-      "descripcion": "Barcelona y PSG alcanzan principio de acuerdo por Ferran Torres",
-      "trafico": "100+",
+      "descripcion": "PSG oficializó la llegada de Ferran Torres: ¿cuánto pagó y qué número usará?",
+      "trafico": "200+",
       "fecha": "15/08/2026 09:40",
       "fecha_dt": "2026-08-15T09:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbZeTgKMcrJEozRj7tJRaHID6chOEzEBMu9JeLbWzIWtyWLmLP3wmdt-PBdk0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgYQIehWTeWiFIoTYCD9Nr73unEDxor_l6I8u5YDEoYft2iYk9gC8BGqExlXQ",
       "link": "https://trends.google.com/trending?geo=MX&q=ferran+torres",
       "status": ""
     },
     {
-      "titulo": "community shield",
-      "descripcion": "Maresca’s first match in charge is against the champions, and Arsenal have no Saliba",
+      "titulo": "play store",
+      "descripcion": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
       "trafico": "100+",
-      "fecha": "15/08/2026 06:50",
-      "fecha_dt": "2026-08-15T06:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAmMsP1QPmLJ7ZCF4ybtoaSeDFyrCbCvTtANUS-7IMx5a0D6E4AvsPChh2EAU",
-      "link": "https://trends.google.com/trending?geo=MX&q=community+shield",
+      "fecha": "15/08/2026 12:00",
+      "fecha_dt": "2026-08-15T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTL2FD6qT8jb6LsfDiqR_d8S0ajBKYgcUp4RDcuxn7RbwgFq1pD4wmsFCVPNMs",
+      "link": "https://trends.google.com/trending?geo=MX&q=play+store",
       "status": ""
     }
   ]
