@@ -1,8 +1,18 @@
 {
-  "actualizado": "16/08/2026 06:44 UTC",
+  "actualizado": "16/08/2026 07:33 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "la madre de las batallas merida",
+      "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
+      "trafico": "500+",
+      "fecha": "16/08/2026 06:10",
+      "fecha_dt": "2026-08-16T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g9OHCBWnhtQ03VPrxew1b9S81ZolHAt_SgW_oyFSh5aziahBPtu863pPRag",
+      "link": "https://trends.google.com/trending?geo=MX&q=la+madre+de+las+batallas+merida",
+      "status": ""
+    },
     {
       "titulo": "dólar estadounidense",
       "descripcion": "La nueva era del “superpeso”: ¿cuánto durará?",
@@ -24,33 +34,23 @@
       "status": ""
     },
     {
-      "titulo": "la madre de las batallas merida",
-      "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
-      "trafico": "200+",
-      "fecha": "16/08/2026 06:10",
-      "fecha_dt": "2026-08-16T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g9OHCBWnhtQ03VPrxew1b9S81ZolHAt_SgW_oyFSh5aziahBPtu863pPRag",
-      "link": "https://trends.google.com/trending?geo=MX&q=la+madre+de+las+batallas+merida",
-      "status": ""
-    },
-    {
       "titulo": "michael morales",
-      "descripcion": "Morales Incredibly Sheds 60 Pounds, Hits Weight For UFC 330 Backup Role",
+      "descripcion": "Watch Ian Machado Garry confront Michael Morales in backstage footage after UFC 330 loss",
       "trafico": "200+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRRNHohDzk6tpgFOYrHa5K5VYhQw5TzTa3fULH2aesJCNuqVaW9ynr3BjwBkn8",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDRkYrHc3XIujLlAXuvsB0A9WN0GjUnt-xhG0W8za8DB9qEZApO6Y8n3lgcRw",
       "link": "https://trends.google.com/trending?geo=MX&q=michael+morales",
       "status": ""
     },
     {
-      "titulo": "khabib",
-      "descripcion": "Khabib Nurmagomedov sends ‘SPECIAL’ Instagram message for Islam Makhachev ahead of his UFC 330 title defe",
-      "trafico": "200+",
-      "fecha": "16/08/2026 04:10",
-      "fecha_dt": "2026-08-16T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrWrAuNnvWBhseaNOcTh9wesWEGhVLPL-5vnc6NoxfsHPl7Cyxo3VVZU2PT1Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=khabib",
+      "titulo": "brasil",
+      "descripcion": "Sheinbaum y Lula hablan sobre colaboración Pemex - Petrobras",
+      "trafico": "100+",
+      "fecha": "16/08/2026 07:20",
+      "fecha_dt": "2026-08-16T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTQifoyYEllkOK5o9iMopm93lgxgZql62sSe7zjCsyJ785jDrlulqxTPLw1tw",
+      "link": "https://trends.google.com/trending?geo=MX&q=brasil",
       "status": ""
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "robot phone",
-      "descripcion": "Honor Launches Robot Phone in China With a 200MP Moving Camera",
+      "descripcion": "HONOR & ARRI’s Robot Phone Officially Launched",
       "trafico": "100+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJOqFNbw_d2Hh3icyB2zLnU0kFRRlfWi_88AS1cJd7k2AYUIwVB5e0kRQpu38",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjUz-Lj6zwUNr7LBjjThC_kSkKf-IJwGBqLdity3UOyZHFwU_Q1rlwxUaKb8",
       "link": "https://trends.google.com/trending?geo=MX&q=robot+phone",
       "status": ""
     }
