@@ -1,22 +1,12 @@
 {
-  "actualizado": "16/08/2026 07:33 UTC",
+  "actualizado": "16/08/2026 08:33 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "la madre de las batallas merida",
-      "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
-      "trafico": "500+",
-      "fecha": "16/08/2026 06:10",
-      "fecha_dt": "2026-08-16T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g9OHCBWnhtQ03VPrxew1b9S81ZolHAt_SgW_oyFSh5aziahBPtu863pPRag",
-      "link": "https://trends.google.com/trending?geo=MX&q=la+madre+de+las+batallas+merida",
-      "status": ""
-    },
-    {
       "titulo": "dólar estadounidense",
       "descripcion": "La nueva era del “superpeso”: ¿cuánto durará?",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "16/08/2026 04:50",
       "fecha_dt": "2026-08-16T04:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSqPJXM3U8hZbRjk-w2xXjnZuWYYhr5wQP1w8_TerMSJVo6T-BcoUqJSMi1sM",
@@ -26,11 +16,21 @@
     {
       "titulo": "tormenta tropical lala",
       "descripcion": "Tormenta tropical Lala llega a Hawái: declaran estado de emergencia",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwqJ_WOrgkYilNdKl74CjOIWPvyGZUlA0GlvIHKn5EIciBsTd2BjGsS6iiHDE",
       "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical+lala",
+      "status": ""
+    },
+    {
+      "titulo": "la madre de las batallas merida",
+      "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
+      "trafico": "500+",
+      "fecha": "16/08/2026 06:10",
+      "fecha_dt": "2026-08-16T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g9OHCBWnhtQ03VPrxew1b9S81ZolHAt_SgW_oyFSh5aziahBPtu863pPRag",
+      "link": "https://trends.google.com/trending?geo=MX&q=la+madre+de+las+batallas+merida",
       "status": ""
     },
     {
