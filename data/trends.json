@@ -1,8 +1,18 @@
 {
-  "actualizado": "16/08/2026 11:23 UTC",
+  "actualizado": "16/08/2026 12:45 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "lluvia",
+      "descripcion": "CNPC LLAMA A LA POBLACIÓN A MANTENER LIMPIAS CALLES Y COLADERAS PARA MITIGAR RIESGOS POR INUNDACIONES",
+      "trafico": "20000+",
+      "fecha": "16/08/2026 11:40",
+      "fecha_dt": "2026-08-16T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiJEtrcIvJCoT_tmynv-ZNc6Oaq1W54GgL1R5IGAu5mAziWErilA85vd9mJM",
+      "link": "https://trends.google.com/trending?geo=MX&q=lluvia",
+      "status": ""
+    },
     {
       "titulo": "la madre de las batallas merida",
       "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
@@ -14,43 +24,53 @@
       "status": ""
     },
     {
-      "titulo": "dólar estadounidense",
-      "descripcion": "La nueva era del “superpeso”: ¿cuánto durará?",
-      "trafico": "1000+",
-      "fecha": "16/08/2026 04:50",
-      "fecha_dt": "2026-08-16T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSqPJXM3U8hZbRjk-w2xXjnZuWYYhr5wQP1w8_TerMSJVo6T-BcoUqJSMi1sM",
-      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
+      "titulo": "luís esteves",
+      "descripcion": "'Frango' ajuda Luís Esteves a dar vitória ao Atlas (vídeo)",
+      "trafico": "500+",
+      "fecha": "16/08/2026 05:00",
+      "fecha_dt": "2026-08-16T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlKiDwB7Tea40hCbt6lIjyhTvla5aucskzS0lVy8boTAhKgz2bXK0y5NnMf7w",
+      "link": "https://trends.google.com/trending?geo=MX&q=luís+esteves",
       "status": ""
     },
     {
-      "titulo": "tormenta tropical lala",
-      "descripcion": "“Lala” se convierte en huracán y se aproxima a Hawái con riesgo de tocar tierra este sábado",
-      "trafico": "1000+",
-      "fecha": "16/08/2026 04:30",
-      "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGBX6ts827KYmC8961ec9gOq673dqpEAZXcJmeI7iA8NIhgGSlaYTctvaM4M",
-      "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical+lala",
+      "titulo": "gerardo fernández noroña",
+      "descripcion": "Esta es la tesis de Fernández Noroña con la que se tituló de la UAM: ‘Sobrevivió’ a robo en su casa",
+      "trafico": "200+",
+      "fecha": "16/08/2026 12:30",
+      "fecha_dt": "2026-08-16T12:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4ioKeKkTrr7gEBu8C6IKo9oW_bsuPsBjiqZFrZL9olReLB82CglJL-ZzjDUg",
+      "link": "https://trends.google.com/trending?geo=MX&q=gerardo+fernández+noroña",
+      "status": ""
+    },
+    {
+      "titulo": "fenómeno",
+      "descripcion": "El Niño podría ser el más fuerte desde que se tiene registro: estas serían las consecuencias en México",
+      "trafico": "200+",
+      "fecha": "16/08/2026 11:50",
+      "fecha_dt": "2026-08-16T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-stYDbvnShmZuy3LQosnHpjXZhGVcZYKNuurxnnPX1Ad4ModGko-NQssEAo",
+      "link": "https://trends.google.com/trending?geo=MX&q=fenómeno",
       "status": ""
     },
     {
       "titulo": "brasil",
-      "descripcion": "Sheinbaum y Lula hablan sobre colaboración Pemex - Petrobras",
+      "descripcion": "Busca: Jogos olímpicos de los angeles 2028",
       "trafico": "200+",
       "fecha": "16/08/2026 07:20",
       "fecha_dt": "2026-08-16T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTQifoyYEllkOK5o9iMopm93lgxgZql62sSe7zjCsyJ785jDrlulqxTPLw1tw",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN0chANb5GSvVZDlXgxJiYZiIjYMxM5bqBT5CcyvZNpw7W3HpFxseJbhsa_8I",
       "link": "https://trends.google.com/trending?geo=MX&q=brasil",
       "status": ""
     },
     {
-      "titulo": "víctor dávila",
-      "descripcion": "América: ¿Cuál es el panorama de Víctor Dávila?",
-      "trafico": "200+",
-      "fecha": "16/08/2026 04:10",
-      "fecha_dt": "2026-08-16T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDlCxeC8gMOZqN3Au5kCcHLcr8x1d2iFqVLw4_-KS7qgJiC0HaxCqlCQxb6y0",
-      "link": "https://trends.google.com/trending?geo=MX&q=víctor+dávila",
+      "titulo": "robo",
+      "descripcion": "Circulan documentos presuntamente falsos sobre vehículos que no tienen reporte de robo",
+      "trafico": "100+",
+      "fecha": "16/08/2026 11:30",
+      "fecha_dt": "2026-08-16T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBSPXe1Mf4Fl33kRRdfzWAfFzCn8oMjil3V2DvSnE9YHROsBo5qCCYLVkGQcY",
+      "link": "https://trends.google.com/trending?geo=MX&q=robo",
       "status": ""
     },
     {
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-08-16T05:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNwOZscnDFXf5gYTjeh_6yLnp64iiYKO5aik0QTIreJ3sHVzbY52I0db-amNs",
       "link": "https://trends.google.com/trending?geo=MX&q=diego+lainez",
-      "status": ""
-    },
-    {
-      "titulo": "hidrocodona",
-      "descripcion": "Aseguran más de 6 mil pastillas de hidrocodona en Aduana del AICM; estiman su valor en más de 6 mdp",
-      "trafico": "100+",
-      "fecha": "16/08/2026 04:40",
-      "fecha_dt": "2026-08-16T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh5s_DlcvmcMKduJww9NPCNBtekCsgR7HgNiS2YLhCXqkpk4kQi0kKoJ4NG1A",
-      "link": "https://trends.google.com/trending?geo=MX&q=hidrocodona",
-      "status": ""
-    },
-    {
-      "titulo": "robot phone",
-      "descripcion": "HONOR & ARRI’s Robot Phone Officially Launched",
-      "trafico": "100+",
-      "fecha": "16/08/2026 04:30",
-      "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjUz-Lj6zwUNr7LBjjThC_kSkKf-IJwGBqLdity3UOyZHFwU_Q1rlwxUaKb8",
-      "link": "https://trends.google.com/trending?geo=MX&q=robot+phone",
       "status": ""
     }
   ]
