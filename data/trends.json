@@ -1,18 +1,8 @@
 {
-  "actualizado": "16/08/2026 10:26 UTC",
+  "actualizado": "16/08/2026 11:23 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
-    {
-      "titulo": "tormenta tropical lala",
-      "descripcion": "“Lala” se convierte en huracán y se aproxima a Hawái con riesgo de tocar tierra este sábado",
-      "trafico": "20000+",
-      "fecha": "16/08/2026 04:30",
-      "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGBX6ts827KYmC8961ec9gOq673dqpEAZXcJmeI7iA8NIhgGSlaYTctvaM4M",
-      "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical+lala",
-      "status": ""
-    },
     {
       "titulo": "la madre de las batallas merida",
       "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
@@ -34,23 +24,33 @@
       "status": ""
     },
     {
-      "titulo": "michael morales",
-      "descripcion": "Ian Machado Garry reveals ‘there is only one’ person deserving of the next title shot after he beats Islam Makhachev",
-      "trafico": "200+",
+      "titulo": "tormenta tropical lala",
+      "descripcion": "“Lala” se convierte en huracán y se aproxima a Hawái con riesgo de tocar tierra este sábado",
+      "trafico": "1000+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSefs6RrfqBAyEBIQRetB10JHHKo9Endfa_CPG3wrW3mE3TfaVaJxdKcWngrj8",
-      "link": "https://trends.google.com/trending?geo=MX&q=michael+morales",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGBX6ts827KYmC8961ec9gOq673dqpEAZXcJmeI7iA8NIhgGSlaYTctvaM4M",
+      "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical+lala",
       "status": ""
     },
     {
       "titulo": "brasil",
-      "descripcion": "Busca: Jogos olímpicos de los angeles 2028",
-      "trafico": "100+",
+      "descripcion": "Sheinbaum y Lula hablan sobre colaboración Pemex - Petrobras",
+      "trafico": "200+",
       "fecha": "16/08/2026 07:20",
       "fecha_dt": "2026-08-16T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQN0chANb5GSvVZDlXgxJiYZiIjYMxM5bqBT5CcyvZNpw7W3HpFxseJbhsa_8I",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTQifoyYEllkOK5o9iMopm93lgxgZql62sSe7zjCsyJ785jDrlulqxTPLw1tw",
       "link": "https://trends.google.com/trending?geo=MX&q=brasil",
+      "status": ""
+    },
+    {
+      "titulo": "víctor dávila",
+      "descripcion": "América: ¿Cuál es el panorama de Víctor Dávila?",
+      "trafico": "200+",
+      "fecha": "16/08/2026 04:10",
+      "fecha_dt": "2026-08-16T04:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDlCxeC8gMOZqN3Au5kCcHLcr8x1d2iFqVLw4_-KS7qgJiC0HaxCqlCQxb6y0",
+      "link": "https://trends.google.com/trending?geo=MX&q=víctor+dávila",
       "status": ""
     },
     {
@@ -85,11 +85,11 @@
     },
     {
       "titulo": "hidrocodona",
-      "descripcion": "Aseguran 6 mil 858 pastillas con hidrocodona en AICM",
+      "descripcion": "Aseguran más de 6 mil pastillas de hidrocodona en Aduana del AICM; estiman su valor en más de 6 mdp",
       "trafico": "100+",
       "fecha": "16/08/2026 04:40",
       "fecha_dt": "2026-08-16T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc2no6xcrHVQCV9b8PKbep0DcfrDs3h5XmCgQMM2Icgbz9dYHsIUV3D-Sua18",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh5s_DlcvmcMKduJww9NPCNBtekCsgR7HgNiS2YLhCXqkpk4kQi0kKoJ4NG1A",
       "link": "https://trends.google.com/trending?geo=MX&q=hidrocodona",
       "status": ""
     },
