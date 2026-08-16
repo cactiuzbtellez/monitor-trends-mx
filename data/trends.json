@@ -1,42 +1,12 @@
 {
-  "actualizado": "16/08/2026 05:31 UTC",
+  "actualizado": "16/08/2026 06:44 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "lineas telefonicas",
-      "descripcion": "Serán Suspendidas en Horas: Hoy Vence Registro de Estas Líneas Telefónicas",
-      "trafico": "2000+",
-      "fecha": "16/08/2026 04:00",
-      "fecha_dt": "2026-08-16T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLvvvdAwHNb7xAhtHSDGJ_IpBVZiZThdh2WaqFiqBvJvweQSsr6rDndbbLKoc",
-      "link": "https://trends.google.com/trending?geo=MX&q=lineas+telefonicas",
-      "status": ""
-    },
-    {
-      "titulo": "camilo vargas",
-      "descripcion": "Llamado de auxilio del portero del Atlas para Colombia",
-      "trafico": "500+",
-      "fecha": "16/08/2026 04:20",
-      "fecha_dt": "2026-08-16T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrE6v2hAqJSCcwTGykAr4aWXh73kzQTr3meD6IKH38zewMHqOYzcPfcB1Qh4M",
-      "link": "https://trends.google.com/trending?geo=MX&q=camilo+vargas",
-      "status": ""
-    },
-    {
-      "titulo": "tris clasico",
-      "descripcion": "Resultados del Tris de la Lotería Nacional: lista completa de ganadores HOY sábado 15 de agosto de 2026",
-      "trafico": "500+",
-      "fecha": "16/08/2026 04:10",
-      "fecha_dt": "2026-08-16T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvWygrmC-zhLscySopoUubGCpEzbhrXRd6x1_vGSxp-773Lq4QYF1eG_6Pg7g",
-      "link": "https://trends.google.com/trending?geo=MX&q=tris+clasico",
-      "status": ""
-    },
-    {
       "titulo": "dólar estadounidense",
       "descripcion": "La nueva era del “superpeso”: ¿cuánto durará?",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "16/08/2026 04:50",
       "fecha_dt": "2026-08-16T04:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSqPJXM3U8hZbRjk-w2xXjnZuWYYhr5wQP1w8_TerMSJVo6T-BcoUqJSMi1sM",
@@ -45,12 +15,22 @@
     },
     {
       "titulo": "tormenta tropical lala",
-      "descripcion": "El huracán Lala azota la Isla Grande de Hawai con fuertes vientos y lluvias intensas",
-      "trafico": "200+",
+      "descripcion": "Tormenta tropical Lala llega a Hawái: declaran estado de emergencia",
+      "trafico": "500+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQftyLhscpdBw4L78rvXb5msy92_tPftpOCKXWdpS9Ng2oqgC1iT7QAUZYGeU8",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwqJ_WOrgkYilNdKl74CjOIWPvyGZUlA0GlvIHKn5EIciBsTd2BjGsS6iiHDE",
       "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical+lala",
+      "status": ""
+    },
+    {
+      "titulo": "la madre de las batallas merida",
+      "descripcion": "La Madre de Todas las Batallas en Mérida: Aquí puedes seguir la transmisión EN VIVO hoy sábado 15 de agosto",
+      "trafico": "200+",
+      "fecha": "16/08/2026 06:10",
+      "fecha_dt": "2026-08-16T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6g9OHCBWnhtQ03VPrxew1b9S81ZolHAt_SgW_oyFSh5aziahBPtu863pPRag",
+      "link": "https://trends.google.com/trending?geo=MX&q=la+madre+de+las+batallas+merida",
       "status": ""
     },
     {
@@ -64,42 +44,62 @@
       "status": ""
     },
     {
-      "titulo": "adam sandler",
-      "descripcion": "Local child actors appear in new Adam Sandler film on Netflix",
+      "titulo": "khabib",
+      "descripcion": "Khabib Nurmagomedov sends ‘SPECIAL’ Instagram message for Islam Makhachev ahead of his UFC 330 title defe",
       "trafico": "200+",
       "fecha": "16/08/2026 04:10",
       "fecha_dt": "2026-08-16T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCXwjUkdDMJtl4cJCYW-iygir31cWF-Ri1e8p_4cHZxrMcgWwFkVKQ4j29RdA",
-      "link": "https://trends.google.com/trending?geo=MX&q=adam+sandler",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrWrAuNnvWBhseaNOcTh9wesWEGhVLPL-5vnc6NoxfsHPl7Cyxo3VVZU2PT1Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=khabib",
       "status": ""
     },
     {
-      "titulo": "brunetta",
-      "descripcion": "Tigres suma una nueva opción para director técnico: Guillermo Schelotto | El Pelotazo",
+      "titulo": "emma stone",
+      "descripcion": "Emma Stone Debuts Her Longest Hairstyle in Over 5 Years After Pixie and Bob Transformations",
       "trafico": "100+",
-      "fecha": "16/08/2026 05:10",
-      "fecha_dt": "2026-08-16T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1ijOaox9twHaOoloATFOSo0CxAdbdYCDR-ezdl7DqzmxmfLo4G2H-lvE5Pjo",
-      "link": "https://trends.google.com/trending?geo=MX&q=brunetta",
+      "fecha": "16/08/2026 05:50",
+      "fecha_dt": "2026-08-16T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq0e8mQFUdPoSeegQz0sziVZTGZegb1ZIRy4zbf1LhkHjScPjUpgLsXLWz_BQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=emma+stone",
+      "status": ""
+    },
+    {
+      "titulo": "tallulah willis",
+      "descripcion": "Inside Tallulah Willis and Justin Acee’s Woodland Wedding at the Bride’s Family Home in Idaho",
+      "trafico": "100+",
+      "fecha": "16/08/2026 05:40",
+      "fecha_dt": "2026-08-16T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyS8BtbRNho5KlvSu9YBgWQ2RYkvLPagXf-uFFWnnabyAT_6w5uNUJVtd07H4",
+      "link": "https://trends.google.com/trending?geo=MX&q=tallulah+willis",
       "status": ""
     },
     {
       "titulo": "diego lainez",
-      "descripcion": "A los Tigres, les inquieta el castigo a Nahuel Guzmán",
+      "descripcion": "Revelan cuántos partidos suspenderían a Nahuel Guzmán por empujón al árbitro en la Leagues Cup",
       "trafico": "100+",
       "fecha": "16/08/2026 05:10",
       "fecha_dt": "2026-08-16T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8yRr0d_ZB9RBiyaAoedxxeCe0jol2Ny6gIGQ7EzTYgnzQqzuXi_yeS0hJGU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNwOZscnDFXf5gYTjeh_6yLnp64iiYKO5aik0QTIreJ3sHVzbY52I0db-amNs",
       "link": "https://trends.google.com/trending?geo=MX&q=diego+lainez",
       "status": ""
     },
     {
+      "titulo": "hidrocodona",
+      "descripcion": "Aseguran 6 mil 858 pastillas con hidrocodona en AICM",
+      "trafico": "100+",
+      "fecha": "16/08/2026 04:40",
+      "fecha_dt": "2026-08-16T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSc2no6xcrHVQCV9b8PKbep0DcfrDs3h5XmCgQMM2Icgbz9dYHsIUV3D-Sua18",
+      "link": "https://trends.google.com/trending?geo=MX&q=hidrocodona",
+      "status": ""
+    },
+    {
       "titulo": "robot phone",
-      "descripcion": "HONOR & ARRI’s Robot Phone Officially Launched",
+      "descripcion": "Honor Launches Robot Phone in China With a 200MP Moving Camera",
       "trafico": "100+",
       "fecha": "16/08/2026 04:30",
       "fecha_dt": "2026-08-16T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjUz-Lj6zwUNr7LBjjThC_kSkKf-IJwGBqLdity3UOyZHFwU_Q1rlwxUaKb8",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJOqFNbw_d2Hh3icyB2zLnU0kFRRlfWi_88AS1cJd7k2AYUIwVB5e0kRQpu38",
       "link": "https://trends.google.com/trending?geo=MX&q=robot+phone",
       "status": ""
     }
