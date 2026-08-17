@@ -1,8 +1,18 @@
 {
-  "actualizado": "17/08/2026 08:47 UTC",
+  "actualizado": "17/08/2026 09:45 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "como",
+      "descripcion": "Jacquet nets in debut as Liverpool beat Como in preseason finale",
+      "trafico": "1000+",
+      "fecha": "17/08/2026 09:30",
+      "fecha_dt": "2026-08-17T09:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRSgPFpLpLyOG_PzQA5lUx32OvAE7jjgYFgZnpLuTKXlzT8rfmRl0v7pcVfF4",
+      "link": "https://trends.google.com/trending?geo=MX&q=como",
+      "status": ""
+    },
     {
       "titulo": "james blunt",
       "descripcion": "James Blunt releases A24 horror film inspired video for new single",
@@ -84,22 +94,12 @@
       "status": ""
     },
     {
-      "titulo": "césar montes",
-      "descripcion": "Borrados en Rusia: Luis Chávez y César Montes, sin actividad después del Mundial 2026",
-      "trafico": "200+",
-      "fecha": "17/08/2026 04:50",
-      "fecha_dt": "2026-08-17T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsavkrMEv2WdePmGc07TIpaOdjlGKRQ3bDM7YT6TRqhMe7YYMtnAi_tPoxveQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=césar+montes",
-      "status": ""
-    },
-    {
       "titulo": "javier suárez",
-      "descripcion": "Flick deja un interrogante tras la manita: ¿qué le falta al Barcelona?",
+      "descripcion": "Flick pide más fichajes para Barcelona: \"Necesitamos algo más\"",
       "trafico": "100+",
       "fecha": "17/08/2026 05:10",
       "fecha_dt": "2026-08-17T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS53DOTglhJGy0tiehgS_KY8w5c3WYN1LXyQ5rqV4bO2cn5rYMoJZAAJT9bRrA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiaIKLSGt5_dERuVc4nJZP246dTUrInoo_cDJ1Zi41dL9s9fV7-Tsz4gdFsGs",
       "link": "https://trends.google.com/trending?geo=MX&q=javier+suárez",
       "status": ""
     }
