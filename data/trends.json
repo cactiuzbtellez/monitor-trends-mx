@@ -1,12 +1,12 @@
 {
-  "actualizado": "17/08/2026 14:31 UTC",
+  "actualizado": "17/08/2026 15:28 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "concert week 2026",
       "descripcion": "OCESA, Ticketmaster y Banamex lanzan la edición más grande de Concert Week con más de 150 conciertos al 2x1",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "fecha": "17/08/2026 13:00",
       "fecha_dt": "2026-08-17T13:00:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlq7YylqQnQJATIMD-6eCuW5pTmg0JS3lTZUvEN7MoOQ0dje7T3LvnacRqExE",
@@ -16,7 +16,7 @@
     {
       "titulo": "loteria nacional 16 de agosto 2026",
       "descripcion": "Resultados Sorteo Zodiaco 1756: revisa el premio mayor del domingo 9 de agosto",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "17/08/2026 13:00",
       "fecha_dt": "2026-08-17T13:00:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfUEcKyypbjORLg8FzRJDGswSnAATcOh1XHuazf8oGnXHTrfOqknPlZpyyi3k",
@@ -25,32 +25,42 @@
     },
     {
       "titulo": "hola",
-      "descripcion": "Alejandra Onieva y Jesse Williams, a punto de ser padres, disfrutan de un tranquilo plan en Los Ángeles",
+      "descripcion": "La 'modern family' de Camille Gottlieb y la insólita foto con sus cuatro hermanos: \"De mis favoritas del año\"",
       "trafico": "200+",
       "fecha": "17/08/2026 13:00",
       "fecha_dt": "2026-08-17T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdfW9tmTrkT5VRsG9hed3jhBFKL4UnxfF9BSxuGTiO2mqnsSzkG99EdDxcugo",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaBN0AvPJtwzvgy00lfcSnRSVTBY0pygyiGWd2mAVSE9TtDaNfl-pJ_5LtQoU",
       "link": "https://trends.google.com/trending?geo=MX&q=hola",
       "status": ""
     },
     {
-      "titulo": "regreso a clases 2026",
-      "descripcion": "Feria de Regreso a Clases de Profeco 2026: fechas, horarios y sedes",
-      "trafico": "200+",
-      "fecha": "17/08/2026 12:20",
-      "fecha_dt": "2026-08-17T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyn0u3QNe05arEiu8w4v3GIy3qiiZeqNeAcNWOrw0fxe4KsUkOVym0B8_InF8",
-      "link": "https://trends.google.com/trending?geo=MX&q=regreso+a+clases+2026",
+      "titulo": "credencial",
+      "descripcion": "Claudia Sheinbaum deposita $6,400 a los adultos mayores con credencial INAPAM: deben hacer este trámite",
+      "trafico": "100+",
+      "fecha": "17/08/2026 15:00",
+      "fecha_dt": "2026-08-17T15:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRefVhdACzHPtCW0fhjmlDUdsNLBeaiFC51lksiityvqNV0HawWs7VlXokCZvk",
+      "link": "https://trends.google.com/trending?geo=MX&q=credencial",
       "status": ""
     },
     {
-      "titulo": "ciclón",
-      "descripcion": "Tormentas tropicales acechan a México: Conagua vigila dos posibles ciclones en el Océano Pacífico",
-      "trafico": "200+",
-      "fecha": "17/08/2026 12:20",
-      "fecha_dt": "2026-08-17T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRm_UhNRchR7g3Zomqn6XRgVnO2ulhZPFRCdq5dzrucd5W2orRUDGMFoUPbMYw",
-      "link": "https://trends.google.com/trending?geo=MX&q=ciclón",
+      "titulo": "daniella bustamante",
+      "descripcion": "Despixelamos a Daniella, hija de David Bustamante y Paula Echevarría: la carrera que ha elegido estudiar y el fichaje que abre una nueva etapa",
+      "trafico": "100+",
+      "fecha": "17/08/2026 15:00",
+      "fecha_dt": "2026-08-17T15:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLRO2ZDgSdnv9rFAy0-GiWNX0prOifd5pjqslH4ptpXIXAhcmoTSmhe03YM08",
+      "link": "https://trends.google.com/trending?geo=MX&q=daniella+bustamante",
+      "status": ""
+    },
+    {
+      "titulo": "pisa vs empoli",
+      "descripcion": "Preview: Pisa vs Empoli - prediction, team news, lineups",
+      "trafico": "100+",
+      "fecha": "17/08/2026 14:30",
+      "fecha_dt": "2026-08-17T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoqbBbkenFor2DOYYMHwuSiX2sDr5jmBOEc1SSPtIvHz1rSpiQQ8L2r1rKenQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=pisa+vs+empoli",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-17T13:00:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSytmybgJNsJxtoE1SGmjsM3c8rYTptVrItRKUflAr_3rS-taJ_gPHDNqyf8nQ",
       "link": "https://trends.google.com/trending?geo=MX&q=cuando+regresan+a+clases+2026",
-      "status": ""
-    },
-    {
-      "titulo": "clima xalapa",
-      "descripcion": "Así estará el clima en Veracruz-Boca del Río este lunes 17 de agosto",
-      "trafico": "100+",
-      "fecha": "17/08/2026 12:20",
-      "fecha_dt": "2026-08-17T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyWhtbCwcUWlmvncpQGE14OawvZABvSVUAaTUbbYZZPR1uYZ3qFJNSdT-fZCQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+xalapa",
       "status": ""
     }
   ]
