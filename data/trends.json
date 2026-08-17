@@ -1,8 +1,18 @@
 {
-  "actualizado": "17/08/2026 09:45 UTC",
+  "actualizado": "17/08/2026 10:35 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "james blunt",
+      "descripcion": "James Blunt releases A24 horror film inspired video for new single",
+      "trafico": "2000+",
+      "fecha": "17/08/2026 05:10",
+      "fecha_dt": "2026-08-17T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUzUhA-ECDwD6X-FGFP-Cbx4Z75SUfdfULgcL7zH4am_SFKXikKLLw6sETV70",
+      "link": "https://trends.google.com/trending?geo=MX&q=james+blunt",
+      "status": ""
+    },
     {
       "titulo": "como",
       "descripcion": "Jacquet nets in debut as Liverpool beat Como in preseason finale",
@@ -14,16 +24,6 @@
       "status": ""
     },
     {
-      "titulo": "james blunt",
-      "descripcion": "James Blunt releases A24 horror film inspired video for new single",
-      "trafico": "1000+",
-      "fecha": "17/08/2026 05:10",
-      "fecha_dt": "2026-08-17T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUzUhA-ECDwD6X-FGFP-Cbx4Z75SUfdfULgcL7zH4am_SFKXikKLLw6sETV70",
-      "link": "https://trends.google.com/trending?geo=MX&q=james+blunt",
-      "status": ""
-    },
-    {
       "titulo": "alejandro ruiz",
       "descripcion": "Arantza Ruiz y su herencia artística en el espectáculo mexicano",
       "trafico": "1000+",
@@ -31,6 +31,16 @@
       "fecha_dt": "2026-08-17T05:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpzmX1Cv4Rb4FYFzee0xuT5tGbZ5cO4TUk_KhNSWR77WAzsnMr3P6GeTinjM0",
       "link": "https://trends.google.com/trending?geo=MX&q=alejandro+ruiz",
+      "status": ""
+    },
+    {
+      "titulo": "lluvia",
+      "descripcion": "Prevé SMN lluvias fuertes, calor de hasta 40 °C y oleaje elevado en Colima",
+      "trafico": "500+",
+      "fecha": "17/08/2026 10:20",
+      "fecha_dt": "2026-08-17T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-ndVbTYLGZM3ScL2xja5BPqguh3EYOV8A0wgPNytZqv2DQhkD2bbRKbWXUrU",
+      "link": "https://trends.google.com/trending?geo=MX&q=lluvia",
       "status": ""
     },
     {
@@ -75,22 +85,12 @@
     },
     {
       "titulo": "lista del sorteo zodiaco de hoy domingo resultados",
-      "descripcion": "Resultados Lotería Nacional En Vivo Hoy 16 de Agosto 2026: Números Ganadores Sorteo Zodiaco 1757",
+      "descripcion": "Resultados Sorteo Zodiaco 1756: revisa el premio mayor del domingo 9 de agosto",
       "trafico": "200+",
       "fecha": "17/08/2026 04:50",
       "fecha_dt": "2026-08-17T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiVz41c5xYznr46dALcVJshnWSMNOSLDgA5RFSeUArAyUcijRPC7xeP3vMh1A",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfUEcKyypbjORLg8FzRJDGswSnAATcOh1XHuazf8oGnXHTrfOqknPlZpyyi3k",
       "link": "https://trends.google.com/trending?geo=MX&q=lista+del+sorteo+zodiaco+de+hoy+domingo+resultados",
-      "status": ""
-    },
-    {
-      "titulo": "masad",
-      "descripcion": "“Será como cualquier otra persona”: Masad deja claro qué pasará con Ese Pérez si ambos siguen en la competencia de 'La casa de los famosos'",
-      "trafico": "200+",
-      "fecha": "17/08/2026 04:50",
-      "fecha_dt": "2026-08-17T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6pO_L7LJn4-y9kquvqwUV07FyQZmWggiWGXFwlMi7F_9n-XoB0Groo1qW2tA",
-      "link": "https://trends.google.com/trending?geo=MX&q=masad",
       "status": ""
     },
     {
