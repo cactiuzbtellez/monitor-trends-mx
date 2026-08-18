@@ -1,26 +1,36 @@
 {
-  "actualizado": "18/08/2026 03:51 UTC",
+  "actualizado": "18/08/2026 04:38 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "ediciones era",
-      "descripcion": "Era, la gran editorial independiente de México, anuncia el fin de sus actividades",
-      "trafico": "500+",
-      "fecha": "18/08/2026 02:40",
-      "fecha_dt": "2026-08-18T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOI5dCyhUWPm63Yf2gPz7No6Kowd031YB2sMaLpKr46uS6XI8e6T0-xYzWGdQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=ediciones+era",
+      "titulo": "windy",
+      "descripcion": "Aussies across four states set for drenching",
+      "trafico": "2000+",
+      "fecha": "18/08/2026 03:10",
+      "fecha_dt": "2026-08-18T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRQoL6T3DgF4JpKv8U3XNCOsB2goozD0lja8C4kNnYAKZmvOEktV4FG7DJASE",
+      "link": "https://trends.google.com/trending?geo=MX&q=windy",
       "status": ""
     },
     {
-      "titulo": "tommy paul",
-      "descripcion": "Tommy Paul vs. Adolfo Daniel Vallejo prediction, odds, picks for ATP Cincinnati Open 2026",
+      "titulo": "shohei ohtani",
+      "descripcion": "Ohtani's two home runs, four hits leads Dodgers' win",
+      "trafico": "500+",
+      "fecha": "18/08/2026 03:30",
+      "fecha_dt": "2026-08-18T03:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbHaj__uB1H21RgV5kRZPFXUzDl5ycCStJltLtJNl2G4bW-3w2sd4oi4Zhu90",
+      "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
+      "status": ""
+    },
+    {
+      "titulo": "clima cabo san lucas",
+      "descripcion": "Clima en Los Cabos: lunes 17 de agosto con intenso calor y cielo despejado",
       "trafico": "200+",
-      "fecha": "18/08/2026 03:40",
-      "fecha_dt": "2026-08-18T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7lxnmv5Z2WbmPVs-dTnxKYUR1NMUOZWMaLVf5DotQKv6KDnxocfuhgkkocvI",
-      "link": "https://trends.google.com/trending?geo=MX&q=tommy+paul",
+      "fecha": "18/08/2026 04:10",
+      "fecha_dt": "2026-08-18T04:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpv4Qbt5ZDSebSPCPKIJ0plLeiTK_CE_ekLeNRgIuWaMc4HUN_QKLZfmGNPQ4",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+cabo+san+lucas",
       "status": ""
     },
     {
@@ -34,12 +44,32 @@
       "status": ""
     },
     {
-      "titulo": "masterchef 24/7",
-      "descripcion": "MasterChef 24/7 | Antrax sufre accidente en plena competencia y es atendido de emergencia",
+      "titulo": "tommy paul",
+      "descripcion": "Tommy Paul vs. Adolfo Daniel Vallejo prediction, odds, picks for ATP Cincinnati Open 2026",
+      "trafico": "200+",
+      "fecha": "18/08/2026 03:40",
+      "fecha_dt": "2026-08-18T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7lxnmv5Z2WbmPVs-dTnxKYUR1NMUOZWMaLVf5DotQKv6KDnxocfuhgkkocvI",
+      "link": "https://trends.google.com/trending?geo=MX&q=tommy+paul",
+      "status": ""
+    },
+    {
+      "titulo": "tlalnepantla",
+      "descripcion": "Tlalnepantla ampliará espacios públicos para la lactancia materna",
       "trafico": "200+",
       "fecha": "18/08/2026 03:20",
       "fecha_dt": "2026-08-18T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzv5yi7CLPqjz_4tViOYeia4y66wCqdQdz7lv7Xsd2qNpcw5ng7yrlUQHAnk",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoFvf2dkCZx7YIR3kCJ3EgagXodbpyGwv9X67QVeQ3Mez31b7gYLC1QkEgLy0",
+      "link": "https://trends.google.com/trending?geo=MX&q=tlalnepantla",
+      "status": ""
+    },
+    {
+      "titulo": "masterchef 24/7",
+      "descripcion": "¿Qué pasó con los hielos de Carmen en MasterChef 24/7? Así es como le ha afectado a la Cocinera este tema",
+      "trafico": "200+",
+      "fecha": "18/08/2026 03:20",
+      "fecha_dt": "2026-08-18T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr1NodhefvuSMlnDxa87ArnjSnFX5qEPNTrMZGeoevKPPo4OQIP8E6dGwOvEM",
       "link": "https://trends.google.com/trending?geo=MX&q=masterchef+24/7",
       "status": ""
     },
@@ -64,16 +94,6 @@
       "status": ""
     },
     {
-      "titulo": "tlalnepantla",
-      "descripcion": "Autoridades de Tlalnepantla intervienen hogar de adulto mayor con acumulación extrema de residuos",
-      "trafico": "100+",
-      "fecha": "18/08/2026 03:20",
-      "fecha_dt": "2026-08-18T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxm88pRxEx0A3-hoLPYgU5O2X5qHGOGIOMLY0jb-L76eOHSGitcboLuq28GlY",
-      "link": "https://trends.google.com/trending?geo=MX&q=tlalnepantla",
-      "status": ""
-    },
-    {
       "titulo": "arthur fils",
       "descripcion": "Cincinnati Open : le programme complet du 17 août avec Fils et le choc Boisson – Parry…",
       "trafico": "100+",
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-08-18T03:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0_2G0d884jLFLZkAWbuU-31-PYCA0Fin4O70fBBHBEVAkUtWwnqzEn-EOiQ",
       "link": "https://trends.google.com/trending?geo=MX&q=arthur+fils",
-      "status": ""
-    },
-    {
-      "titulo": "pilar montenegro",
-      "descripcion": "Pilar Montenegro reaparece en redes tras supuestos problemas de salud",
-      "trafico": "100+",
-      "fecha": "18/08/2026 02:50",
-      "fecha_dt": "2026-08-18T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4OV_pJW00ZTIj0V3YGACf95uxBMv3pKR_7KzO55uD76t2nnwD46dYLtMnP-Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=pilar+montenegro",
-      "status": ""
-    },
-    {
-      "titulo": "esquema",
-      "descripcion": "Suspenden ‘temporalmente’ fútbol en canchas de Monclova tras nuevas peleas entre jugadores",
-      "trafico": "100+",
-      "fecha": "18/08/2026 02:40",
-      "fecha_dt": "2026-08-18T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRXbLXLoV9MKqpoEhPb2QBp2J9DNTY_XzwwP-EzjiAolSTCHsFCqX4t11MQjQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=esquema",
       "status": ""
     }
   ]
