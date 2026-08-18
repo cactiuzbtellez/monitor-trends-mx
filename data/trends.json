@@ -1,26 +1,16 @@
 {
-  "actualizado": "18/08/2026 04:38 UTC",
+  "actualizado": "18/08/2026 05:32 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "windy",
-      "descripcion": "Aussies across four states set for drenching",
+      "titulo": "banco del bienestar",
+      "descripcion": "¿Te depositarán 12 mil 800 pesos? Esto deben saber los beneficiarios de la Pensión Bienestar",
       "trafico": "2000+",
-      "fecha": "18/08/2026 03:10",
-      "fecha_dt": "2026-08-18T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRQoL6T3DgF4JpKv8U3XNCOsB2goozD0lja8C4kNnYAKZmvOEktV4FG7DJASE",
-      "link": "https://trends.google.com/trending?geo=MX&q=windy",
-      "status": ""
-    },
-    {
-      "titulo": "shohei ohtani",
-      "descripcion": "Ohtani's two home runs, four hits leads Dodgers' win",
-      "trafico": "500+",
-      "fecha": "18/08/2026 03:30",
-      "fecha_dt": "2026-08-18T03:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbHaj__uB1H21RgV5kRZPFXUzDl5ycCStJltLtJNl2G4bW-3w2sd4oi4Zhu90",
-      "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
+      "fecha": "18/08/2026 04:50",
+      "fecha_dt": "2026-08-18T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNN4TARWBvmiH39ZiK5uG_PgTNCxpRC2Fcn13BXPjdEtVUJZsQ8b70nDGEZjI",
+      "link": "https://trends.google.com/trending?geo=MX&q=banco+del+bienestar",
       "status": ""
     },
     {
@@ -34,16 +24,6 @@
       "status": ""
     },
     {
-      "titulo": "daniel vallejo",
-      "descripcion": "Adolfo Daniel Vallejo’s profile: Who is the Paraguayan tennis player? Age, height, ranking and more",
-      "trafico": "200+",
-      "fecha": "18/08/2026 03:40",
-      "fecha_dt": "2026-08-18T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQidWLwVdLmq_fww0yxxrvcflcL5pxzECQus7T3S4X8ziTc1bnsUBOjHvPGlAQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=daniel+vallejo",
-      "status": ""
-    },
-    {
       "titulo": "tommy paul",
       "descripcion": "Tommy Paul vs. Adolfo Daniel Vallejo prediction, odds, picks for ATP Cincinnati Open 2026",
       "trafico": "200+",
@@ -54,33 +34,63 @@
       "status": ""
     },
     {
+      "titulo": "daniel vallejo",
+      "descripcion": "Tommy Paul vs. Adolfo Daniel Vallejo prediction, odds, picks for ATP Cincinnati Open 2026",
+      "trafico": "200+",
+      "fecha": "18/08/2026 03:40",
+      "fecha_dt": "2026-08-18T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7lxnmv5Z2WbmPVs-dTnxKYUR1NMUOZWMaLVf5DotQKv6KDnxocfuhgkkocvI",
+      "link": "https://trends.google.com/trending?geo=MX&q=daniel+vallejo",
+      "status": ""
+    },
+    {
       "titulo": "tlalnepantla",
-      "descripcion": "Tlalnepantla ampliará espacios públicos para la lactancia materna",
+      "descripcion": "Autoridades de Tlalnepantla intervienen hogar de adulto mayor con acumulación extrema de residuos",
       "trafico": "200+",
       "fecha": "18/08/2026 03:20",
       "fecha_dt": "2026-08-18T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoFvf2dkCZx7YIR3kCJ3EgagXodbpyGwv9X67QVeQ3Mez31b7gYLC1QkEgLy0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxm88pRxEx0A3-hoLPYgU5O2X5qHGOGIOMLY0jb-L76eOHSGitcboLuq28GlY",
       "link": "https://trends.google.com/trending?geo=MX&q=tlalnepantla",
       "status": ""
     },
     {
       "titulo": "masterchef 24/7",
-      "descripcion": "¿Qué pasó con los hielos de Carmen en MasterChef 24/7? Así es como le ha afectado a la Cocinera este tema",
+      "descripcion": "ÚLTIMA HORA: Abren votaciones en MasterChef 24/7 para que elijas qué Cocinero va a la parte final del Reto por",
       "trafico": "200+",
       "fecha": "18/08/2026 03:20",
       "fecha_dt": "2026-08-18T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQr1NodhefvuSMlnDxa87ArnjSnFX5qEPNTrMZGeoevKPPo4OQIP8E6dGwOvEM",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV5V2FDPhzZkgwbH7RICQs08VJxNkMGJan9_cYlL_oBMTdRQnTrnOZxVYauUQ",
       "link": "https://trends.google.com/trending?geo=MX&q=masterchef+24/7",
       "status": ""
     },
     {
-      "titulo": "amanda anisimova",
-      "descripcion": "Eala continues hard-court surge; Chwalinska snaps skid in Cincinnati",
-      "trafico": "200+",
-      "fecha": "18/08/2026 03:00",
-      "fecha_dt": "2026-08-18T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3pNPMsE3wI9rNKDgwk4wdZHOg9qSSlgo7fuWt6v5Cg-6LMgmfA1YLky361l4",
-      "link": "https://trends.google.com/trending?geo=MX&q=amanda+anisimova",
+      "titulo": "aitana derbez",
+      "descripcion": "Victoria Ruffo reacciona a críticas a hija menor de su ex Eugenio Derbez: “Están re feos a esa edad”",
+      "trafico": "100+",
+      "fecha": "18/08/2026 05:00",
+      "fecha_dt": "2026-08-18T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBUdCwg1oxdNMuU0D6pojbN9wS42RxwNybL0Ms2FLIpxyi0YKuTdDGWp-Xm5k",
+      "link": "https://trends.google.com/trending?geo=MX&q=aitana+derbez",
+      "status": ""
+    },
+    {
+      "titulo": "irving espinosa betanzo",
+      "descripcion": "Se deslinda ministro Espinosa Betanzo de restitución de seguro médico en la Corte",
+      "trafico": "100+",
+      "fecha": "18/08/2026 04:50",
+      "fecha_dt": "2026-08-18T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9GNlHI6FKDdTNl7-73A1nS0v3WA5KP3XIJTwW1Ajm7n340R0Q6hUW8gIZmo",
+      "link": "https://trends.google.com/trending?geo=MX&q=irving+espinosa+betanzo",
+      "status": ""
+    },
+    {
+      "titulo": "presidente de la fifa",
+      "descripcion": "FIFA destituye a COO que se opuso a privatización del Mundial",
+      "trafico": "100+",
+      "fecha": "18/08/2026 04:40",
+      "fecha_dt": "2026-08-18T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIBlFvCkqH60x88m51qEHE39ZEe9oIPMmTYketiBvWM3b7BhfquI2eUhM7z_U",
+      "link": "https://trends.google.com/trending?geo=MX&q=presidente+de+la+fifa",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-18T03:30:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsivgxgX1Z3HZBEX32ji3_mWwKVyRFnnM_MYJMrHzdSs-OH8eXDXJ-07Ifa3M",
       "link": "https://trends.google.com/trending?geo=MX&q=leon+vs+monterrey",
-      "status": ""
-    },
-    {
-      "titulo": "arthur fils",
-      "descripcion": "Cincinnati Open : le programme complet du 17 août avec Fils et le choc Boisson – Parry…",
-      "trafico": "100+",
-      "fecha": "18/08/2026 03:10",
-      "fecha_dt": "2026-08-18T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0_2G0d884jLFLZkAWbuU-31-PYCA0Fin4O70fBBHBEVAkUtWwnqzEn-EOiQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=arthur+fils",
       "status": ""
     }
   ]
