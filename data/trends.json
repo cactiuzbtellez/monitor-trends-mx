@@ -1,26 +1,66 @@
 {
-  "actualizado": "18/08/2026 11:28 UTC",
+  "actualizado": "18/08/2026 12:52 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "conagua",
-      "descripcion": "Ambiente caluroso y bochornoso con lluvias en todo el estado de Veracruz",
+      "titulo": "predicción",
+      "descripcion": "Clima en Cuzco: la predicción para este 18 de agosto",
       "trafico": "500+",
-      "fecha": "18/08/2026 08:40",
-      "fecha_dt": "2026-08-18T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwHpubcnKuvQu-AJ1J5ll9c6MdhjV8na0sH0mmFqRaE3p4_KLP1ge8lrFomVU",
-      "link": "https://trends.google.com/trending?geo=MX&q=conagua",
+      "fecha": "18/08/2026 11:00",
+      "fecha_dt": "2026-08-18T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRZSrLFOdZbDfJL3byN5A5TRQ9inJVFMQtuc0iH1rsZr5aBi2ZDm-Xm7z2XBQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=predicción",
+      "status": ""
+    },
+    {
+      "titulo": "nahuel guzmán",
+      "descripcion": "¡Cayó la ley! Revelan severo castigo para Nahuel Guzmán por su expulsión en Leagues Cup",
+      "trafico": "500+",
+      "fecha": "18/08/2026 10:30",
+      "fecha_dt": "2026-08-18T10:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRONWDQvt0l-M4yqT3gCSOio_PhnhzuAMfnJz8s0g8qWxWKFE8Z6L6SxMJ4kE",
+      "link": "https://trends.google.com/trending?geo=MX&q=nahuel+guzmán",
       "status": ""
     },
     {
       "titulo": "epic games",
-      "descripcion": "Epic Games Store Is Coming To Linux With Native Steam Deck Support",
+      "descripcion": "Epic responds to Apple’s bid for settlement talks in App Store case",
       "trafico": "500+",
       "fecha": "18/08/2026 07:00",
       "fecha_dt": "2026-08-18T07:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK7fHykzi6L3EYPO5234HWIRzbk3ATssZvY6v_ps7G_AIzsTs3DRjOAefudgI",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTG4_OSISz8SBq0iDXtCxD00_ePdlvMIJg72LAOSbgRqZAKXmNqk8WgqpBlsco",
       "link": "https://trends.google.com/trending?geo=MX&q=epic+games",
+      "status": ""
+    },
+    {
+      "titulo": "diputado",
+      "descripcion": "Zacatecas: expulsa el PVEM a sus tres diputados locales que respaldaron a Morena en aprobación de dictamen",
+      "trafico": "200+",
+      "fecha": "18/08/2026 12:10",
+      "fecha_dt": "2026-08-18T12:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1-45I1zSwh4QDwMS6fUibSZn4coRgb4QfyUGp89o--vynjdbpvvg80dHbPs",
+      "link": "https://trends.google.com/trending?geo=MX&q=diputado",
+      "status": ""
+    },
+    {
+      "titulo": "sismos recientes",
+      "descripcion": "CICESE explica si los sismos recientes pueden provocar un terremoto en Baja California y advierte sobre la actividad sísmica de la región",
+      "trafico": "200+",
+      "fecha": "18/08/2026 11:20",
+      "fecha_dt": "2026-08-18T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogVwIqmPriBO_0HueGzrAIYlcKnBW3joFufRBOxvT7QzcXrCD3BZBxNuXEB0",
+      "link": "https://trends.google.com/trending?geo=MX&q=sismos+recientes",
+      "status": ""
+    },
+    {
+      "titulo": "dólar estadounidense",
+      "descripcion": "En julio inflación de Canadá se disparó a 3.0% anual",
+      "trafico": "200+",
+      "fecha": "18/08/2026 10:40",
+      "fecha_dt": "2026-08-18T10:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXNNV4skDkSkC0rKwMXlYCiYTVLBsjF9EsKRafgIk6YogNveTcXcbA8bE0Waw",
+      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
       "status": ""
     },
     {
@@ -31,46 +71,6 @@
       "fecha_dt": "2026-08-18T08:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqB0tL-qgt1fNXcPTEEdJiPjHqqWAhZy68RJOLDVNSjzHECVe3Fn8oQwnii8I",
       "link": "https://trends.google.com/trending?geo=MX&q=gta+vi+netflix",
-      "status": ""
-    },
-    {
-      "titulo": "sismos recientes",
-      "descripcion": "CICESE explica si los sismos recientes pueden provocar un terremoto en Baja California y advierte sobre la actividad sísmica de la región",
-      "trafico": "100+",
-      "fecha": "18/08/2026 11:20",
-      "fecha_dt": "2026-08-18T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogVwIqmPriBO_0HueGzrAIYlcKnBW3joFufRBOxvT7QzcXrCD3BZBxNuXEB0",
-      "link": "https://trends.google.com/trending?geo=MX&q=sismos+recientes",
-      "status": ""
-    },
-    {
-      "titulo": "predicción",
-      "descripcion": "Clima en Cuzco: la predicción para este 18 de agosto",
-      "trafico": "100+",
-      "fecha": "18/08/2026 11:00",
-      "fecha_dt": "2026-08-18T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_jSJc31AIUa3fsDibZFesPnKuhSI4-HMCcF3i6LUq7OZGjYXvyRtAuMP5mt0",
-      "link": "https://trends.google.com/trending?geo=MX&q=predicción",
-      "status": ""
-    },
-    {
-      "titulo": "dólar estadounidense",
-      "descripcion": "Oro se acerca a $4,400 mientras dólar débil compensa riesgos inflacionarios de Medio Oriente",
-      "trafico": "100+",
-      "fecha": "18/08/2026 10:40",
-      "fecha_dt": "2026-08-18T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEkAmDkgLmHjzRJm82eAscig1LutX5fZ5bLVi4y53nuzIQANuc5klZTuT6ZbE",
-      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
-      "status": ""
-    },
-    {
-      "titulo": "nahuel guzmán",
-      "descripcion": "¡Cayó la ley! Revelan severo castigo para Nahuel Guzmán por su expulsión en Leagues Cup",
-      "trafico": "100+",
-      "fecha": "18/08/2026 10:30",
-      "fecha_dt": "2026-08-18T10:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRONWDQvt0l-M4yqT3gCSOio_PhnhzuAMfnJz8s0g8qWxWKFE8Z6L6SxMJ4kE",
-      "link": "https://trends.google.com/trending?geo=MX&q=nahuel+guzmán",
       "status": ""
     },
     {
@@ -94,13 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "gaceta unam",
-      "descripcion": "",
+      "titulo": "conagua",
+      "descripcion": "Ciclón \"Iselle\" a la vista; SMN advierte de su formación en días",
       "trafico": "100+",
-      "fecha": "18/08/2026 07:00",
-      "fecha_dt": "2026-08-18T07:00:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=gaceta+unam",
+      "fecha": "18/08/2026 08:40",
+      "fecha_dt": "2026-08-18T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh1eOoJEi8CuhucE7efDtNUW39Jj_oCDQrhbMCmBnTwbLRph8Pm1jFs_IulpI",
+      "link": "https://trends.google.com/trending?geo=MX&q=conagua",
       "status": ""
     }
   ]
