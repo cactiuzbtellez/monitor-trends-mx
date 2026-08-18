@@ -1,32 +1,12 @@
 {
-  "actualizado": "18/08/2026 15:34 UTC",
+  "actualizado": "18/08/2026 16:35 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "suspensión de líneas",
-      "descripcion": "Las líneas con terminación 0 suspendidas se reactivarán al completar su vinculación",
-      "trafico": "1000+",
-      "fecha": "18/08/2026 14:10",
-      "fecha_dt": "2026-08-18T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpWKQlBuCH-GKRDQMW-G_1YjiyRD1ViLwRtK8Tb3yweXbSSaSe1PS3KxMtwXI",
-      "link": "https://trends.google.com/trending?geo=MX&q=suspensión+de+líneas",
-      "status": ""
-    },
-    {
-      "titulo": "dolar",
-      "descripcion": "Peso arranca en 17.01 por dólar; divisa estadunidense retrocede ante espera de la Fed",
-      "trafico": "500+",
-      "fecha": "18/08/2026 15:20",
-      "fecha_dt": "2026-08-18T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYaaHMG2LIQJHm_Bq-8IfPRuC6sQKs8D6XUslqmiXpNmO_XdIlm4dHvy3jeKY",
-      "link": "https://trends.google.com/trending?geo=MX&q=dolar",
-      "status": ""
-    },
-    {
       "titulo": "ebola",
       "descripcion": "As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "18/08/2026 14:50",
       "fecha_dt": "2026-08-18T14:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdmzPIzrOAhx00OnvEcKqZMdxaW1HtABEdpu4gKw3i4XEZjA-h3QvxeWud9eE",
@@ -34,23 +14,63 @@
       "status": ""
     },
     {
-      "titulo": "mathilde favier",
-      "descripcion": "Un des producteurs d'OSS 117 et une figure de Dior meurent dans un accident à Airvault près de Thouars",
+      "titulo": "bayern",
+      "descripcion": "Heidenheim vs. FC Bayern jetzt live im Ticker - Kompany lässt viele Youngster ran",
       "trafico": "200+",
-      "fecha": "18/08/2026 14:00",
-      "fecha_dt": "2026-08-18T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEFK_LLKtvgGBeBe84f8w8ZsDHr_CdI5qVMrqNIVXjveM0pLTqyxUtwfua-gs",
-      "link": "https://trends.google.com/trending?geo=MX&q=mathilde+favier",
+      "fecha": "18/08/2026 16:10",
+      "fecha_dt": "2026-08-18T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEl6Dgfn2UwxUGfaABVEiMSfVcFGuogjCIJKso1q8j18-I-WFepBienb07Yec",
+      "link": "https://trends.google.com/trending?geo=MX&q=bayern",
       "status": ""
     },
     {
-      "titulo": "hacker",
-      "descripcion": "Alleged hackers get $5k from valley business",
+      "titulo": "tecate comuna 2026",
+      "descripcion": "El latido musical más grande de Puebla revela edición épica, Tecate Comuna 2026",
       "trafico": "200+",
-      "fecha": "18/08/2026 14:00",
-      "fecha_dt": "2026-08-18T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXOy0oRQUrQo4eSxkbQBoRQqD98rus4EJI_eSpNokWt0G2X2ID1pEBWxowhhI",
-      "link": "https://trends.google.com/trending?geo=MX&q=hacker",
+      "fecha": "18/08/2026 16:10",
+      "fecha_dt": "2026-08-18T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPkebTBRnqHp-QNtMy_C8yxfm-lmBFHCHgpqqPXvxrvHPNgzYMpg5O24gMy28",
+      "link": "https://trends.google.com/trending?geo=MX&q=tecate+comuna+2026",
+      "status": ""
+    },
+    {
+      "titulo": "bayern munich",
+      "descripcion": "Al Hilal eye future deal for England star Kane as striker considers future",
+      "trafico": "200+",
+      "fecha": "18/08/2026 16:00",
+      "fecha_dt": "2026-08-18T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpzqJLVjDZwgdjeWLm2uMkExnV1lqHiNQg9RllyscXbKIfxgCD6by0neKkcDU",
+      "link": "https://trends.google.com/trending?geo=MX&q=bayern+munich",
+      "status": ""
+    },
+    {
+      "titulo": "kenia lópez rabadán",
+      "descripcion": "Despiden a Kenia “casi” con la mejor evaluación",
+      "trafico": "200+",
+      "fecha": "18/08/2026 15:50",
+      "fecha_dt": "2026-08-18T15:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEDe8K8eYcJnKd5THNcceR_AgxcNf0uvacraDcIPf20ZbVcztrxmaTptF7wM",
+      "link": "https://trends.google.com/trending?geo=MX&q=kenia+lópez+rabadán",
+      "status": ""
+    },
+    {
+      "titulo": "calendario escolar 2026 a 2027 sep",
+      "descripcion": "Regreso a clases 2026: SEP confirma fecha de inicio para educación básica",
+      "trafico": "200+",
+      "fecha": "18/08/2026 14:30",
+      "fecha_dt": "2026-08-18T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt3KymViQFpE26mT6HS794VZQiySrfF28JtlJ5hzJzZRwUr_Ch_jV04o-uhLE",
+      "link": "https://trends.google.com/trending?geo=MX&q=calendario+escolar+2026+a+2027+sep",
+      "status": ""
+    },
+    {
+      "titulo": "cantante",
+      "descripcion": "Muere cantante Germán Medina en accidente carretero: publicó video antes de fallecer",
+      "trafico": "100+",
+      "fecha": "18/08/2026 16:00",
+      "fecha_dt": "2026-08-18T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS67h3caRme_nXsfnKrPbcENcWh6RWclltUVFCTT3-1gPoukH3cLXUDF41f_to",
+      "link": "https://trends.google.com/trending?geo=MX&q=cantante",
       "status": ""
     },
     {
@@ -74,33 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "calendario escolar 2026 a 2027 sep",
-      "descripcion": "Regreso a clases 2026: SEP confirma fecha de inicio para educación básica",
+      "titulo": "champions league",
+      "descripcion": "Iranian clubs drawn with Qatar and UAE rivals at neutral sites in Asian Champions League",
       "trafico": "100+",
       "fecha": "18/08/2026 14:30",
       "fecha_dt": "2026-08-18T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt3KymViQFpE26mT6HS794VZQiySrfF28JtlJ5hzJzZRwUr_Ch_jV04o-uhLE",
-      "link": "https://trends.google.com/trending?geo=MX&q=calendario+escolar+2026+a+2027+sep",
-      "status": ""
-    },
-    {
-      "titulo": "kbo",
-      "descripcion": "Jeon Sang-hyun nears fifth straight 10-hold season, could become ninth in Korea - CHOSUNBIZ",
-      "trafico": "100+",
-      "fecha": "18/08/2026 13:10",
-      "fecha_dt": "2026-08-18T13:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRce18ie3wLKoavVp3n7iyRoxme94KpltS_GcLPBjDRCcp194DSYC9T-i3uFRE",
-      "link": "https://trends.google.com/trending?geo=MX&q=kbo",
-      "status": ""
-    },
-    {
-      "titulo": "clima chihuahua",
-      "descripcion": "De lluvia a calor; prevén hasta 36°C para esta semana",
-      "trafico": "100+",
-      "fecha": "18/08/2026 13:10",
-      "fecha_dt": "2026-08-18T13:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSG7sKgaiMHVGsj93nFFzUxiMoRdTvauXcCLwns1QDQ8tax9Cmn330BeLFqFg",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+chihuahua",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTitSAuOA5LaWItcsQHBWj1iyd8TZEuGvp9hfjIq-olDmp96co4ErJWIkYPr_E",
+      "link": "https://trends.google.com/trending?geo=MX&q=champions+league",
       "status": ""
     }
   ]
