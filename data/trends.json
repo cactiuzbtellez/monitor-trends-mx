@@ -1,15 +1,25 @@
 {
-  "actualizado": "18/08/2026 09:37 UTC",
+  "actualizado": "18/08/2026 10:31 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "boletos simifest 2026",
+      "descripcion": "SimiFest 2026 con Snoop Dogg, María Barracuda y más: boletos, fecha y horarios",
+      "trafico": "2000+",
+      "fecha": "18/08/2026 06:40",
+      "fecha_dt": "2026-08-18T06:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-KD6_hdBnPJxgoUJbNOh1yWI7ehzxPqkrkF5albsfFuMdMNyFGcjd1Zfe9bs",
+      "link": "https://trends.google.com/trending?geo=MX&q=boletos+simifest+2026",
+      "status": ""
+    },
+    {
       "titulo": "kick",
-      "descripcion": "How to watch Celtic v LASK Linz: TV channel, live stream, team news, referee and VAR for Champions League bout",
+      "descripcion": "Consistent Champaign Central takes Urbana Tiger Kick-Off Classic boys golf title",
       "trafico": "1000+",
       "fecha": "18/08/2026 06:30",
       "fecha_dt": "2026-08-18T06:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKKoqVRR71zNYkc_5waiPJeSLc07u4dvTQqlh634jJMHcMHcHdn51nfa8upNU",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfG_44icaWkqWaX8vp1KcLCxIv3zFK3xHT8Viv2Ejz7TF8d3a8HnEFR0nol3U",
       "link": "https://trends.google.com/trending?geo=MX&q=kick",
       "status": ""
     },
@@ -54,13 +64,13 @@
       "status": ""
     },
     {
-      "titulo": "andrés manuel lópez obrador",
-      "descripcion": "No hay ningún dato con fuerza legal contra 'Andy', dice FGR",
-      "trafico": "500+",
-      "fecha": "18/08/2026 06:00",
-      "fecha_dt": "2026-08-18T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWU1NxyQErzBUMM9ZlspW9BhzZ_AY0oAwYH8PYqluI6A54yxhjSTcKkU4l_lw",
-      "link": "https://trends.google.com/trending?geo=MX&q=andrés+manuel+lópez+obrador",
+      "titulo": "gta vi netflix",
+      "descripcion": "GTA 6 is now paywalling its own advertisements",
+      "trafico": "200+",
+      "fecha": "18/08/2026 08:40",
+      "fecha_dt": "2026-08-18T08:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqB0tL-qgt1fNXcPTEEdJiPjHqqWAhZy68RJOLDVNSjzHECVe3Fn8oQwnii8I",
+      "link": "https://trends.google.com/trending?geo=MX&q=gta+vi+netflix",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-18T09:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6ndc2Z4f15b0w81q6s0YJ9APYSvkLQ_WcWi3n5zi6nW6Fqg6zancuwBJSGrs",
       "link": "https://trends.google.com/trending?geo=MX&q=sismológico+nacional+sismo+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "gta vi netflix",
-      "descripcion": "GTA 6 is now paywalling its own advertisements",
-      "trafico": "100+",
-      "fecha": "18/08/2026 08:40",
-      "fecha_dt": "2026-08-18T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqB0tL-qgt1fNXcPTEEdJiPjHqqWAhZy68RJOLDVNSjzHECVe3Fn8oQwnii8I",
-      "link": "https://trends.google.com/trending?geo=MX&q=gta+vi+netflix",
       "status": ""
     }
   ]
