@@ -1,22 +1,22 @@
 {
-  "actualizado": "18/08/2026 13:45 UTC",
+  "actualizado": "18/08/2026 14:36 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "nahuel guzmán",
-      "descripcion": "¿Le salió barato? Revelan partidos de suspensión a Nahuel Guzmán en Leagues Cup",
-      "trafico": "1000+",
-      "fecha": "18/08/2026 10:30",
-      "fecha_dt": "2026-08-18T10:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVmagXR66abv1XL8NSBvENSH9wq-5NFvvtOapKkrtZPZJtgzD4qVYBFo1C1PE",
-      "link": "https://trends.google.com/trending?geo=MX&q=nahuel+guzmán",
+      "titulo": "suspensión de líneas",
+      "descripcion": "Las líneas con terminación 0 suspendidas se reactivarán al completar su vinculación",
+      "trafico": "2000+",
+      "fecha": "18/08/2026 14:10",
+      "fecha_dt": "2026-08-18T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpWKQlBuCH-GKRDQMW-G_1YjiyRD1ViLwRtK8Tb3yweXbSSaSe1PS3KxMtwXI",
+      "link": "https://trends.google.com/trending?geo=MX&q=suspensión+de+líneas",
       "status": ""
     },
     {
       "titulo": "diputado",
       "descripcion": "¿Ya se lo imaginaron de diputado federal?",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "18/08/2026 12:10",
       "fecha_dt": "2026-08-18T12:10:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfM2y0KrcoHOqCseuReiPLccp_ITvSWOGselhRxtkfkXXjv-66QvebRfFF5g",
@@ -26,7 +26,7 @@
     {
       "titulo": "sismos recientes",
       "descripcion": "CICESE explica si los sismos recientes pueden provocar un terremoto en Baja California y advierte sobre la actividad sísmica de la región",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "18/08/2026 11:20",
       "fecha_dt": "2026-08-18T11:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRogVwIqmPriBO_0HueGzrAIYlcKnBW3joFufRBOxvT7QzcXrCD3BZBxNuXEB0",
@@ -36,7 +36,7 @@
     {
       "titulo": "predicción",
       "descripcion": "Horóscopos Aries 17 de Agosto 2026",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "18/08/2026 11:00",
       "fecha_dt": "2026-08-18T11:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQS_B0SAlBeM5N6IRXfINAK0Y2Dp_gvA1_aoNXO6SmSV5PzMvsWtmc5jC00yVg",
@@ -44,13 +44,43 @@
       "status": ""
     },
     {
-      "titulo": "dólar estadounidense",
-      "descripcion": "Las bolsas de valores de Brasil cerraron con caídas; el Bovespa perdió un 0.09%",
+      "titulo": "mathilde favier",
+      "descripcion": "Un des producteurs d'OSS 117 et une figure de Dior meurent dans un accident à Airvault près de Thouars",
       "trafico": "200+",
-      "fecha": "18/08/2026 10:40",
-      "fecha_dt": "2026-08-18T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSxqQk2RZ3PgizBk1M2bcof5dr7EqC66cNwg5ZQ1J76dVr0HIByVluI_c9iVs",
-      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
+      "fecha": "18/08/2026 14:00",
+      "fecha_dt": "2026-08-18T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEFK_LLKtvgGBeBe84f8w8ZsDHr_CdI5qVMrqNIVXjveM0pLTqyxUtwfua-gs",
+      "link": "https://trends.google.com/trending?geo=MX&q=mathilde+favier",
+      "status": ""
+    },
+    {
+      "titulo": "brote de ebola",
+      "descripcion": "La OMS dice que el brote de ébola en República Democrática del Congo puede controlarse en tres meses",
+      "trafico": "200+",
+      "fecha": "18/08/2026 12:50",
+      "fecha_dt": "2026-08-18T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWIIi09nusm3veoNuK88jYdzhB35mhr8phhGaucGf-roKHhM_BIKstjk1bSs",
+      "link": "https://trends.google.com/trending?geo=MX&q=brote+de+ebola",
+      "status": ""
+    },
+    {
+      "titulo": "salomón jara cruz",
+      "descripcion": "Gobierno de Jara rompe tregua con prensa de Oaxaca; arremete contra periodista en la mañanera",
+      "trafico": "200+",
+      "fecha": "18/08/2026 12:20",
+      "fecha_dt": "2026-08-18T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA8Uz-Dotr3pzxW2CbH5qt9U3nIAEA9bIvoX5ckYm8JATzNeDA41DL8KNJ2ug",
+      "link": "https://trends.google.com/trending?geo=MX&q=salomón+jara+cruz",
+      "status": ""
+    },
+    {
+      "titulo": "hacker",
+      "descripcion": "Alleged hackers get $5k from valley business",
+      "trafico": "100+",
+      "fecha": "18/08/2026 14:00",
+      "fecha_dt": "2026-08-18T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXOy0oRQUrQo4eSxkbQBoRQqD98rus4EJI_eSpNokWt0G2X2ID1pEBWxowhhI",
+      "link": "https://trends.google.com/trending?geo=MX&q=hacker",
       "status": ""
     },
     {
@@ -71,36 +101,6 @@
       "fecha_dt": "2026-08-18T13:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQovcZhxR_gdyDWriSaCHPW_D2GrUcVyKQdCbDhbKByBI2Ff56ypSrLPKC-PCk",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+chihuahua",
-      "status": ""
-    },
-    {
-      "titulo": "brote de ebola",
-      "descripcion": "La OMS dice que el brote de ébola en República Democrática del Congo puede controlarse en tres meses",
-      "trafico": "100+",
-      "fecha": "18/08/2026 12:50",
-      "fecha_dt": "2026-08-18T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWIIi09nusm3veoNuK88jYdzhB35mhr8phhGaucGf-roKHhM_BIKstjk1bSs",
-      "link": "https://trends.google.com/trending?geo=MX&q=brote+de+ebola",
-      "status": ""
-    },
-    {
-      "titulo": "stake",
-      "descripcion": "Sources: Jeanie out as Buss family sells last stake in Lakers",
-      "trafico": "100+",
-      "fecha": "18/08/2026 09:20",
-      "fecha_dt": "2026-08-18T09:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPpe8HWHgspaygN275jX6P9ukpDpOxqASV4p-_B66cFlr6Lddcre1tqMEL7Nk",
-      "link": "https://trends.google.com/trending?geo=MX&q=stake",
-      "status": ""
-    },
-    {
-      "titulo": "sismológico nacional sismo hoy",
-      "descripcion": "Temblor en México Hoy 17 de Agosto 2026: Magnitud y Ubicación de Sismos este Lunes",
-      "trafico": "100+",
-      "fecha": "18/08/2026 09:00",
-      "fecha_dt": "2026-08-18T09:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6ndc2Z4f15b0w81q6s0YJ9APYSvkLQ_WcWi3n5zi6nW6Fqg6zancuwBJSGrs",
-      "link": "https://trends.google.com/trending?geo=MX&q=sismológico+nacional+sismo+hoy",
       "status": ""
     }
   ]
