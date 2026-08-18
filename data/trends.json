@@ -1,56 +1,86 @@
 {
-  "actualizado": "18/08/2026 02:58 UTC",
+  "actualizado": "18/08/2026 03:51 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "pachuca - puebla",
-      "descripcion": "Pachuca vs. Puebla: Horario y dónde ver el partido de Jornada 4 de Liga MX Apertura 2026",
-      "trafico": "5000+",
-      "fecha": "18/08/2026 02:20",
-      "fecha_dt": "2026-08-18T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvGtRJ6M5LBH8Be-52AjZWQaYvuEqVIc7dDW-GFqJN8LzE52AgnCGrScPTPZc",
-      "link": "https://trends.google.com/trending?geo=MX&q=pachuca+-+puebla",
+      "titulo": "ediciones era",
+      "descripcion": "Era, la gran editorial independiente de México, anuncia el fin de sus actividades",
+      "trafico": "500+",
+      "fecha": "18/08/2026 02:40",
+      "fecha_dt": "2026-08-18T02:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOI5dCyhUWPm63Yf2gPz7No6Kowd031YB2sMaLpKr46uS6XI8e6T0-xYzWGdQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=ediciones+era",
       "status": ""
     },
     {
-      "titulo": "toluca - atlas",
-      "descripcion": "Le Sommer rescata el empate para Toluca ante Atlas en la Jornada 3 del Apertura 2026",
-      "trafico": "2000+",
-      "fecha": "18/08/2026 02:30",
-      "fecha_dt": "2026-08-18T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBcqT_baUJ8SbfAPxQg0I2itCkL-IS-AARqr5YfLJWfLqtuL676kn3Rcra4FQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=toluca+-+atlas",
-      "status": ""
-    },
-    {
-      "titulo": "valkyries - wings",
-      "descripcion": "How to watch Wings vs. Valkyries: TV channel and streaming options for August 17",
+      "titulo": "tommy paul",
+      "descripcion": "Tommy Paul vs. Adolfo Daniel Vallejo prediction, odds, picks for ATP Cincinnati Open 2026",
       "trafico": "200+",
-      "fecha": "18/08/2026 02:20",
-      "fecha_dt": "2026-08-18T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWirn486a36QfCuR_410Q2XRs9oaE29P3YHA_n7rHCUHXQHMtWESEITJgRZI",
-      "link": "https://trends.google.com/trending?geo=MX&q=valkyries+-+wings",
+      "fecha": "18/08/2026 03:40",
+      "fecha_dt": "2026-08-18T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7lxnmv5Z2WbmPVs-dTnxKYUR1NMUOZWMaLVf5DotQKv6KDnxocfuhgkkocvI",
+      "link": "https://trends.google.com/trending?geo=MX&q=tommy+paul",
       "status": ""
     },
     {
-      "titulo": "clima obregon",
-      "descripcion": "Calor no aflojará esta semana en Hermosillo",
+      "titulo": "daniel vallejo",
+      "descripcion": "Adolfo Daniel Vallejo’s profile: Who is the Paraguayan tennis player? Age, height, ranking and more",
       "trafico": "200+",
-      "fecha": "18/08/2026 02:10",
-      "fecha_dt": "2026-08-18T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAtNUPCgHEcgOYSgCy1oyu1leVWl7_tiFR5icvJqJsuOwqxnbt_iJRCaOVLPU",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+obregon",
+      "fecha": "18/08/2026 03:40",
+      "fecha_dt": "2026-08-18T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQidWLwVdLmq_fww0yxxrvcflcL5pxzECQus7T3S4X8ziTc1bnsUBOjHvPGlAQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=daniel+vallejo",
       "status": ""
     },
     {
-      "titulo": "gimnasia y esgrima - talleres",
-      "descripcion": "Agustín Módica: otro doblete y goleador del Torneo Clausura 2026",
+      "titulo": "masterchef 24/7",
+      "descripcion": "MasterChef 24/7 | Antrax sufre accidente en plena competencia y es atendido de emergencia",
       "trafico": "200+",
-      "fecha": "18/08/2026 01:20",
-      "fecha_dt": "2026-08-18T01:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWtcyl39ugAVBtP93RwoC9xcZJIQO36chhqcmAxzq88tS0nlOzmjcEIqf98Mc",
-      "link": "https://trends.google.com/trending?geo=MX&q=gimnasia+y+esgrima+-+talleres",
+      "fecha": "18/08/2026 03:20",
+      "fecha_dt": "2026-08-18T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzv5yi7CLPqjz_4tViOYeia4y66wCqdQdz7lv7Xsd2qNpcw5ng7yrlUQHAnk",
+      "link": "https://trends.google.com/trending?geo=MX&q=masterchef+24/7",
+      "status": ""
+    },
+    {
+      "titulo": "amanda anisimova",
+      "descripcion": "Eala continues hard-court surge; Chwalinska snaps skid in Cincinnati",
+      "trafico": "200+",
+      "fecha": "18/08/2026 03:00",
+      "fecha_dt": "2026-08-18T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3pNPMsE3wI9rNKDgwk4wdZHOg9qSSlgo7fuWt6v5Cg-6LMgmfA1YLky361l4",
+      "link": "https://trends.google.com/trending?geo=MX&q=amanda+anisimova",
+      "status": ""
+    },
+    {
+      "titulo": "leon vs monterrey",
+      "descripcion": "OFICIAL: Adelantan dos partidos de la jornada 5 del Apertura 2026 de la Liga BBVA MX",
+      "trafico": "100+",
+      "fecha": "18/08/2026 03:30",
+      "fecha_dt": "2026-08-18T03:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsivgxgX1Z3HZBEX32ji3_mWwKVyRFnnM_MYJMrHzdSs-OH8eXDXJ-07Ifa3M",
+      "link": "https://trends.google.com/trending?geo=MX&q=leon+vs+monterrey",
+      "status": ""
+    },
+    {
+      "titulo": "tlalnepantla",
+      "descripcion": "Autoridades de Tlalnepantla intervienen hogar de adulto mayor con acumulación extrema de residuos",
+      "trafico": "100+",
+      "fecha": "18/08/2026 03:20",
+      "fecha_dt": "2026-08-18T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxm88pRxEx0A3-hoLPYgU5O2X5qHGOGIOMLY0jb-L76eOHSGitcboLuq28GlY",
+      "link": "https://trends.google.com/trending?geo=MX&q=tlalnepantla",
+      "status": ""
+    },
+    {
+      "titulo": "arthur fils",
+      "descripcion": "Cincinnati Open : le programme complet du 17 août avec Fils et le choc Boisson – Parry…",
+      "trafico": "100+",
+      "fecha": "18/08/2026 03:10",
+      "fecha_dt": "2026-08-18T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0_2G0d884jLFLZkAWbuU-31-PYCA0Fin4O70fBBHBEVAkUtWwnqzEn-EOiQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=arthur+fils",
       "status": ""
     },
     {
@@ -64,43 +94,13 @@
       "status": ""
     },
     {
-      "titulo": "alexandra eala",
-      "descripcion": "Eala continues hard-court surge; Chwalinska snaps skid in Cincinnati",
-      "trafico": "100+",
-      "fecha": "18/08/2026 02:50",
-      "fecha_dt": "2026-08-18T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3pNPMsE3wI9rNKDgwk4wdZHOg9qSSlgo7fuWt6v5Cg-6LMgmfA1YLky361l4",
-      "link": "https://trends.google.com/trending?geo=MX&q=alexandra+eala",
-      "status": ""
-    },
-    {
-      "titulo": "ediciones era",
-      "descripcion": "Era, la gran editorial independiente de México, anuncia el fin de sus actividades",
-      "trafico": "100+",
-      "fecha": "18/08/2026 02:40",
-      "fecha_dt": "2026-08-18T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQOI5dCyhUWPm63Yf2gPz7No6Kowd031YB2sMaLpKr46uS6XI8e6T0-xYzWGdQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=ediciones+era",
-      "status": ""
-    },
-    {
       "titulo": "esquema",
-      "descripcion": "Bolivia elimina subsidio al diésel para grandes consumidores ante escasez",
+      "descripcion": "Suspenden ‘temporalmente’ fútbol en canchas de Monclova tras nuevas peleas entre jugadores",
       "trafico": "100+",
       "fecha": "18/08/2026 02:40",
       "fecha_dt": "2026-08-18T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTUfu5L8uPAaP8Bx3wqEIobqdpw7YRly7M9SyuVD8yzlw96Jv9OZufHVOyVbg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRXbLXLoV9MKqpoEhPb2QBp2J9DNTY_XzwwP-EzjiAolSTCHsFCqX4t11MQjQ",
       "link": "https://trends.google.com/trending?geo=MX&q=esquema",
-      "status": ""
-    },
-    {
-      "titulo": "lewis hamilton",
-      "descripcion": "Kim Kardashian and Lewis Hamilton’s Romance Is “the Real Deal” 6 Months In",
-      "trafico": "100+",
-      "fecha": "18/08/2026 02:10",
-      "fecha_dt": "2026-08-18T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQQZVodlJWbtYZ0SEnWDq_1q9qj0XgWBkauAngYWsT1Ldi3n1C7-9D27SLZo",
-      "link": "https://trends.google.com/trending?geo=MX&q=lewis+hamilton",
       "status": ""
     }
   ]
