@@ -1,8 +1,18 @@
 {
-  "actualizado": "19/08/2026 13:47 UTC",
+  "actualizado": "19/08/2026 14:37 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "miguel borja",
+      "descripcion": "¿El ‘9’ que faltaba en Coapa? América negocia para el fichaje de Miguel Borja",
+      "trafico": "500+",
+      "fecha": "19/08/2026 14:00",
+      "fecha_dt": "2026-08-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdj3ZSLdJuoE9RXMJZxaLdYQak0racW5Fqpgj33vUeDKtBcESgp4bsiZvqEVU",
+      "link": "https://trends.google.com/trending?geo=MX&q=miguel+borja",
+      "status": ""
+    },
     {
       "titulo": "inegi",
       "descripcion": "Es hora de debatir las cifras de homicidios",
@@ -14,43 +24,53 @@
       "status": ""
     },
     {
-      "titulo": "mafia rumana",
-      "descripcion": "Ariadna Montiel reconoce que presunto operador de la mafia rumana es militante de Morena",
-      "trafico": "200+",
-      "fecha": "19/08/2026 12:50",
-      "fecha_dt": "2026-08-19T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9M6mqeGLeVXpl5gcasGO9pnX0HDetD7withI9Yy-1rihO3-AjABQZwNQtU",
-      "link": "https://trends.google.com/trending?geo=MX&q=mafia+rumana",
+      "titulo": "precio dolar",
+      "descripcion": "Cotiza dólar en $16.95, mínimo desde junio de 2024",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:20",
+      "fecha_dt": "2026-08-19T14:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAQ6JY68tpyYlArV7TvJkBdor5AK02CTj6T4dpXxIXcymb2yOc0MEg-a-l7r8",
+      "link": "https://trends.google.com/trending?geo=MX&q=precio+dolar",
       "status": ""
     },
     {
-      "titulo": "apagón eléctrico",
-      "descripcion": "¡Considéralo! Por mantenimiento, estas zonas de Lerdo tendrán corte de energía eléctrica",
-      "trafico": "200+",
-      "fecha": "19/08/2026 12:30",
-      "fecha_dt": "2026-08-19T12:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9w01AiWigIT_4cKRcTVXEYiIHpIxSCvjdq0ndBNGpMNC65UfYZN3jKri4gQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=apagón+eléctrico",
+      "titulo": "mail",
+      "descripcion": "Trump votes by mail again in his home state of Florida",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:20",
+      "fecha_dt": "2026-08-19T14:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSscZjzU4yhFpmEV337SD4galmxxcA7icfMJEo-ZEOTyNoA3IjuFhdiD1aC96Q",
+      "link": "https://trends.google.com/trending?geo=MX&q=mail",
       "status": ""
     },
     {
-      "titulo": "plaza de la cooperación",
-      "descripcion": "Encontraron túneles y sótanos subterráneos debajo de una plaza de Rosario que eran parte de un mercado del siglo XIX",
-      "trafico": "200+",
-      "fecha": "19/08/2026 12:00",
-      "fecha_dt": "2026-08-19T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLWu5tQdRGQ7Pz6SjGKEejmdQyDlAtoqMnW-U8HjSpFmk-lLXgRpMChwMDwgM",
-      "link": "https://trends.google.com/trending?geo=MX&q=plaza+de+la+cooperación",
+      "titulo": "extorsión",
+      "descripcion": "Reduce 21.2% casos de extorsión en Quintana Roo, pero 96% de los casos no se denuncian: Coparmex",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:10",
+      "fecha_dt": "2026-08-19T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvTLpoV2M0GURbQyAcRDZxwDX6AZ_d5AKkLKc9QkKmF5Pk8P_khWNilacHEY",
+      "link": "https://trends.google.com/trending?geo=MX&q=extorsión",
       "status": ""
     },
     {
-      "titulo": "ébola oms",
-      "descripcion": "Alocución de apertura del Director General de la OMS en la segunda reunión del Comité de Emergencias del RSI en relación con la epidemia de enfermedad causada por el virus de Bundibugyo en la República Democrática del Congo – 18 de agosto d",
-      "trafico": "200+",
-      "fecha": "19/08/2026 12:00",
-      "fecha_dt": "2026-08-19T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ18NKfG6uGI4cUawFxBu40otNfgPboM_NHoam0za0AIaDdXoKC_1zq-XV8JSs",
-      "link": "https://trends.google.com/trending?geo=MX&q=ébola+oms",
+      "titulo": "partido verde ecologista de méxico",
+      "descripcion": "Zacatecas: expulsa el PVEM a sus tres diputados locales que respaldaron a Morena en aprobación de dictamen",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:00",
+      "fecha_dt": "2026-08-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1-45I1zSwh4QDwMS6fUibSZn4coRgb4QfyUGp89o--vynjdbpvvg80dHbPs",
+      "link": "https://trends.google.com/trending?geo=MX&q=partido+verde+ecologista+de+méxico",
+      "status": ""
+    },
+    {
+      "titulo": "jessica alba",
+      "descripcion": "Jessica Alba lleva los jeans rectos de los 90 con las sandalias de tacón trenzadas que serán tendencia este verano 2026",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:00",
+      "fecha_dt": "2026-08-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXOKA6kTtJjZguAVovyL84vU9mlobLk8Br8HZQQ3-1rpfpq4syeY4hySYnPiQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=jessica+alba",
       "status": ""
     },
     {
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-08-19T13:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwIeVlAF6lzOPf-rR_OB7NLHFR9kDPeB1XHsJVsi3PFMQBM4wfRYyo1rlT60A",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+slp",
-      "status": ""
-    },
-    {
-      "titulo": "clima merida",
-      "descripcion": "Clima en Mérida: Pronóstico caluroso para este lunes 17 de agosto con nubes dispersas",
-      "trafico": "100+",
-      "fecha": "19/08/2026 12:50",
-      "fecha_dt": "2026-08-19T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR524VHNszXHaovJeEaiFoXfUZM2_tMG7mPpO7MLVfcMxl2DdAhQyQIu0bIKkU",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+merida",
-      "status": ""
-    },
-    {
-      "titulo": "starbucks",
-      "descripcion": "Dunkin's fall menu with Pumpkin Spice Latte returns",
-      "trafico": "100+",
-      "fecha": "19/08/2026 12:30",
-      "fecha_dt": "2026-08-19T12:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3bsgEtFb2r90ZLtVD1HTnbyMjtwLt06HwPzdppHBOejNe9mAeSgM-qr7-4wo",
-      "link": "https://trends.google.com/trending?geo=MX&q=starbucks",
       "status": ""
     }
   ]
