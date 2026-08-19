@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 06:50 UTC",
+  "actualizado": "19/08/2026 07:41 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -14,6 +14,16 @@
       "status": ""
     },
     {
+      "titulo": "antrax masterchef accidente",
+      "descripcion": "ÚLTIMA HORA: Antrax NO ESTÁ en el Martes de Eliminación tras ser ATENDIDO EN AMBULANCIA en MasterChef 24/7",
+      "trafico": "500+",
+      "fecha": "19/08/2026 07:10",
+      "fecha_dt": "2026-08-19T07:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2HgbEysjtsUVbGUdRn1A5fs7gvcavvUoBbQPlI9DwfFja1726JKbwrqpk0DI",
+      "link": "https://trends.google.com/trending?geo=MX&q=antrax+masterchef+accidente",
+      "status": ""
+    },
+    {
       "titulo": "tania rincon",
       "descripcion": "Tania Rincón describe su clasificación olímpica como uno de los mejores días de su vida",
       "trafico": "500+",
@@ -24,13 +34,13 @@
       "status": ""
     },
     {
-      "titulo": "shohei ohtani",
-      "descripcion": "Ohtani secures 6th straight 30-HR season as NL MVP race remains close as ever",
-      "trafico": "500+",
-      "fecha": "19/08/2026 04:00",
-      "fecha_dt": "2026-08-19T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuN2-CTQMj_SGdkSJiYnE_Z69qjsq1tKn9jNUI_Zb4sTaZUjd_lWvYL-n66fc",
-      "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
+      "titulo": "muere frank beard",
+      "descripcion": "Muere Frank Beard, baterista de ZZ Top, a los 77 años",
+      "trafico": "200+",
+      "fecha": "19/08/2026 06:50",
+      "fecha_dt": "2026-08-19T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZZYTqxaEfmIqS91Fc3ogHKefnl6lAh8EU15Vab96Yn-B0gdFxOZKqzg-FQ-I",
+      "link": "https://trends.google.com/trending?geo=MX&q=muere+frank+beard",
       "status": ""
     },
     {
@@ -54,16 +64,6 @@
       "status": ""
     },
     {
-      "titulo": "que paso con antrax en masterchef",
-      "descripcion": "ÚLTIMA HORA: Antrax NO ESTÁ en el Martes de Eliminación tras ser ATENDIDO EN AMBULANCIA en MasterChef 24/7",
-      "trafico": "200+",
-      "fecha": "19/08/2026 03:50",
-      "fecha_dt": "2026-08-19T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2HgbEysjtsUVbGUdRn1A5fs7gvcavvUoBbQPlI9DwfFja1726JKbwrqpk0DI",
-      "link": "https://trends.google.com/trending?geo=MX&q=que+paso+con+antrax+en+masterchef",
-      "status": ""
-    },
-    {
       "titulo": "real esteli",
       "descripcion": "Herediano secures valuable victory over Real Estelí FC",
       "trafico": "200+",
@@ -71,6 +71,16 @@
       "fecha_dt": "2026-08-19T03:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYUvQQR0tWjkZF55-CMyt8qUXiuBxvqngRtqEHC-taFjoLfLerp-KmluSmr0E",
       "link": "https://trends.google.com/trending?geo=MX&q=real+esteli",
+      "status": ""
+    },
+    {
+      "titulo": "emilio azcárraga jean",
+      "descripcion": "Apoya Azcárraga el regreso del ascenso y descenso en Liga MX",
+      "trafico": "200+",
+      "fecha": "19/08/2026 03:20",
+      "fecha_dt": "2026-08-19T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJbBdZ4hWjO8vmt7-5jod7jrXJivYYddLXq6Z2CG0T0JGstv3tlPlQP6W6hg0",
+      "link": "https://trends.google.com/trending?geo=MX&q=emilio+azcárraga+jean",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-19T04:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLSzVWyliVhtemWH08D7vMGWsdtiFSmW9icqPeUii4V5EiK_NES4xea0lWqfk",
       "link": "https://trends.google.com/trending?geo=MX&q=master+chef+2026",
-      "status": ""
-    },
-    {
-      "titulo": "cubs vs",
-      "descripcion": "3 arrested at Wrigley Field during City Series, but none related to viral brawl in bleachers, sources say",
-      "trafico": "100+",
-      "fecha": "19/08/2026 03:40",
-      "fecha_dt": "2026-08-19T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz7ETmzx-i0INZtFwThqR_lRYHZKfbRgi9V69rwylp1MxYpCPvkG9Ztnl8BG0",
-      "link": "https://trends.google.com/trending?geo=MX&q=cubs+vs",
       "status": ""
     }
   ]
