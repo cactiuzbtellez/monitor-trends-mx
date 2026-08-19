@@ -1,56 +1,96 @@
 {
-  "actualizado": "19/08/2026 12:53 UTC",
+  "actualizado": "19/08/2026 13:47 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "tormenta",
-      "descripcion": "VIDEO: Así nació, explotó y avanzó la tormenta que recorrió Sinaloa de sur a norte el 17 de agosto",
-      "trafico": "2000+",
-      "fecha": "19/08/2026 11:50",
-      "fecha_dt": "2026-08-19T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS64PVXN1DR8RRFBBvN_KjRyxOJrL3FxlASwSAY0QAFvL3ltSClzKRWf3xuU18",
-      "link": "https://trends.google.com/trending?geo=MX&q=tormenta",
-      "status": ""
-    },
-    {
-      "titulo": "onda tropical",
-      "descripcion": "EXHORTAN A LA POBLACIÓN A SEGUIR INDICACIONES DE PROTECCIÓN CIVIL ANTE LA CONTINUIDAD DE LLUVIAS EN EL PAÍS",
+      "titulo": "inegi",
+      "descripcion": "Es hora de debatir las cifras de homicidios",
       "trafico": "500+",
-      "fecha": "19/08/2026 11:00",
-      "fecha_dt": "2026-08-19T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGXvfRRcz6CxPAjIJlb_C5BUP0LitOtQAn3Ogl_5bTwRstv-pzggHn1gWEF-Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=onda+tropical",
+      "fecha": "19/08/2026 13:30",
+      "fecha_dt": "2026-08-19T13:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI-rm-xo19UYO4rU3C3bCr2Ag-PD7J4OS2C16ipGsnR7uT7FFBQhq3fM8k1qI",
+      "link": "https://trends.google.com/trending?geo=MX&q=inegi",
       "status": ""
     },
     {
-      "titulo": "lotería nacional sorteo especial",
-      "descripcion": "Resultados Sorteo Especial 315: Números ganadores de la Lotería Nacional del 18 de agosto",
-      "trafico": "500+",
-      "fecha": "19/08/2026 09:50",
-      "fecha_dt": "2026-08-19T09:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_BbOt4lCbFdudRNuoztsu1hyBksfJ_hg9CyDSeqXMVP-ghJVUiMR_oWTKCcM",
-      "link": "https://trends.google.com/trending?geo=MX&q=lotería+nacional+sorteo+especial",
-      "status": ""
-    },
-    {
-      "titulo": "nadia beller",
-      "descripcion": "Asesor de Paz y Milei, acusado de mandar asesinar a su ex pareja",
+      "titulo": "mafia rumana",
+      "descripcion": "Ariadna Montiel reconoce que presunto operador de la mafia rumana es militante de Morena",
       "trafico": "200+",
-      "fecha": "19/08/2026 11:20",
-      "fecha_dt": "2026-08-19T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjKCzFY8PzUBMnNeIZu06yAkoJVUV6b_-2Qm7gRtRYbk1z9zGFEVJ8RW-yVnQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=nadia+beller",
+      "fecha": "19/08/2026 12:50",
+      "fecha_dt": "2026-08-19T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDG9M6mqeGLeVXpl5gcasGO9pnX0HDetD7withI9Yy-1rihO3-AjABQZwNQtU",
+      "link": "https://trends.google.com/trending?geo=MX&q=mafia+rumana",
       "status": ""
     },
     {
       "titulo": "apagón eléctrico",
-      "descripcion": "Apagón masivo CFE miércoles 19 de agosto 2026: colonia, municipios y horarios confirmados con todos los cortes de luz",
-      "trafico": "100+",
+      "descripcion": "¡Considéralo! Por mantenimiento, estas zonas de Lerdo tendrán corte de energía eléctrica",
+      "trafico": "200+",
       "fecha": "19/08/2026 12:30",
       "fecha_dt": "2026-08-19T12:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwp-YzOFROaeZjDsGYO57DT2d3QYUfgUUcemowbxGEbUMcy-b00343zDJ2y84",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9w01AiWigIT_4cKRcTVXEYiIHpIxSCvjdq0ndBNGpMNC65UfYZN3jKri4gQ",
       "link": "https://trends.google.com/trending?geo=MX&q=apagón+eléctrico",
+      "status": ""
+    },
+    {
+      "titulo": "plaza de la cooperación",
+      "descripcion": "Encontraron túneles y sótanos subterráneos debajo de una plaza de Rosario que eran parte de un mercado del siglo XIX",
+      "trafico": "200+",
+      "fecha": "19/08/2026 12:00",
+      "fecha_dt": "2026-08-19T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLWu5tQdRGQ7Pz6SjGKEejmdQyDlAtoqMnW-U8HjSpFmk-lLXgRpMChwMDwgM",
+      "link": "https://trends.google.com/trending?geo=MX&q=plaza+de+la+cooperación",
+      "status": ""
+    },
+    {
+      "titulo": "ébola oms",
+      "descripcion": "Alocución de apertura del Director General de la OMS en la segunda reunión del Comité de Emergencias del RSI en relación con la epidemia de enfermedad causada por el virus de Bundibugyo en la República Democrática del Congo – 18 de agosto d",
+      "trafico": "200+",
+      "fecha": "19/08/2026 12:00",
+      "fecha_dt": "2026-08-19T12:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ18NKfG6uGI4cUawFxBu40otNfgPboM_NHoam0za0AIaDdXoKC_1zq-XV8JSs",
+      "link": "https://trends.google.com/trending?geo=MX&q=ébola+oms",
+      "status": ""
+    },
+    {
+      "titulo": "latinus",
+      "descripcion": "Andy López Beltrán y el CJNG: el mapa de conexiones que revelan audios, testimonios y documentos",
+      "trafico": "100+",
+      "fecha": "19/08/2026 13:30",
+      "fecha_dt": "2026-08-19T13:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmR2ZU2YRiAniV1iUDO57kMntsEVKIo8m1WM7kgDS6Si6038-WR6ZiYYycIuI",
+      "link": "https://trends.google.com/trending?geo=MX&q=latinus",
+      "status": ""
+    },
+    {
+      "titulo": "noticias de hoy",
+      "descripcion": "\"La más mortal de las principales líneas ferroviarias de EE.UU.\": por qué más de 200 personas han muerto en las vías del tren Brightline que conecta Miami y Orlando",
+      "trafico": "100+",
+      "fecha": "19/08/2026 13:20",
+      "fecha_dt": "2026-08-19T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMl8PB7ZbhFB0ls3quC-0oZTkIg_aq4wEwFDfOMoJfmBdTZeeOyCITtZZCCvg",
+      "link": "https://trends.google.com/trending?geo=MX&q=noticias+de+hoy",
+      "status": ""
+    },
+    {
+      "titulo": "clima slp",
+      "descripcion": "Clima tutti-frutti para este martes en SLP",
+      "trafico": "100+",
+      "fecha": "19/08/2026 13:00",
+      "fecha_dt": "2026-08-19T13:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwIeVlAF6lzOPf-rR_OB7NLHFR9kDPeB1XHsJVsi3PFMQBM4wfRYyo1rlT60A",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+slp",
+      "status": ""
+    },
+    {
+      "titulo": "clima merida",
+      "descripcion": "Clima en Mérida: Pronóstico caluroso para este lunes 17 de agosto con nubes dispersas",
+      "trafico": "100+",
+      "fecha": "19/08/2026 12:50",
+      "fecha_dt": "2026-08-19T12:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR524VHNszXHaovJeEaiFoXfUZM2_tMG7mPpO7MLVfcMxl2DdAhQyQIu0bIKkU",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+merida",
       "status": ""
     },
     {
@@ -61,46 +101,6 @@
       "fecha_dt": "2026-08-19T12:30:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3bsgEtFb2r90ZLtVD1HTnbyMjtwLt06HwPzdppHBOejNe9mAeSgM-qr7-4wo",
       "link": "https://trends.google.com/trending?geo=MX&q=starbucks",
-      "status": ""
-    },
-    {
-      "titulo": "ébola oms",
-      "descripcion": "Alocución de apertura del Director General de la OMS en la segunda reunión del Comité de Emergencias del RSI en relación con la epidemia de enfermedad causada por el virus de Bundibugyo en la República Democrática del Congo – 18 de agosto d",
-      "trafico": "100+",
-      "fecha": "19/08/2026 12:00",
-      "fecha_dt": "2026-08-19T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ18NKfG6uGI4cUawFxBu40otNfgPboM_NHoam0za0AIaDdXoKC_1zq-XV8JSs",
-      "link": "https://trends.google.com/trending?geo=MX&q=ébola+oms",
-      "status": ""
-    },
-    {
-      "titulo": "plaza de la cooperación",
-      "descripcion": "Encontraron túneles y sótanos subterráneos debajo de una plaza de Rosario que eran parte de un mercado del siglo XIX",
-      "trafico": "100+",
-      "fecha": "19/08/2026 12:00",
-      "fecha_dt": "2026-08-19T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLWu5tQdRGQ7Pz6SjGKEejmdQyDlAtoqMnW-U8HjSpFmk-lLXgRpMChwMDwgM",
-      "link": "https://trends.google.com/trending?geo=MX&q=plaza+de+la+cooperación",
-      "status": ""
-    },
-    {
-      "titulo": "clima xalapa",
-      "descripcion": "Así estará el clima en Xalapa con pronóstico de lluvias este miércoles 19 de agosto",
-      "trafico": "100+",
-      "fecha": "19/08/2026 11:50",
-      "fecha_dt": "2026-08-19T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNz6e6EkHPLr9fISkw0OPLZsWxPrOgfRL0l_ozze7cPYqU53t3UraPfLbO2nQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+xalapa",
-      "status": ""
-    },
-    {
-      "titulo": "cohete",
-      "descripcion": "Nuevas imágenes de la NASA revelan el lugar del impacto del cohete de SpaceX tras su colisión con la Luna",
-      "trafico": "100+",
-      "fecha": "19/08/2026 10:50",
-      "fecha_dt": "2026-08-19T10:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTe8ZCbfuWZcSB0k_-KU2abm_l6jv9HQ5smDKMUINRysFHeBiOKlMfnkOt8nE",
-      "link": "https://trends.google.com/trending?geo=MX&q=cohete",
       "status": ""
     }
   ]
