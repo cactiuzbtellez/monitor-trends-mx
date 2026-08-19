@@ -1,26 +1,66 @@
 {
-  "actualizado": "19/08/2026 16:35 UTC",
+  "actualizado": "19/08/2026 17:29 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "pirates - tigers",
-      "descripcion": "Tigers vs. Pirates Prediction, Odds, Probable Pitchers, Prop Bets for Wednesday, Aug. 19",
-      "trafico": "1000+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_0tpUaaZ7GssBKtaM3Hv54sDcxvUnTKD-PCt18yKxsSZdN_ogsSdLUz3emBs",
-      "link": "https://trends.google.com/trending?geo=MX&q=pirates+-+tigers",
+      "titulo": "barcelona - al-ahly",
+      "descripcion": "Today's match schedule and broadcast channels: Al Ahly of Egypt faces Barcelona, ​​and other tough matches in Saudi Arabia and Europe",
+      "trafico": "5000+",
+      "fecha": "19/08/2026 17:10",
+      "fecha_dt": "2026-08-19T17:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXtEVOxUvOhWragSQxQfWWYSDFdDSzbbJXrh1I_VLwHI5SKUZ_EEkDC7sk6H8",
+      "link": "https://trends.google.com/trending?geo=MX&q=barcelona+-+al-ahly",
       "status": ""
     },
     {
-      "titulo": "tipo de cambio dolar",
+      "titulo": "dolar",
       "descripcion": "Peso mexicano rompe la barrera de 17 por dólar y toca su mejor nivel en lo que va del año",
-      "trafico": "1000+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
+      "trafico": "2000+",
+      "fecha": "19/08/2026 17:00",
+      "fecha_dt": "2026-08-19T17:00:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_xhNqfn1BrBcOProqMwIy_hbDL1Q5gVoRuy1AFdicm2yq1KsVeJ1xa8fWLnc",
-      "link": "https://trends.google.com/trending?geo=MX&q=tipo+de+cambio+dolar",
+      "link": "https://trends.google.com/trending?geo=MX&q=dolar",
+      "status": ""
+    },
+    {
+      "titulo": "simulacro",
+      "descripcion": "Segundo Simulacro Nacional 2026: guía para saber qué hacer en caso de sismo",
+      "trafico": "500+",
+      "fecha": "19/08/2026 16:50",
+      "fecha_dt": "2026-08-19T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9N70dwLo2XVjGWw3fSHh0Z2ckTmckjRofZUamL075CQD7ihAHbpim6326Tws",
+      "link": "https://trends.google.com/trending?geo=MX&q=simulacro",
+      "status": ""
+    },
+    {
+      "titulo": "clima coatzacoalcos",
+      "descripcion": "Persisten condiciones para lluvias ligeras a moderadas en Veracruz",
+      "trafico": "200+",
+      "fecha": "19/08/2026 16:50",
+      "fecha_dt": "2026-08-19T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh23tByF3vblB_ZJVg1hifEY74XwYzpEmfMTJIvPEzJN85gkX5dCYsZJ_CvHM",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+coatzacoalcos",
+      "status": ""
+    },
+    {
+      "titulo": "rafael jódar",
+      "descripcion": "Estadísticas del Jódar - Cobolli de los octavos de final de Cincinnati",
+      "trafico": "200+",
+      "fecha": "19/08/2026 16:40",
+      "fecha_dt": "2026-08-19T16:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3oSl4DTsWNflv8FDN6zVWnf0grcCFRwDy0UQowVFMgVb6-4UUqDYzgUak4i4",
+      "link": "https://trends.google.com/trending?geo=MX&q=rafael+jódar",
+      "status": ""
+    },
+    {
+      "titulo": "atletico de madrid vs malaga",
+      "descripcion": "Llorente y Baena, en la convocatoria; Julián, ‘Cuti’, Sorloth, Vargas y Lemar, ausencias",
+      "trafico": "200+",
+      "fecha": "19/08/2026 16:20",
+      "fecha_dt": "2026-08-19T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdijlpEghTPHa7ZqhXdUc7gK-1AzBBa2DDQtMFOUAT7soy9wUS8N3D_30lKqM",
+      "link": "https://trends.google.com/trending?geo=MX&q=atletico+de+madrid+vs+malaga",
       "status": ""
     },
     {
@@ -34,73 +74,33 @@
       "status": ""
     },
     {
-      "titulo": "tala rangel",
-      "descripcion": "'Tala' Rangel despierta interés en reconocido equipo de Europa",
-      "trafico": "200+",
-      "fecha": "19/08/2026 16:10",
-      "fecha_dt": "2026-08-19T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7O1-74u5PV6Ix_9RdgvTQwy2Ebk7D6siNd390sZrXGj2KBHRakyENYJNu5tA",
-      "link": "https://trends.google.com/trending?geo=MX&q=tala+rangel",
-      "status": ""
-    },
-    {
-      "titulo": "palacio nacional",
-      "descripcion": "Crecen las llamas en Palacio Nacional",
-      "trafico": "200+",
-      "fecha": "19/08/2026 16:10",
-      "fecha_dt": "2026-08-19T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnK-I55gaanTg-eMvUsOJuTSME6N3cLmwrtXDh7ZAVI1XUNSxam8sPVnehwtQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=palacio+nacional",
-      "status": ""
-    },
-    {
-      "titulo": "atletico de madrid vs malaga",
-      "descripcion": "Llorente y Baena, en la convocatoria; Julián, ‘Cuti’, Sorloth, Vargas y Lemar, ausencias",
+      "titulo": "yandel sinfonico monterrey",
+      "descripcion": "Yandel Sinfónico llegará a Monterrey: Fecha, preventa y dónde comprar boletos",
       "trafico": "100+",
-      "fecha": "19/08/2026 16:20",
-      "fecha_dt": "2026-08-19T16:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdijlpEghTPHa7ZqhXdUc7gK-1AzBBa2DDQtMFOUAT7soy9wUS8N3D_30lKqM",
-      "link": "https://trends.google.com/trending?geo=MX&q=atletico+de+madrid+vs+malaga",
+      "fecha": "19/08/2026 17:10",
+      "fecha_dt": "2026-08-19T17:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqTWGkft1nK6aZcln_2MVFwCog3yIIN6C4tY9LxkXoCrXYP50JU8QOyYl6HZw",
+      "link": "https://trends.google.com/trending?geo=MX&q=yandel+sinfonico+monterrey",
       "status": ""
     },
     {
-      "titulo": "atletico",
-      "descripcion": "Obed podría cambiar de club, pero seguiría perteneciendo al Atlético",
+      "titulo": "hyundai tucson",
+      "descripcion": "Así es el Hyundai Tucson 2027: el SUV más importante de los coreanos se reinventa y viene para México",
       "trafico": "100+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwMzyYSGubLOvQgu-oj2Zq07e6wxZDo2z0d-pcf-oYGE-FVse9XYCe0gztwnM",
-      "link": "https://trends.google.com/trending?geo=MX&q=atletico",
+      "fecha": "19/08/2026 17:10",
+      "fecha_dt": "2026-08-19T17:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUZZqOplGmSYc1yubWiinzZOvxuoNgVrKAEUES1eIqNQlT0odelTEFqbrG-74",
+      "link": "https://trends.google.com/trending?geo=MX&q=hyundai+tucson",
       "status": ""
     },
     {
-      "titulo": "nicole kidman",
-      "descripcion": "Nicole Kidman Takes a Dip in a Ruffled Blue Bikini While Rocking Her Natural Blonde Curls",
+      "titulo": "joan gamper",
+      "descripcion": "Cuándo juegan Al-Ahly vs. Barcelona por el Trofeo Joan Gamper: equipo, fecha, hora y TV en vivo",
       "trafico": "100+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwws4H_fixHrwNxWW4u8NKv0e6d-TsICCjw-JEoZ-oa3gyYRy3VV46RO_heWg",
-      "link": "https://trends.google.com/trending?geo=MX&q=nicole+kidman",
-      "status": ""
-    },
-    {
-      "titulo": "moderna",
-      "descripcion": "El anuncio del éxito de la primera vacuna contra el melanoma dispara las acciones de Moderna y Merck",
-      "trafico": "100+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqNTWNKD_BVnQby32qIXBwHelBny7TcWACfsPLTRMKvD5satZZOrmOc5WXoIM",
-      "link": "https://trends.google.com/trending?geo=MX&q=moderna",
-      "status": ""
-    },
-    {
-      "titulo": "livakovic",
-      "descripcion": "€3 million and a loan: Barcelona agree deal for a new goalkeeper",
-      "trafico": "100+",
-      "fecha": "19/08/2026 16:00",
-      "fecha_dt": "2026-08-19T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4OZ6PFQ1-ugrJFKMt-gAyNoQCLcP_Ylom1kCcm_qxyy-DI98Y7gPLB3LTd4k",
-      "link": "https://trends.google.com/trending?geo=MX&q=livakovic",
+      "fecha": "19/08/2026 17:00",
+      "fecha_dt": "2026-08-19T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIkpzhgSqiyXn2xVrqxZAnPe9UxGok6fiGy7gQbVBHwvurOE0F1wvlcXgxWnE",
+      "link": "https://trends.google.com/trending?geo=MX&q=joan+gamper",
       "status": ""
     }
   ]
