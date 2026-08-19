@@ -1,16 +1,96 @@
 {
-  "actualizado": "19/08/2026 03:00 UTC",
+  "actualizado": "19/08/2026 04:40 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "club de futbol cruz azul femenil",
-      "descripcion": "Cruz Azul contempla acciones legales por insultos misóginos contra sus futbolistas",
+      "titulo": "último sismo hoy",
+      "descripcion": "Temblor en México Hoy 17 de Agosto 2026: Magnitud y Ubicación de Sismos este Lunes",
+      "trafico": "1000+",
+      "fecha": "19/08/2026 02:40",
+      "fecha_dt": "2026-08-19T02:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6ndc2Z4f15b0w81q6s0YJ9APYSvkLQ_WcWi3n5zi6nW6Fqg6zancuwBJSGrs",
+      "link": "https://trends.google.com/trending?geo=MX&q=último+sismo+hoy",
+      "status": ""
+    },
+    {
+      "titulo": "que paso con antrax en masterchef",
+      "descripcion": "Así quedó la herida de Antrax tras ser atendido en una ambulancia durante el domingo de Eliminación de MasterChef 24/7 (FOTO)",
       "trafico": "500+",
-      "fecha": "19/08/2026 02:10",
-      "fecha_dt": "2026-08-19T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96yltAADEKXnrfujr5AnEOQoFvJ6LnIaYu-vblm3j4UiaDqW6Nfqpsie94RI",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+de+futbol+cruz+azul+femenil",
+      "fecha": "19/08/2026 03:50",
+      "fecha_dt": "2026-08-19T03:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEFQ-9HQcBAe-LLibTE_kQ_lXc7DdbtfeJq_u8jKD5U1IlKlx4-pc8MuAjLMg",
+      "link": "https://trends.google.com/trending?geo=MX&q=que+paso+con+antrax+en+masterchef",
+      "status": ""
+    },
+    {
+      "titulo": "vota",
+      "descripcion": "Lo que debes saber de las primarias de hoy en EU",
+      "trafico": "200+",
+      "fecha": "19/08/2026 04:30",
+      "fecha_dt": "2026-08-19T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV5moaA15HwIvbLFj9GRtnH6Vz6Qv_yCDpCLqfsIxYO-ULs0fdPOBlWm3xVQg",
+      "link": "https://trends.google.com/trending?geo=MX&q=vota",
+      "status": ""
+    },
+    {
+      "titulo": "meta",
+      "descripcion": "Meta’s blockbuster trial draws parallels to big tobacco",
+      "trafico": "200+",
+      "fecha": "19/08/2026 04:30",
+      "fecha_dt": "2026-08-19T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjauy4vGecDrpO_B3yuiAFkF6IwUalxixc9Ldjr3hX8Axkq0EzPWPHhBZ7dN4",
+      "link": "https://trends.google.com/trending?geo=MX&q=meta",
+      "status": ""
+    },
+    {
+      "titulo": "shohei ohtani",
+      "descripcion": "Ohtani's huge night at the plate might not even be the best news for Dodgers",
+      "trafico": "200+",
+      "fecha": "19/08/2026 04:00",
+      "fecha_dt": "2026-08-19T04:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7-tcs4kPv370JyaAVldORA-kiNIfn4v3SebTNxvLyQI0FDTHyEDnM5Zq6vrg",
+      "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
+      "status": ""
+    },
+    {
+      "titulo": "real esteli",
+      "descripcion": "Real Estelí FC looks to clinch Quarterfinal berth against CS Herediano",
+      "trafico": "200+",
+      "fecha": "19/08/2026 03:30",
+      "fecha_dt": "2026-08-19T03:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9k0Rbhiv8y42eAFqHntu6fpQ66SuGOmSX4YHdS0tHk2GitCbS_r8wudfvLMM",
+      "link": "https://trends.google.com/trending?geo=MX&q=real+esteli",
+      "status": ""
+    },
+    {
+      "titulo": "emilio azcárraga jean",
+      "descripcion": "Apoya Azcárraga el regreso del ascenso y descenso en Liga MX",
+      "trafico": "200+",
+      "fecha": "19/08/2026 03:20",
+      "fecha_dt": "2026-08-19T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJbBdZ4hWjO8vmt7-5jod7jrXJivYYddLXq6Z2CG0T0JGstv3tlPlQP6W6hg0",
+      "link": "https://trends.google.com/trending?geo=MX&q=emilio+azcárraga+jean",
+      "status": ""
+    },
+    {
+      "titulo": "toros de tijuana",
+      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 1 de la Serie de Zona de la LMB",
+      "trafico": "200+",
+      "fecha": "19/08/2026 02:50",
+      "fecha_dt": "2026-08-19T02:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
+      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
+      "status": ""
+    },
+    {
+      "titulo": "sequía",
+      "descripcion": "UNAM prevé calor extremo por El Niño en 2027: podría \"rebasar los límites de resistencia humana”",
+      "trafico": "200+",
+      "fecha": "19/08/2026 02:50",
+      "fecha_dt": "2026-08-19T02:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ7Y-V9wIVo_KyIZsf3iRLg_2YfH7imbiywqcmCtdZS6dX6bzyJDAVYn9LI48",
+      "link": "https://trends.google.com/trending?geo=MX&q=sequía",
       "status": ""
     },
     {
@@ -21,86 +101,6 @@
       "fecha_dt": "2026-08-19T02:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSl7k2uLknXl4Qf35ePt9cAnWnHsBvggTLXb59QOYRv_gD0rRL5rRSJg3IHhQs",
       "link": "https://trends.google.com/trending?geo=MX&q=glen+powell",
-      "status": ""
-    },
-    {
-      "titulo": "kim kardashian",
-      "descripcion": "Kim Kardashian’s Romance With Lewis Hamilton Is the ‘Real Deal’ — How They Make Long-Distance Work (Exclusive)",
-      "trafico": "200+",
-      "fecha": "19/08/2026 02:20",
-      "fecha_dt": "2026-08-19T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFMJ0JYE6LLpfr8XUdNn-xGjzMdnEYCn3qUSnX5u50j6cjiWeuWObxvnbCxKs",
-      "link": "https://trends.google.com/trending?geo=MX&q=kim+kardashian",
-      "status": ""
-    },
-    {
-      "titulo": "sobriedad",
-      "descripcion": "Celebración de San Mateo Apóstol se desarrollaráen un ambiente de solidaridad y sobriedad",
-      "trafico": "200+",
-      "fecha": "19/08/2026 02:10",
-      "fecha_dt": "2026-08-19T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQAtoE2wf0KPWYW6gL_fhfhpuCHEljT1JKa2LVKGfYo5PCNsTP_zWoXWclKb10",
-      "link": "https://trends.google.com/trending?geo=MX&q=sobriedad",
-      "status": ""
-    },
-    {
-      "titulo": "iva jovic",
-      "descripcion": "Iva Jovic is a different kind of 18-year-old",
-      "trafico": "200+",
-      "fecha": "19/08/2026 02:00",
-      "fecha_dt": "2026-08-19T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuDaGqqw2l3c5rvQPUCgbXLmJwTkkEIqhU3OWM0rHlWLJIhHEa3F54ojoB0Og",
-      "link": "https://trends.google.com/trending?geo=MX&q=iva+jovic",
-      "status": ""
-    },
-    {
-      "titulo": "gasolina",
-      "descripcion": "EU anunciará medidas para bajar precio de gasolina ante guerra contra Irán",
-      "trafico": "200+",
-      "fecha": "19/08/2026 02:00",
-      "fecha_dt": "2026-08-19T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLYcofJlt4QlLLB9lUmCSaGJ_wsMolyKo7WVIznzwGWHAQPp_As1DD7U6Vr8",
-      "link": "https://trends.google.com/trending?geo=MX&q=gasolina",
-      "status": ""
-    },
-    {
-      "titulo": "sequía",
-      "descripcion": "UNAM prevé calor extremo por El Niño en 2027: podría \"rebasar los límites de resistencia humana”",
-      "trafico": "100+",
-      "fecha": "19/08/2026 02:50",
-      "fecha_dt": "2026-08-19T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ7Y-V9wIVo_KyIZsf3iRLg_2YfH7imbiywqcmCtdZS6dX6bzyJDAVYn9LI48",
-      "link": "https://trends.google.com/trending?geo=MX&q=sequía",
-      "status": ""
-    },
-    {
-      "titulo": "toros de tijuana",
-      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 1 de la Serie de Zona de la LMB",
-      "trafico": "100+",
-      "fecha": "19/08/2026 02:50",
-      "fecha_dt": "2026-08-19T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
-      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
-      "status": ""
-    },
-    {
-      "titulo": "aces - dream",
-      "descripcion": "Licensable picture: WNBA: Atlanta Dream at Las Vegas Aces",
-      "trafico": "100+",
-      "fecha": "19/08/2026 02:20",
-      "fecha_dt": "2026-08-19T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvV0jehLCke8YnSwG2g3qMpQ6c5LASQqBz5tddQroWnmYn1Wt48LVjoLAdtGY",
-      "link": "https://trends.google.com/trending?geo=MX&q=aces+-+dream",
-      "status": ""
-    },
-    {
-      "titulo": "denzel washington",
-      "descripcion": "\"Fue la primera película que no quería dejar de filmar\": Denzel Washington sobre uno de sus mejores papeles hace 33 años",
-      "trafico": "100+",
-      "fecha": "19/08/2026 02:10",
-      "fecha_dt": "2026-08-19T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQszpe6iigo6WZ-zgUIQFagbWsIARdMugSokJK8IMit3w9DuJRos12mMA1u9ps",
-      "link": "https://trends.google.com/trending?geo=MX&q=denzel+washington",
       "status": ""
     }
   ]
