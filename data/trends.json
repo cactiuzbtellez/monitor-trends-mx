@@ -1,36 +1,86 @@
 {
-  "actualizado": "19/08/2026 14:37 UTC",
+  "actualizado": "19/08/2026 15:34 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "miguel borja",
-      "descripcion": "¿El ‘9’ que faltaba en Coapa? América negocia para el fichaje de Miguel Borja",
-      "trafico": "500+",
+      "descripcion": "América está muy cerca de fichar al delantero Miguel Borja",
+      "trafico": "1000+",
       "fecha": "19/08/2026 14:00",
       "fecha_dt": "2026-08-19T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdj3ZSLdJuoE9RXMJZxaLdYQak0racW5Fqpgj33vUeDKtBcESgp4bsiZvqEVU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDrD2sAliTtAqY5HODd5lM4XJb0cjWnAazRZ_50nlkbamiqaJBq4W4uXm_mK0",
       "link": "https://trends.google.com/trending?geo=MX&q=miguel+borja",
       "status": ""
     },
     {
-      "titulo": "inegi",
-      "descripcion": "Es hora de debatir las cifras de homicidios",
-      "trafico": "500+",
-      "fecha": "19/08/2026 13:30",
-      "fecha_dt": "2026-08-19T13:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI-rm-xo19UYO4rU3C3bCr2Ag-PD7J4OS2C16ipGsnR7uT7FFBQhq3fM8k1qI",
-      "link": "https://trends.google.com/trending?geo=MX&q=inegi",
+      "titulo": "alana",
+      "descripcion": "Muere ‘influencer’ Alana Alves mientras huía de la policía: causa el fallecimiento de 6 personas",
+      "trafico": "200+",
+      "fecha": "19/08/2026 15:10",
+      "fecha_dt": "2026-08-19T15:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsVIRSmD5WTINgpyD29XpT6ljJiLd89h_ziM9dpJEJMabIwto_df7Hf16sxxg",
+      "link": "https://trends.google.com/trending?geo=MX&q=alana",
       "status": ""
     },
     {
-      "titulo": "precio dolar",
-      "descripcion": "Cotiza dólar en $16.95, mínimo desde junio de 2024",
+      "titulo": "michoacan",
+      "descripcion": "Michoacán ‘arde’ por quema de autos y bloqueos en carreteras: ¿Qué puntos están cerrados HOY?",
+      "trafico": "200+",
+      "fecha": "19/08/2026 14:40",
+      "fecha_dt": "2026-08-19T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkuvAdZAuIowCr_LA_58DAh8z5wFGZ9_Rvs6j0YxVZzdWVaTUlO_CTlIzGTZc",
+      "link": "https://trends.google.com/trending?geo=MX&q=michoacan",
+      "status": ""
+    },
+    {
+      "titulo": "jessica alba",
+      "descripcion": "Jessica Alba lleva los jeans rectos de los 90 con las sandalias de tacón trenzadas que serán tendencia este verano 2026",
+      "trafico": "200+",
+      "fecha": "19/08/2026 14:00",
+      "fecha_dt": "2026-08-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXOKA6kTtJjZguAVovyL84vU9mlobLk8Br8HZQQ3-1rpfpq4syeY4hySYnPiQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=jessica+alba",
+      "status": ""
+    },
+    {
+      "titulo": "partido verde ecologista de méxico",
+      "descripcion": "Zacatecas: expulsa el PVEM a sus tres diputados locales que respaldaron a Morena en aprobación de dictamen",
+      "trafico": "200+",
+      "fecha": "19/08/2026 14:00",
+      "fecha_dt": "2026-08-19T14:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1-45I1zSwh4QDwMS6fUibSZn4coRgb4QfyUGp89o--vynjdbpvvg80dHbPs",
+      "link": "https://trends.google.com/trending?geo=MX&q=partido+verde+ecologista+de+méxico",
+      "status": ""
+    },
+    {
+      "titulo": "papa",
+      "descripcion": "",
+      "trafico": "100+",
+      "fecha": "19/08/2026 15:00",
+      "fecha_dt": "2026-08-19T15:00:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=papa",
+      "status": ""
+    },
+    {
+      "titulo": "nick kyrgios",
+      "descripcion": "Tennis star Nick Kyrgios provisionally suspended for cocaine use",
+      "trafico": "100+",
+      "fecha": "19/08/2026 14:40",
+      "fecha_dt": "2026-08-19T14:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvRSNqXuGFkYd9BwonQmHgP4hHxqOlm8fEF8MeRjr_S2nCtzlt0zk-PkibSjQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=nick+kyrgios",
+      "status": ""
+    },
+    {
+      "titulo": "atletico de madrid",
+      "descripcion": "Un Atlético sin Julián Álvarez y con 'portazo' de Simeone a su salida: \"No ha lugar\"",
       "trafico": "100+",
       "fecha": "19/08/2026 14:20",
       "fecha_dt": "2026-08-19T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRAQ6JY68tpyYlArV7TvJkBdor5AK02CTj6T4dpXxIXcymb2yOc0MEg-a-l7r8",
-      "link": "https://trends.google.com/trending?geo=MX&q=precio+dolar",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_HPqGJ-CZPzH7pLxzlIc6Bd8uy8X_OMlG4ROGcrqOUWHHZTimJBxsvLXkux4",
+      "link": "https://trends.google.com/trending?geo=MX&q=atletico+de+madrid",
       "status": ""
     },
     {
@@ -45,62 +95,12 @@
     },
     {
       "titulo": "extorsión",
-      "descripcion": "Reduce 21.2% casos de extorsión en Quintana Roo, pero 96% de los casos no se denuncian: Coparmex",
+      "descripcion": "Caen Funcionarios de la Fiscalía de Edomex Vinculados con Extorsión y Secuestro",
       "trafico": "100+",
       "fecha": "19/08/2026 14:10",
       "fecha_dt": "2026-08-19T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzvTLpoV2M0GURbQyAcRDZxwDX6AZ_d5AKkLKc9QkKmF5Pk8P_khWNilacHEY",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRlSSz8h6MIGyANJXUjFr9X-J42RVOltocm2tAmGuiXIkX7jY0OhI1oHEaXYk",
       "link": "https://trends.google.com/trending?geo=MX&q=extorsión",
-      "status": ""
-    },
-    {
-      "titulo": "partido verde ecologista de méxico",
-      "descripcion": "Zacatecas: expulsa el PVEM a sus tres diputados locales que respaldaron a Morena en aprobación de dictamen",
-      "trafico": "100+",
-      "fecha": "19/08/2026 14:00",
-      "fecha_dt": "2026-08-19T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1-45I1zSwh4QDwMS6fUibSZn4coRgb4QfyUGp89o--vynjdbpvvg80dHbPs",
-      "link": "https://trends.google.com/trending?geo=MX&q=partido+verde+ecologista+de+méxico",
-      "status": ""
-    },
-    {
-      "titulo": "jessica alba",
-      "descripcion": "Jessica Alba lleva los jeans rectos de los 90 con las sandalias de tacón trenzadas que serán tendencia este verano 2026",
-      "trafico": "100+",
-      "fecha": "19/08/2026 14:00",
-      "fecha_dt": "2026-08-19T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXOKA6kTtJjZguAVovyL84vU9mlobLk8Br8HZQQ3-1rpfpq4syeY4hySYnPiQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=jessica+alba",
-      "status": ""
-    },
-    {
-      "titulo": "latinus",
-      "descripcion": "Andy López Beltrán y el CJNG: el mapa de conexiones que revelan audios, testimonios y documentos",
-      "trafico": "100+",
-      "fecha": "19/08/2026 13:30",
-      "fecha_dt": "2026-08-19T13:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTmR2ZU2YRiAniV1iUDO57kMntsEVKIo8m1WM7kgDS6Si6038-WR6ZiYYycIuI",
-      "link": "https://trends.google.com/trending?geo=MX&q=latinus",
-      "status": ""
-    },
-    {
-      "titulo": "noticias de hoy",
-      "descripcion": "\"La más mortal de las principales líneas ferroviarias de EE.UU.\": por qué más de 200 personas han muerto en las vías del tren Brightline que conecta Miami y Orlando",
-      "trafico": "100+",
-      "fecha": "19/08/2026 13:20",
-      "fecha_dt": "2026-08-19T13:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMl8PB7ZbhFB0ls3quC-0oZTkIg_aq4wEwFDfOMoJfmBdTZeeOyCITtZZCCvg",
-      "link": "https://trends.google.com/trending?geo=MX&q=noticias+de+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "clima slp",
-      "descripcion": "Clima tutti-frutti para este martes en SLP",
-      "trafico": "100+",
-      "fecha": "19/08/2026 13:00",
-      "fecha_dt": "2026-08-19T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwIeVlAF6lzOPf-rR_OB7NLHFR9kDPeB1XHsJVsi3PFMQBM4wfRYyo1rlT60A",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+slp",
       "status": ""
     }
   ]
