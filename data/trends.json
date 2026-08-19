@@ -1,18 +1,8 @@
 {
-  "actualizado": "19/08/2026 08:41 UTC",
+  "actualizado": "19/08/2026 09:37 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
-    {
-      "titulo": "banfield vs midland",
-      "descripcion": "Banfield se impuso por penales ante Midland y se metió en cuartos de Copa Argentina",
-      "trafico": "2000+",
-      "fecha": "19/08/2026 05:30",
-      "fecha_dt": "2026-08-19T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVXrm10AX0IooQl2yYn5SS3awFwN8AvwClxx-jr4DpAfW27nt5n506ybDWwJs",
-      "link": "https://trends.google.com/trending?geo=MX&q=banfield+vs+midland",
-      "status": ""
-    },
     {
       "titulo": "antrax masterchef accidente",
       "descripcion": "Participante de MasterChef 24/7 pierde parte de su dedo al cortarse con un cuchillo en plena competencia | VIDEO",
@@ -31,6 +21,16 @@
       "fecha_dt": "2026-08-19T06:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpDbFPAUDLw1pHCsEUXJBCLMHS0b-zPGiEncUhc37lUuoQoQTXMs5E7hICQhI",
       "link": "https://trends.google.com/trending?geo=MX&q=muere+frank+beard",
+      "status": ""
+    },
+    {
+      "titulo": "toros de tijuana",
+      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 1 de la Serie de Zona de la LMB",
+      "trafico": "500+",
+      "fecha": "19/08/2026 02:50",
+      "fecha_dt": "2026-08-19T02:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
+      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
       "status": ""
     },
     {
