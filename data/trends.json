@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 10:32 UTC",
+  "actualizado": "19/08/2026 11:28 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -25,22 +25,32 @@
     },
     {
       "titulo": "muere frank beard",
-      "descripcion": "Muere Frank Beard, el legendario baterista del trío de boogie-rock ZZ Top, a los 77 años",
-      "trafico": "500+",
+      "descripcion": "Murió Frank Beard, baterista de ZZ Top",
+      "trafico": "1000+",
       "fecha": "19/08/2026 06:50",
       "fecha_dt": "2026-08-19T06:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpDbFPAUDLw1pHCsEUXJBCLMHS0b-zPGiEncUhc37lUuoQoQTXMs5E7hICQhI",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX0IgQCE91GQG2kUWsro_Ynq74m4SEk0FVD6zPv0irvjZasRbIcLijb5lSqJY",
       "link": "https://trends.google.com/trending?geo=MX&q=muere+frank+beard",
       "status": ""
     },
     {
-      "titulo": "toros de tijuana",
-      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 1 de la Serie de Zona de la LMB",
+      "titulo": "cubs vs. white sox",
+      "descripcion": "PCA meets with young fans pregame -- then gives them a show in Cubs' walk-off win",
       "trafico": "500+",
-      "fecha": "19/08/2026 02:50",
-      "fecha_dt": "2026-08-19T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
-      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
+      "fecha": "19/08/2026 03:50",
+      "fecha_dt": "2026-08-19T03:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVNfs3okusfVixZsS1pQqsxNW0CeVzXCZCUpB54Ps1YBTPkxrq3WDY0tacEao",
+      "link": "https://trends.google.com/trending?geo=MX&q=cubs+vs.+white+sox",
+      "status": ""
+    },
+    {
+      "titulo": "onda tropical",
+      "descripcion": "EXHORTAN A LA POBLACIÓN A SEGUIR INDICACIONES DE PROTECCIÓN CIVIL ANTE LA CONTINUIDAD DE LLUVIAS EN EL PAÍS",
+      "trafico": "200+",
+      "fecha": "19/08/2026 11:00",
+      "fecha_dt": "2026-08-19T11:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGXvfRRcz6CxPAjIJlb_C5BUP0LitOtQAn3Ogl_5bTwRstv-pzggHn1gWEF-Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=onda+tropical",
       "status": ""
     },
     {
@@ -85,22 +95,12 @@
     },
     {
       "titulo": "sultanes",
-      "descripcion": "¡Agotados! Caliente de Durango anuncia sold out para el primer juego ante Sultanes de Monterrey en los playoff",
+      "descripcion": "Pegan primero los Sultanes en Durango",
       "trafico": "100+",
       "fecha": "19/08/2026 05:10",
       "fecha_dt": "2026-08-19T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpUUZ0R1rCqgJxqVBCsgR4vm8HIU9dlFVzky6h31OVwKBkVtHQvVE8TXBlU0E",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4BCmgTW55vgSSsp8u2Y4nRV9v4e6fcAY7fYpYOwc1xOB1ervvjE0e411cfi8",
       "link": "https://trends.google.com/trending?geo=MX&q=sultanes",
-      "status": ""
-    },
-    {
-      "titulo": "cubs vs",
-      "descripcion": "3 arrested at Wrigley Field during City Series, but none related to viral brawl in bleachers, sources say",
-      "trafico": "100+",
-      "fecha": "19/08/2026 03:40",
-      "fecha_dt": "2026-08-19T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQz7ETmzx-i0INZtFwThqR_lRYHZKfbRgi9V69rwylp1MxYpCPvkG9Ztnl8BG0",
-      "link": "https://trends.google.com/trending?geo=MX&q=cubs+vs",
       "status": ""
     }
   ]
