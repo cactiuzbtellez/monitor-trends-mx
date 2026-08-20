@@ -1,12 +1,22 @@
 {
-  "actualizado": "20/08/2026 14:39 UTC",
+  "actualizado": "20/08/2026 15:37 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "olympiacos fc",
+      "descripcion": "'Hormiga' confiesa que va a Olympiacos: Este proyecto me gustó",
+      "trafico": "2000+",
+      "fecha": "20/08/2026 15:30",
+      "fecha_dt": "2026-08-20T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN8iXrlNzMcCUhunXgMxDpdNEdmPiqCsNUv813fduhh1dVKWH3nsFELCusu8c",
+      "link": "https://trends.google.com/trending?geo=MX&q=olympiacos+fc",
+      "status": ""
+    },
+    {
       "titulo": "beca",
       "descripcion": "Becas Bienestar: del 24 al 28 de agosto, pagos pendientes para tarjetas recién entregadas",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "fecha": "20/08/2026 14:20",
       "fecha_dt": "2026-08-20T14:20:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS96DzFfZ5GYi3gkt07fDBaFUeFeHVJCBCtKZt8d9LrL572nugFpaF_FGA0buY",
@@ -14,63 +24,63 @@
       "status": ""
     },
     {
-      "titulo": "bbc news mundo",
-      "descripcion": "",
-      "trafico": "1000+",
-      "fecha": "20/08/2026 12:20",
-      "fecha_dt": "2026-08-20T12:20:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=bbc+news+mundo",
-      "status": ""
-    },
-    {
-      "titulo": "política",
-      "descripcion": "Los trogloditas de la política",
-      "trafico": "500+",
-      "fecha": "20/08/2026 13:00",
-      "fecha_dt": "2026-08-20T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqmjmhkqaZaHVeWZRztgHkMpCM2byIBL8yrrt5z95hZu4CYUiUhskG685Eqog",
-      "link": "https://trends.google.com/trending?geo=MX&q=política",
-      "status": ""
-    },
-    {
-      "titulo": "clima hoy",
-      "descripcion": "Monzón mexicano y onda tropical provocan alerta en varios estados por lluvias",
-      "trafico": "500+",
-      "fecha": "20/08/2026 12:20",
-      "fecha_dt": "2026-08-20T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlFPg6gzW0coqfdQwGxd63xa-VVoto8w4f6Ry6emUxxumastyoCB_fJS3bSFE",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+hoy",
-      "status": ""
-    },
-    {
       "titulo": "ricardo salinas pliego",
-      "descripcion": "Ricardo Salinas abre nuevo frente en lucha contra bonistas de la mexicana TV Azteca",
-      "trafico": "200+",
+      "descripcion": "Ricardo Salinas Pliego abre nuevo frente en lucha contra los tenedores de bonos de TV Azteca",
+      "trafico": "500+",
       "fecha": "20/08/2026 14:10",
       "fecha_dt": "2026-08-20T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQo7OsN8o-QYphCTjqaT0gYcgrBZ4-XpSHRJ2kvC8HgqYnVTS1obLl_b2BaVcA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpG-jnqMv8dFXbxyzarS6g940-zs3fO6AU4fseqRxVqqvC_Yx05lPBTjOg6o",
       "link": "https://trends.google.com/trending?geo=MX&q=ricardo+salinas+pliego",
       "status": ""
     },
     {
-      "titulo": "clima xalapa",
-      "descripcion": "Persisten condiciones para lluvias ligeras a moderadas en Veracruz",
+      "titulo": "bélgica",
+      "descripcion": "Bélgica controla el mayor incendio forestal de su historia",
       "trafico": "200+",
-      "fecha": "20/08/2026 12:50",
-      "fecha_dt": "2026-08-20T12:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh23tByF3vblB_ZJVg1hifEY74XwYzpEmfMTJIvPEzJN85gkX5dCYsZJ_CvHM",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+xalapa",
+      "fecha": "20/08/2026 14:20",
+      "fecha_dt": "2026-08-20T14:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJxxIwNnl-SoDxIKmUcf5LqbdzYU_B7IY7awQdtZ7Owen7MANCgnPavvlx5U",
+      "link": "https://trends.google.com/trending?geo=MX&q=bélgica",
       "status": ""
     },
     {
       "titulo": "clima slp",
       "descripcion": "Lluvias y calor marcarán el clima de SLP este miércoles",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "20/08/2026 14:20",
       "fecha_dt": "2026-08-20T14:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxyV2n7zTsd7dpN9MspBqlRDv4Cxrb7lZs27G5kjrc9cCRB4wGmWkoDaEUtmk",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+slp",
+      "status": ""
+    },
+    {
+      "titulo": "record",
+      "descripcion": "U.S. Open To Pay Players $108 Million, The Highest Total In Tennis",
+      "trafico": "100+",
+      "fecha": "20/08/2026 15:20",
+      "fecha_dt": "2026-08-20T15:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSMK9UWGJ6nndLTWc8z0oN8rlKkK3953PkMP2jpILFstnPlXJRJO6dgW6An9U",
+      "link": "https://trends.google.com/trending?geo=MX&q=record",
+      "status": ""
+    },
+    {
+      "titulo": "europa league",
+      "descripcion": "Benfica vs AGF: UEFA Europa League stats & head-to-head",
+      "trafico": "100+",
+      "fecha": "20/08/2026 15:00",
+      "fecha_dt": "2026-08-20T15:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "link": "https://trends.google.com/trending?geo=MX&q=europa+league",
+      "status": ""
+    },
+    {
+      "titulo": "gta 6 leaks",
+      "descripcion": "[UPDATE] GTA 6 Suffers Third Day of Leaks, Latest Video Suggests Leakers Have Access to a Build of the Game",
+      "trafico": "100+",
+      "fecha": "20/08/2026 15:00",
+      "fecha_dt": "2026-08-20T15:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGesucUC9AdWnLjpXAiuztyOUxXIsRrzxBxAZiTxxPbgy9gzW3U1dtgPzjsVg",
+      "link": "https://trends.google.com/trending?geo=MX&q=gta+6+leaks",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-20T14:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5wdIPRfv88EI6skkl6V0aUZxGNWWbpDeGv7tvO_YCfNt9QH7-Tiujdc6Uyk",
       "link": "https://trends.google.com/trending?geo=MX&q=esquema",
-      "status": ""
-    },
-    {
-      "titulo": "tiempo de hoy",
-      "descripcion": "Cruce Tijuana-San Diego supera 7 horas de espera por regreso a clases",
-      "trafico": "100+",
-      "fecha": "20/08/2026 13:00",
-      "fecha_dt": "2026-08-20T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPSfwLCU6G_eedBfLsjguDHbiYDaFlV4jMx06vybD-oyPpWjjCnHFsNlOAqAA",
-      "link": "https://trends.google.com/trending?geo=MX&q=tiempo+de+hoy",
       "status": ""
     }
   ]
