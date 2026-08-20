@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 09:37 UTC",
+  "actualizado": "20/08/2026 10:34 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -21,6 +21,16 @@
       "fecha_dt": "2026-08-20T04:30:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd8MEotqboCNxaC9QD2Cl3O7KPIHib5ZjS8Fqcop2RUf6vxX8h0xmhDRNtkQ",
       "link": "https://trends.google.com/trending?geo=MX&q=lmb",
+      "status": ""
+    },
+    {
+      "titulo": "fortnite",
+      "descripcion": "'Fortnite' Chapter 7, Season 4 Start-Time, Battle Pass And More",
+      "trafico": "500+",
+      "fecha": "20/08/2026 06:20",
+      "fecha_dt": "2026-08-20T06:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkD_CF7-otunjnzHPxx-Octk5x7g7s1mKFl9rJbUeVCIkhx0glUKd2esmRJl8",
+      "link": "https://trends.google.com/trending?geo=MX&q=fortnite",
       "status": ""
     },
     {
@@ -64,18 +74,8 @@
       "status": ""
     },
     {
-      "titulo": "fortnite",
-      "descripcion": "Now It Will Be Sonic's Turn To Have A Gun In New Fortnite Update",
-      "trafico": "200+",
-      "fecha": "20/08/2026 06:20",
-      "fecha_dt": "2026-08-20T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj9FoOtKMxXBqsB6ZhSNvTjkK8mT_0MCVXjLzcb14RgRK4uhWoGIjRi7CJdto",
-      "link": "https://trends.google.com/trending?geo=MX&q=fortnite",
-      "status": ""
-    },
-    {
       "titulo": "vanessa huppenkothen",
-      "descripcion": "Vanessa Huppenkothen Teme Por Su Vida",
+      "descripcion": "Vanessa Huppenkothen teme por su vida",
       "trafico": "200+",
       "fecha": "20/08/2026 06:00",
       "fecha_dt": "2026-08-20T06:00:00+00:00",
