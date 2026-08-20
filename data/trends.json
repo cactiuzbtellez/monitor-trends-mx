@@ -1,11 +1,11 @@
 {
-  "actualizado": "20/08/2026 10:34 UTC",
+  "actualizado": "20/08/2026 11:29 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "nominados de la casa de los famosos",
-      "descripcion": "¿A qué hora y dónde ver la cuarta nominación de La Casa de los Famosos México 2026?",
+      "descripcion": "Ve aquí EN VIVO la cuarta gala de nominación de La Casa de los Famosos México 2026",
       "trafico": "5000+",
       "fecha": "20/08/2026 05:00",
       "fecha_dt": "2026-08-20T05:00:00+00:00",
@@ -14,13 +14,23 @@
       "status": ""
     },
     {
-      "titulo": "lmb",
-      "descripcion": "Ahora, a desplumar a Pericos",
-      "trafico": "2000+",
-      "fecha": "20/08/2026 04:30",
-      "fecha_dt": "2026-08-20T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd8MEotqboCNxaC9QD2Cl3O7KPIHib5ZjS8Fqcop2RUf6vxX8h0xmhDRNtkQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=lmb",
+      "titulo": "banco del bienestar",
+      "descripcion": "Banco del Bienestar depositará hasta 25,800 pesos antes de terminar 2026 a quienes cumplan este ÚNICO REQUISITO",
+      "trafico": "1000+",
+      "fecha": "20/08/2026 11:10",
+      "fecha_dt": "2026-08-20T11:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ1jcKyQ3CXLKAE1RaoEYWhXx7ge4UGIlWes6HdckwK4mRx1P9IrkAkVCOxGA",
+      "link": "https://trends.google.com/trending?geo=MX&q=banco+del+bienestar",
+      "status": ""
+    },
+    {
+      "titulo": "luka modrić",
+      "descripcion": "Luka Modric’s daughter, Ema, joins Real Madrid Women’s Academy",
+      "trafico": "500+",
+      "fecha": "20/08/2026 06:50",
+      "fecha_dt": "2026-08-20T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgUFPgBlhdqFKTlgb4nqwS2f0vdTocD00kx4GJ5u3Cy2vf7os7w0XujUhICbA",
+      "link": "https://trends.google.com/trending?geo=MX&q=luka+modrić",
       "status": ""
     },
     {
@@ -34,12 +44,22 @@
       "status": ""
     },
     {
+      "titulo": "vanessa huppenkothen",
+      "descripcion": "Vanessa Huppenkothen Teme Por Su Vida",
+      "trafico": "500+",
+      "fecha": "20/08/2026 06:00",
+      "fecha_dt": "2026-08-20T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtBe63l--0qwMLOKSfKF_foCbve3GvncR3vr-mlZs_wExEbO6jv1bT8zLnC8",
+      "link": "https://trends.google.com/trending?geo=MX&q=vanessa+huppenkothen",
+      "status": ""
+    },
+    {
       "titulo": "toros de tijuana",
-      "descripcion": "Toros receta blanqueada a Charros para llevarse el primer duelo de la Serie de Zona",
+      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 2 de la Serie de Zona de la LMB",
       "trafico": "500+",
       "fecha": "20/08/2026 04:50",
       "fecha_dt": "2026-08-20T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuAAVCdliYXxHtvVjYqa-JcGKmcIHgckcnrj-FRL7X8GK0sQJuMBiqMJPa2GE",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
       "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
       "status": ""
     },
@@ -54,16 +74,6 @@
       "status": ""
     },
     {
-      "titulo": "luka modrić",
-      "descripcion": "Luka Modric’s daughter, Ema, joins Real Madrid Women’s Academy",
-      "trafico": "200+",
-      "fecha": "20/08/2026 06:50",
-      "fecha_dt": "2026-08-20T06:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgUFPgBlhdqFKTlgb4nqwS2f0vdTocD00kx4GJ5u3Cy2vf7os7w0XujUhICbA",
-      "link": "https://trends.google.com/trending?geo=MX&q=luka+modrić",
-      "status": ""
-    },
-    {
       "titulo": "clima acapulco",
       "descripcion": "Clima en Acapulco: Jueves 20 de agosto con lluvia ligera y ambiente templado",
       "trafico": "200+",
@@ -71,16 +81,6 @@
       "fecha_dt": "2026-08-20T06:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPUffyc2bw3dXXVOTWrhO2AZzmkTxj0ecyxJKQehaeiPo_hcyTws7SOhts71M",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+acapulco",
-      "status": ""
-    },
-    {
-      "titulo": "vanessa huppenkothen",
-      "descripcion": "Vanessa Huppenkothen teme por su vida",
-      "trafico": "200+",
-      "fecha": "20/08/2026 06:00",
-      "fecha_dt": "2026-08-20T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtBe63l--0qwMLOKSfKF_foCbve3GvncR3vr-mlZs_wExEbO6jv1bT8zLnC8",
-      "link": "https://trends.google.com/trending?geo=MX&q=vanessa+huppenkothen",
       "status": ""
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "epic",
-      "descripcion": "Brand-New Lumen Mode Is Coming To Unreal Engine 6",
+      "descripcion": "Epic Games is \"Friends Again\" with Samsung and Google",
       "trafico": "100+",
       "fecha": "20/08/2026 05:40",
       "fecha_dt": "2026-08-20T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRghOQMxyLQG2nlp4cMPBlMdK7krhF1aL_vhsT30zKTn1Ot_KvUuC1L4CZTxQ",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDb4sM_mFd1tOSSFtFFxGsXX6wPmj5QRZnNkJjBAr7qio9gZA_2fHrO4o2aoQ",
       "link": "https://trends.google.com/trending?geo=MX&q=epic",
       "status": ""
     }
