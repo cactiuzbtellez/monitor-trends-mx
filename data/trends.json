@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 11:29 UTC",
+  "actualizado": "20/08/2026 12:55 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -16,7 +16,7 @@
     {
       "titulo": "banco del bienestar",
       "descripcion": "Banco del Bienestar depositará hasta 25,800 pesos antes de terminar 2026 a quienes cumplan este ÚNICO REQUISITO",
-      "trafico": "1000+",
+      "trafico": "2000+",
       "fecha": "20/08/2026 11:10",
       "fecha_dt": "2026-08-20T11:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJ1jcKyQ3CXLKAE1RaoEYWhXx7ge4UGIlWes6HdckwK4mRx1P9IrkAkVCOxGA",
@@ -54,18 +54,28 @@
       "status": ""
     },
     {
-      "titulo": "toros de tijuana",
-      "descripcion": "Charros vs Toros | Momentos destacados EN VIVO | Juego 2 de la Serie de Zona de la LMB",
-      "trafico": "500+",
-      "fecha": "20/08/2026 04:50",
-      "fecha_dt": "2026-08-20T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEgxJHgyCiX12XXTdSlNqD_fPrVKsgnTqlMsUXlkBrT3oXWOY8lSHkvjwYZF0",
-      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
+      "titulo": "bbc news mundo",
+      "descripcion": "Sismo en Colombia: pediatra puso a salvo a diez bebés",
+      "trafico": "200+",
+      "fecha": "20/08/2026 12:20",
+      "fecha_dt": "2026-08-20T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH6UCh-WghZGcynDWiqvTPIsvc-ysDULw92uKz6fcMjc3FBZ4SfGoNrEOy5CI",
+      "link": "https://trends.google.com/trending?geo=MX&q=bbc+news+mundo",
+      "status": ""
+    },
+    {
+      "titulo": "clima hoy",
+      "descripcion": "¡Alista el paraguas! Prevén lluvias muy fuertes con puntuales intensas en Jalisco para este jueves",
+      "trafico": "200+",
+      "fecha": "20/08/2026 12:20",
+      "fecha_dt": "2026-08-20T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5SK7Hs2RbgtDv4iXVAgviyKn5ZnK1Ct4MmWVG3xVFavkrAHdSz6V82xNBqz0",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+hoy",
       "status": ""
     },
     {
       "titulo": "g",
-      "descripcion": "What Do We Make Of Karol G’s ‘No Me Arrepiento de Sentir Tanto’ Top 10 Debut?",
+      "descripcion": "No Regrets, Just No. 1s: Karol G’s ‘No Me Arrepiento De Sentir Tanto’ Debuts Atop Top Latin Albums Chart",
       "trafico": "200+",
       "fecha": "20/08/2026 08:00",
       "fecha_dt": "2026-08-20T08:00:00+00:00",
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-20T04:50:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0BAEylO4PJpKSCCtST2ZYVecWbASBz_dugReq32zwsK5Rt70TznLa-a6kkus",
       "link": "https://trends.google.com/trending?geo=MX&q=rauw+alejandro",
-      "status": ""
-    },
-    {
-      "titulo": "epic",
-      "descripcion": "Epic Games is \"Friends Again\" with Samsung and Google",
-      "trafico": "100+",
-      "fecha": "20/08/2026 05:40",
-      "fecha_dt": "2026-08-20T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDb4sM_mFd1tOSSFtFFxGsXX6wPmj5QRZnNkJjBAr7qio9gZA_2fHrO4o2aoQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=epic",
       "status": ""
     }
   ]
