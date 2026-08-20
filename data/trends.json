@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 06:52 UTC",
+  "actualizado": "20/08/2026 07:43 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -64,6 +64,16 @@
       "status": ""
     },
     {
+      "titulo": "vanessa huppenkothen",
+      "descripcion": "Vanessa Huppenkothen transmite en vivo incidente con presuntos montachoques",
+      "trafico": "200+",
+      "fecha": "20/08/2026 06:00",
+      "fecha_dt": "2026-08-20T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn9OpJoS3iT89BOHIvPadAQJXLanI2U5dWuR30EhPh2Scp9maDXIdoJdhCnBE",
+      "link": "https://trends.google.com/trending?geo=MX&q=vanessa+huppenkothen",
+      "status": ""
+    },
+    {
       "titulo": "rauw alejandro",
       "descripcion": "Rauw Alejandro ya es papá junto a su pareja, reportan",
       "trafico": "200+",
@@ -74,23 +84,13 @@
       "status": ""
     },
     {
-      "titulo": "dodgers hoy",
-      "descripcion": "¿Dónde ver el Rockies - Dodgers? Canal de TV para ver el juego y horario de inicio en el Coors Field",
-      "trafico": "200+",
-      "fecha": "20/08/2026 04:30",
-      "fecha_dt": "2026-08-20T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc_SreYbl6-fj4hnjU1k-LlI2kqidm4iXdBXDXVhybrV1QvfJ562gRBSiQXo8",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "vanessa huppenkothen",
-      "descripcion": "Vanessa Huppenkothen transmite en vivo incidente con presuntos montachoques",
+      "titulo": "luka modrić",
+      "descripcion": "CONFIRMADO: Modric ficha con el Real Madrid, tras su paso con el Milan",
       "trafico": "100+",
-      "fecha": "20/08/2026 06:00",
-      "fecha_dt": "2026-08-20T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn9OpJoS3iT89BOHIvPadAQJXLanI2U5dWuR30EhPh2Scp9maDXIdoJdhCnBE",
-      "link": "https://trends.google.com/trending?geo=MX&q=vanessa+huppenkothen",
+      "fecha": "20/08/2026 06:50",
+      "fecha_dt": "2026-08-20T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDUrqXByQFWozjQBG_kjQb27EBzoPAtnv_RIGQ0F1MLSmeiva0Njtrv_1v-3g",
+      "link": "https://trends.google.com/trending?geo=MX&q=luka+modrić",
       "status": ""
     },
     {
