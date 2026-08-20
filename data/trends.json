@@ -1,8 +1,28 @@
 {
-  "actualizado": "20/08/2026 04:40 UTC",
+  "actualizado": "20/08/2026 05:33 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "vancouver vs houston",
+      "descripcion": "WATCH: Houston down Vancouver to go top of Western Conference",
+      "trafico": "2000+",
+      "fecha": "20/08/2026 04:20",
+      "fecha_dt": "2026-08-20T04:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSY9qOdydJu0BB6PX5lLrPtHZfXeELmYZENVdIQBJy1PKYT-v86fyMfFTGxi4k",
+      "link": "https://trends.google.com/trending?geo=MX&q=vancouver+vs+houston",
+      "status": ""
+    },
+    {
+      "titulo": "nominados de la casa de los famosos",
+      "descripcion": "¿A qué hora y dónde ver la cuarta nominación de La Casa de los Famosos México 2026?",
+      "trafico": "1000+",
+      "fecha": "20/08/2026 05:00",
+      "fecha_dt": "2026-08-20T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc-gW41iOg9RyzTKofChbijTZwh1d9-tomwoBTCMfeksuzUtPgws0kao6fD0k",
+      "link": "https://trends.google.com/trending?geo=MX&q=nominados+de+la+casa+de+los+famosos",
+      "status": ""
+    },
     {
       "titulo": "lmb",
       "descripcion": "LA PREVIA EMPLUMADA: PERICOS VS DIABLOS – SERIE DE ZONA",
@@ -14,32 +34,32 @@
       "status": ""
     },
     {
-      "titulo": "dodgers vs rockies",
-      "descripcion": "Colorado Rockies vs Los Angeles Dodgers MLB Picks, Odds & Predictions",
-      "trafico": "1000+",
-      "fecha": "20/08/2026 03:40",
-      "fecha_dt": "2026-08-20T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG60WzFEZwmdQCnMpoS6RbMnJMYA_B9asIJWoAVrbcMG7YjI_U0otCqePHSuc",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs+rockies",
+      "titulo": "hirving lozano",
+      "descripcion": "El 'Chucky' Lozano debuta en casa y Joseph Paintsil le da tres puntos al LA Galaxy ante Earthquakes",
+      "trafico": "500+",
+      "fecha": "20/08/2026 05:00",
+      "fecha_dt": "2026-08-20T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjSjpZa0FhcpvsV0_nbiInOSU2AZOL8P3T0ts00-gYuDE5mRnU4Iwz6tZ8qCE",
+      "link": "https://trends.google.com/trending?geo=MX&q=hirving+lozano",
       "status": ""
     },
     {
-      "titulo": "omar garcía harfuch",
-      "descripcion": "Sheinbaum advierte doble discurso de la DEA: reconoce a Harfuch pero reitera acusaciones sobre narcotráfico",
+      "titulo": "club puebla",
+      "descripcion": "¡Triunfo Camotero! Puebla vence a Pachuca en un partido frenético para terminar la Jornada 4",
       "trafico": "500+",
-      "fecha": "20/08/2026 03:20",
-      "fecha_dt": "2026-08-20T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAYfv2wXu1VyVfYa-5oDpfYnQjOJruE3sK3fTNceSOHkhnVk0h3x3wYEC59sc",
-      "link": "https://trends.google.com/trending?geo=MX&q=omar+garcía+harfuch",
+      "fecha": "20/08/2026 04:10",
+      "fecha_dt": "2026-08-20T04:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB9KuoonDb5R23PnW3-yu5EuWqmSUjtJy5CZYL6QiaBeoDFHYNsAQ2jVJp1js",
+      "link": "https://trends.google.com/trending?geo=MX&q=club+puebla",
       "status": ""
     },
     {
       "titulo": "dodgers hoy",
-      "descripcion": "¿Dónde ver el Rockies - Dodgers? Canal de TV para ver el juego y horario de inicio en el Coors Field",
+      "descripcion": "Dodgers vs. Brewers EN VIVO: ¿A qué hora y dónde ver juego HOY 16 de agosto MLB 2026?",
       "trafico": "200+",
       "fecha": "20/08/2026 04:30",
       "fecha_dt": "2026-08-20T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc_SreYbl6-fj4hnjU1k-LlI2kqidm4iXdBXDXVhybrV1QvfJ562gRBSiQXo8",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReei3H0e9hQi2OcmAJxL0W19OmmlAMkXzToDB-0gDjACNd3gLVSHK6uZcxJME",
       "link": "https://trends.google.com/trending?geo=MX&q=dodgers+hoy",
       "status": ""
     },
@@ -54,53 +74,33 @@
       "status": ""
     },
     {
-      "titulo": "club puebla",
-      "descripcion": "¡Triunfo Camotero! Puebla vence a Pachuca en un partido frenético para terminar la Jornada 4",
-      "trafico": "200+",
-      "fecha": "20/08/2026 04:10",
-      "fecha_dt": "2026-08-20T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRB9KuoonDb5R23PnW3-yu5EuWqmSUjtJy5CZYL6QiaBeoDFHYNsAQ2jVJp1js",
-      "link": "https://trends.google.com/trending?geo=MX&q=club+puebla",
+      "titulo": "toros de tijuana",
+      "descripcion": "Toros receta blanqueada a Charros para llevarse el primer duelo de la Serie de Zona",
+      "trafico": "100+",
+      "fecha": "20/08/2026 04:50",
+      "fecha_dt": "2026-08-20T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuAAVCdliYXxHtvVjYqa-JcGKmcIHgckcnrj-FRL7X8GK0sQJuMBiqMJPa2GE",
+      "link": "https://trends.google.com/trending?geo=MX&q=toros+de+tijuana",
       "status": ""
     },
     {
-      "titulo": "marie claire",
-      "descripcion": "Horoscope chinois du Jeudi 20 août 2026 : un carrefour Métal-Yin ouvre une fenêtre discrète vers la clarté intérieure",
-      "trafico": "200+",
-      "fecha": "20/08/2026 04:00",
-      "fecha_dt": "2026-08-20T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn1yT9iMk0lTKLs7p7RmSHRM_XBABcA8JSm_eYcAnkoaJaVouMI1kDgetUFqE",
-      "link": "https://trends.google.com/trending?geo=MX&q=marie+claire",
+      "titulo": "rauw alejandro",
+      "descripcion": "Rauw Alejandro ya es papá junto a su pareja, reportan",
+      "trafico": "100+",
+      "fecha": "20/08/2026 04:50",
+      "fecha_dt": "2026-08-20T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0BAEylO4PJpKSCCtST2ZYVecWbASBz_dugReq32zwsK5Rt70TznLa-a6kkus",
+      "link": "https://trends.google.com/trending?geo=MX&q=rauw+alejandro",
       "status": ""
     },
     {
-      "titulo": "galaxy vs",
-      "descripcion": "LA Galaxy vs SJ Earthquakes match lineup | Major League Soccer · 20 Aug 2026",
-      "trafico": "200+",
-      "fecha": "20/08/2026 04:00",
-      "fecha_dt": "2026-08-20T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnadi4pFVi2ouGoRtTy2_2SzRylFqpXz3wV1__8qdKe0yZW8DjITDxYbnKE30",
-      "link": "https://trends.google.com/trending?geo=MX&q=galaxy+vs",
-      "status": ""
-    },
-    {
-      "titulo": "robert lewandowski",
-      "descripcion": "Mecz Lewandowskiego nagle przerwany. Bezlitosna decyzja Amerykanów",
-      "trafico": "200+",
-      "fecha": "20/08/2026 04:00",
-      "fecha_dt": "2026-08-20T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgg5xoGp-1ozHktheb0trGK5pEUzJFIgjdhRu13-Z2aHUsw7XQQrRxpftoClY",
-      "link": "https://trends.google.com/trending?geo=MX&q=robert+lewandowski",
-      "status": ""
-    },
-    {
-      "titulo": "príncipe harry, duque de sussex",
-      "descripcion": "El príncipe Harry y Meghan Markle planean vivir cerca de Londres junto a sus hijos",
-      "trafico": "200+",
-      "fecha": "20/08/2026 03:20",
-      "fecha_dt": "2026-08-20T03:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfiwDoKANMng6IA8vn4MRzl-XIKfc5HX0U17D2Eo0eDHGTJ59hjiJFzoNCdLM",
-      "link": "https://trends.google.com/trending?geo=MX&q=príncipe+harry,+duque+de+sussex",
+      "titulo": "vancouver vs",
+      "descripcion": "Atlético Ottawa vs Vancouver FC Live Stream: How to Watch Canadian Premier League",
+      "trafico": "100+",
+      "fecha": "20/08/2026 04:40",
+      "fecha_dt": "2026-08-20T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFei1hXK84oAFKSB9HIEhugely2RskKCEgV-Saw9ihvqWGakSF4uBcYM5XRco",
+      "link": "https://trends.google.com/trending?geo=MX&q=vancouver+vs",
       "status": ""
     }
   ]
