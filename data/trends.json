@@ -1,46 +1,66 @@
 {
-  "actualizado": "20/08/2026 02:59 UTC",
+  "actualizado": "20/08/2026 03:53 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "timbers - san diego fc",
-      "descripcion": "Portland Timbers vs San Diego Prediction & Preview | 20 Aug 2026",
-      "trafico": "2000+",
-      "fecha": "20/08/2026 01:50",
-      "fecha_dt": "2026-08-20T01:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6jqGxoMMNfRZZW-i129jBM8yYi2mR6q28-iLHklXRbfVk9FSL1bjKt-P94aI",
-      "link": "https://trends.google.com/trending?geo=MX&q=timbers+-+san+diego+fc",
-      "status": ""
-    },
-    {
-      "titulo": "el niño",
-      "descripcion": "UNAM prevé calor extremo por El Niño en 2027: podría \"rebasar los límites de resistencia humana”",
-      "trafico": "2000+",
-      "fecha": "20/08/2026 01:50",
-      "fecha_dt": "2026-08-20T01:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD-t6QKRoS5zKiNHhNsW9We3LGE0lsJT4SCdWEUU70ofnCx4XRHHNtpWkMY9g",
-      "link": "https://trends.google.com/trending?geo=MX&q=el+niño",
-      "status": ""
-    },
-    {
-      "titulo": "whitecaps - dynamo",
-      "descripcion": "Match Preview: Best of the Western Conference",
-      "trafico": "1000+",
-      "fecha": "20/08/2026 01:50",
-      "fecha_dt": "2026-08-20T01:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7jpJ5UgdtzTpM9FhhOQbRBhpF7vliMtLNN8kiQPnlahCuYS7bB8XGwfZNnfc",
-      "link": "https://trends.google.com/trending?geo=MX&q=whitecaps+-+dynamo",
-      "status": ""
-    },
-    {
-      "titulo": "aryna sabalenka",
-      "descripcion": "Cincinnati Open: Aryna Sabalenka wins but Daniil Medvedev's frustrations boil over",
+      "titulo": "sara bejlek",
+      "descripcion": "Licensable picture: Aryna Sabalenka, of Belarus, returns to Sara Bejlek, of Czech Republic, at the Cincinnati Open at the Lindner Family Tennis",
       "trafico": "500+",
-      "fecha": "20/08/2026 02:30",
-      "fecha_dt": "2026-08-20T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9mUDfQdEvI9RLvj1AZo5ShcpP4u5DefQQDED3Hr3ZBeZcYsTRa4678GaqNWE",
-      "link": "https://trends.google.com/trending?geo=MX&q=aryna+sabalenka",
+      "fecha": "20/08/2026 03:00",
+      "fecha_dt": "2026-08-20T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgMEkFwbTYYqxhdefTcU9yQ4nXFHtzOvscSY3arnNwktKAzL8UxFM2_b8h1rE",
+      "link": "https://trends.google.com/trending?geo=MX&q=sara+bejlek",
+      "status": ""
+    },
+    {
+      "titulo": "dodgers vs rockies",
+      "descripcion": "Colorado Rockies vs Los Angeles Dodgers MLB Picks, Odds & Predictions",
+      "trafico": "200+",
+      "fecha": "20/08/2026 03:40",
+      "fecha_dt": "2026-08-20T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG60WzFEZwmdQCnMpoS6RbMnJMYA_B9asIJWoAVrbcMG7YjI_U0otCqePHSuc",
+      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+vs+rockies",
+      "status": ""
+    },
+    {
+      "titulo": "la galaxy",
+      "descripcion": "LA Galaxy vs SJ Earthquakes match lineup | Major League Soccer · 20 Aug 2026",
+      "trafico": "200+",
+      "fecha": "20/08/2026 03:40",
+      "fecha_dt": "2026-08-20T03:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnadi4pFVi2ouGoRtTy2_2SzRylFqpXz3wV1__8qdKe0yZW8DjITDxYbnKE30",
+      "link": "https://trends.google.com/trending?geo=MX&q=la+galaxy",
+      "status": ""
+    },
+    {
+      "titulo": "omar garcía harfuch",
+      "descripcion": "Sheinbaum advierte doble discurso de la DEA: reconoce a Harfuch pero reitera acusaciones sobre narcotráfico",
+      "trafico": "200+",
+      "fecha": "20/08/2026 03:20",
+      "fecha_dt": "2026-08-20T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAYfv2wXu1VyVfYa-5oDpfYnQjOJruE3sK3fTNceSOHkhnVk0h3x3wYEC59sc",
+      "link": "https://trends.google.com/trending?geo=MX&q=omar+garcía+harfuch",
+      "status": ""
+    },
+    {
+      "titulo": "pericos vs diablos",
+      "descripcion": "LA PREVIA EMPLUMADA: PERICOS VS DIABLOS – SERIE DE ZONA",
+      "trafico": "200+",
+      "fecha": "20/08/2026 03:10",
+      "fecha_dt": "2026-08-20T03:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTawk3GxzESo03PhaHotY5Tni4Ps2APEzlkRvh9kCOlJFrRO_J8FsQRnB5JgbM",
+      "link": "https://trends.google.com/trending?geo=MX&q=pericos+vs+diablos",
+      "status": ""
+    },
+    {
+      "titulo": "joão pedro",
+      "descripcion": "João Pedro substitui Delap como o novo camisola 9 do Chelsea",
+      "trafico": "200+",
+      "fecha": "20/08/2026 03:00",
+      "fecha_dt": "2026-08-20T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNhhtuvxULo1ny4OB6cz2_V_FdkBMECiAc2IFSyDXQ6BZweXJX086WcDfgT0M",
+      "link": "https://trends.google.com/trending?geo=MX&q=joão+pedro",
       "status": ""
     },
     {
@@ -54,23 +74,23 @@
       "status": ""
     },
     {
-      "titulo": "valkyries - lynx",
-      "descripcion": "WNBA: Minnesota Lynx at Golden State Valkyries",
-      "trafico": "200+",
-      "fecha": "20/08/2026 02:30",
-      "fecha_dt": "2026-08-20T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlE0y_dJdwOVpyZPRtlVZaJanW_osxr1hc5KJOAzSGSUqdaOnKipR3OceAb-M",
-      "link": "https://trends.google.com/trending?geo=MX&q=valkyries+-+lynx",
+      "titulo": "príncipe harry, duque de sussex",
+      "descripcion": "El príncipe Harry y Meghan Markle planean vivir cerca de Londres junto a sus hijos",
+      "trafico": "100+",
+      "fecha": "20/08/2026 03:20",
+      "fecha_dt": "2026-08-20T03:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfiwDoKANMng6IA8vn4MRzl-XIKfc5HX0U17D2Eo0eDHGTJ59hjiJFzoNCdLM",
+      "link": "https://trends.google.com/trending?geo=MX&q=príncipe+harry,+duque+de+sussex",
       "status": ""
     },
     {
-      "titulo": "colorado rapids",
-      "descripcion": "Licensable picture: MLS: LAFC at Colorado Rapids",
-      "trafico": "200+",
-      "fecha": "20/08/2026 01:40",
-      "fecha_dt": "2026-08-20T01:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpkZG7h97xaLceLsaKErZfqFBZJXnWad7beA0f8lopjEkiS8xLt97sQlEMxBw",
-      "link": "https://trends.google.com/trending?geo=MX&q=colorado+rapids",
+      "titulo": "carles puyol",
+      "descripcion": "Carles Puyol: \"Si a alguien respetan en México, es a Rafa Márquez\"",
+      "trafico": "100+",
+      "fecha": "20/08/2026 03:00",
+      "fecha_dt": "2026-08-20T03:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14oWcPBE0U7Dgkc03zBiGewoQoXq4O2uTjq5kRIn36SYoUdroKlzJGrHBdgQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=carles+puyol",
       "status": ""
     },
     {
@@ -79,28 +99,8 @@
       "trafico": "100+",
       "fecha": "20/08/2026 02:50",
       "fecha_dt": "2026-08-20T02:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3huDiyk6uTghmPwT4EefipbnDKcBJ1wyT1Rs9-STGUYqSkh4iobfrX8ktjQM",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWERNefLj3Bfi_YvfBhM9P0Z1rz_ltMWe1La7vs8Lk0Jbyip-kJ9RRT2aKd5Y",
       "link": "https://trends.google.com/trending?geo=MX&q=autopista+méxico+-+pachuca",
-      "status": ""
-    },
-    {
-      "titulo": "hugo rodallega",
-      "descripcion": "Capitanes históricos: Rodallega y Otamendi, los líderes que se enfrentan en Santa Fe vs. River por la Sudamericana",
-      "trafico": "100+",
-      "fecha": "20/08/2026 02:00",
-      "fecha_dt": "2026-08-20T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSz_a6mLVc9T5izmEBeYaFKJvYYAvXqYyxOWfw5HOe973C8bB7onF613KGYYVE",
-      "link": "https://trends.google.com/trending?geo=MX&q=hugo+rodallega",
-      "status": ""
-    },
-    {
-      "titulo": "mosca",
-      "descripcion": "Activan medidas en Ciudad Juárez para prevenir propagación del gusano barrenador",
-      "trafico": "100+",
-      "fecha": "20/08/2026 01:30",
-      "fecha_dt": "2026-08-20T01:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYpRX2-_LV-UbrM48vIvMZhAoukaFCoW9_z3A9x5hG1jMo9EL-Nab6PdT_X8s",
-      "link": "https://trends.google.com/trending?geo=MX&q=mosca",
       "status": ""
     }
   ]
