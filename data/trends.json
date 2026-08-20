@@ -1,26 +1,16 @@
 {
-  "actualizado": "20/08/2026 07:43 UTC",
+  "actualizado": "20/08/2026 08:42 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "nominados de la casa de los famosos",
       "descripcion": "¿A qué hora y dónde ver la cuarta nominación de La Casa de los Famosos México 2026?",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "fecha": "20/08/2026 05:00",
       "fecha_dt": "2026-08-20T05:00:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc-gW41iOg9RyzTKofChbijTZwh1d9-tomwoBTCMfeksuzUtPgws0kao6fD0k",
       "link": "https://trends.google.com/trending?geo=MX&q=nominados+de+la+casa+de+los+famosos",
-      "status": ""
-    },
-    {
-      "titulo": "lmb",
-      "descripcion": "Ahora, a desplumar a Pericos",
-      "trafico": "2000+",
-      "fecha": "20/08/2026 04:30",
-      "fecha_dt": "2026-08-20T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnd8MEotqboCNxaC9QD2Cl3O7KPIHib5ZjS8Fqcop2RUf6vxX8h0xmhDRNtkQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=lmb",
       "status": ""
     },
     {
@@ -44,6 +34,16 @@
       "status": ""
     },
     {
+      "titulo": "g",
+      "descripcion": "What Do We Make Of Karol G’s ‘No Me Arrepiento de Sentir Tanto’ Top 10 Debut?",
+      "trafico": "200+",
+      "fecha": "20/08/2026 08:00",
+      "fecha_dt": "2026-08-20T08:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdESg_VTRWj1kaLhT2-ygWRY-6KDdZ1SAZ6xz6-tzsCedTnsm_gowl_uxpzoo",
+      "link": "https://trends.google.com/trending?geo=MX&q=g",
+      "status": ""
+    },
+    {
       "titulo": "clima acapulco",
       "descripcion": "Clima en Acapulco: Jueves 20 de agosto con lluvia ligera y ambiente templado",
       "trafico": "200+",
@@ -55,21 +55,21 @@
     },
     {
       "titulo": "fortnite",
-      "descripcion": "'Fortnite' Chapter 7, Season 4 Start-Time, Battle Pass And More",
+      "descripcion": "Now It Will Be Sonic's Turn To Have A Gun In New Fortnite Update",
       "trafico": "200+",
       "fecha": "20/08/2026 06:20",
       "fecha_dt": "2026-08-20T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkD_CF7-otunjnzHPxx-Octk5x7g7s1mKFl9rJbUeVCIkhx0glUKd2esmRJl8",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQj9FoOtKMxXBqsB6ZhSNvTjkK8mT_0MCVXjLzcb14RgRK4uhWoGIjRi7CJdto",
       "link": "https://trends.google.com/trending?geo=MX&q=fortnite",
       "status": ""
     },
     {
       "titulo": "vanessa huppenkothen",
-      "descripcion": "Vanessa Huppenkothen transmite en vivo incidente con presuntos montachoques",
+      "descripcion": "Vanessa Huppenkothen Teme Por Su Vida",
       "trafico": "200+",
       "fecha": "20/08/2026 06:00",
       "fecha_dt": "2026-08-20T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn9OpJoS3iT89BOHIvPadAQJXLanI2U5dWuR30EhPh2Scp9maDXIdoJdhCnBE",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbtBe63l--0qwMLOKSfKF_foCbve3GvncR3vr-mlZs_wExEbO6jv1bT8zLnC8",
       "link": "https://trends.google.com/trending?geo=MX&q=vanessa+huppenkothen",
       "status": ""
     },
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "epic",
-      "descripcion": "Apple’s $100bn services business starts to feel the cost of antitrust attacks",
+      "descripcion": "Brand-New Lumen Mode Is Coming To Unreal Engine 6",
       "trafico": "100+",
       "fecha": "20/08/2026 05:40",
       "fecha_dt": "2026-08-20T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLy5ynJcklvlW851WhIPei9HlMfg1dIpqeRTib7zZ5Fhfd_elAmw-fpuM1cDs",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRghOQMxyLQG2nlp4cMPBlMdK7krhF1aL_vhsT30zKTn1Ot_KvUuC1L4CZTxQ",
       "link": "https://trends.google.com/trending?geo=MX&q=epic",
       "status": ""
     }
