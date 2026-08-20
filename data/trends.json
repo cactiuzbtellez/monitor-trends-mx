@@ -1,8 +1,18 @@
 {
-  "actualizado": "20/08/2026 15:37 UTC",
+  "actualizado": "20/08/2026 16:38 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "tipo de cambio dolar",
+      "descripcion": "Peso ‘rompe el piso’ de las 17 unidades por dólar, a mínimos desde 2024",
+      "trafico": "5000+",
+      "fecha": "20/08/2026 16:20",
+      "fecha_dt": "2026-08-20T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSimc74sxIh3xLk1K6Vg0CmSNGENa6UMYtW_2lXC13jtHl7TvSW9qHrqvVOKk8",
+      "link": "https://trends.google.com/trending?geo=MX&q=tipo+de+cambio+dolar",
+      "status": ""
+    },
     {
       "titulo": "olympiacos fc",
       "descripcion": "'Hormiga' confiesa que va a Olympiacos: Este proyecto me gustó",
@@ -14,93 +24,83 @@
       "status": ""
     },
     {
-      "titulo": "beca",
-      "descripcion": "Becas Bienestar: del 24 al 28 de agosto, pagos pendientes para tarjetas recién entregadas",
-      "trafico": "2000+",
-      "fecha": "20/08/2026 14:20",
-      "fecha_dt": "2026-08-20T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS96DzFfZ5GYi3gkt07fDBaFUeFeHVJCBCtKZt8d9LrL572nugFpaF_FGA0buY",
-      "link": "https://trends.google.com/trending?geo=MX&q=beca",
-      "status": ""
-    },
-    {
-      "titulo": "ricardo salinas pliego",
-      "descripcion": "Ricardo Salinas Pliego abre nuevo frente en lucha contra los tenedores de bonos de TV Azteca",
-      "trafico": "500+",
-      "fecha": "20/08/2026 14:10",
-      "fecha_dt": "2026-08-20T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpG-jnqMv8dFXbxyzarS6g940-zs3fO6AU4fseqRxVqqvC_Yx05lPBTjOg6o",
-      "link": "https://trends.google.com/trending?geo=MX&q=ricardo+salinas+pliego",
-      "status": ""
-    },
-    {
-      "titulo": "bélgica",
-      "descripcion": "Bélgica controla el mayor incendio forestal de su historia",
+      "titulo": "inter turku - copenhague",
+      "descripcion": "Inter Turku vs Copenhagen: UEFA Conference League stats & head-to-head",
       "trafico": "200+",
-      "fecha": "20/08/2026 14:20",
-      "fecha_dt": "2026-08-20T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBJxxIwNnl-SoDxIKmUcf5LqbdzYU_B7IY7awQdtZ7Owen7MANCgnPavvlx5U",
-      "link": "https://trends.google.com/trending?geo=MX&q=bélgica",
+      "fecha": "20/08/2026 16:10",
+      "fecha_dt": "2026-08-20T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9JQZMD6xbE-6D9j7bcWLj6oKV6mEvbr7nAz58nzz4xn1P8qRBfcJSxeBV43s",
+      "link": "https://trends.google.com/trending?geo=MX&q=inter+turku+-+copenhague",
       "status": ""
     },
     {
-      "titulo": "clima slp",
-      "descripcion": "Lluvias y calor marcarán el clima de SLP este miércoles",
+      "titulo": "liga conferencia",
+      "descripcion": "",
       "trafico": "200+",
-      "fecha": "20/08/2026 14:20",
-      "fecha_dt": "2026-08-20T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxyV2n7zTsd7dpN9MspBqlRDv4Cxrb7lZs27G5kjrc9cCRB4wGmWkoDaEUtmk",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+slp",
+      "fecha": "20/08/2026 16:10",
+      "fecha_dt": "2026-08-20T16:10:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=liga+conferencia",
+      "status": ""
+    },
+    {
+      "titulo": "bryan randall",
+      "descripcion": "Sandra Bullock says Bryan Randall was ill for 'half of our relationship' as she opens up about his death",
+      "trafico": "200+",
+      "fecha": "20/08/2026 15:40",
+      "fecha_dt": "2026-08-20T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCW5fDfq6tMwyyHHyF9C-OZOTxr54s8rsSwzhRZv2DOrmprl2MLQQI8TbgUEo",
+      "link": "https://trends.google.com/trending?geo=MX&q=bryan+randall",
+      "status": ""
+    },
+    {
+      "titulo": "calendario escolar 2026 a 2027 sep",
+      "descripcion": "Regreso a clases 2026: ¿Cuándo terminan las vacaciones de verano en México?",
+      "trafico": "200+",
+      "fecha": "20/08/2026 15:20",
+      "fecha_dt": "2026-08-20T15:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQGCQQ178eFwKbGib_xYn1zUPcHq3LZa9m-PmmlaVfQBYxoAAhJke6tEw7NVo",
+      "link": "https://trends.google.com/trending?geo=MX&q=calendario+escolar+2026+a+2027+sep",
+      "status": ""
+    },
+    {
+      "titulo": "salzburgo fc",
+      "descripcion": "",
+      "trafico": "100+",
+      "fecha": "20/08/2026 16:30",
+      "fecha_dt": "2026-08-20T16:30:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=salzburgo+fc",
+      "status": ""
+    },
+    {
+      "titulo": "confederación asiática de fútbol",
+      "descripcion": "Catar exige a la Confederación Asiática consultar a sus miembros en la crisis de Infantino",
+      "trafico": "100+",
+      "fecha": "20/08/2026 16:20",
+      "fecha_dt": "2026-08-20T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFWCRQwvL7wQviHRsy0LRprEaKGkR1zZPhZlILvNLaU28wyxA3Jb1GqXqPFHg",
+      "link": "https://trends.google.com/trending?geo=MX&q=confederación+asiática+de+fútbol",
+      "status": ""
+    },
+    {
+      "titulo": "anderlecht",
+      "descripcion": "César Huerta está a un paso de regresar a Liga MX y ya hay un equipo campeón que quiere ficharlo",
+      "trafico": "100+",
+      "fecha": "20/08/2026 16:00",
+      "fecha_dt": "2026-08-20T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGWRgvACEmOZ2StV6jZ-snaIeJcJcE314jCi1aEuqhaCUvX0WY16nPfoGPZA8",
+      "link": "https://trends.google.com/trending?geo=MX&q=anderlecht",
       "status": ""
     },
     {
       "titulo": "record",
-      "descripcion": "U.S. Open To Pay Players $108 Million, The Highest Total In Tennis",
+      "descripcion": "US Open singles champs to get record $5.5M as prize pool rises 20%",
       "trafico": "100+",
       "fecha": "20/08/2026 15:20",
       "fecha_dt": "2026-08-20T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSMK9UWGJ6nndLTWc8z0oN8rlKkK3953PkMP2jpILFstnPlXJRJO6dgW6An9U",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IR2vGjzYXAm8SH8LNiB3HdgG8XYDOMbJLkbU6TBI9Cf-19R_dqXv5yiI7DE",
       "link": "https://trends.google.com/trending?geo=MX&q=record",
-      "status": ""
-    },
-    {
-      "titulo": "europa league",
-      "descripcion": "Benfica vs AGF: UEFA Europa League stats & head-to-head",
-      "trafico": "100+",
-      "fecha": "20/08/2026 15:00",
-      "fecha_dt": "2026-08-20T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-      "link": "https://trends.google.com/trending?geo=MX&q=europa+league",
-      "status": ""
-    },
-    {
-      "titulo": "gta 6 leaks",
-      "descripcion": "[UPDATE] GTA 6 Suffers Third Day of Leaks, Latest Video Suggests Leakers Have Access to a Build of the Game",
-      "trafico": "100+",
-      "fecha": "20/08/2026 15:00",
-      "fecha_dt": "2026-08-20T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGesucUC9AdWnLjpXAiuztyOUxXIsRrzxBxAZiTxxPbgy9gzW3U1dtgPzjsVg",
-      "link": "https://trends.google.com/trending?geo=MX&q=gta+6+leaks",
-      "status": ""
-    },
-    {
-      "titulo": "associazione calcio milan",
-      "descripcion": "Chiusura sessione estiva trasferimenti 2026",
-      "trafico": "100+",
-      "fecha": "20/08/2026 14:10",
-      "fecha_dt": "2026-08-20T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAH2u_Xh3q5IlXvZkpyMEF-nqPDFG-XrYcJBJwa_iAYiPnZSpO8XhScyqljyg",
-      "link": "https://trends.google.com/trending?geo=MX&q=associazione+calcio+milan",
-      "status": ""
-    },
-    {
-      "titulo": "esquema",
-      "descripcion": "La senadora Sara Castellanos rechazó la presunta asignación de un esquema de seguridad para Gabriela Muñoz: “Parece que el clientelismo pesa más”",
-      "trafico": "100+",
-      "fecha": "20/08/2026 14:10",
-      "fecha_dt": "2026-08-20T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5wdIPRfv88EI6skkl6V0aUZxGNWWbpDeGv7tvO_YCfNt9QH7-Tiujdc6Uyk",
-      "link": "https://trends.google.com/trending?geo=MX&q=esquema",
       "status": ""
     }
   ]
