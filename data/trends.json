@@ -1,5 +1,5 @@
 {
-  "actualizado": "21/08/2026 08:44 UTC",
+  "actualizado": "21/08/2026 09:40 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -11,6 +11,16 @@
       "fecha_dt": "2026-08-21T06:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJh37DX0eSien67ezzqv07kM7TX_15MVfJRkw9v1oenH7PaZPM9i4A-3yRczs",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
+      "status": ""
+    },
+    {
+      "titulo": "luisa maría alcalde luján",
+      "descripcion": "Luisa Alcalde cambia lista de periodistas tras polémica y presenta especialsta",
+      "trafico": "500+",
+      "fecha": "21/08/2026 05:20",
+      "fecha_dt": "2026-08-21T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0TAKvJbFg8Za2VSsZOuBm6lfr2PxMA9UPj3GmQwVqoctZXWi_HPf1Nfl_fY",
+      "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
       "status": ""
     },
     {
@@ -44,26 +54,6 @@
       "status": ""
     },
     {
-      "titulo": "luisa maría alcalde luján",
-      "descripcion": "Listas y Más Listas",
-      "trafico": "200+",
-      "fecha": "21/08/2026 05:20",
-      "fecha_dt": "2026-08-21T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqXb_4gtVzBHtd0rProd2cTiqZwSDJqz3h-phFB2FVp0MX2neaz2AIoECZKQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
-      "status": ""
-    },
-    {
-      "titulo": "adrian martinez",
-      "descripcion": "New 49ers defensive scheme could lead to young DB’s first Pro Bowl",
-      "trafico": "200+",
-      "fecha": "21/08/2026 04:40",
-      "fecha_dt": "2026-08-21T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzf7aXwMBhD6XP3fYPLh7I3hk6C0mqsdqGNu9ws2PcJ4gkhXquDdPrfnw9WoI",
-      "link": "https://trends.google.com/trending?geo=MX&q=adrian+martinez",
-      "status": ""
-    },
-    {
       "titulo": "olmecas de tabasco",
       "descripcion": "Olmecas igualan Serie de Zona tras imponerse 3-2 a Guerreros de Oaxaca",
       "trafico": "200+",
@@ -74,12 +64,22 @@
       "status": ""
     },
     {
+      "titulo": "karely ruiz",
+      "descripcion": "Karely Ruiz compra nueva casa para mudarse tras sufrir violento robo en Nuevo León: “Estoy muy feliz” | VIDEO",
+      "trafico": "100+",
+      "fecha": "21/08/2026 09:30",
+      "fecha_dt": "2026-08-21T09:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLC7a7Pj2AA-ePAuWf1aW7vTsw7j3MgiyfrpUu0qWPNQGenlhnAHXnILSVSKg",
+      "link": "https://trends.google.com/trending?geo=MX&q=karely+ruiz",
+      "status": ""
+    },
+    {
       "titulo": "eclipse lunar de agosto de 2026",
       "descripcion": "Eclipse lunar agosto 2026 en México: Hora, fecha, cómo ver y qué es la \"Luna de sangre\"",
       "trafico": "100+",
       "fecha": "21/08/2026 06:40",
       "fecha_dt": "2026-08-21T06:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTauY5nU2qS0xtLYafPzT-0gLfFCMMUIs-iA2-Z_7osNGWouvl53McDHK8hl3Q",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanBWB-LlT6cNAF6yuC9ALGF84zD-wzsxq6peKP04kU_lCevpTo9hSKJGNr0M",
       "link": "https://trends.google.com/trending?geo=MX&q=eclipse+lunar+de+agosto+de+2026",
       "status": ""
     },
