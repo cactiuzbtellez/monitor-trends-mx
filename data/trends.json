@@ -1,26 +1,26 @@
 {
-  "actualizado": "21/08/2026 06:53 UTC",
+  "actualizado": "21/08/2026 07:46 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "evacuación",
-      "descripcion": "Ruptura de tanque estacionario provoca evacuación en Las Granjas",
-      "trafico": "500+",
-      "fecha": "21/08/2026 04:30",
-      "fecha_dt": "2026-08-21T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoKZ7NPPkyvfOdnlEj7uqTsVE4xBvaVGRoCXvUMSr_97hg9_ayTB_b8BXOBkU",
-      "link": "https://trends.google.com/trending?geo=MX&q=evacuación",
-      "status": ""
-    },
-    {
       "titulo": "clima hermosillo",
       "descripcion": "Tormentas avanzan por el noroeste de Sonora y dejarán lluvias en varios municipios durante las próximas horas; se espera granizo y fuertes rachas de viento",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "21/08/2026 06:40",
       "fecha_dt": "2026-08-21T06:40:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJh37DX0eSien67ezzqv07kM7TX_15MVfJRkw9v1oenH7PaZPM9i4A-3yRczs",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
+      "status": ""
+    },
+    {
+      "titulo": "evacuación",
+      "descripcion": "Segundo Simulacro Nacional: ¿qué sí y que no hacer?",
+      "trafico": "1000+",
+      "fecha": "21/08/2026 04:30",
+      "fecha_dt": "2026-08-21T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuDX9lzZL8hiPqfrRfMZkc1o_bEwFOdzBJ5aOE4FXUo6FVzUM-s-IQOo-Sqbs",
+      "link": "https://trends.google.com/trending?geo=MX&q=evacuación",
       "status": ""
     },
     {
@@ -45,42 +45,42 @@
     },
     {
       "titulo": "luisa maría alcalde luján",
-      "descripcion": "Gran hallazgo de 'Aurora'",
+      "descripcion": "Luisa Alcalde cambia lista de periodistas tras polémica y presenta especialsta",
       "trafico": "200+",
       "fecha": "21/08/2026 05:20",
       "fecha_dt": "2026-08-21T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc5JYXS7yX2B_v7WeRsXyQ2_1xglSqlFXBlarfuqRvrQktCRb0x336AXdFvpc",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0TAKvJbFg8Za2VSsZOuBm6lfr2PxMA9UPj3GmQwVqoctZXWi_HPf1Nfl_fY",
       "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
       "status": ""
     },
     {
       "titulo": "adrian martinez",
-      "descripcion": "Martinez's 17-Yard TD to Watkins Boosts 49ers Lead to 40-9",
+      "descripcion": "New 49ers defensive scheme could lead to young DB’s first Pro Bowl",
       "trafico": "200+",
       "fecha": "21/08/2026 04:40",
       "fecha_dt": "2026-08-21T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpqh89wh8Md8AIG1Tzqa6DaqCxusybemO5OcKSIWq5I4q7dUDqc-w2fe4hudw",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzf7aXwMBhD6XP3fYPLh7I3hk6C0mqsdqGNu9ws2PcJ4gkhXquDdPrfnw9WoI",
       "link": "https://trends.google.com/trending?geo=MX&q=adrian+martinez",
       "status": ""
     },
     {
       "titulo": "olmecas de tabasco",
-      "descripcion": "Guerreros vs Oaxaca: resumen y resultado del Juego 2 de Playoffs LMB 2026 de este 20 de agosto",
+      "descripcion": "Brillante apertura de Luis Fernando Miranda da triunfo a Guerreros en Tabasco",
       "trafico": "200+",
       "fecha": "21/08/2026 04:20",
       "fecha_dt": "2026-08-21T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGxYxbrHko5J9pdKa00EfP5fSDVRgLbw9pp5CU5GB0WbVz-UfZ2dNKcvxLj7M",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZyaRYgT3orJuMJGvZN5_pXO4Ki5nTpVji6ou-G9NBhQMe8c7zh4gprGAtR4k",
       "link": "https://trends.google.com/trending?geo=MX&q=olmecas+de+tabasco",
       "status": ""
     },
     {
-      "titulo": "votos la casa de los famosos",
-      "descripcion": "Ve aquí EN VIVO el cuarto robo por la salvación de La Casa de los Famosos México 2026",
-      "trafico": "200+",
-      "fecha": "21/08/2026 04:10",
-      "fecha_dt": "2026-08-21T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQssEF8vfg5sya8LfLw1bcqovu7AJ2kGSLmv44rytq0Rg1pBw-cnhlMWbD83SY",
-      "link": "https://trends.google.com/trending?geo=MX&q=votos+la+casa+de+los+famosos",
+      "titulo": "eclipse lunar de agosto de 2026",
+      "descripcion": "Eclipse lunar agosto 2026 en México: Hora, fecha, cómo ver y qué es la \"Luna de sangre\"",
+      "trafico": "100+",
+      "fecha": "21/08/2026 06:40",
+      "fecha_dt": "2026-08-21T06:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTauY5nU2qS0xtLYafPzT-0gLfFCMMUIs-iA2-Z_7osNGWouvl53McDHK8hl3Q",
+      "link": "https://trends.google.com/trending?geo=MX&q=eclipse+lunar+de+agosto+de+2026",
       "status": ""
     },
     {
