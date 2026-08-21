@@ -1,12 +1,12 @@
 {
-  "actualizado": "21/08/2026 13:48 UTC",
+  "actualizado": "21/08/2026 14:38 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "portaviones",
       "descripcion": "Exclusivo CNN: la Marina evalúa cambiar a Trump el nombre de un portaviones que honraría a héroe de guerra negro",
-      "trafico": "500+",
+      "trafico": "1000+",
       "fecha": "21/08/2026 13:20",
       "fecha_dt": "2026-08-21T13:20:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo5x36YH5yMKgRMDt_ULGZLNWZ-hKrnBqfYgoe8evRowxxRgokiAQLRrqcBQI",
@@ -55,22 +55,32 @@
     },
     {
       "titulo": "ucrania",
-      "descripcion": "Ucrania cataloga a \"Masha y el Oso\" como propaganda rusa",
+      "descripcion": "Abuela Llora por Muerte de Su Nieto en Ataque Ruso",
       "trafico": "200+",
       "fecha": "21/08/2026 11:50",
       "fecha_dt": "2026-08-21T11:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1if0PpSozoFvw1-7cGnm8AVRDAf2cSKssgNYu68GwrMMXAvvoiEQeaj-2ls4",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDmGeAFs73QE9NDceWWMV6hrX31Lrwlj2b24Svwmncs-1AngKi560YlDiiiGM",
       "link": "https://trends.google.com/trending?geo=MX&q=ucrania",
       "status": ""
     },
     {
-      "titulo": "karely ruiz",
-      "descripcion": "Karely Ruiz compra nueva casa para mudarse tras sufrir violento robo en Nuevo León: “Estoy muy feliz” | VIDEO",
+      "titulo": "dolar a peso mexicano",
+      "descripcion": "El superpeso finaliza en 16.95; es la quinta divisa más ganadora",
       "trafico": "200+",
-      "fecha": "21/08/2026 09:30",
-      "fecha_dt": "2026-08-21T09:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLC7a7Pj2AA-ePAuWf1aW7vTsw7j3MgiyfrpUu0qWPNQGenlhnAHXnILSVSKg",
-      "link": "https://trends.google.com/trending?geo=MX&q=karely+ruiz",
+      "fecha": "21/08/2026 11:40",
+      "fecha_dt": "2026-08-21T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTcIxEjjZugcvCwh7d3v_HfD1j73kZX285lAxcvd0BYFCQ2WFPmrWUkBGFAK4",
+      "link": "https://trends.google.com/trending?geo=MX&q=dolar+a+peso+mexicano",
+      "status": ""
+    },
+    {
+      "titulo": "livakovic",
+      "descripcion": "Barcelona loanee may have no way back as Deco pushes for new signing",
+      "trafico": "100+",
+      "fecha": "21/08/2026 14:10",
+      "fecha_dt": "2026-08-21T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQ9FQh4KnTD-1lDZ8mE-lVg2_Ac8dm1_H4ebzvVpBIpHed4MQHHcr1xEYX5nw",
+      "link": "https://trends.google.com/trending?geo=MX&q=livakovic",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-21T12:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSov7bm8x_P4oh__baTyrRe2-q4wCqGX3ePi3prE2KkgRF2xjdYzoJoxDb7kw",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+queretaro",
-      "status": ""
-    },
-    {
-      "titulo": "leighanne robe",
-      "descripcion": "Pilar de Pumas apunta a salir a pocas semanas de su fichaje",
-      "trafico": "100+",
-      "fecha": "21/08/2026 10:30",
-      "fecha_dt": "2026-08-21T10:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwCX1qUfCpUKfufKygVHsdueBHkslQjMwgU7dI8nCBLoRHGPkeHGPoVF3bUfw",
-      "link": "https://trends.google.com/trending?geo=MX&q=leighanne+robe",
       "status": ""
     }
   ]
