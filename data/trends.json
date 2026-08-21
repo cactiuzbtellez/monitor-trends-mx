@@ -1,41 +1,71 @@
 {
-  "actualizado": "21/08/2026 05:35 UTC",
+  "actualizado": "21/08/2026 06:53 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "votos la casa de los famosos",
-      "descripcion": "Ve aquí EN VIVO el cuarto robo por la salvación de La Casa de los Famosos México 2026",
-      "trafico": "500+",
-      "fecha": "21/08/2026 04:10",
-      "fecha_dt": "2026-08-21T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQssEF8vfg5sya8LfLw1bcqovu7AJ2kGSLmv44rytq0Rg1pBw-cnhlMWbD83SY",
-      "link": "https://trends.google.com/trending?geo=MX&q=votos+la+casa+de+los+famosos",
-      "status": ""
-    },
-    {
-      "titulo": "adrian martinez",
-      "descripcion": "49ers rumors: SF insider ramps up Mac Jones trade buzz after eye-opening debut",
-      "trafico": "200+",
-      "fecha": "21/08/2026 04:40",
-      "fecha_dt": "2026-08-21T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0KPQT0Qv0A90igHYYW_twyUkUcE_ucGc-Oxf-hM20BW6e3OHzd8Sx6H1Gr44",
-      "link": "https://trends.google.com/trending?geo=MX&q=adrian+martinez",
-      "status": ""
-    },
-    {
       "titulo": "evacuación",
-      "descripcion": "Alerta en Charcas tras supuesta explosión en mina",
-      "trafico": "200+",
+      "descripcion": "Ruptura de tanque estacionario provoca evacuación en Las Granjas",
+      "trafico": "500+",
       "fecha": "21/08/2026 04:30",
       "fecha_dt": "2026-08-21T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDem0YdyyT_CyHxYzrs1M5bMshZjtdJSQ0GBlmdZRezJSMfh18H__ftOibHnk",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoKZ7NPPkyvfOdnlEj7uqTsVE4xBvaVGRoCXvUMSr_97hg9_ayTB_b8BXOBkU",
       "link": "https://trends.google.com/trending?geo=MX&q=evacuación",
       "status": ""
     },
     {
+      "titulo": "clima hermosillo",
+      "descripcion": "Tormentas avanzan por el noroeste de Sonora y dejarán lluvias en varios municipios durante las próximas horas; se espera granizo y fuertes rachas de viento",
+      "trafico": "200+",
+      "fecha": "21/08/2026 06:40",
+      "fecha_dt": "2026-08-21T06:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJh37DX0eSien67ezzqv07kM7TX_15MVfJRkw9v1oenH7PaZPM9i4A-3yRczs",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
+      "status": ""
+    },
+    {
+      "titulo": "la captura netflix",
+      "descripcion": "Alfonso Herrera es el héroe de La captura, nueva cinta de Netflix",
+      "trafico": "200+",
+      "fecha": "21/08/2026 05:40",
+      "fecha_dt": "2026-08-21T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7A_X30u8a0WWdbAgkqA3YzlyV8KzTe_TsDLGQzwbvm0ai9as8ck5n_DC7U8",
+      "link": "https://trends.google.com/trending?geo=MX&q=la+captura+netflix",
+      "status": ""
+    },
+    {
+      "titulo": "suplantación",
+      "descripcion": "Fraude digital: ya obliga a reforzar la identidad online",
+      "trafico": "200+",
+      "fecha": "21/08/2026 05:30",
+      "fecha_dt": "2026-08-21T05:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXQ5UklWtzgWaqewHq9yPceFKSxXv-yX12rCMDPoFloW08HM2jo9XWILCiWJM",
+      "link": "https://trends.google.com/trending?geo=MX&q=suplantación",
+      "status": ""
+    },
+    {
+      "titulo": "luisa maría alcalde luján",
+      "descripcion": "Gran hallazgo de 'Aurora'",
+      "trafico": "200+",
+      "fecha": "21/08/2026 05:20",
+      "fecha_dt": "2026-08-21T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc5JYXS7yX2B_v7WeRsXyQ2_1xglSqlFXBlarfuqRvrQktCRb0x336AXdFvpc",
+      "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
+      "status": ""
+    },
+    {
+      "titulo": "adrian martinez",
+      "descripcion": "Martinez's 17-Yard TD to Watkins Boosts 49ers Lead to 40-9",
+      "trafico": "200+",
+      "fecha": "21/08/2026 04:40",
+      "fecha_dt": "2026-08-21T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpqh89wh8Md8AIG1Tzqa6DaqCxusybemO5OcKSIWq5I4q7dUDqc-w2fe4hudw",
+      "link": "https://trends.google.com/trending?geo=MX&q=adrian+martinez",
+      "status": ""
+    },
+    {
       "titulo": "olmecas de tabasco",
-      "descripcion": "Guerreros de Oaxaca vs Olmecas de Tabasco, en vivo: transmisión Playoffs de la Liga Mexicana de Béisbol 2026; Juego 2, Zona Sur",
+      "descripcion": "Guerreros vs Oaxaca: resumen y resultado del Juego 2 de Playoffs LMB 2026 de este 20 de agosto",
       "trafico": "200+",
       "fecha": "21/08/2026 04:20",
       "fecha_dt": "2026-08-21T04:20:00+00:00",
@@ -44,33 +74,13 @@
       "status": ""
     },
     {
-      "titulo": "javier eduardo lópez",
-      "descripcion": "'Chofis' López revienta a exDT de Pachuca: \"Me quitó las ganas de jugar\"",
+      "titulo": "votos la casa de los famosos",
+      "descripcion": "Ve aquí EN VIVO el cuarto robo por la salvación de La Casa de los Famosos México 2026",
       "trafico": "200+",
-      "fecha": "21/08/2026 03:30",
-      "fecha_dt": "2026-08-21T03:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWWsXEC6A8b0xWXGxzMZXXvJ_MalOo0LcssGaYLNGbFsdwacFM0hDkyYqFTaI",
-      "link": "https://trends.google.com/trending?geo=MX&q=javier+eduardo+lópez",
-      "status": ""
-    },
-    {
-      "titulo": "genaro garcía luna",
-      "descripcion": "Corte abre vía para que la SSPC pueda litigar contra exfuncionarios ligados a García Luna",
-      "trafico": "200+",
-      "fecha": "21/08/2026 03:30",
-      "fecha_dt": "2026-08-21T03:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxwg-bjzwV0sYczc7BT2qhdGKxq6bbJ5ZKofSD6zQu25mUQPD4F9bcuUbNVZQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=genaro+garcía+luna",
-      "status": ""
-    },
-    {
-      "titulo": "luisa maría alcalde luján",
-      "descripcion": "Gran hallazgo de 'Aurora'",
-      "trafico": "100+",
-      "fecha": "21/08/2026 05:20",
-      "fecha_dt": "2026-08-21T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc5JYXS7yX2B_v7WeRsXyQ2_1xglSqlFXBlarfuqRvrQktCRb0x336AXdFvpc",
-      "link": "https://trends.google.com/trending?geo=MX&q=luisa+maría+alcalde+luján",
+      "fecha": "21/08/2026 04:10",
+      "fecha_dt": "2026-08-21T04:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQssEF8vfg5sya8LfLw1bcqovu7AJ2kGSLmv44rytq0Rg1pBw-cnhlMWbD83SY",
+      "link": "https://trends.google.com/trending?geo=MX&q=votos+la+casa+de+los+famosos",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-21T04:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLRfP9rAvpKks6obUzHtrTGiQY-1TVssxpLvy-1tXbga9BMqzCve-l431JHTM",
       "link": "https://trends.google.com/trending?geo=MX&q=contingencia+ambiental",
-      "status": ""
-    },
-    {
-      "titulo": "david zepeda",
-      "descripcion": "David Zepeda se incomoda ante preguntas sobre su vida amorosa",
-      "trafico": "100+",
-      "fecha": "21/08/2026 03:30",
-      "fecha_dt": "2026-08-21T03:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBuFMUHUpTKuOtB46CMUmtT5A8_JPh_98z4iJRNYjKodsaEgiqi8aQK76GNRE",
-      "link": "https://trends.google.com/trending?geo=MX&q=david+zepeda",
       "status": ""
     }
   ]
