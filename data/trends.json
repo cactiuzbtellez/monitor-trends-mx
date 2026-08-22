@@ -1,18 +1,8 @@
 {
-  "actualizado": "22/08/2026 07:34 UTC",
+  "actualizado": "22/08/2026 08:33 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
-    {
-      "titulo": "manchester united",
-      "descripcion": "Manchester United press conferences: Michael Carrick on Mason Mount, Marcus Rashford and Carlos Baleba",
-      "trafico": "1000+",
-      "fecha": "22/08/2026 05:40",
-      "fecha_dt": "2026-08-22T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMQ2zvq-kJ18ITxzzBXT032je-CpsjzuLTsc4-hLO-YuDvqel1hdmMvi8qOVw",
-      "link": "https://trends.google.com/trending?geo=MX&q=manchester+united",
-      "status": ""
-    },
     {
       "titulo": "clima hermosillo",
       "descripcion": "Con 47.5°C Hermosillo rompe récord histórico de calor para un 21 de agosto",
@@ -34,13 +24,13 @@
       "status": ""
     },
     {
-      "titulo": "fc juárez vs club américa standings",
-      "descripcion": "Will América Hold Onto the Top Spot? América Faces Juárez on the Border—Could There Be an Upset?",
-      "trafico": "500+",
-      "fecha": "22/08/2026 05:40",
-      "fecha_dt": "2026-08-22T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrwiQ6koNWjOq_aVdFufFqxLPn988ikgF_VAP064vEpF1pFKZqkAJSKv3YUPo",
-      "link": "https://trends.google.com/trending?geo=MX&q=fc+juárez+vs+club+américa+standings",
+      "titulo": "extorsión",
+      "descripcion": "Procesan a Templarios implicados en extorsión a aguacateros",
+      "trafico": "200+",
+      "fecha": "22/08/2026 07:40",
+      "fecha_dt": "2026-08-22T07:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJBaLQ0N_oqoUBFCZ4atbdjbNoOOTwIq2r-JCbnIgQhutMTMEGnULFuSATops",
+      "link": "https://trends.google.com/trending?geo=MX&q=extorsión",
       "status": ""
     },
     {
@@ -64,6 +54,16 @@
       "status": ""
     },
     {
+      "titulo": "bundesliga",
+      "descripcion": "Unions Niederlage gegen Bayern: Ein Sieg der Widersprüche",
+      "trafico": "100+",
+      "fecha": "22/08/2026 07:40",
+      "fecha_dt": "2026-08-22T07:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEqQY2O3KFMkjlXW7TJQ4dYj6FKg9l0bDSsATGi8oEqOO5is16nksoXetrGaM",
+      "link": "https://trends.google.com/trending?geo=MX&q=bundesliga",
+      "status": ""
+    },
+    {
       "titulo": "clima los mochis",
       "descripcion": "Clima en Los Mochis: Jueves 20 de agosto con intenso calor y cielo muy nuboso",
       "trafico": "100+",
@@ -75,21 +75,21 @@
     },
     {
       "titulo": "shohei ohtani",
-      "descripcion": "Crow-Armstrong vs. Ohtani: Who has the edge in NL MVP race?",
+      "descripcion": "Dodgers should deploy Shohei Ohtani in bold new way given Edwin Diaz uncertainty",
       "trafico": "100+",
       "fecha": "22/08/2026 06:20",
       "fecha_dt": "2026-08-22T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_reK5dmW_7_vhkE-fXzJLMYHz9AQerGay_Upn96_42k8ay6OILCXp4Pucuog",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_IaUTfufBNwq22pqIrWUgreLizGC48P3zA91KXiHWZWFB9PEhIdDfZc5gNk",
       "link": "https://trends.google.com/trending?geo=MX&q=shohei+ohtani",
       "status": ""
     },
     {
       "titulo": "dua lipa",
-      "descripcion": "‘The Dua Lipa effect’ explained as pop star sparks huge parenting trend in the UK",
+      "descripcion": "Dua Lipa kicks off her birthday weekend in a leopard-print Gucci bikini",
       "trafico": "100+",
       "fecha": "22/08/2026 06:20",
       "fecha_dt": "2026-08-22T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlZZYnuTBw8OB91u2y2Sg0iipRneQP6qSoKGtE9iTI929LhonzVW3ef6W4C6Q",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIAni-YdC7KCX0-J42228Sv3SXvOQW4UlH95_RvN416MSD5htrttCsqcs5Dg",
       "link": "https://trends.google.com/trending?geo=MX&q=dua+lipa",
       "status": ""
     },
