@@ -1,8 +1,18 @@
 {
-  "actualizado": "22/08/2026 06:45 UTC",
+  "actualizado": "22/08/2026 07:34 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "manchester united",
+      "descripcion": "Manchester United press conferences: Michael Carrick on Mason Mount, Marcus Rashford and Carlos Baleba",
+      "trafico": "1000+",
+      "fecha": "22/08/2026 05:40",
+      "fecha_dt": "2026-08-22T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMQ2zvq-kJ18ITxzzBXT032je-CpsjzuLTsc4-hLO-YuDvqel1hdmMvi8qOVw",
+      "link": "https://trends.google.com/trending?geo=MX&q=manchester+united",
+      "status": ""
+    },
     {
       "titulo": "clima hermosillo",
       "descripcion": "Con 47.5°C Hermosillo rompe récord histórico de calor para un 21 de agosto",
@@ -11,6 +21,16 @@
       "fecha_dt": "2026-08-22T06:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6oGoY8F9qBkfzP81RGFPvjl1M9nTpYwTiGeKTlsPH6rVWcA0pkuPAAZAqeTE",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
+      "status": ""
+    },
+    {
+      "titulo": "apple iphone 18 pro",
+      "descripcion": "La gran novedad que tendrá la cámara del iPhone 18 Pro Max",
+      "trafico": "500+",
+      "fecha": "22/08/2026 05:50",
+      "fecha_dt": "2026-08-22T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7sQebFuah0vTljFJrD_J4Ok7DlgfrGVJJwTtP1ithS3_ZMmH21Wo9hh4hkeI",
+      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro",
       "status": ""
     },
     {
@@ -24,16 +44,6 @@
       "status": ""
     },
     {
-      "titulo": "manchester united",
-      "descripcion": "Manchester United press conferences: Michael Carrick on Mason Mount, Marcus Rashford and Carlos Baleba",
-      "trafico": "500+",
-      "fecha": "22/08/2026 05:40",
-      "fecha_dt": "2026-08-22T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMQ2zvq-kJ18ITxzzBXT032je-CpsjzuLTsc4-hLO-YuDvqel1hdmMvi8qOVw",
-      "link": "https://trends.google.com/trending?geo=MX&q=manchester+united",
-      "status": ""
-    },
-    {
       "titulo": "marie claire",
       "descripcion": "Elle prépare son grand retour : que devient Alizée ?",
       "trafico": "200+",
@@ -44,23 +54,23 @@
       "status": ""
     },
     {
-      "titulo": "apple iphone 18 pro",
-      "descripcion": "La gran novedad que tendrá la cámara del iPhone 18 Pro Max",
+      "titulo": "a quien salvo brianda",
+      "descripcion": "Ve aquí EN VIVO el cuarto robo por la salvación de La Casa de los Famosos México 2026",
       "trafico": "200+",
-      "fecha": "22/08/2026 05:50",
-      "fecha_dt": "2026-08-22T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7sQebFuah0vTljFJrD_J4Ok7DlgfrGVJJwTtP1ithS3_ZMmH21Wo9hh4hkeI",
-      "link": "https://trends.google.com/trending?geo=MX&q=apple+iphone+18+pro",
+      "fecha": "22/08/2026 06:00",
+      "fecha_dt": "2026-08-22T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQssEF8vfg5sya8LfLw1bcqovu7AJ2kGSLmv44rytq0Rg1pBw-cnhlMWbD83SY",
+      "link": "https://trends.google.com/trending?geo=MX&q=a+quien+salvo+brianda",
       "status": ""
     },
     {
-      "titulo": "querétaro f.c. vs toluca fc standings",
-      "descripcion": "Queretaro v Toluca Odds",
-      "trafico": "200+",
-      "fecha": "22/08/2026 05:40",
-      "fecha_dt": "2026-08-22T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2ObOsIzG-h3MmosTkZlW11czDZUf4dwdRYIb6MgdxlPE5sC-4QWoc7EsPMw",
-      "link": "https://trends.google.com/trending?geo=MX&q=querétaro+f.c.+vs+toluca+fc+standings",
+      "titulo": "clima los mochis",
+      "descripcion": "Clima en Los Mochis: Jueves 20 de agosto con intenso calor y cielo muy nuboso",
+      "trafico": "100+",
+      "fecha": "22/08/2026 06:50",
+      "fecha_dt": "2026-08-22T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTol3ACVGI9WKH1QJ_ViKVbBqEAo_GTyFeGthPI-ZRVcgKhFMazOd6xrBvAlaY",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+los+mochis",
       "status": ""
     },
     {
@@ -75,32 +85,22 @@
     },
     {
       "titulo": "dua lipa",
-      "descripcion": "In photos: Pop star Dua Lipa turns 31 - All Photos",
+      "descripcion": "‘The Dua Lipa effect’ explained as pop star sparks huge parenting trend in the UK",
       "trafico": "100+",
       "fecha": "22/08/2026 06:20",
       "fecha_dt": "2026-08-22T06:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3KNn68MWuWN55u2XtIIJVR3LNV2CFAaNMB01k3f6jW6s5S2lZzzQBbUkfuJE",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlZZYnuTBw8OB91u2y2Sg0iipRneQP6qSoKGtE9iTI929LhonzVW3ef6W4C6Q",
       "link": "https://trends.google.com/trending?geo=MX&q=dua+lipa",
       "status": ""
     },
     {
       "titulo": "jalisco",
-      "descripcion": "Localizan en Mazatlán a dos adolescentes desaparecidos en Jalisco",
+      "descripcion": "Localizan sin vida a Octavio Haro desaparecido en Jalisco",
       "trafico": "100+",
       "fecha": "22/08/2026 06:10",
       "fecha_dt": "2026-08-22T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbxBjUCJGS1zk7dWos00txcEF1hE8FN8yBuVk5O6CELmgZ7mtTl2oz0e-U0M4",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStJYYaCe5z5z_xv5kX8vgFy1N_68m4ZhUt4Z2XJDxOSrDxKBmWQWpnxXYiE2I",
       "link": "https://trends.google.com/trending?geo=MX&q=jalisco",
-      "status": ""
-    },
-    {
-      "titulo": "dodgers hoy",
-      "descripcion": "Alineaciones de Piratas y Dodgers",
-      "trafico": "100+",
-      "fecha": "22/08/2026 05:40",
-      "fecha_dt": "2026-08-22T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZhN2LFH3k8mg9FNtiL007gE0nQ28fd5vG8xJ7hc300OvnW-29UxmLinA2Su8",
-      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+hoy",
       "status": ""
     }
   ]
