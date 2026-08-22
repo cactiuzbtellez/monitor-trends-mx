@@ -1,8 +1,18 @@
 {
-  "actualizado": "22/08/2026 09:30 UTC",
+  "actualizado": "22/08/2026 10:27 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "captura chapo guzmán",
+      "descripcion": "'La captura', captura",
+      "trafico": "10000+",
+      "fecha": "22/08/2026 08:00",
+      "fecha_dt": "2026-08-22T08:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTU_nx8izvTus5FXkuy0QSSnty8lVNboeZNcW2dSUPQUc8RnftJajnvjkLkkkU",
+      "link": "https://trends.google.com/trending?geo=MX&q=captura+chapo+guzmán",
+      "status": ""
+    },
     {
       "titulo": "apple iphone 18 pro max",
       "descripcion": "La gran novedad que tendrá la cámara del iPhone 18 Pro Max",
@@ -55,11 +65,11 @@
     },
     {
       "titulo": "bundesliga",
-      "descripcion": "Newcastle United: Woltemade zurück in Bundesliga?",
+      "descripcion": "Unions Niederlage gegen Bayern: Ein Sieg der Widersprüche",
       "trafico": "100+",
       "fecha": "22/08/2026 07:40",
       "fecha_dt": "2026-08-22T07:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn61_m9QghyQSmXqZMzOGTvMf-ZNOSll1q__JwPoz3pL4xKwMJ8jJjl6JqAUk",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEqQY2O3KFMkjlXW7TJQ4dYj6FKg9l0bDSsATGi8oEqOO5is16nksoXetrGaM",
       "link": "https://trends.google.com/trending?geo=MX&q=bundesliga",
       "status": ""
     },
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-22T06:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIAni-YdC7KCX0-J42228Sv3SXvOQW4UlH95_RvN416MSD5htrttCsqcs5Dg",
       "link": "https://trends.google.com/trending?geo=MX&q=dua+lipa",
-      "status": ""
-    },
-    {
-      "titulo": "jalisco",
-      "descripcion": "Localizan sin vida a Octavio Haro desaparecido en Jalisco",
-      "trafico": "100+",
-      "fecha": "22/08/2026 06:10",
-      "fecha_dt": "2026-08-22T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStJYYaCe5z5z_xv5kX8vgFy1N_68m4ZhUt4Z2XJDxOSrDxKBmWQWpnxXYiE2I",
-      "link": "https://trends.google.com/trending?geo=MX&q=jalisco",
       "status": ""
     }
   ]
