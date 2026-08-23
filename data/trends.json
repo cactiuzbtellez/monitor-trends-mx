@@ -1,46 +1,96 @@
 {
-  "actualizado": "23/08/2026 16:30 UTC",
+  "actualizado": "23/08/2026 17:23 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "frosinone - juventus",
-      "descripcion": "Spalletti: \"Alajbegovic crea shock temporale. È suonata la campana, chi non se ne accorge...\"",
-      "trafico": "2000+",
-      "fecha": "23/08/2026 15:40",
-      "fecha_dt": "2026-08-23T15:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgO17ZsBBPeG0qmuiPms34D7_Xpd-TIyKQ9plFCdabrUmQubtt8t3Q-ylEeDw",
-      "link": "https://trends.google.com/trending?geo=MX&q=frosinone+-+juventus",
+      "titulo": "phillies - cardenales",
+      "descripcion": "Painter alcanza varios hitos en su carrera y los Filis extienden su racha ganadora a ocho",
+      "trafico": "1000+",
+      "fecha": "23/08/2026 16:50",
+      "fecha_dt": "2026-08-23T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQEgkatrHzg9SPvQc9EjO4OGBi5Acm8O6RSTtc17pAkvffByAHRLGa9ozEPX8",
+      "link": "https://trends.google.com/trending?geo=MX&q=phillies+-+cardenales",
       "status": ""
     },
     {
-      "titulo": "vuelta a alemania",
-      "descripcion": "Isaac del Toro conquista la Vuelta de Alemania",
-      "trafico": "2000+",
-      "fecha": "23/08/2026 15:40",
-      "fecha_dt": "2026-08-23T15:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqFt4PpX6-7F0upp0bX0YG13CohgBZB6hNN8qCbZJpWXknHhHBDYWrgeB4xy0",
-      "link": "https://trends.google.com/trending?geo=MX&q=vuelta+a+alemania",
-      "status": ""
-    },
-    {
-      "titulo": "william osula",
-      "descripcion": "Newcastle United striker's future decided after Germany links",
+      "titulo": "ac milan",
+      "descripcion": "Serie A: Torino vs. Milan – Probable line-ups and where to watch on TV",
       "trafico": "200+",
-      "fecha": "23/08/2026 16:00",
-      "fecha_dt": "2026-08-23T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHjuOvs1wzuaKYeFUFTvY1Na1sBa8G-jxUlPjrssADZtrpzRhjzmgCGpNbFQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=william+osula",
+      "fecha": "23/08/2026 16:50",
+      "fecha_dt": "2026-08-23T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyhyhHwFJRlJI1Q656tigF2oMBMGKOYtbMUYCjr4MYSx3WFO635ab1639uQXU",
+      "link": "https://trends.google.com/trending?geo=MX&q=ac+milan",
       "status": ""
     },
     {
-      "titulo": "barca",
-      "descripcion": "Elche vs Barcelona: Spanish La Liga stats & head-to-head",
+      "titulo": "frosinone vs juventus",
+      "descripcion": "Serie A official line-ups: Frosinone vs. Juventus",
       "trafico": "200+",
-      "fecha": "23/08/2026 15:50",
-      "fecha_dt": "2026-08-23T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZwWlkjaWDk8FQvK_DCmvsroMVqLspaGSqxIxE6DkBzD7hKh9rs2hFAcgDl8U",
-      "link": "https://trends.google.com/trending?geo=MX&q=barca",
+      "fecha": "23/08/2026 16:40",
+      "fecha_dt": "2026-08-23T16:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzA7Axsl7-rlvctcigsJL8uNEeCoohKGCzDZI99edt8rfALFhMLLMTcdVaLrI",
+      "link": "https://trends.google.com/trending?geo=MX&q=frosinone+vs+juventus",
+      "status": ""
+    },
+    {
+      "titulo": "f1 standings",
+      "descripcion": "Contenders primed to chase down Antonelli as F1 season resumes",
+      "trafico": "200+",
+      "fecha": "23/08/2026 16:10",
+      "fecha_dt": "2026-08-23T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVi0l4743FfdkWc_OIQhK-BUJ9_81VdoHiTD9x7spb-NETfcsNSdAvBxXQiVU",
+      "link": "https://trends.google.com/trending?geo=MX&q=f1+standings",
+      "status": ""
+    },
+    {
+      "titulo": "elsa pataky",
+      "descripcion": "",
+      "trafico": "200+",
+      "fecha": "23/08/2026 16:10",
+      "fecha_dt": "2026-08-23T16:10:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=elsa+pataky",
+      "status": ""
+    },
+    {
+      "titulo": "rennes vs psg",
+      "descripcion": "Enrique sparks a French league crisis: where is the level playing field?",
+      "trafico": "100+",
+      "fecha": "23/08/2026 17:00",
+      "fecha_dt": "2026-08-23T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtzwflqQqbk733CQeTvF7okNq_izymBos8NwQCj15SOiuz3p-2Bav3i5cBPPU",
+      "link": "https://trends.google.com/trending?geo=MX&q=rennes+vs+psg",
+      "status": ""
+    },
+    {
+      "titulo": "getafe vs",
+      "descripcion": "Getafe - Racing, en directo: LaLiga EA Sports, en vivo hoy",
+      "trafico": "100+",
+      "fecha": "23/08/2026 16:50",
+      "fecha_dt": "2026-08-23T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQjdSaUBJaAurUhgt3Rq2MMw8ik9rhwZK_w2AUpsnSMKLDAhvEXoI4R4X4NA",
+      "link": "https://trends.google.com/trending?geo=MX&q=getafe+vs",
+      "status": ""
+    },
+    {
+      "titulo": "trabzonspor - istanbul bb",
+      "descripcion": "Trabzonspor vs İstanbul Başakşehir: Süper Lig stats & head-to-head",
+      "trafico": "100+",
+      "fecha": "23/08/2026 16:40",
+      "fecha_dt": "2026-08-23T16:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "link": "https://trends.google.com/trending?geo=MX&q=trabzonspor+-+istanbul+bb",
+      "status": ""
+    },
+    {
+      "titulo": "us open",
+      "descripcion": "US Open mixed doubles 2026: Serena Williams and Carlos Alcaraz given wildcard draw",
+      "trafico": "100+",
+      "fecha": "23/08/2026 16:20",
+      "fecha_dt": "2026-08-23T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmlTSgVQ2t1YbwDhsgobZP5VO3Dj3gyg1ZRHa6ZLoc4_nerWuam58J49Hccfc",
+      "link": "https://trends.google.com/trending?geo=MX&q=us+open",
       "status": ""
     },
     {
@@ -51,56 +101,6 @@
       "fecha_dt": "2026-08-23T16:20:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgvNoIyAOI3_2OsqB4z9dS-sOUjcsPEuufopDB-O2e699aN91x6pw8aFPvOt4",
       "link": "https://trends.google.com/trending?geo=MX&q=obed+vargas",
-      "status": ""
-    },
-    {
-      "titulo": "f1 standings",
-      "descripcion": "Contenders primed to chase down Antonelli as F1 season resumes",
-      "trafico": "100+",
-      "fecha": "23/08/2026 16:10",
-      "fecha_dt": "2026-08-23T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVi0l4743FfdkWc_OIQhK-BUJ9_81VdoHiTD9x7spb-NETfcsNSdAvBxXQiVU",
-      "link": "https://trends.google.com/trending?geo=MX&q=f1+standings",
-      "status": ""
-    },
-    {
-      "titulo": "milan",
-      "descripcion": "Serie A: Torino vs. Milan – Probable line-ups and where to watch on TV",
-      "trafico": "100+",
-      "fecha": "23/08/2026 16:10",
-      "fecha_dt": "2026-08-23T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyhyhHwFJRlJI1Q656tigF2oMBMGKOYtbMUYCjr4MYSx3WFO635ab1639uQXU",
-      "link": "https://trends.google.com/trending?geo=MX&q=milan",
-      "status": ""
-    },
-    {
-      "titulo": "elsa pataky",
-      "descripcion": "",
-      "trafico": "100+",
-      "fecha": "23/08/2026 16:10",
-      "fecha_dt": "2026-08-23T16:10:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=elsa+pataky",
-      "status": ""
-    },
-    {
-      "titulo": "ed oliver",
-      "descripcion": "Bills star DT Ed Oliver mourning tragic death of son",
-      "trafico": "100+",
-      "fecha": "23/08/2026 15:50",
-      "fecha_dt": "2026-08-23T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbp0uILSft1jyavloBDf30rwhZv-m1grM51hHO4Vb3Ihg1da9Q3PDVxZloBKc",
-      "link": "https://trends.google.com/trending?geo=MX&q=ed+oliver",
-      "status": ""
-    },
-    {
-      "titulo": "película",
-      "descripcion": "‘Niu Lai’: la película china de animación hecha por una madre y su hijo que se hizo viral y está arrasando en taquilla",
-      "trafico": "100+",
-      "fecha": "23/08/2026 15:50",
-      "fecha_dt": "2026-08-23T15:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp33fRid_NRdcn2IQQVgvIFRLKfgFKWVlRg3WrKclku2CX4WaCxfF7G8cfv70",
-      "link": "https://trends.google.com/trending?geo=MX&q=película",
       "status": ""
     }
   ]
