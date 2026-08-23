@@ -1,16 +1,26 @@
 {
-  "actualizado": "23/08/2026 09:31 UTC",
+  "actualizado": "23/08/2026 10:27 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "cruz azul vs atlas f.c. standings",
       "descripcion": "Duk and Monzón sink Cruz Azul 0-2 Atlas in Liga MX 2026",
-      "trafico": "2000+",
+      "trafico": "1000+",
       "fecha": "23/08/2026 05:20",
       "fecha_dt": "2026-08-23T05:20:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfdLWJlUmGiqTMu5Pql3mit-oCm_5DF9zH_n9NiUolYqu6S4i2Idu5ngmTT_c",
       "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul+vs+atlas+f.c.+standings",
+      "status": ""
+    },
+    {
+      "titulo": "clima obregon",
+      "descripcion": "El clima en Obregón y Navojoa este viernes",
+      "trafico": "500+",
+      "fecha": "23/08/2026 08:50",
+      "fecha_dt": "2026-08-23T08:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnq1b4GfmcZYCYST0iapq8F-E4lsosgj1eO2ynhukOXjzeEN2j2u136fUOCd0",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+obregon",
       "status": ""
     },
     {
@@ -44,16 +54,6 @@
       "status": ""
     },
     {
-      "titulo": "elche vs barcelona",
-      "descripcion": "Elche vs Barcelona: posibles alineaciones y probabilidades",
-      "trafico": "200+",
-      "fecha": "23/08/2026 05:30",
-      "fecha_dt": "2026-08-23T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmHW0YLy0yNf0roFTUhpayUr8WyxQSnk4YxMfaOzjznxiCozeZbGGirkORbY",
-      "link": "https://trends.google.com/trending?geo=MX&q=elche+vs+barcelona",
-      "status": ""
-    },
-    {
       "titulo": "brighton vs aston villa",
       "descripcion": "Gomez, David + Minteh: Brighton injury latest for FPL Gameweek 1",
       "trafico": "200+",
@@ -61,6 +61,16 @@
       "fecha_dt": "2026-08-23T05:30:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNOnTXv2W12_-CP445JWnetXuNmC7UDXhPtjxWI6ET_Q6jYVzXdtLYLFTU5Lg",
       "link": "https://trends.google.com/trending?geo=MX&q=brighton+vs+aston+villa",
+      "status": ""
+    },
+    {
+      "titulo": "elche vs barcelona",
+      "descripcion": "Elche vs Barcelona: posibles alineaciones y probabilidades",
+      "trafico": "200+",
+      "fecha": "23/08/2026 05:30",
+      "fecha_dt": "2026-08-23T05:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmHW0YLy0yNf0roFTUhpayUr8WyxQSnk4YxMfaOzjznxiCozeZbGGirkORbY",
+      "link": "https://trends.google.com/trending?geo=MX&q=elche+vs+barcelona",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-23T05:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiavklwFlo0Ilnuf22sZb0kd-2B9685haMDg6WQP_-uC9ZAgm__te6W_GG1oU",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
-      "status": ""
-    },
-    {
-      "titulo": "conciertos hoy cdmx",
-      "descripcion": "Rosalía, Anyma y Lacrimosa llegan hoy 22 de agosto a CDMX con estos conciertos",
-      "trafico": "100+",
-      "fecha": "23/08/2026 05:10",
-      "fecha_dt": "2026-08-23T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjPkzDt-adoQWat-dXiDo0Bp8fA7e4m6QvHqYCZrP3chwQq7DucsxZrjgE8o0",
-      "link": "https://trends.google.com/trending?geo=MX&q=conciertos+hoy+cdmx",
       "status": ""
     }
   ]
