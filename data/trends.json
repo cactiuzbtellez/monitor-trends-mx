@@ -1,12 +1,12 @@
 {
-  "actualizado": "23/08/2026 08:33 UTC",
+  "actualizado": "23/08/2026 09:31 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "cruz azul vs atlas f.c. standings",
-      "descripcion": "Cruz Azul vs Atlas LIVE Score Updates in Liga MX Match",
-      "trafico": "1000+",
+      "descripcion": "Duk and Monzón sink Cruz Azul 0-2 Atlas in Liga MX 2026",
+      "trafico": "2000+",
       "fecha": "23/08/2026 05:20",
       "fecha_dt": "2026-08-23T05:20:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfdLWJlUmGiqTMu5Pql3mit-oCm_5DF9zH_n9NiUolYqu6S4i2Idu5ngmTT_c",
@@ -16,7 +16,7 @@
     {
       "titulo": "clima hermosillo",
       "descripcion": "Con 47.5°C Hermosillo rompe récord histórico de calor para un 21 de agosto",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "23/08/2026 07:10",
       "fecha_dt": "2026-08-23T07:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6oGoY8F9qBkfzP81RGFPvjl1M9nTpYwTiGeKTlsPH6rVWcA0pkuPAAZAqeTE",
@@ -35,12 +35,22 @@
     },
     {
       "titulo": "manchester city vs bournemouth",
-      "descripcion": "Manchester City vs AFC Bournemouth: TV channel, live stream & kick-off time | Premier League 2026/27",
+      "descripcion": "Manchester City vs AFC Bournemouth Prediction: Where to Watch, Kick-off Time and Lineups Today 23/08",
       "trafico": "200+",
       "fecha": "23/08/2026 06:00",
       "fecha_dt": "2026-08-23T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuFi8z_rR_4EHXMbvRvPAUCE8i2_zSz9ss4IE3dw9MJgawrFcm61-yqD8FQ_0",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFpjaOTu7q5OLBnLBJWCgYbMEiIcVnqwDfu6hRjPRqfxn3lvCtiuF0uIe_Cg",
       "link": "https://trends.google.com/trending?geo=MX&q=manchester+city+vs+bournemouth",
+      "status": ""
+    },
+    {
+      "titulo": "elche vs barcelona",
+      "descripcion": "Elche vs Barcelona: posibles alineaciones y probabilidades",
+      "trafico": "200+",
+      "fecha": "23/08/2026 05:30",
+      "fecha_dt": "2026-08-23T05:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmHW0YLy0yNf0roFTUhpayUr8WyxQSnk4YxMfaOzjznxiCozeZbGGirkORbY",
+      "link": "https://trends.google.com/trending?geo=MX&q=elche+vs+barcelona",
       "status": ""
     },
     {
@@ -81,16 +91,6 @@
       "fecha_dt": "2026-08-23T05:50:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiavklwFlo0Ilnuf22sZb0kd-2B9685haMDg6WQP_-uC9ZAgm__te6W_GG1oU",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
-      "status": ""
-    },
-    {
-      "titulo": "elche vs barcelona",
-      "descripcion": "Elche vs Barcelona: posibles alineaciones y probabilidades",
-      "trafico": "100+",
-      "fecha": "23/08/2026 05:30",
-      "fecha_dt": "2026-08-23T05:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKmHW0YLy0yNf0roFTUhpayUr8WyxQSnk4YxMfaOzjznxiCozeZbGGirkORbY",
-      "link": "https://trends.google.com/trending?geo=MX&q=elche+vs+barcelona",
       "status": ""
     },
     {
