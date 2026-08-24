@@ -1,16 +1,56 @@
 {
-  "actualizado": "24/08/2026 15:41 UTC",
+  "actualizado": "24/08/2026 16:41 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "enes kanter",
-      "descripcion": "Former NBA player Enes Kanter Freedom ejected from Sky-Fever game after confrontation - The Athletic",
-      "trafico": "1000+",
-      "fecha": "24/08/2026 14:40",
-      "fecha_dt": "2026-08-24T14:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRbFU2L_oMTqpCnibDVr2YwaBHrXnCK6Hi7gjvetnK9jzkcjbwkAVQ3BtEGr0",
-      "link": "https://trends.google.com/trending?geo=MX&q=enes+kanter",
+      "titulo": "justicia",
+      "descripcion": "Ciencia e inteligencia al servicio de la justicia, escribe Ernestina Godoy Ramos",
+      "trafico": "500+",
+      "fecha": "24/08/2026 15:30",
+      "fecha_dt": "2026-08-24T15:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs-YTqkfuKKBGKJ1Qwu5IAqftKpLDKrD0h17_-3q-jx8vLcVjgwWA0HZWv61g",
+      "link": "https://trends.google.com/trending?geo=MX&q=justicia",
+      "status": ""
+    },
+    {
+      "titulo": "wolfsburg",
+      "descripcion": "Confirmed DFB-Pokal Lineups: Altglienicke vs. VfL Wolfsburg",
+      "trafico": "200+",
+      "fecha": "24/08/2026 16:10",
+      "fecha_dt": "2026-08-24T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjTg6jKZipCPOB0hPKP9VQT1dEbDwlNuRqUUPvP6SqpB3z7ln8GMjQhUg26GM",
+      "link": "https://trends.google.com/trending?geo=MX&q=wolfsburg",
+      "status": ""
+    },
+    {
+      "titulo": "dfb pokal",
+      "descripcion": "04 Fragezeichen: Schalkes letzte Startelf-Kämpfe und ihre Favoriten",
+      "trafico": "200+",
+      "fecha": "24/08/2026 16:10",
+      "fecha_dt": "2026-08-24T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXi0JZ2akgW9qc_882MadG-QcNxRwDdwCS74jrQ0Af1bdlgI0hYwVAE5CSEYE",
+      "link": "https://trends.google.com/trending?geo=MX&q=dfb+pokal",
+      "status": ""
+    },
+    {
+      "titulo": "michael wright",
+      "descripcion": "Actor Michael Wright, known for ‘The Five Heartbeats,’ dies at 70",
+      "trafico": "200+",
+      "fecha": "24/08/2026 16:00",
+      "fecha_dt": "2026-08-24T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFBx7O8NXcEQKH0dGh8p8u8YYVL9ufNY3Kb3Z3JcayiEiOD5gVm7ReDf8jftY",
+      "link": "https://trends.google.com/trending?geo=MX&q=michael+wright",
+      "status": ""
+    },
+    {
+      "titulo": "virus",
+      "descripcion": "Another mosquito trap tests positive for West Nile virus in DeKalb County",
+      "trafico": "200+",
+      "fecha": "24/08/2026 15:40",
+      "fecha_dt": "2026-08-24T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1n-S1cVUwAucnkCz7Aghk5gDSx4uX4qe2EjgNo5gi_v17gRf7wMSg4BY-vc",
+      "link": "https://trends.google.com/trending?geo=MX&q=virus",
       "status": ""
     },
     {
@@ -25,82 +65,42 @@
     },
     {
       "titulo": "poder judicial",
-      "descripcion": "Prepara Tania Contreras su primer informe al frente del Poder Judicial",
+      "descripcion": "El Gobierno urge al Poder Judicial a tramitar los refuerzos para Ceuta: “El Ministerio tiene todo preparado”",
       "trafico": "200+",
       "fecha": "24/08/2026 15:30",
       "fecha_dt": "2026-08-24T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdcKzPaogNNkw0j75oWpmmVRGwwkiHaP8gMRWW0Ka80yGENrbp2C6SErkm3vo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ_lTBjWmqriKjzUmb_hyeYgsw3MBwG6uWOZh1fC9t0UGgXXECCc4lHXDVHtg",
       "link": "https://trends.google.com/trending?geo=MX&q=poder+judicial",
       "status": ""
     },
     {
-      "titulo": "sep",
-      "descripcion": "Ofrecen 37 mil lugares en otras escuelas a excluidos de UNAM",
-      "trafico": "200+",
-      "fecha": "24/08/2026 14:40",
-      "fecha_dt": "2026-08-24T14:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_73xJ1zvQZVxuoedDN5OB8OvnnztDN6rPA9doUn5dL8voB0lvMT1CjJRhyI",
-      "link": "https://trends.google.com/trending?geo=MX&q=sep",
-      "status": ""
-    },
-    {
-      "titulo": "cte",
-      "descripcion": "Inside the CFL: CTE fears, crippling injuries darken retirement for former Alouette Matthieu Proulx",
-      "trafico": "200+",
-      "fecha": "24/08/2026 14:30",
-      "fecha_dt": "2026-08-24T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdN6oAwmu9yLSWGMEeRR9YLcTlcRXSh-CGPlgKk3coRpy_3EmIPp3kfgnc964",
-      "link": "https://trends.google.com/trending?geo=MX&q=cte",
-      "status": ""
-    },
-    {
-      "titulo": "cablebús",
-      "descripcion": "El proyecto de la línea 4 del Cablebús es de justicia social, afirma Sheinbaum",
-      "trafico": "200+",
-      "fecha": "24/08/2026 14:30",
-      "fecha_dt": "2026-08-24T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6C6GWY72Gckx6mWYZSAjTR1kHGcJD175bmNA4JqgvkcWFIf7tBU1UmXLC7Nw",
-      "link": "https://trends.google.com/trending?geo=MX&q=cablebús",
-      "status": ""
-    },
-    {
-      "titulo": "charlize theron",
-      "descripcion": "Charlize Theron defined Atomic Blonde by the stereotypes she wanted to avoid",
+      "titulo": "iphone 18 fold",
+      "descripcion": "Apple’s Foldable iPhone Will Help Bring Some Magic Back",
       "trafico": "100+",
-      "fecha": "24/08/2026 15:20",
-      "fecha_dt": "2026-08-24T15:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQahutWYk5s71qyzX9o4_sAC69vDx_OylRNINKvy28qYaVJdIJslNaolaDDyBc",
-      "link": "https://trends.google.com/trending?geo=MX&q=charlize+theron",
+      "fecha": "24/08/2026 16:20",
+      "fecha_dt": "2026-08-24T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG5RF75C5WUepP_7OpIEBdzWkzkZTMBPhLAIcNmXvyOpegYVtH0at8WiAvLWQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=iphone+18+fold",
       "status": ""
     },
     {
-      "titulo": "frío",
-      "descripcion": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
+      "titulo": "javier bardem",
+      "descripcion": "Javier Bardem Sets Strict Family Clause in All Film Contracts",
       "trafico": "100+",
-      "fecha": "24/08/2026 15:00",
-      "fecha_dt": "2026-08-24T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkkNe56z3nMKOvIdbaWpIJqOVSxITM91A7VsyMdv0qDGt-qmikIFC2gPxqFck",
-      "link": "https://trends.google.com/trending?geo=MX&q=frío",
+      "fecha": "24/08/2026 16:20",
+      "fecha_dt": "2026-08-24T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVvfxfap-a9lN-e0M_r_mPRvKEP7t5oiWaWg0BJIhRqgozDpLQsnALdbdFugY",
+      "link": "https://trends.google.com/trending?geo=MX&q=javier+bardem",
       "status": ""
     },
     {
-      "titulo": "frente frío",
-      "descripcion": "¿Cuándo llega el primer frente frío a México? Esta es la fecha y estados afectados",
+      "titulo": "primera división femenil de méxico",
+      "descripcion": "Así marcha la tabla general de Liga Femenil tras la cuarta Jornada",
       "trafico": "100+",
-      "fecha": "24/08/2026 15:00",
-      "fecha_dt": "2026-08-24T15:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzAXAYiYnXb3OGIv4jHiRXYghHwtzkqzP4YUZZ6XxBtCu0LCtUP-DRp6RoPJM",
-      "link": "https://trends.google.com/trending?geo=MX&q=frente+frío",
-      "status": ""
-    },
-    {
-      "titulo": "arresto",
-      "descripcion": "Tony boy, arresto in diretta social tra coca e pistola carica: “Ragazzi, ho gli sbirri in casa”",
-      "trafico": "100+",
-      "fecha": "24/08/2026 14:30",
-      "fecha_dt": "2026-08-24T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCyDiJf-GpDsNpWa0zgAfdq15pQ_IFNGJgPqhOIBgYJWGEsTojj__hXz__6wQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=arresto",
+      "fecha": "24/08/2026 15:50",
+      "fecha_dt": "2026-08-24T15:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9qnGhGks22DYIhJs3sYIm_x-W7eL6wfurdito3nc-fZ24TQTjPXz3hwnKTws",
+      "link": "https://trends.google.com/trending?geo=MX&q=primera+división+femenil+de+méxico",
       "status": ""
     }
   ]
