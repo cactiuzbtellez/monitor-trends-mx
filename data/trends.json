@@ -1,26 +1,76 @@
 {
-  "actualizado": "24/08/2026 18:45 UTC",
+  "actualizado": "24/08/2026 19:32 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "fulham - chelsea",
-      "descripcion": "Fulham vs Chelsea LIVE: Premier League score, team news, commentary & updates",
-      "trafico": "10000+",
-      "fecha": "24/08/2026 18:10",
-      "fecha_dt": "2026-08-24T18:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdds1skJvHspJJkfoT06StFjbuYTCUcJvoaiBl8XTLej-E50ygueDw6591nEg",
-      "link": "https://trends.google.com/trending?geo=MX&q=fulham+-+chelsea",
-      "status": ""
-    },
-    {
       "titulo": "zoé robledo aburto",
       "descripcion": "​Nuevas ambulancias optimizan la atención médica del IMSS en Puebla",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "24/08/2026 18:30",
       "fecha_dt": "2026-08-24T18:30:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPfePwOFAmAT0HROKuYBtIyKH0K7owCgacKCeLSzcLD4F7Mjt5g8x9wwXQvw",
       "link": "https://trends.google.com/trending?geo=MX&q=zoé+robledo+aburto",
+      "status": ""
+    },
+    {
+      "titulo": "málaga - deportivo",
+      "descripcion": "Formaciones confirmadas de Málaga y Deportivo La Coruña: Larrubia y Yeremay, al banco",
+      "trafico": "500+",
+      "fecha": "24/08/2026 19:00",
+      "fecha_dt": "2026-08-24T19:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCRxhwdYRyk334ONu9ujHYseXmiP9s-DuMuBvGM2_QTTZQGfoFMrGasHUEbKM",
+      "link": "https://trends.google.com/trending?geo=MX&q=málaga+-+deportivo",
+      "status": ""
+    },
+    {
+      "titulo": "jalisco",
+      "descripcion": "Tigres, panteras y 20 detenidos en un operativo contra el Cartel Jalisco en tres Estados",
+      "trafico": "500+",
+      "fecha": "24/08/2026 18:50",
+      "fecha_dt": "2026-08-24T18:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6IAVRi6-BTGMOJqWBTtuWr6a7ER0quV975WvpctHUL9wnXzBIu0dO2c2fCiU",
+      "link": "https://trends.google.com/trending?geo=MX&q=jalisco",
+      "status": ""
+    },
+    {
+      "titulo": "clima acapulco",
+      "descripcion": "Clima Acapulco: lunes 24 de agosto con lluvia ligera y ambiente templado",
+      "trafico": "500+",
+      "fecha": "24/08/2026 18:40",
+      "fecha_dt": "2026-08-24T18:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4Y-py3Nv97OxsMZ9fBgOjJZdtk9TXpASd9VPL-v9nlA2CasC-6pemxNqJOj4",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+acapulco",
+      "status": ""
+    },
+    {
+      "titulo": "jaylen reed",
+      "descripcion": "Kayshon Boutte Trade Value and Possible Landing Spots",
+      "trafico": "200+",
+      "fecha": "24/08/2026 19:10",
+      "fecha_dt": "2026-08-24T19:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_V6HRKEi_ZeSydaVHGx4TjMQh3TLyd66tm2bVmmJUAmfBWeEAJt4FOM-PJJM",
+      "link": "https://trends.google.com/trending?geo=MX&q=jaylen+reed",
+      "status": ""
+    },
+    {
+      "titulo": "schalke 04",
+      "descripcion": "Schalker Vereinsführung vor Pokalabend mit klarer Ansage an Fans: Vereinsfarben lieber im Schrank lassen",
+      "trafico": "200+",
+      "fecha": "24/08/2026 19:00",
+      "fecha_dt": "2026-08-24T19:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvOT9dcdJSzvXuNxcvXTvICc-YIjfzCrsc8_mSTSt4R9zmZQq0Zet9uFsotzA",
+      "link": "https://trends.google.com/trending?geo=MX&q=schalke+04",
+      "status": ""
+    },
+    {
+      "titulo": "cotización",
+      "descripcion": "Precio del euro hoy en Uruguay: cotización de cierre del 24 de agosto",
+      "trafico": "200+",
+      "fecha": "24/08/2026 18:30",
+      "fecha_dt": "2026-08-24T18:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8F9_kZCdua-B9z9RgFXHkFl1xUllrQwYLjV7hTtKZ8zAX-MoYZMFhFAD_hA8",
+      "link": "https://trends.google.com/trending?geo=MX&q=cotización",
       "status": ""
     },
     {
@@ -34,73 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "iphone 18 pro max",
-      "descripcion": "The 8 Apple Products Leaked Ahead of the September Event",
-      "trafico": "200+",
-      "fecha": "24/08/2026 18:30",
-      "fecha_dt": "2026-08-24T18:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq4YjAmU2LMBfcXY4t6lEan3nL8PN0qcp1AwAoWqVPd46FCkV32tZyY2CnWqE",
-      "link": "https://trends.google.com/trending?geo=MX&q=iphone+18+pro+max",
-      "status": ""
-    },
-    {
-      "titulo": "al ittihad",
-      "descripcion": "Al-Ittihad face Al-Hazm with three new changes to the starting line-up",
-      "trafico": "200+",
-      "fecha": "24/08/2026 18:10",
-      "fecha_dt": "2026-08-24T18:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq9qODQcUTxaHMWL8EdeNpL4Zw2tiqXjbexmlt1fXBwofftsArKhFhwcUYflo",
-      "link": "https://trends.google.com/trending?geo=MX&q=al+ittihad",
-      "status": ""
-    },
-    {
-      "titulo": "ox alpha",
-      "descripcion": "Nobody knows who built AI coding model Ox Alpha or where the code goes",
-      "trafico": "200+",
-      "fecha": "24/08/2026 18:10",
-      "fecha_dt": "2026-08-24T18:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHy6Jyqjz2ysMOoVrFUn-RfeM5i8IUva2mz4DDLFIwhE-mnILc-Pnvpbfe2gk",
-      "link": "https://trends.google.com/trending?geo=MX&q=ox+alpha",
-      "status": ""
-    },
-    {
-      "titulo": "cotización",
-      "descripcion": "Precio del euro hoy en Uruguay: cotización de cierre del 24 de agosto",
+      "titulo": "delincuencia organizada",
+      "descripcion": "Procesan a Templarios implicados en extorsión a aguacateros",
       "trafico": "100+",
-      "fecha": "24/08/2026 18:30",
-      "fecha_dt": "2026-08-24T18:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8F9_kZCdua-B9z9RgFXHkFl1xUllrQwYLjV7hTtKZ8zAX-MoYZMFhFAD_hA8",
-      "link": "https://trends.google.com/trending?geo=MX&q=cotización",
+      "fecha": "24/08/2026 19:20",
+      "fecha_dt": "2026-08-24T19:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJBaLQ0N_oqoUBFCZ4atbdjbNoOOTwIq2r-JCbnIgQhutMTMEGnULFuSATops",
+      "link": "https://trends.google.com/trending?geo=MX&q=delincuencia+organizada",
       "status": ""
     },
     {
-      "titulo": "roma fc",
-      "descripcion": "Neil El Aynaoui: Roma demands €35 million",
+      "titulo": "director técnico",
+      "descripcion": "Raúl 'Potro' Gutiérrez, nuevo DT de Cruz Azul Femenil",
       "trafico": "100+",
-      "fecha": "24/08/2026 18:20",
-      "fecha_dt": "2026-08-24T18:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwqh2yIaTYUrOVCjR2Gh9D7fe2wQZGaiqpvt7vN59JH6ZHLxJStwR7i8hDpRM",
-      "link": "https://trends.google.com/trending?geo=MX&q=roma+fc",
-      "status": ""
-    },
-    {
-      "titulo": "desalojo",
-      "descripcion": "Familia denuncia desalojo de vivienda",
-      "trafico": "100+",
-      "fecha": "24/08/2026 18:20",
-      "fecha_dt": "2026-08-24T18:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKGuwBOQAUcQV2D7MTsHBPEtP7ZmqcnUWP6PmcIOunWlJSUlU9R3onOyXrxMg",
-      "link": "https://trends.google.com/trending?geo=MX&q=desalojo",
-      "status": ""
-    },
-    {
-      "titulo": "tijjani reijnders",
-      "descripcion": "Man City agree £86m deal for teen midfielder Bouaddi",
-      "trafico": "100+",
-      "fecha": "24/08/2026 18:10",
-      "fecha_dt": "2026-08-24T18:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSG3FA_hsQF8pDQO4JziF13svRgGTzx_CAKclyTo3Kjl2GqTUFFn5Y8gl_0dKc",
-      "link": "https://trends.google.com/trending?geo=MX&q=tijjani+reijnders",
+      "fecha": "24/08/2026 18:50",
+      "fecha_dt": "2026-08-24T18:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1JMeGf6CxFYvyReZcnDM4RdAMFXRK8TSHTLC6RCtiWrE_koNCljHXsqNwnVk",
+      "link": "https://trends.google.com/trending?geo=MX&q=director+técnico",
       "status": ""
     }
   ]
