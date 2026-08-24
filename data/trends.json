@@ -1,12 +1,12 @@
 {
-  "actualizado": "24/08/2026 08:52 UTC",
+  "actualizado": "24/08/2026 09:51 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "claudia sheinbaum",
       "descripcion": "Claudia Sheinbaum afirma que segunda licencia de Rocha Moya “fue lo mejor para Sinaloa”",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "fecha": "24/08/2026 08:30",
       "fecha_dt": "2026-08-24T08:30:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWcqoJ9DFxLxN7JmbGKjUemy_ZUr16Mn2Mhkoexqy5mYUMAxXrSzz-bDfWbfU",
@@ -15,11 +15,11 @@
     },
     {
       "titulo": "netflix",
-      "descripcion": "Netflix UK revenue surpasses £2B in 2025, beati...",
+      "descripcion": "Netflix Posts $2.8B Revenues In UK To Overtake ITV For First Time",
       "trafico": "500+",
       "fecha": "24/08/2026 08:40",
       "fecha_dt": "2026-08-24T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR56dOuN3yhO-ZFkqcdOZJMPNezaPi6wncF1nnzpbSGMk_jD69Wy4V-j7VBXgQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjkXANrEGcpuJ1D8njLQbsyA2-xtdMrahwsyC2eP6VobzSKpwQGrSW8Ptf4QI",
       "link": "https://trends.google.com/trending?geo=MX&q=netflix",
       "status": ""
     },
@@ -34,6 +34,16 @@
       "status": ""
     },
     {
+      "titulo": "プロ野球 速報",
+      "descripcion": "大津亮介＆山本祐大が徹底した「確認の確認」 試合前に抱かせた予感…10勝目の裏にあった“リベンジ”",
+      "trafico": "200+",
+      "fecha": "24/08/2026 08:50",
+      "fecha_dt": "2026-08-24T08:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4cypxVRBXmwUyoZxgWua4DLaIBNJ7-5T2YF4WqF7KtP1uyLyDnucmjjtG1dM",
+      "link": "https://trends.google.com/trending?geo=MX&q=プロ野球+速報",
+      "status": ""
+    },
+    {
       "titulo": "ビットコイン 価格",
       "descripcion": "ビットコイン急伸、8万ドルに迫る－「ディベースメント取引」の一環",
       "trafico": "200+",
@@ -45,11 +55,11 @@
     },
     {
       "titulo": "el tiempo",
-      "descripcion": "CNPC RECOMIENDA A LA POBLACIÓN ESTAR ATENTA ANTE LAS LLUVIAS INTENSAS Y TORMENTAS ELÉCTRICAS ESTE FIN DE SEMANA",
+      "descripcion": "UNICEF presentó el libro \"Zoom a las infancias y adolescencias en la era digital\"",
       "trafico": "200+",
       "fecha": "24/08/2026 08:10",
       "fecha_dt": "2026-08-24T08:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdiJEtrcIvJCoT_tmynv-ZNc6Oaq1W54GgL1R5IGAu5mAziWErilA85vd9mJM",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgmI99B1j9H5J8cmeFVv3fy9sWbrUb4tWqsG8FPM5mFgIBEEUz4PmeqdekcRM",
       "link": "https://trends.google.com/trending?geo=MX&q=el+tiempo",
       "status": ""
     },
@@ -74,33 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "resultados sorteo superior",
-      "descripcion": "Resultados Lotería Nacional Sorteo Zodiaco Especial 1758: Lista de Ganadores",
-      "trafico": "200+",
-      "fecha": "24/08/2026 06:30",
-      "fecha_dt": "2026-08-24T06:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0xVsSJJKagTuLlTBkEDb3gKoJpGtF2nGjoqW6hJAJH9ml7d-M6VZsqtrSFFE",
-      "link": "https://trends.google.com/trending?geo=MX&q=resultados+sorteo+superior",
+      "titulo": "laptop",
+      "descripcion": "Person treated after device catches fire on American Airlines flight to Dallas",
+      "trafico": "100+",
+      "fecha": "24/08/2026 09:20",
+      "fecha_dt": "2026-08-24T09:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoCHTRS5nEHuAC6ukC1wJwJr6Wgr7lCOrora5rMr-RmpWu8FpER1uJpGF1Y68",
+      "link": "https://trends.google.com/trending?geo=MX&q=laptop",
       "status": ""
     },
     {
       "titulo": "météo",
-      "descripcion": "Forts orages, grêle, brusques rafales et pluies intenses lundi",
+      "descripcion": "Météo : accalmie ce week-end, avant une nouvelle dégradation pluvio-orageuse lundi",
       "trafico": "100+",
       "fecha": "24/08/2026 08:40",
       "fecha_dt": "2026-08-24T08:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC8XxM-5l-jfiuvEadiKkifb1RKeK9yE_Sr4f5VP3wILyeVlIekk701GUE5j0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgWignZwO2SknT2Vrd3OJYwnGtq1inB-KgBIbP9Ha2-rFatQW2kSa4FdY3hWk",
       "link": "https://trends.google.com/trending?geo=MX&q=météo",
-      "status": ""
-    },
-    {
-      "titulo": "tesla",
-      "descripcion": "Nearly three million Teslas recalled in China over hidden door handles",
-      "trafico": "100+",
-      "fecha": "24/08/2026 06:40",
-      "fecha_dt": "2026-08-24T06:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsn_GmL7EsGvtOoPZ8Mj_5OaHTTBkoV8MdeNvTTN-R0nvBc2oqUXx_dFpAhjo",
-      "link": "https://trends.google.com/trending?geo=MX&q=tesla",
       "status": ""
     }
   ]
