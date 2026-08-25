@@ -1,12 +1,12 @@
 {
-  "actualizado": "25/08/2026 14:50 UTC",
+  "actualizado": "25/08/2026 15:46 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "karen solomon",
       "descripcion": "Kurt Solomon",
-      "trafico": "500+",
+      "trafico": "2000+",
       "fecha": "25/08/2026 14:00",
       "fecha_dt": "2026-08-25T14:00:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrn4zVzwPGT7dkHCMyYZlpU41YaOTHEsCBXT4toF3dvMbsGiLRnbejLYfhJN4",
@@ -14,29 +14,9 @@
       "status": ""
     },
     {
-      "titulo": "enrique inzunza cázarez",
-      "descripcion": "Enrique Inzunza, sin Rocha y sin Morena",
-      "trafico": "500+",
-      "fecha": "25/08/2026 12:00",
-      "fecha_dt": "2026-08-25T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6l7Pylnplslh8dm1nHLvvo_ll5bgbm2GzpR3q1o4iS9f0_fZGYlEWsN1xkV8",
-      "link": "https://trends.google.com/trending?geo=MX&q=enrique+inzunza+cázarez",
-      "status": ""
-    },
-    {
-      "titulo": "bet365",
-      "descripcion": "Yankees vs Astros Standings: Previous results in the season and how they enter the series",
-      "trafico": "200+",
-      "fecha": "25/08/2026 14:10",
-      "fecha_dt": "2026-08-25T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTU4f2bG3FmY-SvhJnJ36TC_yakA3L7UTpUMcIn4nlJXCZBn5fFzDm1r5XmwZ0",
-      "link": "https://trends.google.com/trending?geo=MX&q=bet365",
-      "status": ""
-    },
-    {
       "titulo": "pasaporte estadounidense",
       "descripcion": "Oficial | Estados Unidos prohíbe renovar y suspenderá los pasaportes de todos los ciudadanos y extranjeros que hayan esperado más de este tiempo",
-      "trafico": "200+",
+      "trafico": "1000+",
       "fecha": "25/08/2026 14:00",
       "fecha_dt": "2026-08-25T14:00:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6bIO4xVrPQKLI3lefAL3M8Ze7JuxZBHc3OVPHjzQHkGAJuB87VD1NTab2dz4",
@@ -44,19 +24,29 @@
       "status": ""
     },
     {
-      "titulo": "noticias",
-      "descripcion": "Las listas que verdaderamente importan | Artículo por Alberto Islas",
+      "titulo": "graciela dominguez",
+      "descripcion": "¿Rochismo o claudismo? // Atorón en la sucesión // Propuesta “técnica” // ¿“Definitiva” o “indefinida”? - Astillero",
+      "trafico": "500+",
+      "fecha": "25/08/2026 15:10",
+      "fecha_dt": "2026-08-25T15:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3GEY4DAB-IMOknFQReVB72TvZCgE3Q9DAGYgo6avh1TjG5NJpztpdFQyGIIc",
+      "link": "https://trends.google.com/trending?geo=MX&q=graciela+dominguez",
+      "status": ""
+    },
+    {
+      "titulo": "cuba",
+      "descripcion": "Díaz-Canel califica de 'régimen fascista' a EU y habla de 'genocidio' contra Cuba • Internacional",
       "trafico": "200+",
-      "fecha": "25/08/2026 13:00",
-      "fecha_dt": "2026-08-25T13:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIUvusvwfW2BwbvaMwE4PJA-Dwd4LkovsV7mffg9SAFCuV2At56cSWvhgdqoI",
-      "link": "https://trends.google.com/trending?geo=MX&q=noticias",
+      "fecha": "25/08/2026 15:10",
+      "fecha_dt": "2026-08-25T15:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjCy5P9g8BzKD9WKY7mDvcDEqwXCwnBk0gVc7oXl2Zd5uDEPnLkIodeSxSsI",
+      "link": "https://trends.google.com/trending?geo=MX&q=cuba",
       "status": ""
     },
     {
       "titulo": "mara lezama",
       "descripcion": "Vuelan en familia... y con su precandidato",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "25/08/2026 14:20",
       "fecha_dt": "2026-08-25T14:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGczctJAToK0PE9MvYUzIxWYgox54yRGrsSUhYCsXMxQ9x7rhgWrdwLOGek8",
@@ -64,43 +54,53 @@
       "status": ""
     },
     {
-      "titulo": "clima mazatlan",
-      "descripcion": "Clima en Mazatlán hoy martes 25 de agosto de 2026: calor, alta humedad y cielo despejado",
+      "titulo": "cte",
+      "descripcion": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease",
       "trafico": "100+",
-      "fecha": "25/08/2026 12:30",
-      "fecha_dt": "2026-08-25T12:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhskG7PSvCHTPp1BWIqEFwErNi2Q1hkfTxY4c-cl2HNwfvscLXUX_bgqlMcLk",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+mazatlan",
+      "fecha": "25/08/2026 15:10",
+      "fecha_dt": "2026-08-25T15:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7mCpnBtvbaY_fzpmrUpBBRFdfkkIaHygLvlmMGsGhhn7WbHQKRjY5-feqSJM",
+      "link": "https://trends.google.com/trending?geo=MX&q=cte",
       "status": ""
     },
     {
-      "titulo": "clima naucalpan",
-      "descripcion": "Clima en Naucalpan de Juárez: pronóstico para este martes 25 de agosto",
+      "titulo": "inversión",
+      "descripcion": "La inversión que decidió quedarse",
       "trafico": "100+",
-      "fecha": "25/08/2026 12:20",
-      "fecha_dt": "2026-08-25T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGGJO46BxWZ3Le1uBxgZEAlBMNKbjeY3OslhfmgSv8P29YAtPg_a9U3EXme8",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+naucalpan",
+      "fecha": "25/08/2026 14:50",
+      "fecha_dt": "2026-08-25T14:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRf-qeFV-jsqpKDbksRmgi6w0F4KrpI_oGo9elzlzq-nd9h76NzekCw_zxbc0",
+      "link": "https://trends.google.com/trending?geo=MX&q=inversión",
       "status": ""
     },
     {
-      "titulo": "erik lira",
-      "descripcion": "Erik Lira tiene los días contados en Cruz Azul",
+      "titulo": "bet 365",
+      "descripcion": "Bet365 “We know betting: reasons” by Drummond Central",
       "trafico": "100+",
-      "fecha": "25/08/2026 12:20",
-      "fecha_dt": "2026-08-25T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRneE2HcBdBuFm2HqaVbv4CHSmynEcRe2ezA-395EmynMQcDykNRAFUgNtKzs4",
-      "link": "https://trends.google.com/trending?geo=MX&q=erik+lira",
+      "fecha": "25/08/2026 14:30",
+      "fecha_dt": "2026-08-25T14:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NciB8Bgrh24uguchyVIudQugbq_Osor3qCdY0vIGP5MEFjhJQxIFzf3YwTE",
+      "link": "https://trends.google.com/trending?geo=MX&q=bet+365",
       "status": ""
     },
     {
-      "titulo": "clima puebla hoy",
-      "descripcion": "",
+      "titulo": "barron trump",
+      "descripcion": "Secret Service aware of Iranian state media video threatening life of Barron Trump",
       "trafico": "100+",
-      "fecha": "25/08/2026 12:00",
-      "fecha_dt": "2026-08-25T12:00:00+00:00",
-      "imagen": "",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+puebla+hoy",
+      "fecha": "25/08/2026 14:10",
+      "fecha_dt": "2026-08-25T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWZ8u70xotiNJgheomEASHleLW6mmyaSsOsS_04WM81yqPqrvOehGlAmr--l8",
+      "link": "https://trends.google.com/trending?geo=MX&q=barron+trump",
+      "status": ""
+    },
+    {
+      "titulo": "bet365",
+      "descripcion": "New York Yankees vs. Houston Astros: Series Preview",
+      "trafico": "100+",
+      "fecha": "25/08/2026 14:10",
+      "fecha_dt": "2026-08-25T14:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShucjJ2ZC19kqtFPunXtuQLE8llatIHqpxqcBV8_KgRJWuvsRZHDS-gT2Thk4",
+      "link": "https://trends.google.com/trending?geo=MX&q=bet365",
       "status": ""
     }
   ]
