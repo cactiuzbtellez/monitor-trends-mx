@@ -1,18 +1,8 @@
 {
-  "actualizado": "25/08/2026 08:47 UTC",
+  "actualizado": "25/08/2026 09:39 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
-    {
-      "titulo": "calentamiento de los océanos",
-      "descripcion": "Los océanos del planeta alcanzan la temperatura media más alta jamás registrada mientras El Niño se intensifica",
-      "trafico": "2000+",
-      "fecha": "25/08/2026 07:20",
-      "fecha_dt": "2026-08-25T07:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTFrv-D-L2HxuexIuZ5dPkNpqXSwnC5wpOFgXS3uJQC-gcbJc49xyhf71Lm9g",
-      "link": "https://trends.google.com/trending?geo=MX&q=calentamiento+de+los+océanos",
-      "status": ""
-    },
     {
       "titulo": "mexicali",
       "descripcion": "Alerta EU riesgos de violencia en edificios públicos de Mexicali",
@@ -34,6 +24,16 @@
       "status": ""
     },
     {
+      "titulo": "pensión bienestar adultos mayores",
+      "descripcion": "Entrega de tarjetas de Pensión Mujeres Bienestar y Pensión Adultos Mayores, del 24 al 30 de agosto",
+      "trafico": "1000+",
+      "fecha": "25/08/2026 05:10",
+      "fecha_dt": "2026-08-25T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSK4qUfBDRElP3UuWIemM9KdZ4ELrAGTzxVVF5_d9ihHpogL6eHGno7e833qVg",
+      "link": "https://trends.google.com/trending?geo=MX&q=pensión+bienestar+adultos+mayores",
+      "status": ""
+    },
+    {
       "titulo": "clima hermosillo",
       "descripcion": "Sonora tendrá otra semana de calor extremo: Hermosillo llegará a 46°C",
       "trafico": "500+",
@@ -45,11 +45,11 @@
     },
     {
       "titulo": "marina del pilar",
-      "descripcion": "Polarización política morenista, riesgos económicos",
+      "descripcion": "No son gente seria",
       "trafico": "200+",
       "fecha": "25/08/2026 06:50",
       "fecha_dt": "2026-08-25T06:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51wrGlTwtJ65GCaYwNwpVwlWGVUE87bbuBnn-GsYtqIZ6l0_zNvaZrXh9r94",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNmK6QQE2KTu7OGEOKtw7Vfiy3cSniL16fxlDyPZwc-bNgoEMzJweEriMzaqU",
       "link": "https://trends.google.com/trending?geo=MX&q=marina+del+pilar",
       "status": ""
     },
@@ -65,21 +65,31 @@
     },
     {
       "titulo": "natalie portman",
-      "descripcion": "How Natalie Portman Got Caught in Novelist Rachel Cusk’s Autofiction Trap",
+      "descripcion": "Review: Some say this hot new novel is about Natalie Portman. They're missing the point",
       "trafico": "200+",
       "fecha": "25/08/2026 05:40",
       "fecha_dt": "2026-08-25T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoPuTjSxiRcoy9bzQzsHaUZHY8OUqk91bPfkU9Xl_jGbmSRNYzWLopIfkHplQ",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnYq1dWU4exH6H9DXDuNquoHDaRtnxlc8hnC_xgId_CYiyZlCUuuD8OUQrC08",
       "link": "https://trends.google.com/trending?geo=MX&q=natalie+portman",
       "status": ""
     },
     {
+      "titulo": "luis chaparro",
+      "descripcion": "Luis Chaparro revela, sin querer, que es sonámbulo en La Casa de los Famosos México y deja impactados a sus compañeros",
+      "trafico": "200+",
+      "fecha": "25/08/2026 05:10",
+      "fecha_dt": "2026-08-25T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQqEJPIusnoS6txU3LHCtsNG_5Y5LOop-OmSfdhdTIVbLYKoP_iUmVcqHaXf8",
+      "link": "https://trends.google.com/trending?geo=MX&q=luis+chaparro",
+      "status": ""
+    },
+    {
       "titulo": "clima tampico",
-      "descripcion": "Pronóstico del clima en Tampico: Martes 25 de agosto con calor intenso y cielo nublado",
+      "descripcion": "",
       "trafico": "100+",
       "fecha": "25/08/2026 08:00",
       "fecha_dt": "2026-08-25T08:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQovcZhxR_gdyDWriSaCHPW_D2GrUcVyKQdCbDhbKByBI2Ff56ypSrLPKC-PCk",
+      "imagen": "",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+tampico",
       "status": ""
     },
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-25T06:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjcWgHrNNVuNVKJJsYifXkt1HMuifLdv3Q1KuuYnjfSOSPOu7vBjnR5wNLfak",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
-      "status": ""
-    },
-    {
-      "titulo": "masad",
-      "descripcion": "Masad es el primer líder en decidir con quién subir a la suite del líder y elige a Yahir",
-      "trafico": "100+",
-      "fecha": "25/08/2026 05:40",
-      "fecha_dt": "2026-08-25T05:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJGx0-WAKzaw7DxLKChUanwNoKvSSxCYhTgHvGmMHvH8QOmxkT0Xhne5lN8Y",
-      "link": "https://trends.google.com/trending?geo=MX&q=masad",
       "status": ""
     }
   ]
