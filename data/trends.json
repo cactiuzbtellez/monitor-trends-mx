@@ -1,65 +1,95 @@
 {
-  "actualizado": "25/08/2026 15:46 UTC",
+  "actualizado": "25/08/2026 16:40 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "karen solomon",
-      "descripcion": "Kurt Solomon",
-      "trafico": "2000+",
-      "fecha": "25/08/2026 14:00",
-      "fecha_dt": "2026-08-25T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrn4zVzwPGT7dkHCMyYZlpU41YaOTHEsCBXT4toF3dvMbsGiLRnbejLYfhJN4",
-      "link": "https://trends.google.com/trending?geo=MX&q=karen+solomon",
-      "status": ""
-    },
-    {
-      "titulo": "pasaporte estadounidense",
-      "descripcion": "Oficial | Estados Unidos prohíbe renovar y suspenderá los pasaportes de todos los ciudadanos y extranjeros que hayan esperado más de este tiempo",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 14:00",
-      "fecha_dt": "2026-08-25T14:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6bIO4xVrPQKLI3lefAL3M8Ze7JuxZBHc3OVPHjzQHkGAJuB87VD1NTab2dz4",
-      "link": "https://trends.google.com/trending?geo=MX&q=pasaporte+estadounidense",
-      "status": ""
-    },
-    {
       "titulo": "graciela dominguez",
-      "descripcion": "¿Rochismo o claudismo? // Atorón en la sucesión // Propuesta “técnica” // ¿“Definitiva” o “indefinida”? - Astillero",
-      "trafico": "500+",
+      "descripcion": "El Congreso de Sinaloa designa a Graciela Domínguez como gobernadora interina en sustitución de Rocha Moya",
+      "trafico": "1000+",
       "fecha": "25/08/2026 15:10",
       "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS3GEY4DAB-IMOknFQReVB72TvZCgE3Q9DAGYgo6avh1TjG5NJpztpdFQyGIIc",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj5swcnJF-06Jzz23al_rEWbpCJ5s5cJvddrEk_9bB3c8henScrp_MQTEYiC0",
       "link": "https://trends.google.com/trending?geo=MX&q=graciela+dominguez",
       "status": ""
     },
     {
       "titulo": "cuba",
-      "descripcion": "Díaz-Canel califica de 'régimen fascista' a EU y habla de 'genocidio' contra Cuba • Internacional",
+      "descripcion": "Photojournalist Richard Bickel shares story of early career, work in Cuba",
       "trafico": "200+",
       "fecha": "25/08/2026 15:10",
       "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjCy5P9g8BzKD9WKY7mDvcDEqwXCwnBk0gVc7oXl2Zd5uDEPnLkIodeSxSsI",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk6IzJ8viuoLw9eZSBqtMEtVCBYYKyEGtAHr532lw-AhT6hJ49zgUrGX01GnM",
       "link": "https://trends.google.com/trending?geo=MX&q=cuba",
       "status": ""
     },
     {
-      "titulo": "mara lezama",
-      "descripcion": "Vuelan en familia... y con su precandidato",
-      "trafico": "200+",
-      "fecha": "25/08/2026 14:20",
-      "fecha_dt": "2026-08-25T14:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGczctJAToK0PE9MvYUzIxWYgox54yRGrsSUhYCsXMxQ9x7rhgWrdwLOGek8",
-      "link": "https://trends.google.com/trending?geo=MX&q=mara+lezama",
+      "titulo": "colegio tonalli",
+      "descripcion": "Catean colegio en El Uro; indagan trata de personas",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:30",
+      "fecha_dt": "2026-08-25T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWVeXfKTHBIqEpiW-1SAVHci08yic_M2VLkwMmFA5eduJMczy6qXtVhyQzKLI",
+      "link": "https://trends.google.com/trending?geo=MX&q=colegio+tonalli",
+      "status": ""
+    },
+    {
+      "titulo": "starbucks",
+      "descripcion": "Pumpkin Spice Latte fans, this one’s for you: Starbucks unveils PSL society merchandise",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:30",
+      "fecha_dt": "2026-08-25T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-T1KQ6-cMcqHLgNWfWuphopB5WRbeh806fa8qiVymHmb-fgTp6v4YP775ETw",
+      "link": "https://trends.google.com/trending?geo=MX&q=starbucks",
+      "status": ""
+    },
+    {
+      "titulo": "ipad",
+      "descripcion": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:30",
+      "fecha_dt": "2026-08-25T16:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSukcF72kpSn9RCSWlzRYIPO8fUyqGNBQ4DUK1CJwk8iYIoh-3LPwfC4o2PhXw",
+      "link": "https://trends.google.com/trending?geo=MX&q=ipad",
+      "status": ""
+    },
+    {
+      "titulo": "frente frío",
+      "descripcion": "¿Ya viene el frío? SMN prevé llegada del primer frente frío a México en septiembre",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:20",
+      "fecha_dt": "2026-08-25T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykCSQ4B7sh_KAidB5fV4fMrAmEKG3XOhhCA9S9PQLHhBKewN0kxwXjALIw-s",
+      "link": "https://trends.google.com/trending?geo=MX&q=frente+frío",
+      "status": ""
+    },
+    {
+      "titulo": "mette-marit de noruega",
+      "descripcion": "Haakon y Mette-Marit de Noruega abren el álbum de su luna de miel 25 años después con una foto inédita con Marius Borg",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:10",
+      "fecha_dt": "2026-08-25T16:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyH77ATFhTalv9nYO9gVn0PdBFuu0kF2A69KIVc-JUhlWqy-e3noE5nXvcfOc",
+      "link": "https://trends.google.com/trending?geo=MX&q=mette-marit+de+noruega",
+      "status": ""
+    },
+    {
+      "titulo": "boeing 777",
+      "descripcion": "National Airlines Welcomes Fourth Boeing 777 Freighter to Its Freighter Fleet",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:00",
+      "fecha_dt": "2026-08-25T16:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYUMPX2a1aCLm_a_1LILf2SZ6slVm0nN7ZmoFiVq2mAHlIub_4ugMul12a2gk",
+      "link": "https://trends.google.com/trending?geo=MX&q=boeing+777",
       "status": ""
     },
     {
       "titulo": "cte",
-      "descripcion": "Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease",
+      "descripcion": "Your Child Plays Football. How Can You Minimize Risk of C.T.E.?",
       "trafico": "100+",
       "fecha": "25/08/2026 15:10",
       "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7mCpnBtvbaY_fzpmrUpBBRFdfkkIaHygLvlmMGsGhhn7WbHQKRjY5-feqSJM",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjtEAeprvikezMhPXjGkqxQuZ3x5ktbL64KYMpVecSEg4wM-rddM1Abe_G0jU",
       "link": "https://trends.google.com/trending?geo=MX&q=cte",
       "status": ""
     },
@@ -71,36 +101,6 @@
       "fecha_dt": "2026-08-25T14:50:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRf-qeFV-jsqpKDbksRmgi6w0F4KrpI_oGo9elzlzq-nd9h76NzekCw_zxbc0",
       "link": "https://trends.google.com/trending?geo=MX&q=inversión",
-      "status": ""
-    },
-    {
-      "titulo": "bet 365",
-      "descripcion": "Bet365 “We know betting: reasons” by Drummond Central",
-      "trafico": "100+",
-      "fecha": "25/08/2026 14:30",
-      "fecha_dt": "2026-08-25T14:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NciB8Bgrh24uguchyVIudQugbq_Osor3qCdY0vIGP5MEFjhJQxIFzf3YwTE",
-      "link": "https://trends.google.com/trending?geo=MX&q=bet+365",
-      "status": ""
-    },
-    {
-      "titulo": "barron trump",
-      "descripcion": "Secret Service aware of Iranian state media video threatening life of Barron Trump",
-      "trafico": "100+",
-      "fecha": "25/08/2026 14:10",
-      "fecha_dt": "2026-08-25T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWZ8u70xotiNJgheomEASHleLW6mmyaSsOsS_04WM81yqPqrvOehGlAmr--l8",
-      "link": "https://trends.google.com/trending?geo=MX&q=barron+trump",
-      "status": ""
-    },
-    {
-      "titulo": "bet365",
-      "descripcion": "New York Yankees vs. Houston Astros: Series Preview",
-      "trafico": "100+",
-      "fecha": "25/08/2026 14:10",
-      "fecha_dt": "2026-08-25T14:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShucjJ2ZC19kqtFPunXtuQLE8llatIHqpxqcBV8_KgRJWuvsRZHDS-gT2Thk4",
-      "link": "https://trends.google.com/trending?geo=MX&q=bet365",
       "status": ""
     }
   ]
