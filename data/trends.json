@@ -1,5 +1,5 @@
 {
-  "actualizado": "25/08/2026 06:53 UTC",
+  "actualizado": "25/08/2026 07:47 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -9,18 +9,28 @@
       "trafico": "20000+",
       "fecha": "25/08/2026 05:10",
       "fecha_dt": "2026-08-25T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdlQTrdk9BrLeCgTr72SlrRhwVJoWJlO4Tf9GxzXdrUTrfrAh5RUDUBYuKL4",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs7Q5G33Gk2OwIB-aX7vex1MvR7Gt5nO6TryqTONXgQVvLh14OUSDBaTthh8",
       "link": "https://trends.google.com/trending?geo=MX&q=galilea+montijo",
       "status": ""
     },
     {
       "titulo": "mexicali",
-      "descripcion": "EU emite alerta de seguridad para Mexicali por posible amenaza; suspende actividades este 25 de agosto",
+      "descripcion": "Alerta EU riesgos de violencia en edificios públicos de Mexicali",
+      "trafico": "2000+",
+      "fecha": "25/08/2026 05:20",
+      "fecha_dt": "2026-08-25T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4vVdIk9u7RzFcCIRHGHSxsqk3evTWtlk5gw0OicvaNHH9kijGtlfP_o-BDe0",
+      "link": "https://trends.google.com/trending?geo=MX&q=mexicali",
+      "status": ""
+    },
+    {
+      "titulo": "samsung galaxy s27",
+      "descripcion": "Galaxy S27 Ultra: Samsung prepara un cambio radical en su celular más importante de 2027",
       "trafico": "1000+",
       "fecha": "25/08/2026 05:20",
       "fecha_dt": "2026-08-25T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn92DUNIMUwQgsK7MYynwqkbAz1efOiPIZbqODUUER_LVc_UWYGSjdD8eNJbY",
-      "link": "https://trends.google.com/trending?geo=MX&q=mexicali",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM2sHUWa7o-tD0_rRtT91DW1cB-w_eFmGXf-p9lCDtZYnU5W-L8hP2KB2xU-I",
+      "link": "https://trends.google.com/trending?geo=MX&q=samsung+galaxy+s27",
       "status": ""
     },
     {
@@ -34,33 +44,23 @@
       "status": ""
     },
     {
-      "titulo": "ese perez",
-      "descripcion": "Masad y Ese se fueron a los EXTREMOS en #LaCasaDeLosFamososMéxico",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 04:50",
-      "fecha_dt": "2026-08-25T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB0AzmUEJSR_jtxLpHhwADI-r6K0Saqw9gVKLCF_1XRIh0d9F6UItERa7QMXI",
-      "link": "https://trends.google.com/trending?geo=MX&q=ese+perez",
+      "titulo": "clima hermosillo",
+      "descripcion": "Sonora tendrá otra semana de calor extremo: Hermosillo llegará a 46°C",
+      "trafico": "200+",
+      "fecha": "25/08/2026 07:10",
+      "fecha_dt": "2026-08-25T07:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJP6Jn76CV3AU-6WHEaVH_dmfGqXyFtMdCMhO5HjwuXrX5HIHC9q2hyvsehMU",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
       "status": ""
     },
     {
-      "titulo": "samsung galaxy s27",
-      "descripcion": "Galaxy S27 Ultra: Samsung prepara un cambio radical en su celular más importante de 2027",
-      "trafico": "500+",
-      "fecha": "25/08/2026 05:20",
-      "fecha_dt": "2026-08-25T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM2sHUWa7o-tD0_rRtT91DW1cB-w_eFmGXf-p9lCDtZYnU5W-L8hP2KB2xU-I",
-      "link": "https://trends.google.com/trending?geo=MX&q=samsung+galaxy+s27",
-      "status": ""
-    },
-    {
-      "titulo": "padres vs pirates",
-      "descripcion": "MLB: Pittsburgh Pirates at San Diego Padres",
-      "trafico": "500+",
-      "fecha": "25/08/2026 04:50",
-      "fecha_dt": "2026-08-25T04:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9OgQS9he6LZ33T09fCEl1OYg7mevL79AuQGDjqWq4lBIUasxuRr9F692l5LU",
-      "link": "https://trends.google.com/trending?geo=MX&q=padres+vs+pirates",
+      "titulo": "arturo carmona",
+      "descripcion": "Arturo Carmona posa con su hija Melanie y Cruz Martínez y la foto desata polémica",
+      "trafico": "200+",
+      "fecha": "25/08/2026 06:00",
+      "fecha_dt": "2026-08-25T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwoWH-rXiV6RG4Xpk99jgQwBjTc1xoWy1VXvrGtzLKDX2G5xkkovB902sRnEY",
+      "link": "https://trends.google.com/trending?geo=MX&q=arturo+carmona",
       "status": ""
     },
     {
@@ -74,33 +74,33 @@
       "status": ""
     },
     {
-      "titulo": "luis chaparro",
-      "descripcion": "Luis Chaparro revela, sin querer, que es sonámbulo en La Casa de los Famosos México y deja impactados a sus compañeros",
-      "trafico": "200+",
-      "fecha": "25/08/2026 05:10",
-      "fecha_dt": "2026-08-25T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQqEJPIusnoS6txU3LHCtsNG_5Y5LOop-OmSfdhdTIVbLYKoP_iUmVcqHaXf8",
-      "link": "https://trends.google.com/trending?geo=MX&q=luis+chaparro",
+      "titulo": "marina del pilar",
+      "descripcion": "Polarización política morenista, riesgos económicos",
+      "trafico": "100+",
+      "fecha": "25/08/2026 06:50",
+      "fecha_dt": "2026-08-25T06:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51wrGlTwtJ65GCaYwNwpVwlWGVUE87bbuBnn-GsYtqIZ6l0_zNvaZrXh9r94",
+      "link": "https://trends.google.com/trending?geo=MX&q=marina+del+pilar",
       "status": ""
     },
     {
       "titulo": "avengers endgame encore",
-      "descripcion": "Marvel Releases Official New Version Of Avengers: Doomsday’s High-Stakes Trailer",
+      "descripcion": "Avengers: Endgame Encore Gets Exciting Official Logo",
       "trafico": "100+",
       "fecha": "25/08/2026 06:10",
       "fecha_dt": "2026-08-25T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo6Nqixm-SC078vZKCs0Xs3lXcS9UIR4tj9dKhe59BJRb0VjNDLpGft7j_7MQ",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjcWgHrNNVuNVKJJsYifXkt1HMuifLdv3Q1KuuYnjfSOSPOu7vBjnR5wNLfak",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
       "status": ""
     },
     {
-      "titulo": "arturo carmona",
-      "descripcion": "Arturo Carmona posa con su hija Melanie y Cruz Martínez y la foto desata polémica",
+      "titulo": "masad",
+      "descripcion": "Masad es el primer líder en decidir con quién subir a la suite del líder y elige a Yahir",
       "trafico": "100+",
-      "fecha": "25/08/2026 06:00",
-      "fecha_dt": "2026-08-25T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwoWH-rXiV6RG4Xpk99jgQwBjTc1xoWy1VXvrGtzLKDX2G5xkkovB902sRnEY",
-      "link": "https://trends.google.com/trending?geo=MX&q=arturo+carmona",
+      "fecha": "25/08/2026 05:40",
+      "fecha_dt": "2026-08-25T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJGx0-WAKzaw7DxLKChUanwNoKvSSxCYhTgHvGmMHvH8QOmxkT0Xhne5lN8Y",
+      "link": "https://trends.google.com/trending?geo=MX&q=masad",
       "status": ""
     }
   ]
