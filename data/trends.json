@@ -1,32 +1,52 @@
 {
-  "actualizado": "25/08/2026 05:34 UTC",
+  "actualizado": "25/08/2026 06:53 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "la casa de los famosos votar",
+      "titulo": "galilea montijo",
       "descripcion": "¿En qué consiste la Mudanza, la dinámica que alterará la convivencia de La Casa de los Famosos México 2026?",
       "trafico": "20000+",
-      "fecha": "25/08/2026 03:50",
-      "fecha_dt": "2026-08-25T03:50:00+00:00",
+      "fecha": "25/08/2026 05:10",
+      "fecha_dt": "2026-08-25T05:10:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdlQTrdk9BrLeCgTr72SlrRhwVJoWJlO4Tf9GxzXdrUTrfrAh5RUDUBYuKL4",
-      "link": "https://trends.google.com/trending?geo=MX&q=la+casa+de+los+famosos+votar",
+      "link": "https://trends.google.com/trending?geo=MX&q=galilea+montijo",
       "status": ""
     },
     {
       "titulo": "mexicali",
-      "descripcion": "USA emite alerta por amenazas en Mexicali; piden no acudir a oficinas gubernamentales",
-      "trafico": "200+",
+      "descripcion": "EU emite alerta de seguridad para Mexicali por posible amenaza; suspende actividades este 25 de agosto",
+      "trafico": "1000+",
       "fecha": "25/08/2026 05:20",
       "fecha_dt": "2026-08-25T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLU3wX_9q3WDWNG0wu6IjSSr8mwp9fHifB8t_ned4udNB-vHOaacaTXxyjemg",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn92DUNIMUwQgsK7MYynwqkbAz1efOiPIZbqODUUER_LVc_UWYGSjdD8eNJbY",
       "link": "https://trends.google.com/trending?geo=MX&q=mexicali",
+      "status": ""
+    },
+    {
+      "titulo": "pensión bienestar adultos mayores",
+      "descripcion": "Entrega de tarjetas de Pensión Mujeres Bienestar y Pensión Adultos Mayores, del 24 al 30 de agosto",
+      "trafico": "1000+",
+      "fecha": "25/08/2026 05:10",
+      "fecha_dt": "2026-08-25T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSK4qUfBDRElP3UuWIemM9KdZ4ELrAGTzxVVF5_d9ihHpogL6eHGno7e833qVg",
+      "link": "https://trends.google.com/trending?geo=MX&q=pensión+bienestar+adultos+mayores",
+      "status": ""
+    },
+    {
+      "titulo": "ese perez",
+      "descripcion": "Masad y Ese se fueron a los EXTREMOS en #LaCasaDeLosFamososMéxico",
+      "trafico": "1000+",
+      "fecha": "25/08/2026 04:50",
+      "fecha_dt": "2026-08-25T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB0AzmUEJSR_jtxLpHhwADI-r6K0Saqw9gVKLCF_1XRIh0d9F6UItERa7QMXI",
+      "link": "https://trends.google.com/trending?geo=MX&q=ese+perez",
       "status": ""
     },
     {
       "titulo": "samsung galaxy s27",
       "descripcion": "Galaxy S27 Ultra: Samsung prepara un cambio radical en su celular más importante de 2027",
-      "trafico": "200+",
+      "trafico": "500+",
       "fecha": "25/08/2026 05:20",
       "fecha_dt": "2026-08-25T05:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM2sHUWa7o-tD0_rRtT91DW1cB-w_eFmGXf-p9lCDtZYnU5W-L8hP2KB2xU-I",
@@ -34,13 +54,23 @@
       "status": ""
     },
     {
-      "titulo": "pensión bienestar adultos mayores",
-      "descripcion": "Entrega de tarjetas de Pensión Mujeres Bienestar y Pensión Adultos Mayores, del 24 al 30 de agosto",
+      "titulo": "padres vs pirates",
+      "descripcion": "MLB: Pittsburgh Pirates at San Diego Padres",
+      "trafico": "500+",
+      "fecha": "25/08/2026 04:50",
+      "fecha_dt": "2026-08-25T04:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9OgQS9he6LZ33T09fCEl1OYg7mevL79AuQGDjqWq4lBIUasxuRr9F692l5LU",
+      "link": "https://trends.google.com/trending?geo=MX&q=padres+vs+pirates",
+      "status": ""
+    },
+    {
+      "titulo": "natalie portman",
+      "descripcion": "How Natalie Portman Got Caught in Novelist Rachel Cusk’s Autofiction Trap",
       "trafico": "200+",
-      "fecha": "25/08/2026 05:10",
-      "fecha_dt": "2026-08-25T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSK4qUfBDRElP3UuWIemM9KdZ4ELrAGTzxVVF5_d9ihHpogL6eHGno7e833qVg",
-      "link": "https://trends.google.com/trending?geo=MX&q=pensión+bienestar+adultos+mayores",
+      "fecha": "25/08/2026 05:40",
+      "fecha_dt": "2026-08-25T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoPuTjSxiRcoy9bzQzsHaUZHY8OUqk91bPfkU9Xl_jGbmSRNYzWLopIfkHplQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=natalie+portman",
       "status": ""
     },
     {
@@ -54,53 +84,23 @@
       "status": ""
     },
     {
-      "titulo": "hector kotsifakis",
-      "descripcion": "La historia que no se cuenta en ‘La Captura’: El exboxeador que fue vecino del ‘Chapo’ Guzmán",
-      "trafico": "200+",
-      "fecha": "25/08/2026 04:30",
-      "fecha_dt": "2026-08-25T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHlv68xMmxvpTr-ugvVHjKlH19bE5LBYCsyUaj8Jz7a7iyfgyPP2p4Ut463j8",
-      "link": "https://trends.google.com/trending?geo=MX&q=hector+kotsifakis",
-      "status": ""
-    },
-    {
-      "titulo": "valencia vs betis",
-      "descripcion": "Valencia vs Real Betis: ¿cuándo y dónde ver EN VIVO el partido de Álvaro Fidalgo en LaLiga?",
-      "trafico": "200+",
-      "fecha": "25/08/2026 04:00",
-      "fecha_dt": "2026-08-25T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCIW7ZGDKvCB-B9DuRde4VXyiIytmnIPobvrl-EI9-kXcwiJrQ3tHOdckLLWc",
-      "link": "https://trends.google.com/trending?geo=MX&q=valencia+vs+betis",
-      "status": ""
-    },
-    {
-      "titulo": "beca de transporte",
-      "descripcion": "Abren registro de la Beca a Universitarios para Transporte y Más: cuándo y cómo registrarse | Requisitos",
-      "trafico": "200+",
-      "fecha": "25/08/2026 03:50",
-      "fecha_dt": "2026-08-25T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJLzL96dvJ1F4eLHFWHak-1zMfu2vD9PwaO9tNrBKYyV7XEeVH2MlnRh1tTGg",
-      "link": "https://trends.google.com/trending?geo=MX&q=beca+de+transporte",
-      "status": ""
-    },
-    {
-      "titulo": "padres",
-      "descripcion": "¿Padres de San Diego se mudan a México? El contundente mensaje de su nuevo dueño",
+      "titulo": "avengers endgame encore",
+      "descripcion": "Marvel Releases Official New Version Of Avengers: Doomsday’s High-Stakes Trailer",
       "trafico": "100+",
-      "fecha": "25/08/2026 05:00",
-      "fecha_dt": "2026-08-25T05:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9mowGVGu37YdlHd9WGqq68tntbnPfSfmoyNDjZIRfVcee9puBX46OC2Nj8E",
-      "link": "https://trends.google.com/trending?geo=MX&q=padres",
+      "fecha": "25/08/2026 06:10",
+      "fecha_dt": "2026-08-25T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQo6Nqixm-SC078vZKCs0Xs3lXcS9UIR4tj9dKhe59BJRb0VjNDLpGft7j_7MQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
       "status": ""
     },
     {
-      "titulo": "efl cup",
-      "descripcion": "Fleetwood Town vs Shrewsbury Town: League Cup stats & head-to-head",
+      "titulo": "arturo carmona",
+      "descripcion": "Arturo Carmona posa con su hija Melanie y Cruz Martínez y la foto desata polémica",
       "trafico": "100+",
-      "fecha": "25/08/2026 04:40",
-      "fecha_dt": "2026-08-25T04:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3Pmn4s_97IfawY-uMnafDS54fb57ikp8xyflV5YUUoZy5IjcNwCH3yKFaMkk",
-      "link": "https://trends.google.com/trending?geo=MX&q=efl+cup",
+      "fecha": "25/08/2026 06:00",
+      "fecha_dt": "2026-08-25T06:00:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwoWH-rXiV6RG4Xpk99jgQwBjTc1xoWy1VXvrGtzLKDX2G5xkkovB902sRnEY",
+      "link": "https://trends.google.com/trending?geo=MX&q=arturo+carmona",
       "status": ""
     }
   ]
