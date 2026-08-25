@@ -1,26 +1,76 @@
 {
-  "actualizado": "25/08/2026 16:40 UTC",
+  "actualizado": "25/08/2026 17:34 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "graciela dominguez",
-      "descripcion": "El Congreso de Sinaloa designa a Graciela Domínguez como gobernadora interina en sustitución de Rocha Moya",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 15:10",
-      "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj5swcnJF-06Jzz23al_rEWbpCJ5s5cJvddrEk_9bB3c8henScrp_MQTEYiC0",
-      "link": "https://trends.google.com/trending?geo=MX&q=graciela+dominguez",
+      "titulo": "al-ettifaq - al-nassr",
+      "descripcion": "Al Ettifaq vs Al Nassr: Saudi Pro League stats & head-to-head",
+      "trafico": "2000+",
+      "fecha": "25/08/2026 17:10",
+      "fecha_dt": "2026-08-25T17:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
+      "link": "https://trends.google.com/trending?geo=MX&q=al-ettifaq+-+al-nassr",
       "status": ""
     },
     {
-      "titulo": "cuba",
-      "descripcion": "Photojournalist Richard Bickel shares story of early career, work in Cuba",
+      "titulo": "frente frío",
+      "descripcion": "¿Ya viene el frío? SMN prevé llegada del primer frente frío a México en septiembre",
+      "trafico": "500+",
+      "fecha": "25/08/2026 16:20",
+      "fecha_dt": "2026-08-25T16:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykCSQ4B7sh_KAidB5fV4fMrAmEKG3XOhhCA9S9PQLHhBKewN0kxwXjALIw-s",
+      "link": "https://trends.google.com/trending?geo=MX&q=frente+frío",
+      "status": ""
+    },
+    {
+      "titulo": "gamescom",
+      "descripcion": "game-Geschäftsführer Felix Falk: „Wir sind mit einem blauen Auge davongekommen“",
       "trafico": "200+",
-      "fecha": "25/08/2026 15:10",
-      "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk6IzJ8viuoLw9eZSBqtMEtVCBYYKyEGtAHr532lw-AhT6hJ49zgUrGX01GnM",
-      "link": "https://trends.google.com/trending?geo=MX&q=cuba",
+      "fecha": "25/08/2026 17:00",
+      "fecha_dt": "2026-08-25T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRltWnPZhDBenv0AtTYkPNGzkLl5uyrSH3EW9GBfWSpz1qJJ_ePvQHCFw8lmb4",
+      "link": "https://trends.google.com/trending?geo=MX&q=gamescom",
+      "status": ""
+    },
+    {
+      "titulo": "samsung galaxy s27 ultra",
+      "descripcion": "Galaxy S27 Ultra: Samsung prepara un cambio radical en su celular más importante de 2027",
+      "trafico": "200+",
+      "fecha": "25/08/2026 16:50",
+      "fecha_dt": "2026-08-25T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM2sHUWa7o-tD0_rRtT91DW1cB-w_eFmGXf-p9lCDtZYnU5W-L8hP2KB2xU-I",
+      "link": "https://trends.google.com/trending?geo=MX&q=samsung+galaxy+s27+ultra",
+      "status": ""
+    },
+    {
+      "titulo": "inegi",
+      "descripcion": "Informalidad impulsó la creación del 98% del empleo en el segundo trimestre del 2026",
+      "trafico": "100+",
+      "fecha": "25/08/2026 17:00",
+      "fecha_dt": "2026-08-25T17:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThUk7MwFMtLLfVzgljl2IKsHoXkkrYHx9RB_1rAUyGVxH5gr5BBYTY-U7UohI",
+      "link": "https://trends.google.com/trending?geo=MX&q=inegi",
+      "status": ""
+    },
+    {
+      "titulo": "sabah vs hapoel",
+      "descripcion": "Sabah vs Hapoel Beer Sheva",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:50",
+      "fecha_dt": "2026-08-25T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPWMyk_4i2uyEgVWGWUctVVNlyjkp6K0somhEktG0vvEmviPLdPS0Sq4UZfJQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=sabah+vs+hapoel",
+      "status": ""
+    },
+    {
+      "titulo": "sabah vs",
+      "descripcion": "Horario y dónde ver el LASK vs. Celtic y Sabah vs. Hapoel Be'er Sheva, de Playoffs de Champions",
+      "trafico": "100+",
+      "fecha": "25/08/2026 16:50",
+      "fecha_dt": "2026-08-25T16:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNje4dGJvoB7Tbzi0F56k_5lJEsyVnQ9-WiW58pjueqYrHmODPPuW4daUo0es",
+      "link": "https://trends.google.com/trending?geo=MX&q=sabah+vs",
       "status": ""
     },
     {
@@ -39,68 +89,18 @@
       "trafico": "100+",
       "fecha": "25/08/2026 16:30",
       "fecha_dt": "2026-08-25T16:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-T1KQ6-cMcqHLgNWfWuphopB5WRbeh806fa8qiVymHmb-fgTp6v4YP775ETw",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhM7ZMEvZUzismcxYlLiHy1sconk1Mvwqkw_mLINjZgQnVspWI0268eD1w_Mw",
       "link": "https://trends.google.com/trending?geo=MX&q=starbucks",
       "status": ""
     },
     {
       "titulo": "ipad",
-      "descripcion": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "descripcion": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
       "trafico": "100+",
       "fecha": "25/08/2026 16:30",
       "fecha_dt": "2026-08-25T16:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSukcF72kpSn9RCSWlzRYIPO8fUyqGNBQ4DUK1CJwk8iYIoh-3LPwfC4o2PhXw",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGSIwkIZfug4BT28H76oeAcH4HY2bNjKOnRhSmtNxfNB2ANL03oC8KeNmBI70",
       "link": "https://trends.google.com/trending?geo=MX&q=ipad",
-      "status": ""
-    },
-    {
-      "titulo": "frente frío",
-      "descripcion": "¿Ya viene el frío? SMN prevé llegada del primer frente frío a México en septiembre",
-      "trafico": "100+",
-      "fecha": "25/08/2026 16:20",
-      "fecha_dt": "2026-08-25T16:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRykCSQ4B7sh_KAidB5fV4fMrAmEKG3XOhhCA9S9PQLHhBKewN0kxwXjALIw-s",
-      "link": "https://trends.google.com/trending?geo=MX&q=frente+frío",
-      "status": ""
-    },
-    {
-      "titulo": "mette-marit de noruega",
-      "descripcion": "Haakon y Mette-Marit de Noruega abren el álbum de su luna de miel 25 años después con una foto inédita con Marius Borg",
-      "trafico": "100+",
-      "fecha": "25/08/2026 16:10",
-      "fecha_dt": "2026-08-25T16:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyH77ATFhTalv9nYO9gVn0PdBFuu0kF2A69KIVc-JUhlWqy-e3noE5nXvcfOc",
-      "link": "https://trends.google.com/trending?geo=MX&q=mette-marit+de+noruega",
-      "status": ""
-    },
-    {
-      "titulo": "boeing 777",
-      "descripcion": "National Airlines Welcomes Fourth Boeing 777 Freighter to Its Freighter Fleet",
-      "trafico": "100+",
-      "fecha": "25/08/2026 16:00",
-      "fecha_dt": "2026-08-25T16:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYUMPX2a1aCLm_a_1LILf2SZ6slVm0nN7ZmoFiVq2mAHlIub_4ugMul12a2gk",
-      "link": "https://trends.google.com/trending?geo=MX&q=boeing+777",
-      "status": ""
-    },
-    {
-      "titulo": "cte",
-      "descripcion": "Your Child Plays Football. How Can You Minimize Risk of C.T.E.?",
-      "trafico": "100+",
-      "fecha": "25/08/2026 15:10",
-      "fecha_dt": "2026-08-25T15:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjtEAeprvikezMhPXjGkqxQuZ3x5ktbL64KYMpVecSEg4wM-rddM1Abe_G0jU",
-      "link": "https://trends.google.com/trending?geo=MX&q=cte",
-      "status": ""
-    },
-    {
-      "titulo": "inversión",
-      "descripcion": "La inversión que decidió quedarse",
-      "trafico": "100+",
-      "fecha": "25/08/2026 14:50",
-      "fecha_dt": "2026-08-25T14:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRf-qeFV-jsqpKDbksRmgi6w0F4KrpI_oGo9elzlzq-nd9h76NzekCw_zxbc0",
-      "link": "https://trends.google.com/trending?geo=MX&q=inversión",
       "status": ""
     }
   ]
