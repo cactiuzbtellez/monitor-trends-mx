@@ -1,8 +1,18 @@
 {
-  "actualizado": "25/08/2026 09:39 UTC",
+  "actualizado": "25/08/2026 10:36 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "gta vi gameplay",
+      "descripcion": "Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
+      "trafico": "2000+",
+      "fecha": "25/08/2026 10:10",
+      "fecha_dt": "2026-08-25T10:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTp10FKqnCfrjuMGkwE7AT4ZPTCfetenYq9itBO2KCFq1sqxp9LRVZaMCgoA",
+      "link": "https://trends.google.com/trending?geo=MX&q=gta+vi+gameplay",
+      "status": ""
+    },
     {
       "titulo": "mexicali",
       "descripcion": "Alerta EU riesgos de violencia en edificios públicos de Mexicali",
@@ -14,6 +24,16 @@
       "status": ""
     },
     {
+      "titulo": "no",
+      "descripcion": "49ers owner Jed York arrested on suspicion of engaging in prostitution",
+      "trafico": "1000+",
+      "fecha": "25/08/2026 10:20",
+      "fecha_dt": "2026-08-25T10:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG75jZyV-wzJXx0CKI1HBRl38bCsIBqll_cNBDXRnnRLYGnkAPk2L5SIZthZ8",
+      "link": "https://trends.google.com/trending?geo=MX&q=no",
+      "status": ""
+    },
+    {
       "titulo": "samsung galaxy s27",
       "descripcion": "Galaxy S27 Ultra: Samsung prepara un cambio radical en su celular más importante de 2027",
       "trafico": "1000+",
@@ -21,16 +41,6 @@
       "fecha_dt": "2026-08-25T05:20:00+00:00",
       "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM2sHUWa7o-tD0_rRtT91DW1cB-w_eFmGXf-p9lCDtZYnU5W-L8hP2KB2xU-I",
       "link": "https://trends.google.com/trending?geo=MX&q=samsung+galaxy+s27",
-      "status": ""
-    },
-    {
-      "titulo": "pensión bienestar adultos mayores",
-      "descripcion": "Entrega de tarjetas de Pensión Mujeres Bienestar y Pensión Adultos Mayores, del 24 al 30 de agosto",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 05:10",
-      "fecha_dt": "2026-08-25T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSK4qUfBDRElP3UuWIemM9KdZ4ELrAGTzxVVF5_d9ihHpogL6eHGno7e833qVg",
-      "link": "https://trends.google.com/trending?geo=MX&q=pensión+bienestar+adultos+mayores",
       "status": ""
     },
     {
@@ -74,16 +84,6 @@
       "status": ""
     },
     {
-      "titulo": "luis chaparro",
-      "descripcion": "Luis Chaparro revela, sin querer, que es sonámbulo en La Casa de los Famosos México y deja impactados a sus compañeros",
-      "trafico": "200+",
-      "fecha": "25/08/2026 05:10",
-      "fecha_dt": "2026-08-25T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQqEJPIusnoS6txU3LHCtsNG_5Y5LOop-OmSfdhdTIVbLYKoP_iUmVcqHaXf8",
-      "link": "https://trends.google.com/trending?geo=MX&q=luis+chaparro",
-      "status": ""
-    },
-    {
       "titulo": "clima tampico",
       "descripcion": "",
       "trafico": "100+",
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "avengers endgame encore",
-      "descripcion": "Avengers: Endgame Encore Gets Exciting Official Logo",
+      "descripcion": "Avengers: Doomsday Gets Surprise Official Trailer With an All-New Look",
       "trafico": "100+",
       "fecha": "25/08/2026 06:10",
       "fecha_dt": "2026-08-25T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjcWgHrNNVuNVKJJsYifXkt1HMuifLdv3Q1KuuYnjfSOSPOu7vBjnR5wNLfak",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtW7Ea-Fa7vFVEAkSesQ8Hgu0eWeE0FExIOd7SVpxuhkQ6sj6dLyPY_kearhM",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+encore",
       "status": ""
     }
