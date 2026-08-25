@@ -1,82 +1,32 @@
 {
-  "actualizado": "25/08/2026 12:52 UTC",
+  "actualizado": "25/08/2026 13:52 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "clima acapulco",
-      "descripcion": "Clima Acapulco: lunes 24 de agosto con lluvia ligera y ambiente templado",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 12:10",
-      "fecha_dt": "2026-08-25T12:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4Y-py3Nv97OxsMZ9fBgOjJZdtk9TXpASd9VPL-v9nlA2CasC-6pemxNqJOj4",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+acapulco",
-      "status": ""
-    },
-    {
-      "titulo": "clima hoy",
-      "descripcion": "Clima hoy en Tlalnepantla de Baz: martes 25 de agosto con lluvias ligeras",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 11:40",
-      "fecha_dt": "2026-08-25T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9IajIqHemcCitrd5g8vwancy18rTwp91-43HroeYagLymhemqjAo8NI8XdSI",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "clima cdmx",
-      "descripcion": "Lluvia Hoy En Vivo en CDMX: Afectaciones y Calles Inundadas Este 24 de Agosto 2026",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 11:40",
-      "fecha_dt": "2026-08-25T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5e59cyd4Ss6H96_7wb20cpMxuB3a3ouXy80SCVMtJZGN1xTcOgQ6RLu_VEs0",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+cdmx",
-      "status": ""
-    },
-    {
-      "titulo": "clima de hoy",
-      "descripcion": "Clima en San Antonio, Texas hoy: cuál es el pronóstico del tiempo para hoy 25 de agosto",
-      "trafico": "1000+",
-      "fecha": "25/08/2026 11:40",
-      "fecha_dt": "2026-08-25T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzI11eQiwPPR5BKe_64-FrVYps5pxmosd9hmWtSSMJUa89_a8GlnhAR8V3s4",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+de+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "clima puebla",
-      "descripcion": "Clima en Puebla: Pronóstico para las Próximas Horas en Capital y Zona Conurbada",
+      "titulo": "noticias",
+      "descripcion": "Consulta Pública: 82% expresó un NO rotundo a la censura",
       "trafico": "200+",
-      "fecha": "25/08/2026 11:40",
-      "fecha_dt": "2026-08-25T11:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsGSgUXqq5YJ0aggBZpAma9i5ktLu4iB0pIXj3JXEtlqw7f6QHup7cw6jYnzI",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+puebla",
-      "status": ""
-    },
-    {
-      "titulo": "erik lira",
-      "descripcion": "¿Cómo va el fichaje de Erik Lira a Europa?",
-      "trafico": "100+",
-      "fecha": "25/08/2026 12:20",
-      "fecha_dt": "2026-08-25T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-deXrtNv59IzAlly5QZCN4j2mFbnu_3CLpeWAGlXdtIhLGs3AKUblq0UF84",
-      "link": "https://trends.google.com/trending?geo=MX&q=erik+lira",
+      "fecha": "25/08/2026 13:00",
+      "fecha_dt": "2026-08-25T13:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTuR4iE9EO255jOgy6MQoT_Pgw5LzYCUzSkfZQGMHj8rlxp9FApbzC38mBZ6U",
+      "link": "https://trends.google.com/trending?geo=MX&q=noticias",
       "status": ""
     },
     {
       "titulo": "enrique inzunza cázarez",
-      "descripcion": "Enrique Inzunza, sin Rocha y sin Morena",
-      "trafico": "100+",
+      "descripcion": "Posible regreso de Enrique Inzunza al Senado divide a legisladores de Morena",
+      "trafico": "200+",
       "fecha": "25/08/2026 12:00",
       "fecha_dt": "2026-08-25T12:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6l7Pylnplslh8dm1nHLvvo_ll5bgbm2GzpR3q1o4iS9f0_fZGYlEWsN1xkV8",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7Hey_nAMShdJyTKBn6I_TuTbDINPf5DpH4Oc_Y9xwVz6d_7Q4SIJhrTCmo5Q",
       "link": "https://trends.google.com/trending?geo=MX&q=enrique+inzunza+cázarez",
       "status": ""
     },
     {
       "titulo": "clima pachuca",
       "descripcion": "",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "25/08/2026 11:50",
       "fecha_dt": "2026-08-25T11:50:00+00:00",
       "imagen": "",
@@ -86,7 +36,7 @@
     {
       "titulo": "predicción",
       "descripcion": "Horóscopos Virgo 24 de Agosto 2026",
-      "trafico": "100+",
+      "trafico": "200+",
       "fecha": "25/08/2026 11:50",
       "fecha_dt": "2026-08-25T11:50:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-LMsBJu94uSHPlkJXU0NRiZJEmGQN2ex7VSyC3i8XBiNZ9wuFOJAI5vzsCM",
@@ -94,13 +44,63 @@
       "status": ""
     },
     {
-      "titulo": "tiempo de hoy",
-      "descripcion": "Se viene el diluvio del siglo: cambió el pronóstico en el AMBA, habrá temperaturas de 20 °C y fuertes tormentas",
+      "titulo": "depresión tropical",
+      "descripcion": "Tormentas tropicales Julio e Iselle en el Pacífico: ¿Cuál es su trayectoria y por qué una absorberá a la otra hoy?",
       "trafico": "100+",
-      "fecha": "25/08/2026 11:30",
-      "fecha_dt": "2026-08-25T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMl6gB_SB5F2LCdKfenVQzSXni5EsuIMVu1Aiw_8xHM0dRyEbYXCAAmZOkWM8",
-      "link": "https://trends.google.com/trending?geo=MX&q=tiempo+de+hoy",
+      "fecha": "25/08/2026 13:20",
+      "fecha_dt": "2026-08-25T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWAoCvUrcLP3Wp6FpvP-3fJaVxYZO2NA9Q_PH8cXqYbKp_VpfuhSCZbGenxE",
+      "link": "https://trends.google.com/trending?geo=MX&q=depresión+tropical",
+      "status": ""
+    },
+    {
+      "titulo": "clima irapuato",
+      "descripcion": "Pronóstico del clima en Guanajuato: martes 25 de agosto con lluvias y ambiente fresco",
+      "trafico": "100+",
+      "fecha": "25/08/2026 12:40",
+      "fecha_dt": "2026-08-25T12:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReFwXSErJSddU1WWtnAI8zUrllyJpekPSe4AfP1IuTkeYSo7HRuY0Os6Kp2Ig",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+irapuato",
+      "status": ""
+    },
+    {
+      "titulo": "clima mazatlan",
+      "descripcion": "Clima en Mazatlán hoy martes 25 de agosto de 2026: calor, alta humedad y cielo despejado",
+      "trafico": "100+",
+      "fecha": "25/08/2026 12:30",
+      "fecha_dt": "2026-08-25T12:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhskG7PSvCHTPp1BWIqEFwErNi2Q1hkfTxY4c-cl2HNwfvscLXUX_bgqlMcLk",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+mazatlan",
+      "status": ""
+    },
+    {
+      "titulo": "clima naucalpan",
+      "descripcion": "Clima en Naucalpan de Juárez: pronóstico para este martes 25 de agosto",
+      "trafico": "100+",
+      "fecha": "25/08/2026 12:20",
+      "fecha_dt": "2026-08-25T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOGGJO46BxWZ3Le1uBxgZEAlBMNKbjeY3OslhfmgSv8P29YAtPg_a9U3EXme8",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+naucalpan",
+      "status": ""
+    },
+    {
+      "titulo": "erik lira",
+      "descripcion": "El Apunte del Director: La ayuda a la Hormiga aún no la tiene Lira",
+      "trafico": "100+",
+      "fecha": "25/08/2026 12:20",
+      "fecha_dt": "2026-08-25T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNe9jTeeJUIbYT-ZPjlj2AWg4ELcdGJgaodb7349YuyK186ndCMwQd69QNnww",
+      "link": "https://trends.google.com/trending?geo=MX&q=erik+lira",
+      "status": ""
+    },
+    {
+      "titulo": "clima puebla hoy",
+      "descripcion": "",
+      "trafico": "100+",
+      "fecha": "25/08/2026 12:00",
+      "fecha_dt": "2026-08-25T12:00:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+puebla+hoy",
       "status": ""
     }
   ]
