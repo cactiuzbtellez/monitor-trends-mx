@@ -1,92 +1,32 @@
 {
-  "actualizado": "26/08/2026 11:33 UTC",
+  "actualizado": "26/08/2026 12:58 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "tormenta tropical",
-      "descripcion": "Tormentas tropicales ‘Iselle’ y ‘Julio’ en el Pacífico: ¿Cuál es su trayectoria?",
-      "trafico": "2000+",
-      "fecha": "26/08/2026 10:30",
-      "fecha_dt": "2026-08-26T10:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dZH-U6tfp2plqMuwT3YgDLwJ9RpH43nJSuhorZRr5XtGhDeQMmxClMqrfaM",
-      "link": "https://trends.google.com/trending?geo=MX&q=tormenta+tropical",
-      "status": ""
-    },
-    {
-      "titulo": "francisco javier garcía cabeza de vaca",
-      "descripcion": "José Ramón Gómez Leal cuestiona a políticos con doble nacionalidad: “Cuando les conviene son mexicanos",
-      "trafico": "500+",
-      "fecha": "26/08/2026 07:00",
-      "fecha_dt": "2026-08-26T07:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8WKZAL3APIrP5nrvXLokJfbeDVHSK6o0wo3tzeCHq8AIirCOgdDv4N4MTcZc",
-      "link": "https://trends.google.com/trending?geo=MX&q=francisco+javier+garcía+cabeza+de+vaca",
-      "status": ""
-    },
-    {
-      "titulo": "gamescom 2026 juegos anunciados",
-      "descripcion": "\"Final Fantasy\" y \"The Witcher\" acaparan la atención del gran salón de videojuegos Gamescom",
-      "trafico": "500+",
-      "fecha": "26/08/2026 06:10",
-      "fecha_dt": "2026-08-26T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQob9j6HiWDBXVs-UBP-hs4tlpwYAPzJm8OyRDEFR4GwnTwFaF8TRzz2P4AY",
-      "link": "https://trends.google.com/trending?geo=MX&q=gamescom+2026+juegos+anunciados",
-      "status": ""
-    },
-    {
-      "titulo": "avengers endgame bonus infinity vision",
-      "descripcion": "Avengers Endgame: Bonus",
-      "trafico": "500+",
-      "fecha": "26/08/2026 06:00",
-      "fecha_dt": "2026-08-26T06:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0hNWjJtwse7OhuKi9vDjI7oxbytxSkDyAh4x7cBC3C90_DEAzYlzSayX1Kg",
-      "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+bonus+infinity+vision",
-      "status": ""
-    },
-    {
-      "titulo": "manlio fabio beltrones",
-      "descripcion": "Manlio Fabio Beltrones alista regreso al Senado; \"México está obligado a hacer una reforma fiscal\", dice",
-      "trafico": "500+",
-      "fecha": "26/08/2026 05:50",
-      "fecha_dt": "2026-08-26T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrFL9r1ivOY83ZM_jXh7i3E6NiaDSoe6vEHy4211uMB3i0C4Vq-hEg_1QD4dU",
-      "link": "https://trends.google.com/trending?geo=MX&q=manlio+fabio+beltrones",
+      "titulo": "clima hoy cdmx",
+      "descripcion": "MARTES CÁLIDO EN CDMX, CON LLUVIAS INTERMITENTES",
+      "trafico": "1000+",
+      "fecha": "26/08/2026 11:30",
+      "fecha_dt": "2026-08-26T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM7Pd4V6_q4wf6mdmbQatlCR0fbGIl-p8f4bicQ3JDcLzGnAFh7-nn9cLK64",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+hoy+cdmx",
       "status": ""
     },
     {
       "titulo": "rusia",
-      "descripcion": "El director de la CIA, John Ratcliffe, viaja a Moscú por sorpresa",
-      "trafico": "200+",
+      "descripcion": "Director de CIA habló en Moscú con servicios secretos rusos",
+      "trafico": "500+",
       "fecha": "26/08/2026 11:20",
       "fecha_dt": "2026-08-26T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRe1E4Mjz-vIZQyzH_Sm28tI3NYDXsj8Wo6DasngtzQp7M80MxVJev88IYsLQc",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqUrq5reDtOMYnqLKCoM0dJb8gM9QmDsjkRLgUr0-pncHE-tXHbCuRdaggko",
       "link": "https://trends.google.com/trending?geo=MX&q=rusia",
-      "status": ""
-    },
-    {
-      "titulo": "shein",
-      "descripcion": "How Shein came crashing down",
-      "trafico": "200+",
-      "fecha": "26/08/2026 10:10",
-      "fecha_dt": "2026-08-26T10:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQESeaxJRAps5hJCNJ9bi0u8Gsuo3S1EQYrAQ2CRMuJrzEThBuaXyRN62QUUnI",
-      "link": "https://trends.google.com/trending?geo=MX&q=shein",
-      "status": ""
-    },
-    {
-      "titulo": "ola de frío",
-      "descripcion": "Se aproxima el diluvio del año durante las siguientes 72 horas: tormentas intensas, fuertes ráfagas de viento y ola de frío polar con temperaturas bajo cero en estas zonas del país",
-      "trafico": "200+",
-      "fecha": "26/08/2026 09:40",
-      "fecha_dt": "2026-08-26T09:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeEtqKga7dIpJOKYdpkjoOOL_06eD5dZ0WYsiuuTzKS9HLDiFFRizrpF3YtIE",
-      "link": "https://trends.google.com/trending?geo=MX&q=ola+de+frío",
       "status": ""
     },
     {
       "titulo": "empresario",
       "descripcion": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
-      "trafico": "100+",
+      "trafico": "500+",
       "fecha": "26/08/2026 10:40",
       "fecha_dt": "2026-08-26T10:40:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUmKkA2b47RoK4N2ztkAMVmMCCH-b4OZ4ijYxMPHvsFwpvVj9XOiW80mgY718",
@@ -94,13 +34,73 @@
       "status": ""
     },
     {
-      "titulo": "loteria nacional sorteo mayor 4025",
-      "descripcion": "Resultados de la Lotería Nacional en vivo hoy, martes 25 de agosto 2026: qué números cayeron en Sorteo Mayor 4025 y sorteos electrónicos",
+      "titulo": "dólar estadounidense",
+      "descripcion": "El 'superpeso' volvió: qué lo impulsa y quién gana y pierde",
+      "trafico": "200+",
+      "fecha": "26/08/2026 11:30",
+      "fecha_dt": "2026-08-26T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyjN59CJvxSE88Z4-LVoGYxUPQ8vJMjtA3DRlaXff7iW6mr3A4J1koAzwPR9c",
+      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
+      "status": ""
+    },
+    {
+      "titulo": "licencia",
+      "descripcion": "Inzunza, de prócer a apestado",
       "trafico": "100+",
-      "fecha": "26/08/2026 07:30",
-      "fecha_dt": "2026-08-26T07:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HAJ7ONj8RdpB_qeU6N3ojQ_dBaWnyDHdkz-hoZVfcDjGtSCNrQyFhVA3RdY",
-      "link": "https://trends.google.com/trending?geo=MX&q=loteria+nacional+sorteo+mayor+4025",
+      "fecha": "26/08/2026 12:40",
+      "fecha_dt": "2026-08-26T12:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZbMCaf-FLSzzCbyqgtC8RdB5fW1nH0T-tXp1GoAxPpf3cZ2yoHmpChuUtTY",
+      "link": "https://trends.google.com/trending?geo=MX&q=licencia",
+      "status": ""
+    },
+    {
+      "titulo": "deuda",
+      "descripcion": "Deuda pública y el dólar",
+      "trafico": "100+",
+      "fecha": "26/08/2026 12:30",
+      "fecha_dt": "2026-08-26T12:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1ta7q7Pgefs3vB4yWGHD86i3v23GVPONYHC3BTW2gIbzrUXnhjYihNvSOcuo",
+      "link": "https://trends.google.com/trending?geo=MX&q=deuda",
+      "status": ""
+    },
+    {
+      "titulo": "clima puebla",
+      "descripcion": "Puebla y Morelos tendrán temperaturas frescas y cielo nublado este miércoles 26 de agosto",
+      "trafico": "100+",
+      "fecha": "26/08/2026 12:20",
+      "fecha_dt": "2026-08-26T12:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjzUEKrZCcr5jXIAyiexdfizPpzQ_gM8FR-rTlgm3vq26W7xCJ309d2s6UIOc",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+puebla",
+      "status": ""
+    },
+    {
+      "titulo": "clima queretaro",
+      "descripcion": "Esperan continuidad de lluvias para Querétaro",
+      "trafico": "100+",
+      "fecha": "26/08/2026 11:40",
+      "fecha_dt": "2026-08-26T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGNgh2QCuj1oHn5Ubcr3VkeLnxhh5GE-Shpw94poqn3a97LDMogOA6dgkgVL8",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+queretaro",
+      "status": ""
+    },
+    {
+      "titulo": "gustavo ferrareis",
+      "descripcion": "Atlas anunció la desvinculación de Gustavo Ferrareis para confirmar a Adonis Frías como refuerzo",
+      "trafico": "100+",
+      "fecha": "26/08/2026 11:30",
+      "fecha_dt": "2026-08-26T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkO4yT0wOlTHxtFdnWMKz8gz_wRmqU2xd2n9iUoCcQiWTVfbK7V-3Y1FppOUY",
+      "link": "https://trends.google.com/trending?geo=MX&q=gustavo+ferrareis",
+      "status": ""
+    },
+    {
+      "titulo": "contraseña",
+      "descripcion": "Oficial: WhatsApp lanza nuevas funciones de seguridad para proteger tus mensajes y cuenta mejor que nunca",
+      "trafico": "100+",
+      "fecha": "26/08/2026 11:30",
+      "fecha_dt": "2026-08-26T11:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWlT-_W-sudzehZj-6OG3_U_8w3mVPp8h2kuQzGLtZbSC52XXXUzx5-V3aTXY",
+      "link": "https://trends.google.com/trending?geo=MX&q=contraseña",
       "status": ""
     }
   ]
