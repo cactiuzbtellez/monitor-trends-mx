@@ -1,16 +1,46 @@
 {
-  "actualizado": "26/08/2026 06:54 UTC",
+  "actualizado": "26/08/2026 07:50 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
+    {
+      "titulo": "alerta mexicali",
+      "descripcion": "EE.UU. emite una alerta por un posible ataque de un grupo delictivo en México",
+      "trafico": "10000+",
+      "fecha": "26/08/2026 04:30",
+      "fecha_dt": "2026-08-26T04:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc2584vR4gEEQmRNv8z2TfohGYmI1R4z4VuPEE3k_EwVoRC82pjdq2rvn340",
+      "link": "https://trends.google.com/trending?geo=MX&q=alerta+mexicali",
+      "status": ""
+    },
     {
       "titulo": "yanet garcía",
       "descripcion": "¿Qué pasará con los exiliados de La Casa de los Famosos México 2026? Te contamos dónde y a qué hora verlo EN VIVO",
       "trafico": "2000+",
       "fecha": "26/08/2026 05:20",
       "fecha_dt": "2026-08-26T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSVL1226eHhjSKBz8s-HUPlCkMik0bzsrusMQpi06g1PRRwJ9ou_CwhQrYDd4",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAuoFR9h0xmHKVwoFZma8DaibUDWOct4oBryDhZ5ulTBjkDUcZ9P9PtkVncBs",
       "link": "https://trends.google.com/trending?geo=MX&q=yanet+garcía",
+      "status": ""
+    },
+    {
+      "titulo": "francisco javier garcía cabeza de vaca",
+      "descripcion": "José Ramón Gómez Leal cuestiona a políticos con doble nacionalidad: “Cuando les conviene son mexicanos",
+      "trafico": "200+",
+      "fecha": "26/08/2026 07:00",
+      "fecha_dt": "2026-08-26T07:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8WKZAL3APIrP5nrvXLokJfbeDVHSK6o0wo3tzeCHq8AIirCOgdDv4N4MTcZc",
+      "link": "https://trends.google.com/trending?geo=MX&q=francisco+javier+garcía+cabeza+de+vaca",
+      "status": ""
+    },
+    {
+      "titulo": "gamescom 2026 juegos anunciados",
+      "descripcion": "\"Final Fantasy\" y \"The Witcher\" acaparan la atención del gran salón de videojuegos Gamescom",
+      "trafico": "200+",
+      "fecha": "26/08/2026 06:10",
+      "fecha_dt": "2026-08-26T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQob9j6HiWDBXVs-UBP-hs4tlpwYAPzJm8OyRDEFR4GwnTwFaF8TRzz2P4AY",
+      "link": "https://trends.google.com/trending?geo=MX&q=gamescom+2026+juegos+anunciados",
       "status": ""
     },
     {
@@ -24,6 +54,16 @@
       "status": ""
     },
     {
+      "titulo": "manlio fabio beltrones",
+      "descripcion": "Manlio Fabio Beltrones alista regreso al Senado; \"México está obligado a hacer una reforma fiscal\", dice",
+      "trafico": "200+",
+      "fecha": "26/08/2026 05:50",
+      "fecha_dt": "2026-08-26T05:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrFL9r1ivOY83ZM_jXh7i3E6NiaDSoe6vEHy4211uMB3i0C4Vq-hEg_1QD4dU",
+      "link": "https://trends.google.com/trending?geo=MX&q=manlio+fabio+beltrones",
+      "status": ""
+    },
+    {
       "titulo": "tris clasico",
       "descripcion": "Resultados Tris HOY 25 de agosto: Ganadores del mediodía, las tres, las siete y el clásico",
       "trafico": "200+",
@@ -34,53 +74,13 @@
       "status": ""
     },
     {
-      "titulo": "joaquín guzmán loera",
-      "descripcion": "La Captura, la desconfianza",
-      "trafico": "200+",
-      "fecha": "26/08/2026 04:00",
-      "fecha_dt": "2026-08-26T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMswySiMOSkySC0q1zqjdQ7134kbujZeoZCOE5ENDcgXB4drEkcSvHKkPy1ps",
-      "link": "https://trends.google.com/trending?geo=MX&q=joaquín+guzmán+loera",
-      "status": ""
-    },
-    {
-      "titulo": "chris pratt",
-      "descripcion": "Amazon's 7-Part Action Thriller Series That's Better Than 'Reacher' Officially Becomes Streaming Hit",
-      "trafico": "200+",
-      "fecha": "26/08/2026 04:00",
-      "fecha_dt": "2026-08-26T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq4NSNyn4jKFDCDEvU_i7RwPpkArSV-9EzaKjFv66jbkAFGBTPwARH3NUzTNA",
-      "link": "https://trends.google.com/trending?geo=MX&q=chris+pratt",
-      "status": ""
-    },
-    {
-      "titulo": "padres",
-      "descripcion": "MLB: Pittsburgh Pirates at San Diego Padres",
-      "trafico": "200+",
-      "fecha": "26/08/2026 03:50",
-      "fecha_dt": "2026-08-26T03:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2jW9lP19RxZT7D0utOI9Pc241401utR3CXeOT8ktbjOoeaoNfwcFkZEIdQa8",
-      "link": "https://trends.google.com/trending?geo=MX&q=padres",
-      "status": ""
-    },
-    {
-      "titulo": "gamescom 2026 juegos anunciados",
-      "descripcion": "Resumen Gamescom 2026: The Witcher 3 Remaster, Final Fantasy VII Revelation...",
+      "titulo": "loteria nacional sorteo mayor 4025",
+      "descripcion": "Resultados de la Lotería Nacional en vivo hoy, martes 25 de agosto 2026: qué números cayeron en Sorteo Mayor 4025 y sorteos electrónicos",
       "trafico": "100+",
-      "fecha": "26/08/2026 06:10",
-      "fecha_dt": "2026-08-26T06:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHYyLMDnCCUvWxuGijJUR7RCJaKAYAso9ggDm9Dc6gcQ7KzlBH8sKQyCYWzzo",
-      "link": "https://trends.google.com/trending?geo=MX&q=gamescom+2026+juegos+anunciados",
-      "status": ""
-    },
-    {
-      "titulo": "manlio fabio beltrones",
-      "descripcion": "Manlio Fabio Beltrones alista regreso al Senado; \"México está obligado a hacer una reforma fiscal\", dice",
-      "trafico": "100+",
-      "fecha": "26/08/2026 05:50",
-      "fecha_dt": "2026-08-26T05:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrFL9r1ivOY83ZM_jXh7i3E6NiaDSoe6vEHy4211uMB3i0C4Vq-hEg_1QD4dU",
-      "link": "https://trends.google.com/trending?geo=MX&q=manlio+fabio+beltrones",
+      "fecha": "26/08/2026 07:30",
+      "fecha_dt": "2026-08-26T07:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4HAJ7ONj8RdpB_qeU6N3ojQ_dBaWnyDHdkz-hoZVfcDjGtSCNrQyFhVA3RdY",
+      "link": "https://trends.google.com/trending?geo=MX&q=loteria+nacional+sorteo+mayor+4025",
       "status": ""
     },
     {
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "phillies - mariners",
-      "descripcion": "Kirby spins 9-K gem to power Mariners to crucial series win",
+      "descripcion": "Licensable picture: MLB: Philadelphia Phillies at Seattle Mariners",
       "trafico": "100+",
       "fecha": "26/08/2026 04:30",
       "fecha_dt": "2026-08-26T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9ul86C0LiaZfWgFtruyyDTQxgpmQyHdfKCYLI2XLTuOu6wb2ShX-ptFSWnt0",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6GcSwTf2-_B5lEot2h-43KzuoSU0WfXJQ49xbK7ewwwZZWwga-p-3fVVxBaI",
       "link": "https://trends.google.com/trending?geo=MX&q=phillies+-+mariners",
       "status": ""
     }
