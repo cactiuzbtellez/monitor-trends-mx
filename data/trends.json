@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/08/2026 04:43 UTC",
+  "actualizado": "26/08/2026 05:37 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
@@ -9,14 +9,54 @@
       "trafico": "2000+",
       "fecha": "26/08/2026 04:00",
       "fecha_dt": "2026-08-26T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg7dOq9S5TMnlGpuacnAGOHit2WT-DD9uTi2nWrFNhIDUZEcQr191fLK1Tm5s",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrEXUe4pP8fEYXVcis5cvOOBqgmlu1w8Ig8xOG9H3cqjNcYp4n1iNhp7eDdRw",
       "link": "https://trends.google.com/trending?geo=MX&q=joaquín+guzmán+loera",
+      "status": ""
+    },
+    {
+      "titulo": "yanet garcía",
+      "descripcion": "La Casa de los Famosos México 2026 EN VIVO: Ve aquí la gala inédita de hoy 25 de agosto",
+      "trafico": "1000+",
+      "fecha": "26/08/2026 05:20",
+      "fecha_dt": "2026-08-26T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTja5CaDwJcZ7H_7aovM9gQRFfYk4PE11rYi8vjp1PvVh0TeQDI-bOD729jKCY",
+      "link": "https://trends.google.com/trending?geo=MX&q=yanet+garcía",
+      "status": ""
+    },
+    {
+      "titulo": "ese perez",
+      "descripcion": "Masad reafirma lo único que le ha pedido a Ese Pérez tras ver el cine: 'Solo pido respeto'",
+      "trafico": "500+",
+      "fecha": "26/08/2026 05:20",
+      "fecha_dt": "2026-08-26T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_WfzQtePkX4KNgX0HXqkavwE4NEFRZEfn17w3gLN76i42h-AVh8nOmOC40Us",
+      "link": "https://trends.google.com/trending?geo=MX&q=ese+perez",
+      "status": ""
+    },
+    {
+      "titulo": "tris clasico",
+      "descripcion": "Resultados Tris HOY 25 de agosto: Ganadores del mediodía, las tres, las siete y el clásico",
+      "trafico": "200+",
+      "fecha": "26/08/2026 05:00",
+      "fecha_dt": "2026-08-26T05:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8jFeJ8PNFElns33PP2iZ9FISkI2wVauJHkTqGLJIFTJ2wt_P6_hJB2vDDpc4",
+      "link": "https://trends.google.com/trending?geo=MX&q=tris+clasico",
+      "status": ""
+    },
+    {
+      "titulo": "chris pratt",
+      "descripcion": "Amazon's 7-Part Action Thriller Series That's Better Than 'Reacher' Officially Becomes Streaming Hit",
+      "trafico": "200+",
+      "fecha": "26/08/2026 04:00",
+      "fecha_dt": "2026-08-26T04:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq4NSNyn4jKFDCDEvU_i7RwPpkArSV-9EzaKjFv66jbkAFGBTPwARH3NUzTNA",
+      "link": "https://trends.google.com/trending?geo=MX&q=chris+pratt",
       "status": ""
     },
     {
       "titulo": "padres",
       "descripcion": "MLB: Pittsburgh Pirates at San Diego Padres",
-      "trafico": "1000+",
+      "trafico": "200+",
       "fecha": "26/08/2026 03:50",
       "fecha_dt": "2026-08-26T03:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2jW9lP19RxZT7D0utOI9Pc241401utR3CXeOT8ktbjOoeaoNfwcFkZEIdQa8",
@@ -44,33 +84,13 @@
       "status": ""
     },
     {
-      "titulo": "daniel arcila",
-      "descripcion": "El pueblo del goleador Daniel Arcila en Colombia",
-      "trafico": "200+",
-      "fecha": "26/08/2026 03:10",
-      "fecha_dt": "2026-08-26T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJk9DsOpUZ3GKStz2gCarg9a5NFolJYwL-Iu4X7rGx-YlPKw-ktMcrvG-_16A",
-      "link": "https://trends.google.com/trending?geo=MX&q=daniel+arcila",
-      "status": ""
-    },
-    {
-      "titulo": "iphone 18 pro",
-      "descripcion": "Precio del iPhone 18 Pro sorprende tras cambios de Apple",
-      "trafico": "200+",
-      "fecha": "26/08/2026 02:40",
-      "fecha_dt": "2026-08-26T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrIITuaKnIThMBvCDJ1KEHbdm4lHAnCbS2-BnRhYOVB0T4fo1-hEwLEmNNdy4",
-      "link": "https://trends.google.com/trending?geo=MX&q=iphone+18+pro",
-      "status": ""
-    },
-    {
-      "titulo": "camión militar",
-      "descripcion": "Volcadura de camión militar en Michoacán deja a siete soldados lesionados, dos de ellos graves",
-      "trafico": "200+",
-      "fecha": "26/08/2026 02:40",
-      "fecha_dt": "2026-08-26T02:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ2TMFyHWBQF2XVhr4NXOO4RsrJKlF-rQZhZjiVTUJBj_y6t41tgx-03HO7aE",
-      "link": "https://trends.google.com/trending?geo=MX&q=camión+militar",
+      "titulo": "lyon vs fenerbahce",
+      "descripcion": "Olympique Lyonnais vs Fenerbahçe: UEFA Champions League stats & head-to-head",
+      "trafico": "100+",
+      "fecha": "26/08/2026 05:10",
+      "fecha_dt": "2026-08-26T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXpvN1XP0hyUQAtryYlt5Uuac1UMMqzsh6jXId_SI-cNzVxK_eRk7ZM4UtMQ8",
+      "link": "https://trends.google.com/trending?geo=MX&q=lyon+vs+fenerbahce",
       "status": ""
     },
     {
@@ -79,28 +99,8 @@
       "trafico": "100+",
       "fecha": "26/08/2026 04:30",
       "fecha_dt": "2026-08-26T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl1hnCXbkGw8GMVAkR7zAMdUCtnRu7Gt8Dl4A3HvRduMAsLjL7AIBgA1WxzPs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxTRFb27BaDQ5SEq703K6d41lyjHsxz-4nup-bwdivnv7w_df88KtWkJc6kE",
       "link": "https://trends.google.com/trending?geo=MX&q=phillies+-+mariners",
-      "status": ""
-    },
-    {
-      "titulo": "chris pratt",
-      "descripcion": "Amazon's 7-Part Action Thriller Series That's Better Than 'Reacher' Officially Becomes Streaming Hit",
-      "trafico": "100+",
-      "fecha": "26/08/2026 04:00",
-      "fecha_dt": "2026-08-26T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq4NSNyn4jKFDCDEvU_i7RwPpkArSV-9EzaKjFv66jbkAFGBTPwARH3NUzTNA",
-      "link": "https://trends.google.com/trending?geo=MX&q=chris+pratt",
-      "status": ""
-    },
-    {
-      "titulo": "fenapo",
-      "descripcion": "FENAPO celebrará el Día de la Garnacha con comida gratis y diversión",
-      "trafico": "100+",
-      "fecha": "26/08/2026 03:10",
-      "fecha_dt": "2026-08-26T03:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6YN4Yx8ej_-vvUG7FmHHgAiCrgpR27JRFI7vjVW9v3DJBcNnzapMxuQGYWCU",
-      "link": "https://trends.google.com/trending?geo=MX&q=fenapo",
       "status": ""
     }
   ]
