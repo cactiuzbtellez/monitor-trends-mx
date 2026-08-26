@@ -1,25 +1,25 @@
 {
-  "actualizado": "26/08/2026 08:49 UTC",
+  "actualizado": "26/08/2026 09:45 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "alerta mexicali",
-      "descripcion": "EE.UU. emite una alerta por un posible ataque de un grupo delictivo en México",
+      "descripcion": "EE.UU. y Canadá emiten alerta de seguridad para Mexicali días después de la incautación de millones de dosis de fentanilo",
       "trafico": "10000+",
       "fecha": "26/08/2026 04:30",
       "fecha_dt": "2026-08-26T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc2584vR4gEEQmRNv8z2TfohGYmI1R4z4VuPEE3k_EwVoRC82pjdq2rvn340",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDcxA3bsoj8Q3nQZ69QVtkjk4qvfb6SOgKos7BThA20sR4Tx7c6MznHHnsdPU",
       "link": "https://trends.google.com/trending?geo=MX&q=alerta+mexicali",
       "status": ""
     },
     {
       "titulo": "yanet garcía",
-      "descripcion": "¿Qué pasará con los exiliados de La Casa de los Famosos México 2026? Te contamos dónde y a qué hora verlo EN VIVO",
+      "descripcion": "La Casa de los Famosos México 2026 EN VIVO: Ve aquí la gala inédita de hoy 25 de agosto",
       "trafico": "2000+",
       "fecha": "26/08/2026 05:20",
       "fecha_dt": "2026-08-26T05:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAuoFR9h0xmHKVwoFZma8DaibUDWOct4oBryDhZ5ulTBjkDUcZ9P9PtkVncBs",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSzgC4q6KOMdogMpQeGxPJT7fE7ZKZffp5pJsoV1kjiWIu2pSmyoaNdA9ULJQ",
       "link": "https://trends.google.com/trending?geo=MX&q=yanet+garcía",
       "status": ""
     },
@@ -31,6 +31,16 @@
       "fecha_dt": "2026-08-26T06:00:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0hNWjJtwse7OhuKi9vDjI7oxbytxSkDyAh4x7cBC3C90_DEAzYlzSayX1Kg",
       "link": "https://trends.google.com/trending?geo=MX&q=avengers+endgame+bonus+infinity+vision",
+      "status": ""
+    },
+    {
+      "titulo": "feria nacional del atole coacalco",
+      "descripcion": "Champurrado, de guayaba o cajeta: ¿Dónde y cuándo es la Feria Nacional del Atole 2026?",
+      "trafico": "500+",
+      "fecha": "26/08/2026 04:40",
+      "fecha_dt": "2026-08-26T04:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTX3m9LUAuPVWzXQLqD2552pzoPcmr9TMh7slbNVGFOMMCOuvDrLPNCKW0VE0",
+      "link": "https://trends.google.com/trending?geo=MX&q=feria+nacional+del+atole+coacalco",
       "status": ""
     },
     {
@@ -91,16 +101,6 @@
       "fecha_dt": "2026-08-26T05:10:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXpvN1XP0hyUQAtryYlt5Uuac1UMMqzsh6jXId_SI-cNzVxK_eRk7ZM4UtMQ8",
       "link": "https://trends.google.com/trending?geo=MX&q=lyon+vs+fenerbahce",
-      "status": ""
-    },
-    {
-      "titulo": "phillies - mariners",
-      "descripcion": "Licensable picture: MLB: Philadelphia Phillies at Seattle Mariners",
-      "trafico": "100+",
-      "fecha": "26/08/2026 04:30",
-      "fecha_dt": "2026-08-26T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6GcSwTf2-_B5lEot2h-43KzuoSU0WfXJQ49xbK7ewwwZZWwga-p-3fVVxBaI",
-      "link": "https://trends.google.com/trending?geo=MX&q=phillies+-+mariners",
       "status": ""
     }
   ]
