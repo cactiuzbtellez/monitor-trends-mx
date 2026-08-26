@@ -1,62 +1,32 @@
 {
-  "actualizado": "26/08/2026 12:58 UTC",
+  "actualizado": "26/08/2026 13:59 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "clima hoy cdmx",
-      "descripcion": "MARTES CÁLIDO EN CDMX, CON LLUVIAS INTERMITENTES",
+      "titulo": "nepal",
+      "descripcion": "Una inundación repentina entre Nepal y el Tíbet deja 9 muertos y arrasa aldeas",
       "trafico": "1000+",
-      "fecha": "26/08/2026 11:30",
-      "fecha_dt": "2026-08-26T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM7Pd4V6_q4wf6mdmbQatlCR0fbGIl-p8f4bicQ3JDcLzGnAFh7-nn9cLK64",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+hoy+cdmx",
+      "fecha": "26/08/2026 13:20",
+      "fecha_dt": "2026-08-26T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT01QVODpNNz1wczYCeKA8iYMaJEBSHKNDDpk9IvctIH9NPPx2EJfzmXGf6WGo",
+      "link": "https://trends.google.com/trending?geo=MX&q=nepal",
       "status": ""
     },
     {
-      "titulo": "rusia",
-      "descripcion": "Director de CIA habló en Moscú con servicios secretos rusos",
-      "trafico": "500+",
-      "fecha": "26/08/2026 11:20",
-      "fecha_dt": "2026-08-26T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqUrq5reDtOMYnqLKCoM0dJb8gM9QmDsjkRLgUr0-pncHE-tXHbCuRdaggko",
-      "link": "https://trends.google.com/trending?geo=MX&q=rusia",
-      "status": ""
-    },
-    {
-      "titulo": "empresario",
-      "descripcion": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
-      "trafico": "500+",
-      "fecha": "26/08/2026 10:40",
-      "fecha_dt": "2026-08-26T10:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUmKkA2b47RoK4N2ztkAMVmMCCH-b4OZ4ijYxMPHvsFwpvVj9XOiW80mgY718",
-      "link": "https://trends.google.com/trending?geo=MX&q=empresario",
-      "status": ""
-    },
-    {
-      "titulo": "dólar estadounidense",
-      "descripcion": "El 'superpeso' volvió: qué lo impulsa y quién gana y pierde",
-      "trafico": "200+",
-      "fecha": "26/08/2026 11:30",
-      "fecha_dt": "2026-08-26T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyjN59CJvxSE88Z4-LVoGYxUPQ8vJMjtA3DRlaXff7iW6mr3A4J1koAzwPR9c",
-      "link": "https://trends.google.com/trending?geo=MX&q=dólar+estadounidense",
-      "status": ""
-    },
-    {
-      "titulo": "licencia",
-      "descripcion": "Inzunza, de prócer a apestado",
-      "trafico": "100+",
-      "fecha": "26/08/2026 12:40",
-      "fecha_dt": "2026-08-26T12:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNZbMCaf-FLSzzCbyqgtC8RdB5fW1nH0T-tXp1GoAxPpf3cZ2yoHmpChuUtTY",
-      "link": "https://trends.google.com/trending?geo=MX&q=licencia",
+      "titulo": "28 de agosto",
+      "descripcion": "Pilares habilita espacios para ver la Luna de Sangre con telescopios",
+      "trafico": "1000+",
+      "fecha": "26/08/2026 13:20",
+      "fecha_dt": "2026-08-26T13:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDOZYPhepgzxTUSY5243r9lto2ydH-jUJBAPcFbdC8cRPDNAuUcyh-kcoZtSU",
+      "link": "https://trends.google.com/trending?geo=MX&q=28+de+agosto",
       "status": ""
     },
     {
       "titulo": "deuda",
       "descripcion": "Deuda pública y el dólar",
-      "trafico": "100+",
+      "trafico": "500+",
       "fecha": "26/08/2026 12:30",
       "fecha_dt": "2026-08-26T12:30:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1ta7q7Pgefs3vB4yWGHD86i3v23GVPONYHC3BTW2gIbzrUXnhjYihNvSOcuo",
@@ -64,12 +34,62 @@
       "status": ""
     },
     {
+      "titulo": "clima cdmx",
+      "descripcion": "Se avecinan lluvias aisladas este miércoles a la CDMX: acumulados de hasta 15 mm y máximas de hasta 25 °C",
+      "trafico": "500+",
+      "fecha": "26/08/2026 12:10",
+      "fecha_dt": "2026-08-26T12:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstu6DLbgEIR121zCZQLPATeJq3hozJsAEI2opSbmNnlgrbwYhnOe8j8bI3lM",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+cdmx",
+      "status": ""
+    },
+    {
+      "titulo": "lotería nacional sorteo mayor 4025",
+      "descripcion": "Lotería Nacional Sorteo Mayor 4025: resultados del 25 de agosto",
+      "trafico": "200+",
+      "fecha": "26/08/2026 13:50",
+      "fecha_dt": "2026-08-26T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXedC6URWaQ1txpxURageicMDaazYlM7VorWTucdqCbx-edWDs8IWobYh2OeM",
+      "link": "https://trends.google.com/trending?geo=MX&q=lotería+nacional+sorteo+mayor+4025",
+      "status": ""
+    },
+    {
+      "titulo": "licencia",
+      "descripcion": "Comisión Permanente aprueba licencias de Hugo Eric Flores y Sergio Mayer",
+      "trafico": "200+",
+      "fecha": "26/08/2026 12:40",
+      "fecha_dt": "2026-08-26T12:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFCfYtdGoCCly-Ss9AmvZ0HRlZvUf2_Zd0NeHW-JTWnGUYkuWniJjODFeXWzs",
+      "link": "https://trends.google.com/trending?geo=MX&q=licencia",
+      "status": ""
+    },
+    {
+      "titulo": "higinio martínez miranda",
+      "descripcion": "Higinio Martínez suena para presidir el Senado: ¿Por qué su perfil gana fuerza en Morena y entre opositores?",
+      "trafico": "100+",
+      "fecha": "26/08/2026 13:50",
+      "fecha_dt": "2026-08-26T13:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDAaEt23CzLtn3z2IFSgcl0jO3xQVZ1DYR0BkuUIsuEmzkNF649xK1ABask_M",
+      "link": "https://trends.google.com/trending?geo=MX&q=higinio+martínez+miranda",
+      "status": ""
+    },
+    {
+      "titulo": "ricardo la volpe",
+      "descripcion": "La Volpe, inconforme con cuerpo técnico de Rafa Márquez",
+      "trafico": "100+",
+      "fecha": "26/08/2026 13:10",
+      "fecha_dt": "2026-08-26T13:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT298X9-CIzoJOpeGRR33sJThDZXvCMrHM1rtHGYGrwwPEKh4HviV4KNLWDhK4",
+      "link": "https://trends.google.com/trending?geo=MX&q=ricardo+la+volpe",
+      "status": ""
+    },
+    {
       "titulo": "clima puebla",
-      "descripcion": "Puebla y Morelos tendrán temperaturas frescas y cielo nublado este miércoles 26 de agosto",
+      "descripcion": "Clima en Puebla: Pronóstico para las Próximas Horas en Capital y Municipios",
       "trafico": "100+",
       "fecha": "26/08/2026 12:20",
       "fecha_dt": "2026-08-26T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjzUEKrZCcr5jXIAyiexdfizPpzQ_gM8FR-rTlgm3vq26W7xCJ309d2s6UIOc",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxUQRVKqVAiDMpGx4LgpjSnF-m1TVE08rtL273i4D7ot-44cMvcrEj9h_W2Dg",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+puebla",
       "status": ""
     },
@@ -81,26 +101,6 @@
       "fecha_dt": "2026-08-26T11:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGNgh2QCuj1oHn5Ubcr3VkeLnxhh5GE-Shpw94poqn3a97LDMogOA6dgkgVL8",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+queretaro",
-      "status": ""
-    },
-    {
-      "titulo": "gustavo ferrareis",
-      "descripcion": "Atlas anunció la desvinculación de Gustavo Ferrareis para confirmar a Adonis Frías como refuerzo",
-      "trafico": "100+",
-      "fecha": "26/08/2026 11:30",
-      "fecha_dt": "2026-08-26T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkO4yT0wOlTHxtFdnWMKz8gz_wRmqU2xd2n9iUoCcQiWTVfbK7V-3Y1FppOUY",
-      "link": "https://trends.google.com/trending?geo=MX&q=gustavo+ferrareis",
-      "status": ""
-    },
-    {
-      "titulo": "contraseña",
-      "descripcion": "Oficial: WhatsApp lanza nuevas funciones de seguridad para proteger tus mensajes y cuenta mejor que nunca",
-      "trafico": "100+",
-      "fecha": "26/08/2026 11:30",
-      "fecha_dt": "2026-08-26T11:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWlT-_W-sudzehZj-6OG3_U_8w3mVPp8h2kuQzGLtZbSC52XXXUzx5-V3aTXY",
-      "link": "https://trends.google.com/trending?geo=MX&q=contraseña",
       "status": ""
     }
   ]
