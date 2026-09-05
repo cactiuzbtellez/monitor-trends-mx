@@ -1,36 +1,76 @@
 {
-  "actualizado": "05/09/2026 05:24 UTC",
+  "actualizado": "05/09/2026 10:15 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "temblor",
-      "descripcion": "EN VIVO | Temblores en Jalisco y México | Viernes 4 de septiembre",
-      "trafico": "1000+",
-      "fecha": "05/09/2026 04:10",
-      "fecha_dt": "2026-09-05T04:10:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTSZFQSiuMOoBxZBNcUaNwF-5g9uHYfCd0tSCgqp2Sxi9CepBAtdIrGoDDDY",
-      "link": "https://trends.google.com/trending?geo=MX&q=temblor",
+      "titulo": "pumas - américa",
+      "descripcion": "Pumas vs. América Femenil EN VIVO. Dónde VER Clásico Capitalino HOY",
+      "trafico": "20000+",
+      "fecha": "05/09/2026 05:20",
+      "fecha_dt": "2026-09-05T05:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKbSEG2mNapVxAbOXptE23cyxI67XI6h2lX6QI_GADif1LfMgAhAG7sJvvbQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=pumas+-+américa",
       "status": ""
     },
     {
-      "titulo": "atlético la paz - mineros",
-      "descripcion": "Atlético La Paz vs. Mineros EN VIVO: Dónde ver, horario y transmisión de la Liga de Expansión MX",
-      "trafico": "1000+",
-      "fecha": "05/09/2026 03:00",
-      "fecha_dt": "2026-09-05T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgJzVfcO1GajhbNhc0WS4SIdVkEOgEPqbfZO_BqJzLC3iwoCH_RQRyJvnkNT4",
-      "link": "https://trends.google.com/trending?geo=MX&q=atlético+la+paz+-+mineros",
+      "titulo": "spider noir",
+      "descripcion": "Cancelan la serie \"Spider Noir\" después de una sola temporada",
+      "trafico": "2000+",
+      "fecha": "05/09/2026 05:40",
+      "fecha_dt": "2026-09-05T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4G3C8hpM0Dty7KR-pNw47swkDw_-u1s-W1qEj2TDEP5QKecKX4JtwJeQS5As",
+      "link": "https://trends.google.com/trending?geo=MX&q=spider+noir",
       "status": ""
     },
     {
-      "titulo": "yankees",
-      "descripcion": "Campusano caps massive game with walk-off home run",
+      "titulo": "sanción",
+      "descripcion": "Windhorst: Clippers deben aceptar el castigo y seguir adelante",
+      "trafico": "1000+",
+      "fecha": "05/09/2026 06:40",
+      "fecha_dt": "2026-09-05T06:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4wc1LUsVM5b_7RXI58VdYEKqe-48oUR_z--v6tEneH8FHlqJI87WAEopWjv4",
+      "link": "https://trends.google.com/trending?geo=MX&q=sanción",
+      "status": ""
+    },
+    {
+      "titulo": "telmex",
+      "descripcion": "Charlize Theron visitará la CDMX: la actriz ganadora del Oscar estará en México Siglo XXI 2026",
+      "trafico": "1000+",
+      "fecha": "05/09/2026 06:30",
+      "fecha_dt": "2026-09-05T06:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC83YodJSz-wZ8u2L3dZker7lFaVzf4JbZIM57wPTkf_n25Z3vqg5dNjTUqfI",
+      "link": "https://trends.google.com/trending?geo=MX&q=telmex",
+      "status": ""
+    },
+    {
+      "titulo": "clima culiacan",
+      "descripcion": "Clima en Culiacán, Sinaloa: Sábado 5 de septiembre con lluvia moderada y calor",
       "trafico": "500+",
-      "fecha": "05/09/2026 04:20",
-      "fecha_dt": "2026-09-05T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZGyM5OnQXG1MdxvKaQqu7xDRBU64beLxzAYN0QgyrDp_IVtXF-DnwRm9J84",
-      "link": "https://trends.google.com/trending?geo=MX&q=yankees",
+      "fecha": "05/09/2026 05:40",
+      "fecha_dt": "2026-09-05T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQovcZhxR_gdyDWriSaCHPW_D2GrUcVyKQdCbDhbKByBI2Ff56ypSrLPKC-PCk",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+culiacan",
+      "status": ""
+    },
+    {
+      "titulo": "newcastle vs bournemouth",
+      "descripcion": "Newcastle v Bournemouth predicted line-ups + FPL team news",
+      "trafico": "500+",
+      "fecha": "05/09/2026 05:10",
+      "fecha_dt": "2026-09-05T05:10:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwelQWMS9seQ7esooWEc8AsdZiugk-D35EiJxkPtXiaGtvazet84bQqJfH_nw",
+      "link": "https://trends.google.com/trending?geo=MX&q=newcastle+vs+bournemouth",
+      "status": ""
+    },
+    {
+      "titulo": "fibra óptica",
+      "descripcion": "Megacable y Totalplay construyeron redes de fibra gigantescas, ahora necesitan convencer a los hogares de contratarlas",
+      "trafico": "200+",
+      "fecha": "05/09/2026 06:10",
+      "fecha_dt": "2026-09-05T06:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtrO0uTVpHdyGqBN_JSgpodh0pTvPTquNg_mSz9r8ywMTyApHHsXo5SvWZMjA",
+      "link": "https://trends.google.com/trending?geo=MX&q=fibra+óptica",
       "status": ""
     },
     {
@@ -44,53 +84,13 @@
       "status": ""
     },
     {
-      "titulo": "premios juventud",
-      "descripcion": "Natanael Cano descarga el corrido tumbado en Premios Juventud: 'Mar Azul' y 'CR7' en su voz",
-      "trafico": "200+",
-      "fecha": "05/09/2026 04:30",
-      "fecha_dt": "2026-09-05T04:30:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRIEROhN-kJplJIMj_IJHs-7zGCAQfejqHUmf1dhDrgUlZ86omejB7-R5soVLQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=premios+juventud",
-      "status": ""
-    },
-    {
-      "titulo": "starbucks snoopy 2026",
-      "descripcion": "Starbucks vuelve a apostar por Snoopy en 2026, pero restringe la compra de su vaso estrella por persona",
-      "trafico": "200+",
-      "fecha": "05/09/2026 04:20",
-      "fecha_dt": "2026-09-05T04:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKcLVO2kmz6ElgABB7sWUkrbKvqxmjrxmVSt8X17Co0PcrtF3c7HYtvlYxWDI",
-      "link": "https://trends.google.com/trending?geo=MX&q=starbucks+snoopy+2026",
-      "status": ""
-    },
-    {
-      "titulo": "juarez",
-      "descripcion": "Amanece Juárez con lluvias ligeras",
-      "trafico": "200+",
-      "fecha": "05/09/2026 03:40",
-      "fecha_dt": "2026-09-05T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuj2-IUKqtmi6qcLnJ1MvDxgbv51vj4lKYqe4tdki1cXlmCquVlXlI-Ug-HpU",
-      "link": "https://trends.google.com/trending?geo=MX&q=juarez",
-      "status": ""
-    },
-    {
-      "titulo": "azteca",
-      "descripcion": "SIP se pronuncia sobre denuncia de Morena contra contenido de IA hecho por TV Azteca; advierte peligro contra la libertad de expresión",
-      "trafico": "200+",
-      "fecha": "05/09/2026 03:30",
-      "fecha_dt": "2026-09-05T03:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3HmqMoCykaBimJGj-FII4mEvGjOQTtYx_qcHvrchsriuP6k44whx1Gn65b8",
-      "link": "https://trends.google.com/trending?geo=MX&q=azteca",
-      "status": ""
-    },
-    {
-      "titulo": "newcastle vs bournemouth",
-      "descripcion": "Newcastle v Bournemouth predicted line-ups + FPL team news",
+      "titulo": "clima villahermosa",
+      "descripcion": "",
       "trafico": "100+",
-      "fecha": "05/09/2026 05:10",
-      "fecha_dt": "2026-09-05T05:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwelQWMS9seQ7esooWEc8AsdZiugk-D35EiJxkPtXiaGtvazet84bQqJfH_nw",
-      "link": "https://trends.google.com/trending?geo=MX&q=newcastle+vs+bournemouth",
+      "fecha": "05/09/2026 05:50",
+      "fecha_dt": "2026-09-05T05:50:00+00:00",
+      "imagen": "",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+villahermosa",
       "status": ""
     },
     {
