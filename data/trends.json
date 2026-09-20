@@ -1,16 +1,36 @@
 {
-  "actualizado": "19/09/2026 22:45 UTC",
+  "actualizado": "20/09/2026 00:49 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "barcelona",
-      "descripcion": "Raphinha es una locomotora",
-      "trafico": "10000+",
-      "fecha": "19/09/2026 19:30",
-      "fecha_dt": "2026-09-19T19:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcO70UPx3vndWitMim2FgdKEhDAKCRJjmwj4krGZ8xabooIR2YiBCixqDYLXY",
-      "link": "https://trends.google.com/trending?geo=MX&q=barcelona",
+      "titulo": "america vs chivas",
+      "descripcion": "A qué hora y dónde ver el América vs. Chivas de la Jornada 9 de Liga MX",
+      "trafico": "5000+",
+      "fecha": "19/09/2026 22:50",
+      "fecha_dt": "2026-09-19T22:50:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLqssbtVTNPzQzmPBJEm1VCCPihLr7fqIEmWmBNcjzK4Zjs58dpFVQsmz68mc",
+      "link": "https://trends.google.com/trending?geo=MX&q=america+vs+chivas",
+      "status": ""
+    },
+    {
+      "titulo": "pumas vs atlas",
+      "descripcion": "A qué hora y dónde ver el Atlas vs. Pumas de la Jornada 9 de Liga MX",
+      "trafico": "5000+",
+      "fecha": "19/09/2026 22:00",
+      "fecha_dt": "2026-09-19T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEuOC1qPB7xdtt9bGSnLsPU4Quiyg6pqLU-COFuW-Pr7MqLOz17JsyboRFF5E",
+      "link": "https://trends.google.com/trending?geo=MX&q=pumas+vs+atlas",
+      "status": ""
+    },
+    {
+      "titulo": "san luis vs necaxa",
+      "descripcion": "Atlético San Luis vs Necaxa: alineaciones y probabilidades",
+      "trafico": "1000+",
+      "fecha": "19/09/2026 23:20",
+      "fecha_dt": "2026-09-19T23:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRl9yW_iYA-fk-rBTPR8F7MYXeE7J79UdUzjN4a7TfRjXjJD3X82FyCJh_fCZc",
+      "link": "https://trends.google.com/trending?geo=MX&q=san+luis+vs+necaxa",
       "status": ""
     },
     {
@@ -25,72 +45,52 @@
     },
     {
       "titulo": "partidos de hoy",
-      "descripcion": "Liga MX: horarios y dónde ver los partidos de la Jornada 9 del Apertura 2026 este sábado 19 de septiembre",
+      "descripcion": "Partidos de Liga MX 2026 HOY sábado 19 de septiembre: Horarios y dónde ver EN VIVO Jornada 9",
       "trafico": "500+",
       "fecha": "19/09/2026 22:00",
       "fecha_dt": "2026-09-19T22:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8M-k-vsLD-WzniE7etFZp6ukumWMLhzdpeywforMltWTUrYG0N9jdXG_Xwg",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9_MVqhnK5OwlyySoWAB17oOu7d3OcrOJaCypJunBavTeJpWD7Mf4-DMmcRQ",
       "link": "https://trends.google.com/trending?geo=MX&q=partidos+de+hoy",
       "status": ""
     },
     {
+      "titulo": "cruz azul vs monterrey",
+      "descripcion": "Monterrey vs Cruz Azul :posibles alineaciones y probabilidades",
+      "trafico": "500+",
+      "fecha": "19/09/2026 21:40",
+      "fecha_dt": "2026-09-19T21:40:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS29iLWQhRji7CAraLn1kn7jFQ74AG18NB9fgplcIbZptykuIHRwKUBYNvFgcI",
+      "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul+vs+monterrey",
+      "status": ""
+    },
+    {
       "titulo": "ajax",
-      "descripcion": "Den Uil onder de indruk van 'beresterke' Tolu: 'Dat is bijna fraude'",
+      "descripcion": "Míchel Sánchez: 'Groep is hersteld richting Excelsior-thuis'",
       "trafico": "500+",
       "fecha": "19/09/2026 18:20",
       "fecha_dt": "2026-09-19T18:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTlKc_i1QJ8I7U_U5DOi8xcmr8Hymbaa6Y-7ysv-SFnHHIG8TQJ_May1m8GiA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIa4vRGkl6z8mG4bdsE-SIXU16PhGU4re7lzc8rYG1EfGPSpUvmzWFT2q3pLI",
       "link": "https://trends.google.com/trending?geo=MX&q=ajax",
       "status": ""
     },
     {
-      "titulo": "sismo hoy",
-      "descripcion": "Temblor HOY 19 de septiembre: Sigue las noticias de sismos en México AL MOMENTO",
-      "trafico": "500+",
-      "fecha": "19/09/2026 18:00",
-      "fecha_dt": "2026-09-19T18:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREzSrVZqKmzzKJY_82UrUpwIqgKmKL3Jc_qLk_J6bx1DwHTbsYF0GKK4lGKkc",
-      "link": "https://trends.google.com/trending?geo=MX&q=sismo+hoy",
-      "status": ""
-    },
-    {
-      "titulo": "celta de vigo",
-      "descripcion": "Celta - Racing, en directo: LaLiga EA Sports, en vivo",
-      "trafico": "500+",
-      "fecha": "19/09/2026 17:10",
-      "fecha_dt": "2026-09-19T17:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsj5lEtUmZaKsOJlAU_nAtjL7hpK5VMEeOE0nTpyD6LimBfUGpIBBRbOO0yjs",
-      "link": "https://trends.google.com/trending?geo=MX&q=celta+de+vigo",
-      "status": ""
-    },
-    {
       "titulo": "union vs independiente",
-      "descripcion": "Independiente lo dio vuelta en un ratito ante Unión",
+      "descripcion": "VIDEO: resumen de Unión vs. Independiente en el Torneo Clausura 2026",
       "trafico": "200+",
       "fecha": "19/09/2026 19:50",
       "fecha_dt": "2026-09-19T19:50:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp6bL-OhlonQvKvhZBnyAoSrD8y9hFS-Cu4_D-302vBtx_b3mNv0Z-k3O0wPs",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZQe9pXLrV0-9kREvCNYyKYVltlH8YG_B732DtoB69-qACnetsulV1TCLlaFQ",
       "link": "https://trends.google.com/trending?geo=MX&q=union+vs+independiente",
       "status": ""
     },
     {
-      "titulo": "ajax vs",
-      "descripcion": "Incomprensión total tras el Ajax - Excelsior: «¡Hay que suprimir el VAR! Le da una patada en la cara»",
-      "trafico": "200+",
-      "fecha": "19/09/2026 18:10",
-      "fecha_dt": "2026-09-19T18:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMlpkkx6Mo4q2R4XpO8XWGnMDUfrkFGGGTc5_Apcfh6atk-b0aNpUWdHB92sQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=ajax+vs",
-      "status": ""
-    },
-    {
-      "titulo": "cruz azul vs monterrey",
-      "descripcion": "¡RAYADOS, POR UN TRIUNFO CONTRA CRUZ AZUL EN EL ESTADIO BBVA!",
+      "titulo": "alineaciones de sevilla fc contra fc barcelona",
+      "descripcion": "Barcelona: alineación y probabilidades vs Sevilla, LaLiga",
       "trafico": "100+",
-      "fecha": "19/09/2026 21:40",
-      "fecha_dt": "2026-09-19T21:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8bBvadbj6Hy_i74Fy_sdrgGeihYyP7gNDveck-2nrSI6OpZMRBR9TV3HaETQ",
-      "link": "https://trends.google.com/trending?geo=MX&q=cruz+azul+vs+monterrey",
+      "fecha": "19/09/2026 21:10",
+      "fecha_dt": "2026-09-19T21:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiZ05DJxOMdKBg5DIW1e3pg6ZkByfX_sSr0bMJVRtO0YbVjhQ1YwXQMgeeuDA",
+      "link": "https://trends.google.com/trending?geo=MX&q=alineaciones+de+sevilla+fc+contra+fc+barcelona",
       "status": ""
     },
     {
