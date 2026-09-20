@@ -1,82 +1,22 @@
 {
-  "actualizado": "20/09/2026 21:17 UTC",
+  "actualizado": "20/09/2026 23:58 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "nfl",
-      "descripcion": "Bears' Caleb Williams leaves on cart after falling on scramble",
-      "trafico": "10000+",
-      "fecha": "20/09/2026 17:00",
-      "fecha_dt": "2026-09-20T17:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDXv1wKWBjESHHExaurRPqQsWyPhZYTjIoqGvfgrXWO9EXkB3Fw3OkAKlNLo0",
-      "link": "https://trends.google.com/trending?geo=MX&q=nfl",
-      "status": ""
-    },
-    {
-      "titulo": "porto vs",
-      "descripcion": "Porto vs Benfica: ¿A qué hora y dónde ver EN VIVO juego Santiago Gimenez HOY Primeira Liga 2026?",
-      "trafico": "1000+",
-      "fecha": "20/09/2026 20:30",
-      "fecha_dt": "2026-09-20T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6Adf30OrHc72PMOlBioEACMOv8rz_1ztbFBpgagOzf9QXpMGT9LBemhRA4Rs",
-      "link": "https://trends.google.com/trending?geo=MX&q=porto+vs",
-      "status": ""
-    },
-    {
-      "titulo": "steelers",
-      "descripcion": "Steelers fall to Patriots, 20-3, on the road",
-      "trafico": "500+",
-      "fecha": "20/09/2026 17:40",
-      "fecha_dt": "2026-09-20T17:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLOqtALZLCc59pYpvzlU62wrMsdoBfe6ge1yhUkbmp3Ri4YsNJ94AHPNqikY",
-      "link": "https://trends.google.com/trending?geo=MX&q=steelers",
-      "status": ""
-    },
-    {
-      "titulo": "dallas cowboys",
-      "descripcion": "Amazon founder Jeff Bezos joins Jerry Jones at AT&T Stadium before Cowboys-Commanders kickoff",
-      "trafico": "200+",
-      "fecha": "20/09/2026 20:40",
-      "fecha_dt": "2026-09-20T20:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgj303bVvP2-Asx5BTTjZ8it5v5wQCjO6Ib3zw1n18ycvNFv_HA79hXiv8XDg",
-      "link": "https://trends.google.com/trending?geo=MX&q=dallas+cowboys",
-      "status": ""
-    },
-    {
-      "titulo": "49ers",
-      "descripcion": "Ways to Watch and Listen: Dolphins vs. 49ers | Week 2",
-      "trafico": "200+",
-      "fecha": "20/09/2026 20:30",
-      "fecha_dt": "2026-09-20T20:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXt0HvQN2pp4guo0uB2KEeOgPTQMIVNi4_oq8hQtl45lhrverVjMtKTk4gwlA",
-      "link": "https://trends.google.com/trending?geo=MX&q=49ers",
-      "status": ""
-    },
-    {
       "titulo": "porto vs benfica",
-      "descripcion": "Porto vs Benfica LIVE: Start time, how to watch and confirmed lineups! 2026 Primeira Liga Matchday 7",
-      "trafico": "200+",
+      "descripcion": "¡Sin Santi Gimenez! Porto vence a Benfica en el Clásico y es líder absoluto en Portugal",
+      "trafico": "2000+",
       "fecha": "20/09/2026 20:00",
       "fecha_dt": "2026-09-20T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNOR1K2EpVklBwvkd7WfS1rAaZN4EFklOoUsnjkaPEdNqCQvARbaXiO3o0FY",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCvIjBrZ_8D_hOq6kiPJe8we0Zr9zuKXloFwbLc2xkWKtAYdHsbhHcuj4rQaA",
       "link": "https://trends.google.com/trending?geo=MX&q=porto+vs+benfica",
-      "status": ""
-    },
-    {
-      "titulo": "ravens",
-      "descripcion": "New Orleans Saints vs. Baltimore Ravens Live Score and Stats - September 20, 2026 Gametracker",
-      "trafico": "200+",
-      "fecha": "20/09/2026 19:40",
-      "fecha_dt": "2026-09-20T19:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbFKFbxUVC7nkuxQ8ARBS8EtEW6_A7HJwHcXDPAPD8J0AfezaENjXR0Y_9c0U",
-      "link": "https://trends.google.com/trending?geo=MX&q=ravens",
       "status": ""
     },
     {
       "titulo": "toluca vs santos",
       "descripcion": "Toluca vs. Santos | Horario y dónde ver este partido de la Liga MX Apertura 2026",
-      "trafico": "100+",
+      "trafico": "500+",
       "fecha": "20/09/2026 21:10",
       "fecha_dt": "2026-09-20T21:10:00+00:00",
       "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9PQK9n8vqv_L5mz1MuCtCbijLXLCCNNtxRj6Jgi4z-frbJakSTVm_SbLgkE0",
@@ -84,23 +24,83 @@
       "status": ""
     },
     {
-      "titulo": "betis vs",
-      "descripcion": "Resumen del partido: Deportivo La Coruña vs Betis. GOLES",
-      "trafico": "100+",
-      "fecha": "20/09/2026 18:30",
-      "fecha_dt": "2026-09-20T18:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSm5uk6YTv-PqZumwRDzCP5d-VRnx5XDinTM4ic5WOuu3ZOV6D4iyYQKDpTWM",
-      "link": "https://trends.google.com/trending?geo=MX&q=betis+vs",
+      "titulo": "dallas cowboys",
+      "descripcion": "NFL is aware of potential issues with field in Brazil for Ravens-Cowboys",
+      "trafico": "500+",
+      "fecha": "20/09/2026 20:40",
+      "fecha_dt": "2026-09-20T20:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzSo2qJpCb4-PIJ0GxhB32WPyVIpWfYnPe4jl6ru0EhBcaEXYE9EYIWcB3zyA",
+      "link": "https://trends.google.com/trending?geo=MX&q=dallas+cowboys",
       "status": ""
     },
     {
-      "titulo": "dazn",
-      "descripcion": "MSG+ on DAZN launches as Sabres' streaming home | Buffalo Sabres",
+      "titulo": "49ers",
+      "descripcion": "Ways to Watch and Listen: Dolphins vs. 49ers | Week 2",
+      "trafico": "500+",
+      "fecha": "20/09/2026 20:30",
+      "fecha_dt": "2026-09-20T20:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXt0HvQN2pp4guo0uB2KEeOgPTQMIVNi4_oq8hQtl45lhrverVjMtKTk4gwlA",
+      "link": "https://trends.google.com/trending?geo=MX&q=49ers",
+      "status": ""
+    },
+    {
+      "titulo": "caleb williams",
+      "descripcion": "Vikings’ defense dominates in sloppy, rainy, touchdown-less win over Bears",
+      "trafico": "200+",
+      "fecha": "20/09/2026 20:50",
+      "fecha_dt": "2026-09-20T20:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEkLvfPnwe5DZLlsAo570dxP9HU_KD5DvxURElxO1nD9yvBX3RhhZIlrmHATs",
+      "link": "https://trends.google.com/trending?geo=MX&q=caleb+williams",
+      "status": ""
+    },
+    {
+      "titulo": "ravens",
+      "descripcion": "History repeats itself as the Ravens blow a fourth-quarter lead in their loss to the Saints",
+      "trafico": "200+",
+      "fecha": "20/09/2026 19:40",
+      "fecha_dt": "2026-09-20T19:40:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLVuEkjy66lOI8hn21XAKdkOb1_umQ4Q5Coa3MhpKsoEtZ61mWHxaViog-deQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=ravens",
+      "status": ""
+    },
+    {
+      "titulo": "america femenil",
+      "descripcion": "Dónde ver EN VIVO América vs Atlas por la Liga MX Femenil",
       "trafico": "100+",
-      "fecha": "20/09/2026 17:10",
-      "fecha_dt": "2026-09-20T17:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlBBYKFWPgGwYHT1-XYLVCc8gpmsdtloCm5ymdQgN5ipkuPndkPTBqavvzJuE",
-      "link": "https://trends.google.com/trending?geo=MX&q=dazn",
+      "fecha": "20/09/2026 23:40",
+      "fecha_dt": "2026-09-20T23:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS85nQd-qJ2_gRFsFcEUMDLbSGVnlQQ8wVhm_mLTYlsi5kcvTrPSCb_ex9ZylE",
+      "link": "https://trends.google.com/trending?geo=MX&q=america+femenil",
+      "status": ""
+    },
+    {
+      "titulo": "raiders",
+      "descripcion": "How to watch, listen to and livestream Raiders at Chargers",
+      "trafico": "100+",
+      "fecha": "20/09/2026 23:00",
+      "fecha_dt": "2026-09-20T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSimDhh3YYlQKYwFuTxvPwUxMx-XLPOQoBHq5--Up7XAmgcyLkuMVaYkvLbFr8",
+      "link": "https://trends.google.com/trending?geo=MX&q=raiders",
+      "status": ""
+    },
+    {
+      "titulo": "bet365",
+      "descripcion": "bet365 Bonus Code: Bet $10, Get $365 Bonus for Colts vs. Chiefs Sunday Night Football",
+      "trafico": "100+",
+      "fecha": "20/09/2026 21:30",
+      "fecha_dt": "2026-09-20T21:30:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF5qVemoc4G1B2g0Gauzu-6YsGa3X6xQeJmV1_1IDi3kIScIeuyxQDG_-plvY",
+      "link": "https://trends.google.com/trending?geo=MX&q=bet365",
+      "status": ""
+    },
+    {
+      "titulo": "betis vs",
+      "descripcion": "🚨 ONCES Deportivo-Betis: ¡Aubameyang e Isco suplentes!",
+      "trafico": "100+",
+      "fecha": "20/09/2026 18:30",
+      "fecha_dt": "2026-09-20T18:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvAgFwpcjgzzeAg77fAn1ImbFgl6VTm7f9gzl7ZnpNsqr9mTXVUCCV5tWZWY0",
+      "link": "https://trends.google.com/trending?geo=MX&q=betis+vs",
       "status": ""
     }
   ]
