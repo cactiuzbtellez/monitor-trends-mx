@@ -1,12 +1,22 @@
 {
-  "actualizado": "21/09/2026 20:53 UTC",
+  "actualizado": "21/09/2026 23:56 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
+      "titulo": "maps",
+      "descripcion": "Appeals court orders Missouri to use Trump-backed congressional map, setting up another Supreme Court battle",
+      "trafico": "20000+",
+      "fecha": "21/09/2026 15:40",
+      "fecha_dt": "2026-09-21T15:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8g4xQ_SxHDPGPDrzSQy15H-yY8Br4mWpeJ4wiv8K0QIDKc0en032fSEP4dPE",
+      "link": "https://trends.google.com/trending?geo=MX&q=maps",
+      "status": ""
+    },
+    {
       "titulo": "sat",
       "descripcion": "Opinion | This California Educational Juggernaut Doesn’t Need the SAT",
-      "trafico": "10000+",
+      "trafico": "20000+",
       "fecha": "21/09/2026 15:40",
       "fecha_dt": "2026-09-21T15:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOSb66QXEHhG8Fbctz2S-VgMS-mKPn5cM1A5Hz_pCV93ZeWU0KQuAPOe8I1DM",
@@ -14,13 +24,13 @@
       "status": ""
     },
     {
-      "titulo": "maps",
-      "descripcion": "This truth emerges as political situations change fast: Maps show us our world, but not neutrally",
+      "titulo": "classroom",
+      "descripcion": "Italian PM pushes foreign student cap in classrooms, burqa, niqab ban in schools",
       "trafico": "10000+",
-      "fecha": "21/09/2026 15:40",
-      "fecha_dt": "2026-09-21T15:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLiKChPoWngkc0Q1wCsbgPV1a1ZwbCrSlgZ3z6-KDnQ8SI54YYB94b6gkVwR4",
-      "link": "https://trends.google.com/trending?geo=MX&q=maps",
+      "fecha": "21/09/2026 13:10",
+      "fecha_dt": "2026-09-21T13:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmu8no0cih9pZoZ9WD6snafp13t_M92rVZdqQKtZR3XHGKtCqICW9npTEo-XQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=classroom",
       "status": ""
     },
     {
@@ -44,18 +54,28 @@
       "status": ""
     },
     {
+      "titulo": "huracan polo",
+      "descripcion": "Tu cuerpo frente al tiempo esta semana: huracán Polo traerá aguaceros y vientos poderosos a costas mexicanas",
+      "trafico": "1000+",
+      "fecha": "21/09/2026 20:00",
+      "fecha_dt": "2026-09-21T20:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvohKdqurI5xdgaLF3ZvP9ASI4oWzhQsDzmHXAcNENYY1qF_Q8U1CAgTjlR0s",
+      "link": "https://trends.google.com/trending?geo=MX&q=huracan+polo",
+      "status": ""
+    },
+    {
       "titulo": "windy",
-      "descripcion": "Storm Track 3 Forecast: Saturday severe risk, big cooldown tonight!",
+      "descripcion": "Storm Track 3 Forecast: Monday morning storms, mild temps all week",
       "trafico": "1000+",
       "fecha": "21/09/2026 15:30",
       "fecha_dt": "2026-09-21T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNCxPGxKmZai3kFryfzhbOvyjQTVUffdxCBd62fvUDkUM6qZRJ_u_51CrYkzw",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEBLLSW5gVdR1UtB40LlOLMzDq2sSyUx3BS3s6fT9luw3JjZyrMxNqqNqN8aU",
       "link": "https://trends.google.com/trending?geo=MX&q=windy",
       "status": ""
     },
     {
       "titulo": "hola",
-      "descripcion": "Muere Presley Gerber, hijo de Cindy Crawford, a los 27 años",
+      "descripcion": "Concluyen autopsia de Presley Gerber; hijo de Cindy Crawford, tenía 27 años",
       "trafico": "1000+",
       "fecha": "21/09/2026 14:10",
       "fecha_dt": "2026-09-21T14:10:00+00:00",
@@ -65,41 +85,21 @@
     },
     {
       "titulo": "21 de septiembre",
-      "descripcion": "21 de Septiembre Día de las Flores Amarillas; Esta es la Historia Detrás de la Tradición",
+      "descripcion": "Clima para el 21 de septiembre, 2026",
       "trafico": "1000+",
       "fecha": "21/09/2026 13:20",
       "fecha_dt": "2026-09-21T13:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKmdBQJAynv28AHTGwXCL7OZHDtu1Idg_Hw4NurqxNtAclbmaG4fiWznHK0qs",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUHP9ZHT62tngaJsYrKVgohOTp_658GPphPofazKM8Ibf_Hm3Bs20yMAprgWY",
       "link": "https://trends.google.com/trending?geo=MX&q=21+de+septiembre",
       "status": ""
     },
     {
-      "titulo": "pensión bienestar adultos mayores",
-      "descripcion": "Pensión Bienestar: estos apellidos recibirán sus pagos del 21 al 25 de septiembre",
-      "trafico": "500+",
-      "fecha": "21/09/2026 08:10",
-      "fecha_dt": "2026-09-21T08:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg-y8Bvywd1s8nSFfuKTP1BkTaSxlGvfZZpkdRtZgv82q3s2R-UVGjNC0Ewsw",
-      "link": "https://trends.google.com/trending?geo=MX&q=pensión+bienestar+adultos+mayores",
-      "status": ""
-    },
-    {
-      "titulo": "huracan polo",
-      "descripcion": "Polo Ya Es Huracán y Alcanzará Categoría 5, Según Trayectoria Cerca de México",
-      "trafico": "200+",
-      "fecha": "21/09/2026 20:00",
-      "fecha_dt": "2026-09-21T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVLATwWtDVXlkjENng0VHAHp8HIe-Hw0_v-ZochqdtphowkQ7GLzkDfqVI-hA",
-      "link": "https://trends.google.com/trending?geo=MX&q=huracan+polo",
-      "status": ""
-    },
-    {
       "titulo": "tipo de cambio",
-      "descripcion": "El peso mexicano intenta ganar terreno al dólar, en medio de una menor tensión y a la espera de reuniones diplomáticas y comerciales",
+      "descripcion": "Peso mexicano cierra estable frente al dólar; mercado espera reunión de Trump y Xi",
       "trafico": "200+",
       "fecha": "21/09/2026 15:30",
       "fecha_dt": "2026-09-21T15:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-ox_80WDZDh-Lwewr6mEEkEDlgdugSm9OpbgFxKkZOSYcprPms3DnRiuX3Do",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7gGbgXjquCC-v9lNgbwdMpfHJa_y4wIRPW6EwtYbGY2tUHYqhpAX5nttcOkQ",
       "link": "https://trends.google.com/trending?geo=MX&q=tipo+de+cambio",
       "status": ""
     }
