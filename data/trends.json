@@ -1,22 +1,22 @@
 {
-  "actualizado": "22/09/2026 18:37 UTC",
+  "actualizado": "22/09/2026 21:52 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "taylor swift",
-      "descripcion": "Taylor Swift Announces \"Patient Zero,\" New Single Due Friday",
-      "trafico": "2000+",
-      "fecha": "22/09/2026 17:20",
-      "fecha_dt": "2026-09-22T17:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTu5bT9fZIkgfhchrDVv8gbZhTW8jgDGSiGqvaQ4lakBh60U9z7JxBIxj7-tIw",
-      "link": "https://trends.google.com/trending?geo=MX&q=taylor+swift",
+      "titulo": "tormenta polo",
+      "descripcion": "\"Polo\" alcanza la categoría 5: el poderoso huracán intensifica sus rachas a 315 km/h y mantiene bajo alerta a México",
+      "trafico": "10000+",
+      "fecha": "22/09/2026 20:50",
+      "fecha_dt": "2026-09-22T20:50:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5_SNOdfkYqNl40IPamryypxANOyM3u_jpptksqW2CloEwufOKBfZLXh8zJg",
+      "link": "https://trends.google.com/trending?geo=MX&q=tormenta+polo",
       "status": ""
     },
     {
       "titulo": "hayden panettiere",
       "descripcion": "Hayden Panettiere’s Cause of Death Revealed as Toxic Effects of Fentanyl and More; Death Ruled an Accident",
-      "trafico": "2000+",
+      "trafico": "5000+",
       "fecha": "22/09/2026 17:20",
       "fecha_dt": "2026-09-22T17:20:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP53bxdjRlrL-ePG09tdanCdrpwXEHklN-83k2MZmr94S30YJTDvARZrn7ynI",
@@ -24,83 +24,83 @@
       "status": ""
     },
     {
-      "titulo": "pensión",
-      "descripcion": "Pensión Bienestar: estos apellidos recibirán sus pagos del 21 al 25 de septiembre",
+      "titulo": "hugo sánchez",
+      "descripcion": "\"Les sale espuma de la boca\": Hugo Sánchez 'explota' porque no recordaron su chilena en el gol de Borja",
       "trafico": "2000+",
-      "fecha": "22/09/2026 11:20",
-      "fecha_dt": "2026-09-22T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg-y8Bvywd1s8nSFfuKTP1BkTaSxlGvfZZpkdRtZgv82q3s2R-UVGjNC0Ewsw",
-      "link": "https://trends.google.com/trending?geo=MX&q=pensión",
+      "fecha": "22/09/2026 19:10",
+      "fecha_dt": "2026-09-22T19:10:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnTUnSHJqZE0vV_54LEDGvmk-FCWHXN9gSyj7j4hhG7EvENvEsJ5_tR4Nurg",
+      "link": "https://trends.google.com/trending?geo=MX&q=hugo+sánchez",
       "status": ""
     },
     {
       "titulo": "yankees - rays",
-      "descripcion": "With AL East title on line, Yanks determined to keep Rays from celebrating in Bronx",
-      "trafico": "1000+",
+      "descripcion": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
+      "trafico": "2000+",
       "fecha": "22/09/2026 17:30",
       "fecha_dt": "2026-09-22T17:30:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwXM_XDJnfNYHG7hCCcUc2EGTVSS9122vAhEoTmlrIKY-zGE-Gr2Mge6bEbG8",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLfxQpj93QZ4_QaCkcBH5m9XCaG_TLPy-N1dYPR8s0Nm__T71npU-RmOehT8s",
       "link": "https://trends.google.com/trending?geo=MX&q=yankees+-+rays",
       "status": ""
     },
     {
+      "titulo": "taylor swift",
+      "descripcion": "Taylor Swift’s Mysterious Countdown Sends Fans Into a Frenzy",
+      "trafico": "2000+",
+      "fecha": "22/09/2026 17:20",
+      "fecha_dt": "2026-09-22T17:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXZgJzRh2pXH3InkBe0peX8xS8_O5rCXcXEeVvQWKlaA92go-nQA_FRJ3fzcA",
+      "link": "https://trends.google.com/trending?geo=MX&q=taylor+swift",
+      "status": ""
+    },
+    {
+      "titulo": "detención",
+      "descripcion": "ICE reingresa al venezolano herido de bala en la espalda a centro de detención, con Tylenol e ibuprofeno",
+      "trafico": "500+",
+      "fecha": "22/09/2026 19:00",
+      "fecha_dt": "2026-09-22T19:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrAm0vl8dk1_IREYzV5DHJ1ESj-bwZwooDkDshKk8EE1XhbMSLlJxIYYbX9ws",
+      "link": "https://trends.google.com/trending?geo=MX&q=detención",
+      "status": ""
+    },
+    {
       "titulo": "sat",
-      "descripcion": "Wealthy students are 13x more likely to ace the SAT. The test turns 100 this year",
+      "descripcion": "The SAT has changed since it debuted 100 years ago – but questions remain about its relevance",
       "trafico": "500+",
       "fecha": "22/09/2026 17:20",
       "fecha_dt": "2026-09-22T17:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbnjvJOFpq7gt5_Cxty2aqulo2yaH6wupnR7qYBUzAVKPbC-5oNxxVA8zde3M",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9WETcFq3k1wdxgG5y6eTCCAWdw32JDv7UaqW8v8z8xZu8lRw5XT_SQ_OfU7I",
       "link": "https://trends.google.com/trending?geo=MX&q=sat",
       "status": ""
     },
     {
       "titulo": "otoño",
-      "descripcion": "¿Qué es el equinoccio de otoño y cuándo ocurre?",
+      "descripcion": "El otoño empieza hoy: ¿a qué hora entra y por qué las noches se hacen más largas?",
       "trafico": "500+",
       "fecha": "22/09/2026 13:00",
       "fecha_dt": "2026-09-22T13:00:00+00:00",
-      "imagen": "",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPYuV-NOlwxDlQ7-hUXQ2ECaPVpvsBLdzN9LnhjC18EzlZ1u48HA-_ieRIgjI",
       "link": "https://trends.google.com/trending?geo=MX&q=otoño",
       "status": ""
     },
     {
-      "titulo": "chat gpt",
-      "descripcion": "I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away",
+      "titulo": "mlb",
+      "descripcion": "These 9 series starting tonight will help determine postseason picture",
       "trafico": "200+",
+      "fecha": "22/09/2026 20:00",
+      "fecha_dt": "2026-09-22T20:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0SwJoh0i4_u_2n_tj1jakqhVzmJp3aEUbsGlnuoUCDVLNhtXdNe9HzqMbc",
+      "link": "https://trends.google.com/trending?geo=MX&q=mlb",
+      "status": ""
+    },
+    {
+      "titulo": "chat gpt",
+      "descripcion": "Introducing GPT-6 Sol and Luna",
+      "trafico": "100+",
       "fecha": "22/09/2026 16:40",
       "fecha_dt": "2026-09-22T16:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTna6DvSGfTQ2rCpOYC-IeIIDM4gkDkXDrbk9_42dT7_70zmmvhZeZXNtiuDaU",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjqJ5sYVQKPZgbg1X09VgBbWiZ9MqyDXIH764rg9ubhctNI9oZxJZESGPIMMI",
       "link": "https://trends.google.com/trending?geo=MX&q=chat+gpt",
-      "status": ""
-    },
-    {
-      "titulo": "basura",
-      "descripcion": "Piden no tirar basura en alcantarillas",
-      "trafico": "200+",
-      "fecha": "22/09/2026 12:20",
-      "fecha_dt": "2026-09-22T12:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSb-N-VLoc7gL4K7DHJE3pPnOscLG6TnDfKDLkeRbxToGULfkZtS7IHp_281VU",
-      "link": "https://trends.google.com/trending?geo=MX&q=basura",
-      "status": ""
-    },
-    {
-      "titulo": "joel huiqui",
-      "descripcion": "Otra temporada de hienas en La Noria",
-      "trafico": "200+",
-      "fecha": "22/09/2026 12:10",
-      "fecha_dt": "2026-09-22T12:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEay51zLkwvVbbbRKs3OydOovdHMjuAXuep9mWjVbYNK7Yc1TLSF3fAS5r4zY",
-      "link": "https://trends.google.com/trending?geo=MX&q=joel+huiqui",
-      "status": ""
-    },
-    {
-      "titulo": "toluca - tigres uanl",
-      "descripcion": "Propina Tigres Femenil 'infernal' goleada a Toluca",
-      "trafico": "200+",
-      "fecha": "22/09/2026 11:20",
-      "fecha_dt": "2026-09-22T11:20:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq4H1tDlvo5wM7gJQbGtPvwyUIXh2px6RlfssnJbUtIAO0vnpmwgNNLstwgdg",
-      "link": "https://trends.google.com/trending?geo=MX&q=toluca+-+tigres+uanl",
       "status": ""
     }
   ]
