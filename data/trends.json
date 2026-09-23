@@ -1,12 +1,12 @@
 {
-  "actualizado": "23/09/2026 05:39 UTC",
+  "actualizado": "23/09/2026 11:06 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "bbva",
       "descripcion": "Las sucursales de BBVA México ajustarán su horario a partir del 5 de octubre de 2026",
-      "trafico": "100000+",
+      "trafico": "200000+",
       "fecha": "22/09/2026 21:50",
       "fecha_dt": "2026-09-22T21:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAOLeOFakDDtq2KZXEtRIqc2aqB22ziECgZWnTcee2XNK_04Fw_uG71Px5X4c",
@@ -15,21 +15,21 @@
     },
     {
       "titulo": "tormenta polo",
-      "descripcion": "Oaxaca, Guerrero, Colima, Jalisco y Michoacán bajo emergencia y prevención por el huracán mayor Polo",
+      "descripcion": "Refuerzan coordinación preventiva ante posibles efectos de “Polo” en Colima",
       "trafico": "50000+",
       "fecha": "22/09/2026 20:50",
       "fecha_dt": "2026-09-22T20:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV4EqlRp_gxtP_O-79STMPOqtU79kTb67hsR2_IVqhdy1JqydLZ3DUyXTRLUg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgtGYN2p-ggXq6ksoGxcrshVK9HwnTAMQuHaJnbI-DqAeWJnuywhHBB5QxHWs",
       "link": "https://trends.google.com/trending?geo=MX&q=tormenta+polo",
       "status": ""
     },
     {
       "titulo": "dodgers - padres",
-      "descripcion": "Where to watch Dodgers vs Padres? Schedule for each game and TV Channel of the NL West Classic",
+      "descripcion": "MLB: San Diego Padres at Los Angeles Dodgers",
       "trafico": "10000+",
       "fecha": "23/09/2026 01:50",
       "fecha_dt": "2026-09-23T01:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8ot4_mAQcvM9gPOgWEH7tfV69Smo-9bVCtZuyaFcgY72xiOGZg-rfQpurOf0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgY__L18hRqzvgJxL8RJG9sa8y1VhkEeTXH8yhxqXJIIoVDRn5ZuFZ6rDn-9M",
       "link": "https://trends.google.com/trending?geo=MX&q=dodgers+-+padres",
       "status": ""
     },
@@ -54,12 +54,22 @@
       "status": ""
     },
     {
+      "titulo": "galilea montijo",
+      "descripcion": "Galilea Montijo sorprende al aparecer dentro de La Casa de los Famosos México y deja atónitos a los habitantes con su look: \"Gali... wow\"",
+      "trafico": "2000+",
+      "fecha": "23/09/2026 05:40",
+      "fecha_dt": "2026-09-23T05:40:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjcuxmSVX2lL0NQ7tp5ViAFN2JJt1hXlJyZfTfSWV2Ok_XTuHHO7hdXQCg0MA",
+      "link": "https://trends.google.com/trending?geo=MX&q=galilea+montijo",
+      "status": ""
+    },
+    {
       "titulo": "hugo sánchez",
-      "descripcion": "Molesta a Hugo que no comparen gol de Borja con los suyos",
+      "descripcion": "Hugo Sánchez rompe el silencio tras espectacular chilena del América: \"Nadie se acordó de mí\"",
       "trafico": "2000+",
       "fecha": "22/09/2026 19:10",
       "fecha_dt": "2026-09-22T19:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjllXgE2dzeWnGfM_ZrGAxutgorjL0eqEODDvxWeTbzOAKWWAaa76hZFhZ6DM",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL7w103g5w2-FjU5K11FasmgYbBVZxle1LByOgcgfVxDlsuewb2cN0cymGuMs",
       "link": "https://trends.google.com/trending?geo=MX&q=hugo+sánchez",
       "status": ""
     },
@@ -74,16 +84,6 @@
       "status": ""
     },
     {
-      "titulo": "taylor swift",
-      "descripcion": "Taylor Swift shocks fans with surprise announcement: ‘I’ve been impatiently waiting to tell you’",
-      "trafico": "2000+",
-      "fecha": "22/09/2026 17:20",
-      "fecha_dt": "2026-09-22T17:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisFi1n82SKzAkSxscgbwDJZNkUGPNCB_m-yluXb-Q1tFrDIS2CcS2z3Z-Tfw",
-      "link": "https://trends.google.com/trending?geo=MX&q=taylor+swift",
-      "status": ""
-    },
-    {
       "titulo": "detención",
       "descripcion": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
       "trafico": "500+",
@@ -95,11 +95,11 @@
     },
     {
       "titulo": "mlb",
-      "descripcion": "MLB Raises Private Equity Ownership Limit to 20%",
+      "descripcion": "Here are the breakout prospects of the year -- one for each team",
       "trafico": "200+",
       "fecha": "22/09/2026 20:00",
       "fecha_dt": "2026-09-22T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx7eTqp1zquNytiFbj3jAA7mCdw7Npf1Mbsy5R-PHx3U1iBZSkZf1Sa3RvTPI",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2MdmUlAR-WsHMgbwHkYjRiA79-GaqJnw3Yl1yPLEeC3A4rBi7tdvCVaJAsaE",
       "link": "https://trends.google.com/trending?geo=MX&q=mlb",
       "status": ""
     }
