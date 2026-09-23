@@ -1,26 +1,36 @@
 {
-  "actualizado": "23/09/2026 00:09 UTC",
+  "actualizado": "23/09/2026 05:39 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "bbva",
-      "descripcion": "BBVA places €1.25 billion senior preferred green bond with demand twice the amount issue",
-      "trafico": "50000+",
+      "descripcion": "Las sucursales de BBVA México ajustarán su horario a partir del 5 de octubre de 2026",
+      "trafico": "100000+",
       "fecha": "22/09/2026 21:50",
       "fecha_dt": "2026-09-22T21:50:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPQ0hgATzssgKKvh-HxTXwy7LhO7nvC7zyMuDMDlGyQwIdDOJu_r_jyoBD_v4",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAOLeOFakDDtq2KZXEtRIqc2aqB22ziECgZWnTcee2XNK_04Fw_uG71Px5X4c",
       "link": "https://trends.google.com/trending?geo=MX&q=bbva",
       "status": ""
     },
     {
       "titulo": "tormenta polo",
-      "descripcion": "\"Polo\" alcanza la categoría 5: el poderoso huracán intensifica sus rachas a 315 km/h y mantiene bajo alerta a México",
-      "trafico": "20000+",
+      "descripcion": "Oaxaca, Guerrero, Colima, Jalisco y Michoacán bajo emergencia y prevención por el huracán mayor Polo",
+      "trafico": "50000+",
       "fecha": "22/09/2026 20:50",
       "fecha_dt": "2026-09-22T20:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy5_SNOdfkYqNl40IPamryypxANOyM3u_jpptksqW2CloEwufOKBfZLXh8zJg",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSV4EqlRp_gxtP_O-79STMPOqtU79kTb67hsR2_IVqhdy1JqydLZ3DUyXTRLUg",
       "link": "https://trends.google.com/trending?geo=MX&q=tormenta+polo",
+      "status": ""
+    },
+    {
+      "titulo": "dodgers - padres",
+      "descripcion": "Where to watch Dodgers vs Padres? Schedule for each game and TV Channel of the NL West Classic",
+      "trafico": "10000+",
+      "fecha": "23/09/2026 01:50",
+      "fecha_dt": "2026-09-23T01:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8ot4_mAQcvM9gPOgWEH7tfV69Smo-9bVCtZuyaFcgY72xiOGZg-rfQpurOf0",
+      "link": "https://trends.google.com/trending?geo=MX&q=dodgers+-+padres",
       "status": ""
     },
     {
@@ -35,31 +45,31 @@
     },
     {
       "titulo": "carlos rivera",
-      "descripcion": "Carlos Rivera comparte malas noticias para sus fans: ‘Continuar así podría lastimarme aún más’",
+      "descripcion": "Carlos Rivera pospone conciertos por lesiones en las cuerdas vocales",
       "trafico": "5000+",
       "fecha": "22/09/2026 22:00",
       "fecha_dt": "2026-09-22T22:00:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4WqTk78vpQnbEyUNvzP1SIM1TkNJi-yXNW2dKYY3phynF54W-E6s6BcO9_ms",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1iougepf4mfGVzGk9iUcasOYG-YwHvsy8X_0X9e6ayd6xdPcf6YhAha_HmIc",
       "link": "https://trends.google.com/trending?geo=MX&q=carlos+rivera",
       "status": ""
     },
     {
       "titulo": "hugo sánchez",
-      "descripcion": "Hugo Sánchez rompe el silencio tras espectacular chilena del América: \"Nadie se acordó de mí\"",
+      "descripcion": "Molesta a Hugo que no comparen gol de Borja con los suyos",
       "trafico": "2000+",
       "fecha": "22/09/2026 19:10",
       "fecha_dt": "2026-09-22T19:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL7w103g5w2-FjU5K11FasmgYbBVZxle1LByOgcgfVxDlsuewb2cN0cymGuMs",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjllXgE2dzeWnGfM_ZrGAxutgorjL0eqEODDvxWeTbzOAKWWAaa76hZFhZ6DM",
       "link": "https://trends.google.com/trending?geo=MX&q=hugo+sánchez",
       "status": ""
     },
     {
       "titulo": "yankees - rays",
-      "descripcion": "Rodón staves off Rays' clinch with 8 dominant frames in DH opener",
+      "descripcion": "Resumen Rays @ Yankees, Resultados/Jugadas destacadas - 22/09/2026",
       "trafico": "2000+",
       "fecha": "22/09/2026 17:30",
       "fecha_dt": "2026-09-22T17:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FhNYMl6vWEpn5zRy39JXKmYTWCmTdLdirVzWpufqCSO6a8-PRQG541MoVS8",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ_1Z_awGgk7gy4fLf3WgdmIgWDURmdpplT4fStSv1kp5yccC-nJav5LHwmsA",
       "link": "https://trends.google.com/trending?geo=MX&q=yankees+-+rays",
       "status": ""
     },
@@ -75,31 +85,21 @@
     },
     {
       "titulo": "detención",
-      "descripcion": "Protesta estudiantil por Wilber Garcés termina con un arresto en Pflugerville",
+      "descripcion": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
       "trafico": "500+",
       "fecha": "22/09/2026 19:00",
       "fecha_dt": "2026-09-22T19:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGKXebf_Vl3GyVPVQQfI2s1OlIxNouR4eGIqN74yXfRV80GnhJDIJypk_Dgvk",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT33cUlbCQVTmpZYyx88CjOZQnnRmn2-vtI5hhWspIxsumrsBIewRMCMmxarVE",
       "link": "https://trends.google.com/trending?geo=MX&q=detención",
       "status": ""
     },
     {
-      "titulo": "sat",
-      "descripcion": "The SAT has changed since it debuted 100 years ago – but questions remain about its relevance",
-      "trafico": "500+",
-      "fecha": "22/09/2026 17:20",
-      "fecha_dt": "2026-09-22T17:20:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9WETcFq3k1wdxgG5y6eTCCAWdw32JDv7UaqW8v8z8xZu8lRw5XT_SQ_OfU7I",
-      "link": "https://trends.google.com/trending?geo=MX&q=sat",
-      "status": ""
-    },
-    {
       "titulo": "mlb",
-      "descripcion": "These 9 series starting tonight will help determine postseason picture",
+      "descripcion": "MLB Raises Private Equity Ownership Limit to 20%",
       "trafico": "200+",
       "fecha": "22/09/2026 20:00",
       "fecha_dt": "2026-09-22T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ0SwJoh0i4_u_2n_tj1jakqhVzmJp3aEUbsGlnuoUCDVLNhtXdNe9HzqMbc",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRx7eTqp1zquNytiFbj3jAA7mCdw7Npf1Mbsy5R-PHx3U1iBZSkZf1Sa3RvTPI",
       "link": "https://trends.google.com/trending?geo=MX&q=mlb",
       "status": ""
     }
