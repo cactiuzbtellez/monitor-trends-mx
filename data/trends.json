@@ -1,12 +1,12 @@
 {
-  "actualizado": "23/09/2026 23:28 UTC",
+  "actualizado": "24/09/2026 03:57 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
       "titulo": "instituto de seguridad y servicios sociales de los trabajadores del estado",
       "descripcion": "IMSS e ISSSTE confirman pago triple para millones de adultos mayores en noviembre 2026 por orden de Claudia Sheinbaum",
-      "trafico": "20000+",
+      "trafico": "50000+",
       "fecha": "23/09/2026 20:40",
       "fecha_dt": "2026-09-23T20:40:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMKnHISVbyvzJ7SZOEQ5-VoFdOGBOgDO-gJ-uLpDxqS0uXjkdq73HQVuZ0g8o",
@@ -14,33 +14,33 @@
       "status": ""
     },
     {
-      "titulo": "estados unidos",
-      "descripcion": "Muchas cosas han cambiado desde la última visita de Estado de Xi Jinping a EE.UU. La mayoría de ellas a favor de China",
-      "trafico": "20000+",
-      "fecha": "23/09/2026 12:40",
-      "fecha_dt": "2026-09-23T12:40:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZs0iOgs9-a9vIj2mMuyNJyZZvFOEErisMoXEklG-XMy-ilAn-gIPmPE6N20w",
-      "link": "https://trends.google.com/trending?geo=MX&q=estados+unidos",
-      "status": ""
-    },
-    {
       "titulo": "barcelona - paris football club femenino",
-      "descripcion": "¡El Barcelona Femení hace historia! El conjunto azulgrana alcanza la increíble cifra de 900 victorias con la goleada al Paris FC en la Champions League",
+      "descripcion": "Barcelona remonta y golea al París FC en su debut europeo",
       "trafico": "10000+",
       "fecha": "23/09/2026 18:30",
       "fecha_dt": "2026-09-23T18:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUouoz_iHry4XqoHu025qJORfzhLh6XA_vKAvskzLXwU-LL2nHnlRB_f4KUUw",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqlhUlFM715PAL_-aBFqmSu4aWeL7tqVwbIwwM8plaWlYr5FnX1gJ3iQwWpM",
       "link": "https://trends.google.com/trending?geo=MX&q=barcelona+-+paris+football+club+femenino",
       "status": ""
     },
     {
       "titulo": "jubilación",
-      "descripcion": "La ley para prejubilarse sin penalización con 40 años cotizados echa a andar en el Congreso",
+      "descripcion": "Retiro Anticipado ISSSTE 2026: cuánto dinero necesitas en tu afore para pensionarte antes de 60 años",
       "trafico": "10000+",
       "fecha": "23/09/2026 18:20",
       "fecha_dt": "2026-09-23T18:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1k-K1tN2sDfW1H9aRSU7P85mZAKa9imynEDKddRAGEekSb9u_uc74EJH9HjY",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe8x6MzY4MCyfaQBuuXuhqXaabtET4me8a21rXFpBnxr0DmxgJVQ_8pcG2Sco",
       "link": "https://trends.google.com/trending?geo=MX&q=jubilación",
+      "status": ""
+    },
+    {
+      "titulo": "seattle sounders - real salt lake",
+      "descripcion": "Sounders get good news on injury front",
+      "trafico": "5000+",
+      "fecha": "24/09/2026 00:50",
+      "fecha_dt": "2026-09-24T00:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWdM33jiCpdBCO9aN42UiIvc4nc4m3BURS0A2Po-5n1-ZgK5fxhd1t_4HImvQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=seattle+sounders+-+real+salt+lake",
       "status": ""
     },
     {
@@ -61,6 +61,16 @@
       "fecha_dt": "2026-09-23T17:50:00+00:00",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aEsjIM62iezuHTBiat5xLtceaAIM5x16zGpVA3TzMclZN8ix4JSHro-3aZ4",
       "link": "https://trends.google.com/trending?geo=MX&q=arabia+saudita+-+kuwait",
+      "status": ""
+    },
+    {
+      "titulo": "mexico vs",
+      "descripcion": "Rafael Márquez debutará con el Tricolor ante estadio lleno en Baltimore",
+      "trafico": "2000+",
+      "fecha": "24/09/2026 03:30",
+      "fecha_dt": "2026-09-24T03:30:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTflO6Z-7UYTdbfEmwJ70iwFGl8Xu6AltijTBHgITuZLYWxr06ThyQfB6P7tDY",
+      "link": "https://trends.google.com/trending?geo=MX&q=mexico+vs",
       "status": ""
     },
     {
@@ -85,22 +95,12 @@
     },
     {
       "titulo": "clima hermosillo",
-      "descripcion": "El otoño llegó a Sonora pero las temperaturas siguen arriba de 40°C y hay hasta 70% de probabilidad de lluvias este miércoles",
+      "descripcion": "No da tregua el calor con el otoño",
       "trafico": "1000+",
       "fecha": "23/09/2026 19:40",
       "fecha_dt": "2026-09-23T19:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT31u7opfHO3cQBo8Pgc79TtnJcQPhYP3H70Na2_2Oonx2bkwxeVsKKnQ-0Xgo",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUjP5K2YU5XPbny6WAbumUQP56zi0UV2_c5TYt_mHUEp_S7YD8TvboOfH1vtI",
       "link": "https://trends.google.com/trending?geo=MX&q=clima+hermosillo",
-      "status": ""
-    },
-    {
-      "titulo": "clima cancun",
-      "descripcion": "Clima en Cancún hoy: el pronóstico para el miércoles 23 de septiembre de 2026",
-      "trafico": "200+",
-      "fecha": "23/09/2026 11:00",
-      "fecha_dt": "2026-09-23T11:00:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI1BfjhHxmeKYfV0A2CW5er5ciu9aU-f6loZYxXGRyWSvD3af65CQWYeq966U",
-      "link": "https://trends.google.com/trending?geo=MX&q=clima+cancun",
       "status": ""
     }
   ]
