@@ -1,106 +1,106 @@
 {
-  "actualizado": "27/09/2026 21:54 UTC",
+  "actualizado": "28/09/2026 00:25 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "cowboys - ravens",
+      "titulo": "america vs necaxa",
+      "descripcion": "Necaxa vs América : posibles alineaciones y probabilidades",
+      "trafico": "50000+",
+      "fecha": "27/09/2026 22:50",
+      "fecha_dt": "2026-09-27T22:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhCcasIiMeq7osuS8RZCeSxxT7AGe8LsP-71TIQ-riquOIgTauReLV_7oE1uQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=america+vs+necaxa",
+      "status": ""
+    },
+    {
+      "titulo": "columbus crew - inter miami",
+      "descripcion": "MATCH PREVIEW: Inter Miami CF in Road Action Against Columbus Crew this Sunday",
+      "trafico": "20000+",
+      "fecha": "27/09/2026 22:20",
+      "fecha_dt": "2026-09-27T22:20:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMLDoTsXNcwHXemLh7Hhc0xeJrS6ZCOE9-7NOHcB_2OZwIEWcHWFLYgF94tDY",
+      "link": "https://trends.google.com/trending?geo=MX&q=columbus+crew+-+inter+miami",
+      "status": ""
+    },
+    {
+      "titulo": "tierra",
+      "descripcion": "El huracán Polo golpeará dos veces México, se activan alertas en Baja California Sur y Sonora",
+      "trafico": "20000+",
+      "fecha": "27/09/2026 22:00",
+      "fecha_dt": "2026-09-27T22:00:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSti2qrhkQV2RTVGRVY7pZ7WqDZ9IFH6nEkWkuejJxKXPO5qdTMp8PnEK-rBhQ",
+      "link": "https://trends.google.com/trending?geo=MX&q=tierra",
+      "status": ""
+    },
+    {
+      "titulo": "inapam",
+      "descripcion": "¿INAPAM da 50% de descuento en CFE? Esto aclara el instituto",
+      "trafico": "5000+",
+      "fecha": "27/09/2026 22:30",
+      "fecha_dt": "2026-09-27T22:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3l8kOF5t6y_Y54M4HbineOCr4e0Sj7NPt9CqF2zKxK5dmCQU8BedCGxyOynI",
+      "link": "https://trends.google.com/trending?geo=MX&q=inapam",
+      "status": ""
+    },
+    {
+      "titulo": "broncos - rams",
+      "descripcion": "Sunday Night Football: Marvin Mims, Puka Nacua inactive for Broncos-Rams",
+      "trafico": "2000+",
+      "fecha": "27/09/2026 23:50",
+      "fecha_dt": "2026-09-27T23:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuaORH0yamq3Q19mXI22Hp4rViIWHo0cdMMlEoZYHcgONUxdF28tcwNe5BvfM",
+      "link": "https://trends.google.com/trending?geo=MX&q=broncos+-+rams",
+      "status": ""
+    },
+    {
+      "titulo": "curazao - nicaragua",
+      "descripcion": "Curazao vs Nicaragua EN VIVO, se disputan los primeros minutos (0-0)",
+      "trafico": "2000+",
+      "fecha": "27/09/2026 23:50",
+      "fecha_dt": "2026-09-27T23:50:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShY9uRFAx3cmM5RZbj8YzA7ws6daiXASB88dPev5pIhX_YtFQGyJutpbk-5wE",
+      "link": "https://trends.google.com/trending?geo=MX&q=curazao+-+nicaragua",
+      "status": ""
+    },
+    {
+      "titulo": "pluto tv",
+      "descripcion": "How to watch CBS LA's MTV Video Music Awards Red Carpet Special",
+      "trafico": "2000+",
+      "fecha": "27/09/2026 23:30",
+      "fecha_dt": "2026-09-27T23:30:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB65WCf0RSpniGzKJ4MsjyAhCc7oHCw8sp4QsciXRRSJm35MwUQrRPgDn7n20",
+      "link": "https://trends.google.com/trending?geo=MX&q=pluto+tv",
+      "status": ""
+    },
+    {
+      "titulo": "dallas cowboys",
+      "descripcion": "Dallas Cowboys wide receiver CeeDee Lamb's 14-yard gain puts Cowboys in Baltimore Ravens' territory",
+      "trafico": "2000+",
+      "fecha": "27/09/2026 23:10",
+      "fecha_dt": "2026-09-27T23:10:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyfs6pReTIHTHoXB1ZR0jijsAuhzz3HJT1F1HE6VEF5nqBb7er-ZgHdWz1TgA",
+      "link": "https://trends.google.com/trending?geo=MX&q=dallas+cowboys",
+      "status": ""
+    },
+    {
+      "titulo": "haití - costa rica",
+      "descripcion": "Bocha Batista habla después de salvar su puesto: \"Yo no tengo presión\"",
+      "trafico": "2000+",
+      "fecha": "27/09/2026 23:00",
+      "fecha_dt": "2026-09-27T23:00:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSY0GIxD4aVuuS-AiBeDx6veoimWgDHiwEVp8iMQSiuAxyh8ER9UCmHyM5MfCc",
+      "link": "https://trends.google.com/trending?geo=MX&q=haití+-+costa+rica",
+      "status": ""
+    },
+    {
+      "titulo": "cowboys vs ravens",
       "descripcion": "Cowboys-Ravens: How to Watch, Listen, Stream in Week 3",
-      "trafico": "10000+",
-      "fecha": "27/09/2026 19:40",
-      "fecha_dt": "2026-09-27T19:40:00+00:00",
+      "trafico": "500+",
+      "fecha": "27/09/2026 23:50",
+      "fecha_dt": "2026-09-27T23:50:00+00:00",
       "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbpXcYzTvfGNuxoGY0-2vuAolvoUYM10naDsWTeafCCukTSK8UAbmHzJw3dhw",
-      "link": "https://trends.google.com/trending?geo=MX&q=cowboys+-+ravens",
-      "status": ""
-    },
-    {
-      "titulo": "saints - raiders",
-      "descripcion": "How to watch, listen to and livestream Raiders at Saints",
-      "trafico": "5000+",
-      "fecha": "27/09/2026 20:10",
-      "fecha_dt": "2026-09-27T20:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSusUh1MwX_chuQ7OzJRHx4cty-G5y9VrgWzl0u7dLzTI8NqnJXKPBRQs6vzgo",
-      "link": "https://trends.google.com/trending?geo=MX&q=saints+-+raiders",
-      "status": ""
-    },
-    {
-      "titulo": "racing - boca juniors",
-      "descripcion": "Déjà vu para Brey: ya había sufrido un gol olímpico en Arroyito con Boca",
-      "trafico": "5000+",
-      "fecha": "27/09/2026 19:40",
-      "fecha_dt": "2026-09-27T19:40:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIqW9RjLGCpc3Oz6joD4G4PvagXe_YE-ZWAoG4FfWg_d2FT7nFQY5rcTtNZe0",
-      "link": "https://trends.google.com/trending?geo=MX&q=racing+-+boca+juniors",
-      "status": ""
-    },
-    {
-      "titulo": "embargo",
-      "descripcion": "La Justicia de EE.UU. habilitó embargos por un reclamo de USD 391 millones por la expropiación de Aerolíneas",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 21:10",
-      "fecha_dt": "2026-09-27T21:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmGa5lqLl9ViuxUveoXUVVwCALSMNa1jvmnNjUBfkFiv5lQESUektDril-uDw",
-      "link": "https://trends.google.com/trending?geo=MX&q=embargo",
-      "status": ""
-    },
-    {
-      "titulo": "erling haaland",
-      "descripcion": "Transfer news LIVE: Man United track Barcelona star as Arsenal & Liverpool chase Kevin Schade",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 20:50",
-      "fecha_dt": "2026-09-27T20:50:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhM0RaLN0ar4vZmxcwuNMuZb49Z_2FjlyKzIJZTQCnnyJ_vj2eY7nLnCfz90",
-      "link": "https://trends.google.com/trending?geo=MX&q=erling+haaland",
-      "status": ""
-    },
-    {
-      "titulo": "49ers",
-      "descripcion": "Bengals vs. Steelers highlights | Week 3",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 20:20",
-      "fecha_dt": "2026-09-27T20:20:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRUuzq9rW9WVjvtuGXIXBs3CLJfIUWo4r4FJElBZcTmaBG06bwYxJJRRCTpFo",
-      "link": "https://trends.google.com/trending?geo=MX&q=49ers",
-      "status": ""
-    },
-    {
-      "titulo": "buccaneers - vikings",
-      "descripcion": "Justin Jefferson injures ankle in first quarter of Vikings-Bucs game",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 20:00",
-      "fecha_dt": "2026-09-27T20:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8LPXXrB4_2adXf-eUHadK_fmrbDvw4msXHQzTvndp7oeS5az-kPPR2lMhZgM",
-      "link": "https://trends.google.com/trending?geo=MX&q=buccaneers+-+vikings",
-      "status": ""
-    },
-    {
-      "titulo": "bolivia - paraguay",
-      "descripcion": "Bolivia - Paraguay, en directo: amistosos internacionales, hoy en vivo",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 19:50",
-      "fecha_dt": "2026-09-27T19:50:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK1nYVsjnfQUN2h1kiCmu6clCzo4vsN7egrs7cVVB2qUCqTt_12PsFXt7l3ME",
-      "link": "https://trends.google.com/trending?geo=MX&q=bolivia+-+paraguay",
-      "status": ""
-    },
-    {
-      "titulo": "seahawks",
-      "descripcion": "NFL roundup: Commanders stun Seahawks as late fumble hands Steelers victory over Bengals",
-      "trafico": "2000+",
-      "fecha": "27/09/2026 19:40",
-      "fecha_dt": "2026-09-27T19:40:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7QBesGPoHxT4rMIvBOAzdvhNRUmmvkL11S5hrlOtfDzGqjT9Jn-sWL57Gmss",
-      "link": "https://trends.google.com/trending?geo=MX&q=seahawks",
-      "status": ""
-    },
-    {
-      "titulo": "norway national football team vs portugal national football team standings",
-      "descripcion": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
-      "trafico": "1000+",
-      "fecha": "27/09/2026 21:10",
-      "fecha_dt": "2026-09-27T21:10:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrP5c6ymqRH6kKlnEje7863rdlZM-48ykYTZYOumH93voXwXo-qdelXFwbErU",
-      "link": "https://trends.google.com/trending?geo=MX&q=norway+national+football+team+vs+portugal+national+football+team+standings",
+      "link": "https://trends.google.com/trending?geo=MX&q=cowboys+vs+ravens",
       "status": ""
     }
   ]
