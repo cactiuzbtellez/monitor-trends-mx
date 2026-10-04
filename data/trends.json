@@ -1,66 +1,36 @@
 {
-  "actualizado": "04/10/2026 05:04 UTC",
+  "actualizado": "04/10/2026 12:00 UTC",
   "periodo": "Últimos 30 días · Google Trends MX",
   "total": 10,
   "trends": [
     {
-      "titulo": "julian hall",
-      "descripcion": "America’s next soccer wunderkind debuted last week. Santino Quaranta sees a bright future.",
-      "trafico": "20000+",
-      "fecha": "04/10/2026 02:00",
-      "fecha_dt": "2026-10-04T02:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ594wt7Cc0QmTxH3Hgj_5iMMmOpcN3Pt4vXnOyvpUK1k1hpNcWE4nM4dfnVT8",
-      "link": "https://trends.google.com/trending?geo=MX&q=julian+hall",
-      "status": ""
-    },
-    {
       "titulo": "mateo chávez",
-      "descripcion": "¡Roja para México! Mateo Chávez pierde la cabeza tras hacer esto ante Estados Unidos",
+      "descripcion": "¡Así fue cómo pasó! Mateo Chávez explica a Jorge Campos el momento en el que fue expulsado",
       "trafico": "10000+",
       "fecha": "04/10/2026 03:40",
       "fecha_dt": "2026-10-04T03:40:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41kqYUKOb_9MZbH095EntB8drFOSe6rftwhSeX1kNwjsyymzQiWLrLid2yA0",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGnJ1H0SGoogDeQTOuDVWCe_OuJqaRn9sed1kYplaqj2GkdFraH0WufOE5JLQ",
       "link": "https://trends.google.com/trending?geo=MX&q=mateo+chávez",
       "status": ""
     },
     {
-      "titulo": "tala rangel",
-      "descripcion": "La FALLA bajo la portería de Chaquito Gimenez vs Estados Unidos",
+      "titulo": "f1",
+      "descripcion": "Brewers 3-2 Padres (3 de Oct., 2026) Resultado Final",
       "trafico": "5000+",
-      "fecha": "04/10/2026 03:00",
-      "fecha_dt": "2026-10-04T03:00:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsP8D75Ju11Bi-nz6DrPPUKUVC2e3e1-IwDPsLmh3Kk_22250k9yEp1979T4",
-      "link": "https://trends.google.com/trending?geo=MX&q=tala+rangel",
+      "fecha": "04/10/2026 07:30",
+      "fecha_dt": "2026-10-04T07:30:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7KmEuvphVxvj_DcSbXIGX3k5lPcN1W8esVyxO80hKEfAsgDdEtyKArki3jU",
+      "link": "https://trends.google.com/trending?geo=MX&q=f1",
       "status": ""
     },
     {
       "titulo": "santiago giménez",
-      "descripcion": "Santiago Gimenez se BURLA de las críticas a la Selección Mexicana por tomar Matcha Latte",
+      "descripcion": "Rafa Márquez señala el principal problema de la Selección Mexicana",
       "trafico": "5000+",
       "fecha": "04/10/2026 02:30",
       "fecha_dt": "2026-10-04T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBxBIsd-ju8D37MhxOoOmaeqdapFk92oxP3v3VZkVbaSje9F8760zFR8S8AgQ",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp9fCkVebc3qtnW3d-SLEVta_ke-j5dHFcgmvucyu4eR0B1L2ozIBvN7dVOmQ",
       "link": "https://trends.google.com/trending?geo=MX&q=santiago+giménez",
-      "status": ""
-    },
-    {
-      "titulo": "malik tillman",
-      "descripcion": "¿Un jugador de Estados Unidos se burló de Gilberto Mora?",
-      "trafico": "5000+",
-      "fecha": "04/10/2026 02:10",
-      "fecha_dt": "2026-10-04T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiuGmr_RNm_pWgFjSwSHYYcP5-ddbdv-Ju9K052fhOr2f6_Yk68Q8OxmkI3aY",
-      "link": "https://trends.google.com/trending?geo=MX&q=malik+tillman",
-      "status": ""
-    },
-    {
-      "titulo": "sebastian berhalter",
-      "descripcion": "Mexico's Mateo Chavez shown red card for slapping USMNT's Sebastian Berhalter",
-      "trafico": "2000+",
-      "fecha": "04/10/2026 02:10",
-      "fecha_dt": "2026-10-04T02:10:00+00:00",
-      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8k8VnpEPjk_D-Rrug_F9S9S6BBKRHNblN7FH5VXZ70lC2VNqvAENK9TB8a3s",
-      "link": "https://trends.google.com/trending?geo=MX&q=sebastian+berhalter",
       "status": ""
     },
     {
@@ -74,33 +44,63 @@
       "status": ""
     },
     {
-      "titulo": "diego campillo",
-      "descripcion": "¿Cuáles son las nuevas caras en los convocados de Chivas para El Clásico de México en Oakland?",
-      "trafico": "1000+",
-      "fecha": "04/10/2026 04:00",
-      "fecha_dt": "2026-10-04T04:00:00+00:00",
-      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvdCdlQcDvhe0lHvNBmU7t7flDRq6fH92HZagDqcx9tHlMKvBYa6aVF_-CvT4",
-      "link": "https://trends.google.com/trending?geo=MX&q=diego+campillo",
-      "status": ""
-    },
-    {
-      "titulo": "chris richards",
-      "descripcion": "¡Tristísimo! La falla del año cortesía de Santiago Gimenez contra Estados Unidos",
-      "trafico": "1000+",
-      "fecha": "04/10/2026 02:30",
-      "fecha_dt": "2026-10-04T02:30:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAuq87LyS57W-flB9qHBiuiOmE5rKcseHLDGM7hsWpMjhRIBhjFCSxPCa9bzU",
-      "link": "https://trends.google.com/trending?geo=MX&q=chris+richards",
-      "status": ""
-    },
-    {
       "titulo": "antonee robinson",
-      "descripcion": "Licensable picture: Anti-death penalty protesters gather in the the protesting area before Christa Pike’s scheduled execution at Riverbend Maximum",
+      "descripcion": "Norton's Noah Perroti carries the ball during a non-league game against Dighton-Rehoboth on Oct. 2, 2026.",
       "trafico": "1000+",
       "fecha": "04/10/2026 02:20",
       "fecha_dt": "2026-10-04T02:20:00+00:00",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa_SB3VXhr42AlkqDX4N0afdPnRxAJgigJk5tL82_VqCQuv28brPfbnP900bA",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4w60nFka8LYCdehsDtoYYTUufJA7m5zeT1BQXGXnjBlc6zzXC_Lrkis7KvQ",
       "link": "https://trends.google.com/trending?geo=MX&q=antonee+robinson",
+      "status": ""
+    },
+    {
+      "titulo": "verity película anne hathaway",
+      "descripcion": "Final explicado de ‘Verity: La sombra de un engaño’: ¿Verity era una asesina y qué pasó con Jeremy?",
+      "trafico": "500+",
+      "fecha": "04/10/2026 07:20",
+      "fecha_dt": "2026-10-04T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF5deoCfOrq4cOYfskC5dmOulE3A0D1moV-hwImcpwmRSY9TQv2aFHaLBbEAs",
+      "link": "https://trends.google.com/trending?geo=MX&q=verity+película+anne+hathaway",
+      "status": ""
+    },
+    {
+      "titulo": "f1 tv",
+      "descripcion": "F1 EN VIVO: Sigue el Gran Premio de Bahréin 2026",
+      "trafico": "500+",
+      "fecha": "04/10/2026 07:20",
+      "fecha_dt": "2026-10-04T07:20:00+00:00",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQou2hKlUYGEcGiZM8lSThxEfH5L8CB13wYsocN_ze8KPldZStyfIK7T64m8g0",
+      "link": "https://trends.google.com/trending?geo=MX&q=f1+tv",
+      "status": ""
+    },
+    {
+      "titulo": "el niño",
+      "descripcion": "El Niño ya está instalado, pero no trae las lluvias esperadas y ahora bajan las proyecciones",
+      "trafico": "200+",
+      "fecha": "04/10/2026 11:50",
+      "fecha_dt": "2026-10-04T11:50:00+00:00",
+      "imagen": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSM7pIciGZy1WIDjr0uZY0Bz995s3HjbW_XBeL1gaGoitZ4MmuDezMDBMrsEGA",
+      "link": "https://trends.google.com/trending?geo=MX&q=el+niño",
+      "status": ""
+    },
+    {
+      "titulo": "tennessee",
+      "descripcion": "Opinion | Christa Pike Has Exposed the Truth About Lethal Injection",
+      "trafico": "100+",
+      "fecha": "04/10/2026 11:40",
+      "fecha_dt": "2026-10-04T11:40:00+00:00",
+      "imagen": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoKGejIcSCDPxyFzPNs0mSBF_SYm46rMQUsbYiBzq1vdOoVcw6PAqjsuL9yoM",
+      "link": "https://trends.google.com/trending?geo=MX&q=tennessee",
+      "status": ""
+    },
+    {
+      "titulo": "clima queretaro",
+      "descripcion": "San Juan del Río, con 95% de lluvia; el SMN prevé el pico estatal el 5 de octubre",
+      "trafico": "100+",
+      "fecha": "04/10/2026 11:20",
+      "fecha_dt": "2026-10-04T11:20:00+00:00",
+      "imagen": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjz_z_YCioPIHLO5gI6beX_bH9N-CCbDgEsXKewiilzV1wsNt2pS1ZayTT0Bw",
+      "link": "https://trends.google.com/trending?geo=MX&q=clima+queretaro",
       "status": ""
     }
   ]
